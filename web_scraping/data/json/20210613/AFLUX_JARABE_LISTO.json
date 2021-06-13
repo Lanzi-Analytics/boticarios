@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aflux-jarabe-listo-7702057010201/p",
+    "fecha_hora_scraping": "2021-06-13 16:35:59",
+    "titulo": "AFLUX JARABE LISTO",
+    "nombre_imagen": "./web_scraping/data/img/AFLUX_JARABE_LISTO.jpg",
+    "presentacion": "FRASCO X 75 ML",
+    "precio": {
+        "bestPrice": "$23.650",
+        "precioPorSku js-PUM": "Mililitro a $315,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "N-ACETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0001583-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

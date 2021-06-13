@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aspirina-500-mg-tableta-efervescente-7702123006718/p",
+    "fecha_hora_scraping": "2021-06-13 16:30:38",
+    "titulo": "ASPIRINA 500 MG TABLETA EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/ASPIRINA_500_MG_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "BLISTER X 2 TAB",
+    "precio": {
+        "bestPrice": "$2.000",
+        "precioPorSku js-PUM": "Tableta a $1.000,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0013467-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

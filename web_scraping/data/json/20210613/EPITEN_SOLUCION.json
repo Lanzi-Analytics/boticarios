@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/epiten-solucion-7707351591258/p",
+    "fecha_hora_scraping": "2021-06-13 16:36:37",
+    "titulo": "EPITEN SOLUCION",
+    "nombre_imagen": "./web_scraping/data/img/EPITEN_SOLUCION.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$20.250",
+        "precioPorSku js-PUM": "Mililitro a $2.025,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "5 G 1 G"
+        ],
+        [
+            "Principio activo",
+            "RUIBARBO ACIDO SALICILICO"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010842-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

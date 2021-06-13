@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/traje-desechable-no-esteril-talla-s-7707249358505/p",
+    "fecha_hora_scraping": "2021-06-13 16:27:45",
+    "titulo": "traje desechable no esteril talla s",
+    "nombre_imagen": "./web_scraping/data/img/traje_desechable_no_esteril_talla_s.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$35.350",
+        "precioPorSku js-PUM": "Unidad a $33350,00"
+    },
+    "descripcion": "traje desechable no esteril talla s",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KAMEX"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oticaina-20-mgml-solucion-otica-7702195004681/p",
+    "fecha_hora_scraping": "2021-06-13 16:37:17",
+    "titulo": "OTICAINA 20 MG/ML SOLUCION OTICA",
+    "nombre_imagen": "./web_scraping/data/img/OTICAINA_20_MGML_SOLUCION_OTICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$18.050",
+        "precioPorSku js-PUM": "Mililitro a $1.805,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BENZOCAINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-003627-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

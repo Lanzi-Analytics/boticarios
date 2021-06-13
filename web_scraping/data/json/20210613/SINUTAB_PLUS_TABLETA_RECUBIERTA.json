@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinutab-plus-tableta-recubierta-7702035915566/p",
+    "fecha_hora_scraping": "2021-06-13 16:34:01",
+    "titulo": "SINUTAB PLUS TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/SINUTAB_PLUS_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$13.150",
+        "precioPorSku js-PUM": "Tableta a $1.095,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 5 MG 2 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN FENILEFRINA CLORHIDRATO CLORFENIRAMINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015542"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

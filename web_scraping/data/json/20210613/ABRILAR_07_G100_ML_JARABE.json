@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/abrilar-07-g100-ml-jarabe-4104480705151/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:16",
+    "titulo": "ABRILAR 0.7 G/100 ML JARABE",
+    "nombre_imagen": "./web_scraping/data/img/ABRILAR_07_G100_ML_JARABE.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "PrevPrice": "Antes:$29.000",
+        "bestPrice": "$23.200",
+        "precioPorSku js-PUM": "Mililitro a $232,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "7 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIEDRA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2010-000287-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

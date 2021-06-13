@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/congestex-capsula-dura-7703546030601/p",
+    "fecha_hora_scraping": "2021-06-13 16:32:46",
+    "titulo": "CONGESTEX CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/CONGESTEX_CAPSULA_DURA.jpg",
+    "presentacion": "BLISTER X 4 CAP",
+    "precio": {
+        "bestPrice": "$4.867",
+        "precioPorSku js-PUM": "Capsula a $1.216,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG 20 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO FENILEFRINA CLORHIDRATO CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016719"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

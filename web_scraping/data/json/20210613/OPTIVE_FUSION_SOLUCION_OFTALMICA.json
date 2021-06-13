@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/optive-fusion-solucion-oftalmica-7707236676087/p",
+    "fecha_hora_scraping": "2021-06-13 16:27:12",
+    "titulo": "OPTIVE FUSION SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/OPTIVE_FUSION_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$67.600",
+        "precioPorSku js-PUM": "Mililitro a $4.506,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "9 MG/ML 5 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "GLICERINA CARBOXIMETILCELULOSA SODIO HIALURONATO DE SODIO"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0016206-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

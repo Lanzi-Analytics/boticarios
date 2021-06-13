@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alercet-10-mg-capsula-blanda-7703153031336/p",
+    "fecha_hora_scraping": "2021-06-13 16:33:15",
+    "titulo": "ALERCET 10 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ALERCET_10_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$70.000",
+        "bestPrice": "$49.000",
+        "precioPorSku js-PUM": "Capsula a $4.900,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002663-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

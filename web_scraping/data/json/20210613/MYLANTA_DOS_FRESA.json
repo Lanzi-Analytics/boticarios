@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7891010963729johnson-y-johnsonbienestar-digestivomedicamentosmylanta-dos-fresa-milantaaluminio-hidroxido-magnesio-hidroxido-simeticona-7891010963729/p",
+    "fecha_hora_scraping": "2021-06-13 16:32:55",
+    "titulo": "MYLANTA DOS FRESA",
+    "nombre_imagen": "./web_scraping/data/img/MYLANTA_DOS_FRESA.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$35.100",
+        "precioPorSku js-PUM": "Mililitro a $146,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML 80 MG/ML 6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO HIDROXIDO MAGNESIO HIDROXIDO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011284-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

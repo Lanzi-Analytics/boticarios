@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/proteina-barbarus-healthy-sports-19962798764/p",
+    "fecha_hora_scraping": "2021-06-13 16:27:03",
+    "titulo": "PROTEINA BARBARUS HEALTHY SPORTS",
+    "nombre_imagen": "./web_scraping/data/img/PROTEINA_BARBARUS_HEALTHY_SPORTS.jpg",
+    "presentacion": "CAJA X 2 BOL",
+    "precio": {
+        "bestPrice": "$85.400",
+        "precioPorSku js-PUM": "Libra a $42.700,00"
+    },
+    "descripcion": "proteina barbarus healthy sports",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 BOL"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003464-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

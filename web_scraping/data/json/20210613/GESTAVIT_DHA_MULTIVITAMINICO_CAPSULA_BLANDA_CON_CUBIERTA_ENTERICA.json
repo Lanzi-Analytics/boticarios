@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gestavit-dha-multivitaminico-capsula-blanda-con-cubierta-enterica-7703153022693/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:11",
+    "titulo": "GESTAVIT DHA MULTIVITAMINICO CAPSULA BLANDA CON CUBIERTA ENTERICA",
+    "nombre_imagen": "./web_scraping/data/img/GESTAVIT_DHA_MULTIVITAMINICO_CAPSULA_BLANDA_CON_CUBIERTA_ENTERICA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$68.650",
+        "precioPorSku js-PUM": "Capsula a $2.288,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0010993-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

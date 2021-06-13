@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fluifort-jarabe-pediatrico-7707670342906/p",
+    "fecha_hora_scraping": "2021-06-13 16:34:20",
+    "titulo": "FLUIFORT JARABE PEDI\u00c1TRICO",
+    "nombre_imagen": "./web_scraping/data/img/FLUIFORT_JARABE_PEDI\u00c1TRICO.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$27.900",
+        "precioPorSku js-PUM": "Mililitro a $465,00"
+    },
+    "descripcion": "fluifort jarabe pedi\u00e1trico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "90 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CARBOCISTEINA LISINATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001755-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

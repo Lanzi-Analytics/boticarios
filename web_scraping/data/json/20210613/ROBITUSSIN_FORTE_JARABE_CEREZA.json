@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/robitussin-forte-jarabe-cereza-7702132010768/p",
+    "fecha_hora_scraping": "2021-06-13 16:30:23",
+    "titulo": "ROBITUSSIN FORTE JARABE CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/ROBITUSSIN_FORTE_JARABE_CEREZA.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$18.350",
+        "precioPorSku js-PUM": "Mililitro a $122,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML 3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "GUAYACOLATO GLICERILO DEXTROMETORFANO BROMOHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014319"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

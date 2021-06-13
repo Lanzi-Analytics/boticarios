@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fin-espam-10-mg-tableta-7703038020110/p",
+    "fecha_hora_scraping": "2021-06-13 16:33:21",
+    "titulo": "FIN-ESPAM 10 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/FINESPAM_10_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$7.800",
+        "precioPorSku js-PUM": "Tableta a $780,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO LAPROFF SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013736"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

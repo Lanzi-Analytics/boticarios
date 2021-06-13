@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ibuflash-migran-capsula-blanda-7702057696092/p",
+    "fecha_hora_scraping": "2021-06-13 16:37:46",
+    "titulo": "IBUFLASH MIGRAN CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/IBUFLASH_MIGRAN_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 8 CAP",
+    "precio": {
+        "bestPrice": "$13.900",
+        "precioPorSku js-PUM": "Capsula a $1.737,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 250 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO ACETAMINOFEN CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015848-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

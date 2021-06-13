@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asawin-pediatrico-100-mg-tableta-7706263001206/p",
+    "fecha_hora_scraping": "2021-06-13 16:31:35",
+    "titulo": "ASAWIN PEDIATRICO 100 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ASAWIN_PEDIATRICO_100_MG_TABLETA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$3.390",
+        "precioPorSku js-PUM": "Tableta a $339,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-007290-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

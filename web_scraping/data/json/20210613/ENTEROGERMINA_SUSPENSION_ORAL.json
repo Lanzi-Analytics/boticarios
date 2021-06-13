@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterogermina-suspension-oral-3582910009900/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:21",
+    "titulo": "ENTEROGERMINA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ENTEROGERMINA_SUSPENSION_ORAL.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "PrevPrice": "Antes:$57.500",
+        "bestPrice": "$46.000",
+        "precioPorSku js-PUM": "Unidad a $4.600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "2000 MILLESP"
+        ],
+        [
+            "Principio activo",
+            "ESPORAS BACILLUS CLAUSII"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004725-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

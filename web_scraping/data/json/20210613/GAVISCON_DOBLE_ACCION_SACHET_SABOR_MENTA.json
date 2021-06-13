@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaviscon-doble-accion-sachet-sabor-menta-7702626211770/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:05",
+    "titulo": "GAVISCON DOBLE ACCION SACHET SABOR MENTA",
+    "nombre_imagen": "./web_scraping/data/img/GAVISCON_DOBLE_ACCION_SACHET_SABOR_MENTA.jpg",
+    "presentacion": "CAJA X 12 SACHET",
+    "precio": {
+        "PrevPrice": "Antes:$26.050",
+        "bestPrice": "$22.142",
+        "precioPorSku js-PUM": "Unidad a $1.845,17"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 SACHET"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 32.5 MG/ML 21.3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALGINATO SODIO CALCIO CARBONATO BICARBONATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0013657-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7500435170857vick-vaporub-ungentomedicamentosventa-libre-7500435170857/p",
+    "fecha_hora_scraping": "2021-06-13 16:38:06",
+    "titulo": "VICK VAPORUB UNG\u00dcENTO",
+    "nombre_imagen": "./web_scraping/data/img/VICK_VAPORUB_UNG\u00dcENTO.jpg",
+    "presentacion": "LATA X 12 G",
+    "precio": {
+        "bestPrice": "$3.950",
+        "precioPorSku js-PUM": "Unidad a $197,50"
+    },
+    "descripcion": "ESTE PRODUCTO ES UN MEDICAMENTO. NO EXCEDER SU CONSUMO. LEER INDICACIONES Y CONTRAINDICACIONES. SI LOS S\u00cdNTOMAS PERSISTEN, CONSULTAR AL M\u00c9DICO.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 12 G"
+        ],
+        [
+            "Concentracion",
+            "52,6 MG/ML 28,2 MG/ML 13,3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALCANFOR MENTOL EUCALIPTO ACEITE"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-013296-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

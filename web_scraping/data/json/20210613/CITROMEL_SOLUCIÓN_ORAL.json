@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/citromel-solucion-oral-7702560000102/p",
+    "fecha_hora_scraping": "2021-06-13 16:36:23",
+    "titulo": "CITROMEL SOLUCI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/CITROMEL_SOLUCI\u00d3N_ORAL.jpg",
+    "presentacion": "FRASCO X 310 ML",
+    "precio": {
+        "bestPrice": "$16.800",
+        "precioPorSku js-PUM": "Mililitro a $54,19"
+    },
+    "descripcion": "citromel soluci\u00f3n oral",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 310 ML"
+        ],
+        [
+            "Concentracion",
+            "73.64 MG/ML 72.09 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TARTARICO ACIDO BICARBONATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010021-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

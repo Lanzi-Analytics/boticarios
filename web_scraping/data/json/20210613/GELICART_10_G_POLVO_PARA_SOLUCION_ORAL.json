@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7501165007956sanofi-aventissuplementosnutricion-y-vida-saludablegelicart-10-g-polvo-para-solucion-oralmulticomponentes-7501165007956/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:40",
+    "titulo": "GELICART 10 G POLVO PARA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/GELICART_10_G_POLVO_PARA_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "$94.000",
+        "precioPorSku js-PUM": "Unidad a $3.133,33"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002862"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

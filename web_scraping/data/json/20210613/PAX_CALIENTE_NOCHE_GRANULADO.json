@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pax-caliente-noche-granulado-7706263200630/p",
+    "fecha_hora_scraping": "2021-06-13 16:29:24",
+    "titulo": "PAX CALIENTE NOCHE GRANULADO",
+    "nombre_imagen": "./web_scraping/data/img/PAX_CALIENTE_NOCHE_GRANULADO.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$1.563",
+        "precioPorSku js-PUM": "Unidad a $1.562,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "500 MG 10 MG 2 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN FENILEFRINA CLORHIDRATO CLORFENIRAMINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-003345-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

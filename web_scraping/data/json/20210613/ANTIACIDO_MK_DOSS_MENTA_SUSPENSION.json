@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antiacido-mk-doss-menta-suspension-7702057801144/p",
+    "fecha_hora_scraping": "2021-06-13 16:33:41",
+    "titulo": "ANTIACIDO MK DOSS MENTA SUSPENSION",
+    "nombre_imagen": "./web_scraping/data/img/ANTIACIDO_MK_DOSS_MENTA_SUSPENSION.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$23.950",
+        "precioPorSku js-PUM": "Mililitro a $99,79"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "8 G 8 G 0.6 G"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO HIDROXIDO MAGNESIO HIDROXIDO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015695"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-vainilla-polvo-7709707028753/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:45",
+    "titulo": "BENET VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/BENET_VAINILLA_POLVO.jpg",
+    "presentacion": "BOLSA X 250 G",
+    "precio": {
+        "PrevPrice": "Antes:$15.300",
+        "bestPrice": "$11.475",
+        "precioPorSku js-PUM": "Gramo a $45,90"
+    },
+    "descripcion": "benet vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 250 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002074-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

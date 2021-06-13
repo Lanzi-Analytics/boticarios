@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tabcin-active-capsula-blanda-7702123005421/p",
+    "fecha_hora_scraping": "2021-06-13 16:38:20",
+    "titulo": "TABCIN ACTIVE CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/TABCIN_ACTIVE_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 12 CAP",
+    "precio": {
+        "bestPrice": "$15.800",
+        "precioPorSku js-PUM": "Capsula a $1.316,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 CAP"
+        ],
+        [
+            "Concentracion",
+            "250 MG 10 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN DEXTROMETORFANO BROMOHIDRATO FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0000721-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

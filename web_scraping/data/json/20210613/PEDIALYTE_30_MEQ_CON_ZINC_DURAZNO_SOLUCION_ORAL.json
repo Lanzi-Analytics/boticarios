@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pedialyte-30-meq-con-zinc-durazno-solucion-oral-7501033959981/p",
+    "fecha_hora_scraping": "2021-06-13 16:37:56",
+    "titulo": "PEDIALYTE 30 MEQ CON ZINC DURAZNO SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/PEDIALYTE_30_MEQ_CON_ZINC_DURAZNO_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$6.600",
+        "precioPorSku js-PUM": "Mililitro a $13,20"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "176.8 MG 108.2 MG 2.1 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORURO DE SODIOCITRATO POTASIO MONOHIDRATADO GLUCONATO DE ZINC"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0017049-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

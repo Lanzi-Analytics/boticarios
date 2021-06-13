@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/buscapina-compositum-nf-tableta-recubierta-con-pelicula-7703202221329/p",
+    "fecha_hora_scraping": "2021-06-13 16:31:54",
+    "titulo": "BUSCAPINA COMPOSITUM NF TABLETA RECUBIERTA CON PELICULA",
+    "nombre_imagen": "./web_scraping/data/img/BUSCAPINA_COMPOSITUM_NF_TABLETA_RECUBIERTA_CON_PELICULA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$28.200",
+        "precioPorSku js-PUM": "Tableta a $1.410,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-003171-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

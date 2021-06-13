@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dimetapp-gripa-capsula-dura-7707351592453/p",
+    "fecha_hora_scraping": "2021-06-13 16:34:43",
+    "titulo": "DIMETAPP GRIPA CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/DIMETAPP_GRIPA_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 8 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$8.200",
+        "bestPrice": "$7.380",
+        "precioPorSku js-PUM": "Capsula a $922,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG 30 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CAFEINA ANHIDRA FENILEFRINA CLORHIDRATO CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010510-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

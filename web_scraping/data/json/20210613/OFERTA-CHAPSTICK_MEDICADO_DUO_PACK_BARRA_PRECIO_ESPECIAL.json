@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702132004644oferta-chapstick-medicado-duo-pack-barra-precio-especialmedicamentoscuidado-facialna-7702132004644/p",
+    "fecha_hora_scraping": "2021-06-13 16:22:19",
+    "titulo": "OFERTA-CHAPSTICK MEDICADO DUO PACK BARRA PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTACHAPSTICK_MEDICADO_DUO_PACK_BARRA_PRECIO_ESPECIAL.jpg",
+    "presentacion": "TUBO X 4 G",
+    "precio": {
+        "bestPrice": "$22.600",
+        "precioPorSku js-PUM": "Unidad a $11.300,00"
+    },
+    "descripcion": "oferta-chapstick medicado duo pack barra precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC96157-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

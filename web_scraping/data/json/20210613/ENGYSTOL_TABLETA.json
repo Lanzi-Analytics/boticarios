@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
+    "fecha_hora_scraping": "2021-06-13 16:27:07",
+    "titulo": "ENGYSTOL TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ENGYSTOL_TABLETA.jpg",
+    "presentacion": "FRASCO X 50 TAB",
+    "precio": {
+        "bestPrice": "$62.700",
+        "precioPorSku js-PUM": "Tableta a $1.254,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico.  no exceder su consumo leer.  indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "75 MG 75 MG 75 MG"
+        ],
+        [
+            "Principio activo",
+            "VINCETOXICUM HIRUND. D6 VINCETOXICUM HIRUND. D10 VINCETOXICUM HIRUND. D30"
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2016-0000378-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

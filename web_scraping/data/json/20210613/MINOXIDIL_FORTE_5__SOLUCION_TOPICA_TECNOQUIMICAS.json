@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057100384minoxidil-forte-5--solucion-topica-tecnoquimicasmedicamentoscuidado-capilartecnoquimicas-7702057100384/p",
+    "fecha_hora_scraping": "2021-06-13 16:27:29",
+    "titulo": "MINOXIDIL FORTE 5 % SOLUCION TOPICA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/MINOXIDIL_FORTE_5__SOLUCION_TOPICA_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$52.850",
+        "precioPorSku js-PUM": "Mililitro a $880,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "5 %"
+        ],
+        [
+            "Principio activo",
+            "MINOXIDIL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016470"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

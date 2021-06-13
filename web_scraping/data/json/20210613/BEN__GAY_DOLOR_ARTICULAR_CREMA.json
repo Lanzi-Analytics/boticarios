@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ben---gay-dolor-articular-crema-7706263200005/p",
+    "fecha_hora_scraping": "2021-06-13 16:34:53",
+    "titulo": "BEN - GAY DOLOR ARTICULAR CREMA",
+    "nombre_imagen": "./web_scraping/data/img/BEN__GAY_DOLOR_ARTICULAR_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$24.150",
+        "precioPorSku js-PUM": "Gramo a $805,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "150 MG/G 100 MG/G"
+        ],
+        [
+            "Principio activo",
+            "SALICILATO METILO MENTOL"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-012171-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

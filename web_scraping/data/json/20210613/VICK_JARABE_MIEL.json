@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vick-jarabe-miel-7501001280031/p",
+    "fecha_hora_scraping": "2021-06-13 16:36:04",
+    "titulo": "VICK JARABE MIEL",
+    "nombre_imagen": "./web_scraping/data/img/VICK_JARABE_MIEL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$24.400",
+        "precioPorSku js-PUM": "Mililitro a $203,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "16 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "GUAIFENESINA"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005082-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

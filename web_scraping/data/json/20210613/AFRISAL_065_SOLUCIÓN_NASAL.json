@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/afrisal-065-solucion-nasal-7702123008590/p",
+    "fecha_hora_scraping": "2021-06-13 16:38:11",
+    "titulo": "AFRISAL 0.65% SOLUCI\u00d3N NASAL",
+    "nombre_imagen": "./web_scraping/data/img/AFRISAL_065_SOLUCI\u00d3N_NASAL.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "PrevPrice": "Antes:$27.900",
+        "bestPrice": "$22.320",
+        "precioPorSku js-PUM": "Mililitro a $744,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "6.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SODIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010697-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

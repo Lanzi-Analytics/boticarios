@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bucoxol-tableta-masticable-sabor-miel-limon-7703763996933/p",
+    "fecha_hora_scraping": "2021-06-13 16:31:49",
+    "titulo": "BUCOXOL TABLETA MASTICABLE SABOR MIEL-LIMON",
+    "nombre_imagen": "./web_scraping/data/img/BUCOXOL_TABLETA_MASTICABLE_SABOR_MIELLIMON.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$12.500",
+        "precioPorSku js-PUM": "Tableta a $1.250,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "3 MG 1 MG"
+        ],
+        [
+            "Principio activo",
+            "BENCIDAMINA CLORHIDRATO CETILPIRIDINIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015066"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bucoxol-tableta-masticable-sabor-cool-mint-7703763996926/p",
+    "fecha_hora_scraping": "2021-06-13 16:33:10",
+    "titulo": "BUCOXOL TABLETA MASTICABLE SABOR COOL MINT",
+    "nombre_imagen": "./web_scraping/data/img/BUCOXOL_TABLETA_MASTICABLE_SABOR_COOL_MINT.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$11.300",
+        "precioPorSku js-PUM": "Tableta a $1.130,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "3 MG 1 MG"
+        ],
+        [
+            "Principio activo",
+            "BENCIDAMINA CLORHIDRATO CETILPIRIDINIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015066"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-vick-vaporub-50gramos-unguento-7500435151184/p",
+    "fecha_hora_scraping": "2021-06-13 16:37:41",
+    "titulo": "OFERTA-VICK VAPORUB 50GRAMOS UNGUENTO",
+    "nombre_imagen": "./web_scraping/data/img/OFERTAVICK_VAPORUB_50GRAMOS_UNGUENTO.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$22.450",
+        "precioPorSku js-PUM": "Gramo a $449,00"
+    },
+    "descripcion": "oferta vick vaporub 50gramos unguento",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "526 G 282 G 133 G"
+        ],
+        [
+            "Principio activo",
+            "ALCANFOR MENTOL EUCALIPTO ACEITE"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-013296-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

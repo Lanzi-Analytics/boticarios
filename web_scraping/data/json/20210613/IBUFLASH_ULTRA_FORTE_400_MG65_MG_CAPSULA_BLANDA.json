@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ibuflash-ultra-forte-400-mg65-mg-capsula-blanda-7702057931094/p",
+    "fecha_hora_scraping": "2021-06-13 16:35:17",
+    "titulo": "IBUFLASH ULTRA FORTE 400 MG/65 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/IBUFLASH_ULTRA_FORTE_400_MG65_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 8 CAP",
+    "precio": {
+        "bestPrice": "$11.700",
+        "precioPorSku js-PUM": "Capsula a $1.462,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO CAFEINA ANHIDRA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0014060-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

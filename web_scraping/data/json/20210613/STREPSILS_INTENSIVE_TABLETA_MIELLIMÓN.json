@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/strepsils-intensive-tableta-miellimon-7707733970008/p",
+    "fecha_hora_scraping": "2021-06-13 16:30:17",
+    "titulo": "STREPSILS INTENSIVE TABLETA MIEL/LIM\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/STREPSILS_INTENSIVE_TABLETA_MIELLIM\u00d3N.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$5.150",
+        "bestPrice": "$4.120",
+        "precioPorSku js-PUM": "Tableta a $4.120"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "8,75 MG"
+        ],
+        [
+            "Principio activo",
+            "FLURBIPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016133"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

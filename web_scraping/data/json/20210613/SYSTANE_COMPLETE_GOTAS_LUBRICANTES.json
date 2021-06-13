@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/systane-complete-gotas-lubricantes-300651481228/p",
+    "fecha_hora_scraping": "2021-06-13 16:26:47",
+    "titulo": "SYSTANE COMPLETE GOTAS LUBRICANTES",
+    "nombre_imagen": "./web_scraping/data/img/SYSTANE_COMPLETE_GOTAS_LUBRICANTES.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$50.200",
+        "precioPorSku js-PUM": "Mililitro a $5.020,00"
+    },
+    "descripcion": "SYSTANE COMPLETE GOTAS LUBRICANTES",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "PROPILENGLICOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0019832"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolorsin-400-mg-capsula-dura-7703546041249/p",
+    "fecha_hora_scraping": "2021-06-13 16:36:57",
+    "titulo": "DOLORSIN 400 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/DOLORSIN_400_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 12 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$15.350",
+        "bestPrice": "$7.675",
+        "precioPorSku js-PUM": "Capsula a $639,58"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011188-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

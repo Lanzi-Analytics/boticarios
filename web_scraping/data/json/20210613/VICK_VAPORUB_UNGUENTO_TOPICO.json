@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vick-vaporub-unguento-topico-7500435107020/p",
+    "fecha_hora_scraping": "2021-06-13 16:37:32",
+    "titulo": "VICK VAPORUB UNGUENTO TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/VICK_VAPORUB_UNGUENTO_TOPICO.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$4.488",
+        "precioPorSku js-PUM": "Unidad a $4.487,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "50 MG/G 20 MG/G 10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ALCANFOR MENTOL EUCALIPTO ACEITE"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-013296-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

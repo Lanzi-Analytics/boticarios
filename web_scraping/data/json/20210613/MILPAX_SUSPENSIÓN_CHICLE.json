@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/milpax-children-suspension-chicle-7703454921145/p",
+    "fecha_hora_scraping": "2021-06-13 16:34:33",
+    "titulo": "MILPAX SUSPENSI\u00d3N CHICLE",
+    "nombre_imagen": "./web_scraping/data/img/MILPAX_SUSPENSI\u00d3N_CHICLE.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$34.700",
+        "precioPorSku js-PUM": "Mililitro a $231,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "26.7 MG/ML 25 MG/ML 15 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO ALGINATO SODIO CALCIO CARBONATO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-006932-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

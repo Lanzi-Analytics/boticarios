@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mylanta-dos-menta-7891010963712/p",
+    "fecha_hora_scraping": "2021-06-13 16:31:40",
+    "titulo": "MYLANTA DOS MENTA",
+    "nombre_imagen": "./web_scraping/data/img/MYLANTA_DOS_MENTA.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$35.700",
+        "precioPorSku js-PUM": "Mililitro a $148,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML 80 MG/ML 6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO HIDROXIDO MAGNESIO HIDROXIDO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011284-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

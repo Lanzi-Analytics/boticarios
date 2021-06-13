@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dramamine-50-mg-tableta-7501007532608/p",
+    "fecha_hora_scraping": "2021-06-13 16:32:18",
+    "titulo": "DRAMAMINE 50 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DRAMAMINE_50_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 24 TAB",
+    "precio": {
+        "bestPrice": "$11.400",
+        "precioPorSku js-PUM": "Mililitro a $1.628,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 24 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "DIMENHIDRINATO"
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0014899"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

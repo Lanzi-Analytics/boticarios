@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/noraver-solucion-bucal-spray-cereza-7702057298456/p",
+    "fecha_hora_scraping": "2021-06-13 16:32:35",
+    "titulo": "NORAVER SOLUCI\u00d3N BUCAL SPRAY CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/NORAVER_SOLUCI\u00d3N_BUCAL_SPRAY_CEREZA.jpg",
+    "presentacion": "FRASCO X 120ML",
+    "precio": {
+        "bestPrice": "$30.350",
+        "precioPorSku js-PUM": "Tableta a $303,50"
+    },
+    "descripcion": "noraver soluci\u00f3n bucal spray cereza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120ML"
+        ],
+        [
+            "Concentracion",
+            "14 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "FENOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-006195-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

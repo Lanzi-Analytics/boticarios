@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/strepsils-intensive-tableta-de-disolucion-bucal-sabor-miel-limon-7702626214849/p",
+    "fecha_hora_scraping": "2021-06-13 16:29:42",
+    "titulo": "STREPSILS INTENSIVE TABLETA DE DISOLUCION BUCAL SABOR MIEL-LIMON",
+    "nombre_imagen": "./web_scraping/data/img/STREPSILS_INTENSIVE_TABLETA_DE_DISOLUCION_BUCAL_SABOR_MIELLIMON.jpg",
+    "presentacion": "CAJA X 16 UN",
+    "precio": {
+        "PrevPrice": "Antes:$18.800",
+        "bestPrice": "$15.040",
+        "precioPorSku js-PUM": "Unidad a $940,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 16 UN"
+        ],
+        [
+            "Concentracion",
+            "8.75 MG"
+        ],
+        [
+            "Principio activo",
+            "FLURBIPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016133"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

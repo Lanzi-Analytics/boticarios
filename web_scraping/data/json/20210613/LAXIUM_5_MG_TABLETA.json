@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/laxium-5-mg-tableta-7707177971579/p",
+    "fecha_hora_scraping": "2021-06-13 16:33:00",
+    "titulo": "LAXIUM 5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/LAXIUM_5_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$4.300",
+        "precioPorSku js-PUM": "Tableta a $430,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "BISACODILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO INTERNACIONAL DE COLOMB"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004447-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

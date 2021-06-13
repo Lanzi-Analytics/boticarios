@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lumbal-max-tableta-recubierta-7702870150160/p",
+    "fecha_hora_scraping": "2021-06-13 16:35:08",
+    "titulo": "LUMBAL MAX TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/LUMBAL_MAX_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$17.600",
+        "precioPorSku js-PUM": "Tableta a $1.466,67"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. si los s\u00edntomas persisten consulte a su m\u00e9dico. leer indicaciones y contraindicaciones en el inserto. analg\u00e9sico, antipir\u00e9tico. reg. sanitario invima 2016m-0016727",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG 220 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN NAPROXENO SODIO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016727"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

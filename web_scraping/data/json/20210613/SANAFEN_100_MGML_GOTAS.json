@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sanafen-100-mgml-gotas-7703038067313/p",
+    "fecha_hora_scraping": "2021-06-13 16:37:07",
+    "titulo": "SANAFEN 100 MG/ML GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/SANAFEN_100_MGML_GOTAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$6.850",
+        "precioPorSku js-PUM": "Mililitro a $228,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO LAPROFF SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016791"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

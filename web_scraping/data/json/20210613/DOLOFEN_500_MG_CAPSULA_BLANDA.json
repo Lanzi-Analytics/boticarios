@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolofen-500-mg-capsula-blanda-7703153034764/p",
+    "fecha_hora_scraping": "2021-06-13 16:31:59",
+    "titulo": "DOLOFEN 500 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/DOLOFEN_500_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$6.550",
+        "precioPorSku js-PUM": "Capsula a $655,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-005440-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

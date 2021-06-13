@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolex-gripa-tableta-7451079001529/p",
+    "fecha_hora_scraping": "2021-06-13 16:37:36",
+    "titulo": "DOLEX GRIPA TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DOLEX_GRIPA_TABLETA.jpg",
+    "presentacion": "BLISTER X 4 TAB",
+    "precio": {
+        "bestPrice": "$3.636",
+        "precioPorSku js-PUM": "Tableta a $909,00"
+    },
+    "descripcion": "dolex gripa tableta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 5 MG 2 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN FENILEFRINA CLORHIDRATO CLORFENIRAMINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2020M-14137-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

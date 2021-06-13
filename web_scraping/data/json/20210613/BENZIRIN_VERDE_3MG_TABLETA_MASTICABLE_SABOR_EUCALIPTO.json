@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benzirin-verde-3mg-tableta-masticable-sabor-eucalipto-7702057012397/p",
+    "fecha_hora_scraping": "2021-06-13 16:33:51",
+    "titulo": "BENZIRIN VERDE 3MG TABLETA MASTICABLE SABOR EUCALIPTO",
+    "nombre_imagen": "./web_scraping/data/img/BENZIRIN_VERDE_3MG_TABLETA_MASTICABLE_SABOR_EUCALIPTO.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$18.900",
+        "precioPorSku js-PUM": "Tableta a $1.575,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "3 MG"
+        ],
+        [
+            "Principio activo",
+            "BENZIDAMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-012641-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

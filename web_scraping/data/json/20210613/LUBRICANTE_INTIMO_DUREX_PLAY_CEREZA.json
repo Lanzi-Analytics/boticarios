@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lubricante-intimo-durex-play-cereza-7501159033749/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:49",
+    "titulo": "LUBRICANTE INTIMO DUREX PLAY CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/LUBRICANTE_INTIMO_DUREX_PLAY_CEREZA.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "PrevPrice": "Antes:$22.150",
+        "bestPrice": "$16.612",
+        "precioPorSku js-PUM": "Mililitro a $332,24"
+    },
+    "descripcion": "lubricante intimo durex play cereza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC39188-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

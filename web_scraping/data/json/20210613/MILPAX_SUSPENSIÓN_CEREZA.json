@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/milpax-suspension-cereza-7703454921152/p",
+    "fecha_hora_scraping": "2021-06-13 16:31:25",
+    "titulo": "MILPAX SUSPENSI\u00d3N CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/MILPAX_SUSPENSI\u00d3N_CEREZA.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$59.800",
+        "precioPorSku js-PUM": "Mililitro a $166,11"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "26.7 MG/ML 25 MG/ML 15 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO ALGINATO SODIO CALCIO CARBONATO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-006932-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

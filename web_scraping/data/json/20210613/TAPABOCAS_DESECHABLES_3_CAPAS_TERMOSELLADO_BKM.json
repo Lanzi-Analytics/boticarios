@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-desechables-3-capas-termosellado-bkm-7709990014679/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:00",
+    "titulo": "TAPABOCAS DESECHABLES 3 CAPAS TERMOSELLADO BKM",
+    "nombre_imagen": "./web_scraping/data/img/TAPABOCAS_DESECHABLES_3_CAPAS_TERMOSELLADO_BKM.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "bestPrice": "$29.400",
+        "precioPorSku js-PUM": "Unidad a $29.400,00"
+    },
+    "descripcion": "tapabocas desechables 3 capas termosellado bkm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOKEMICAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020DM-0021677"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

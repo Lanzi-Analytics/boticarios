@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mucosina-suspension-sabor-naranja-7702132011369/p",
+    "fecha_hora_scraping": "2021-06-13 16:33:36",
+    "titulo": "MUCOSINA SUSPENSION SABOR NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/MUCOSINA_SUSPENSION_SABOR_NARANJA.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$25.650",
+        "precioPorSku js-PUM": "Mililitro a $213,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "S-CARBOXIMETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2010M-014814-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

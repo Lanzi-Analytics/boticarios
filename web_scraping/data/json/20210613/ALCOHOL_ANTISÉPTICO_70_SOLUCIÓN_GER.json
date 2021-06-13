@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-antiseptico-70-solucion-ger-7707210531302/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:35",
+    "titulo": "ALCOHOL ANTIS\u00c9PTICO 70% SOLUCI\u00d3N GER",
+    "nombre_imagen": "./web_scraping/data/img/ALCOHOL_ANTIS\u00c9PTICO_70_SOLUCI\u00d3N_GER.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$9.600",
+        "precioPorSku js-PUM": "Mililitro a $19,20"
+    },
+    "descripcion": "alcohol antis\u00e9ptico 70% soluci\u00f3n ger",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "70 % (V/V)"
+        ],
+        [
+            "Principio activo",
+            "ETILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

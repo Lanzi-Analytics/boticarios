@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702132004460pfizerbienestar-digestivomedicamentosmareol-50-mg-tabletadimenhidrinato-7702132004460/p",
+    "fecha_hora_scraping": "2021-06-13 16:27:16",
+    "titulo": "MAREOL 50 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/MAREOL_50_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$6.250",
+        "precioPorSku js-PUM": "Tableta a $520,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "DIMENHIDRINATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0000142-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

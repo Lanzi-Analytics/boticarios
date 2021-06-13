@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolex-forte-nf-500-mg65-mg-tableta-recubierta-7703363005462/p",
+    "fecha_hora_scraping": "2021-06-13 16:27:24",
+    "titulo": "DOLEX FORTE NF 500 MG/65 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DOLEX_FORTE_NF_500_MG65_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$19.700",
+        "precioPorSku js-PUM": "Tableta a $1.407,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015905-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

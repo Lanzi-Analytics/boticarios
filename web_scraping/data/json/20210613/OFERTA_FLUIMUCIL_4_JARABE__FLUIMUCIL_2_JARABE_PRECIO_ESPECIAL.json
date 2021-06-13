@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-fluimucil-4-jarabe--fluimucil-2-jarabe-precio-especial-7703445130198/p",
+    "fecha_hora_scraping": "2021-06-13 16:32:31",
+    "titulo": "OFERTA FLUIMUCIL 4% JARABE + FLUIMUCIL 2% JARABE PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_FLUIMUCIL_4_JARABE__FLUIMUCIL_2_JARABE_PRECIO_ESPECIAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$31.600",
+        "precioPorSku js-PUM": "Mililitro a $263,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "N-ACETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0013734-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

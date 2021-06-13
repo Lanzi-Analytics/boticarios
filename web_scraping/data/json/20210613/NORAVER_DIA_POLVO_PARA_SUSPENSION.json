@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/noraver-dia-polvo-para-suspension-7702057160821/p",
+    "fecha_hora_scraping": "2021-06-13 16:33:46",
+    "titulo": "NORAVER DIA POLVO PARA SUSPENSION",
+    "nombre_imagen": "./web_scraping/data/img/NORAVER_DIA_POLVO_PARA_SUSPENSION.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "$12.300",
+        "precioPorSku js-PUM": "Unidad a $2.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 20 MG 2.5 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN FENILEFRINA CLORHIDRATO LEVOCETIRICINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016065"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

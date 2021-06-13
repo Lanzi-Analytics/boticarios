@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zincolicol-2-mgml-solucion-oral-7705451000045/p",
+    "fecha_hora_scraping": "2021-06-13 16:36:52",
+    "titulo": "ZINCOLICOL 2 MG/ML SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ZINCOLICOL_2_MGML_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$18.900",
+        "precioPorSku js-PUM": "Mililitro a $157,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SULFATO ZINC HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS REMO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011287-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

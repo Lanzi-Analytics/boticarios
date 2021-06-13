@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/smecta-3-g-polvo-para-suspension-oral-7702207188620/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:26",
+    "titulo": "SMECTA 3 G POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/SMECTA_3_G_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$6.200",
+        "precioPorSku js-PUM": "Unidad a $6.200,00"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones en el empaque. si persisten los s\u00edntomas consulte a su m\u00e9dico. smecta: reg. san. invima 2019m-011939-r2 indicaci\u00f3n: antidiarreico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "3 G"
+        ],
+        [
+            "Principio activo",
+            "DIOSMECTITA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-011939-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

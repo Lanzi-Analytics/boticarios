@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fluifort-jarabe-adultos-7707670348946/p",
+    "fecha_hora_scraping": "2021-06-13 16:34:15",
+    "titulo": "FLUIFORT JARABE ADULTOS",
+    "nombre_imagen": "./web_scraping/data/img/FLUIFORT_JARABE_ADULTOS.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$39.250",
+        "precioPorSku js-PUM": "Mililitro a $327,08"
+    },
+    "descripcion": "fluifort jarabe adultos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "90 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CARBOCISTEINA LISINATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001755-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

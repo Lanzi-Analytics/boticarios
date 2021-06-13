@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/advil-fastgel-capsula-blanda-7702132008628/p",
+    "fecha_hora_scraping": "2021-06-13 16:34:38",
+    "titulo": "ADVIL FASTGEL CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ADVIL_FASTGEL_CAPSULA_BLANDA.jpg",
+    "presentacion": "BLISTER X 4 CAP",
+    "precio": {
+        "bestPrice": "$2.806",
+        "precioPorSku js-PUM": "Capsula a $701,39"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0001491-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

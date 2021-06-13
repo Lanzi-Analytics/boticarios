@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702626205847gaviscon-liquido-sachet-suspension-oral-mentamedicamentosbienestar-digestivorb-health-colombiaalginato-sodio-bicarbonato-sodio-calcio-carbonato-7702626205847/p",
+    "fecha_hora_scraping": "2021-06-13 16:32:04",
+    "titulo": "GAVISCON LIQUIDO SACHET SUSPENSION ORAL MENTA",
+    "nombre_imagen": "./web_scraping/data/img/GAVISCON_LIQUIDO_SACHET_SUSPENSION_ORAL_MENTA.jpg",
+    "presentacion": "CAJA X 12 SACHET",
+    "precio": {
+        "bestPrice": "$20.800",
+        "precioPorSku js-PUM": "Unidad a $1.733,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 SACHET"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 26.7 MG/ML 16 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALGINATO SODIO BICARBONATO SODIO CALCIO CARBONATO"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010778"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

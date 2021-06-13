@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lagricel-4mgml-solucion-oftalmica-736085280005/p",
+    "fecha_hora_scraping": "2021-06-13 16:28:59",
+    "titulo": "LAGRICEL 4MG/ML SOLUCI\u00d3N OFT\u00c1LMICA",
+    "nombre_imagen": "./web_scraping/data/img/LAGRICEL_4MGML_SOLUCI\u00d3N_OFT\u00c1LMICA.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$60.650",
+        "precioPorSku js-PUM": "Unidad a $12.130,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "4 MG"
+        ],
+        [
+            "Principio activo",
+            "HIALURONATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SOPHIA DE COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001128-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

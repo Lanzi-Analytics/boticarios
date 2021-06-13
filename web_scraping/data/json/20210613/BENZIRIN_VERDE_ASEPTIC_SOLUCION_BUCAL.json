@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benzirin-verde-aseptic-solucion-bucal-7702057012724/p",
+    "fecha_hora_scraping": "2021-06-13 16:26:51",
+    "titulo": "BENZIRIN VERDE ASEPTIC SOLUCION BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/BENZIRIN_VERDE_ASEPTIC_SOLUCION_BUCAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$43.450",
+        "precioPorSku js-PUM": "Mililitro a $362,08"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "0.15 G 0.05 G"
+        ],
+        [
+            "Principio activo",
+            "BENCIDAMINA CLORHIDRATO CETILPIRIDINIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016281"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

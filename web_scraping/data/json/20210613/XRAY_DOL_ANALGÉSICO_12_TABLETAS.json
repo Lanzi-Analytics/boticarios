@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/x-ray-dol-tableta-650240028199/p",
+    "fecha_hora_scraping": "2021-06-13 16:31:06",
+    "titulo": "XRAY DOL ANALG\u00c9SICO 12 TABLETAS",
+    "nombre_imagen": "./web_scraping/data/img/XRAY_DOL_ANALG\u00c9SICO_12_TABLETAS.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$15.700",
+        "precioPorSku js-PUM": "Tableta a $1.308,33"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consulte a su m\u00e9dico. registro invima 2015m-0016526",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG 220 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN NAPROXENO SODIO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016526"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7502253073006aspen-colombianabienestar-digestivomedicamentosleche-de-magnesia-phillipsmagnesio-hidroxido-7502253073006/p",
+    "fecha_hora_scraping": "2021-06-13 16:35:31",
+    "titulo": "LECHE DE MAGNESIA PHILLIPS",
+    "nombre_imagen": "./web_scraping/data/img/LECHE_DE_MAGNESIA_PHILLIPS.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "PrevPrice": "Antes:$17.500",
+        "bestPrice": "$15.750",
+        "precioPorSku js-PUM": "Mililitro a $43,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "85 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MAGNESIO HIDROXIDO"
+        ],
+        [
+            "Laboratorio",
+            "ASPEN COLOMBIANA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002362-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

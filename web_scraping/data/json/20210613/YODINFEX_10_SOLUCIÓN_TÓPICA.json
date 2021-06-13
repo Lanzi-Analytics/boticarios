@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703038020035medicamentosantisepticoslaproffanticeptico-anticepticosyodopovidona-7703038020035/p",
+    "fecha_hora_scraping": "2021-06-13 16:44:25",
+    "titulo": "YODINFEX 10% SOLUCI\u00d3N T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/YODINFEX_10_SOLUCI\u00d3N_T\u00d3PICA.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$4.650",
+        "precioPorSku js-PUM": "Mililitro a $77,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "0,01 G/ML"
+        ],
+        [
+            "Principio activo",
+            "YODOPOVIDONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO LAPROFF SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0013123-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

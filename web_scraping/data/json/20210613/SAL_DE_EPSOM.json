@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sal-de-epsom-7707333770374/p",
+    "fecha_hora_scraping": "2021-06-13 16:46:32",
+    "titulo": "SAL DE EPSOM",
+    "nombre_imagen": "./web_scraping/data/img/SAL_DE_EPSOM.jpg",
+    "presentacion": "BOLSA X 400 G",
+    "precio": {
+        "bestPrice": "$4.150",
+        "precioPorSku js-PUM": "Gramo a $10,38"
+    },
+    "descripcion": "sal de epsom",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ARQUIFARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

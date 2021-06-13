@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-de-benjui-7707012300830/p",
+    "fecha_hora_scraping": "2021-06-13 16:47:18",
+    "titulo": "LOCION DE BENJUI",
+    "nombre_imagen": "./web_scraping/data/img/LOCION_DE_BENJUI.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$4.750",
+        "precioPorSku js-PUM": "Mililitro a $158,33"
+    },
+    "descripcion": "locion de benjui",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ROPIM SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38446-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

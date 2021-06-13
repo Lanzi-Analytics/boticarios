@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/marimer-solucion-nasal-hipertonica-3518646672019/p",
+    "fecha_hora_scraping": "2021-06-13 16:43:23",
+    "titulo": "MARIMER SOLUCION NASAL HIPERTONICA",
+    "nombre_imagen": "./web_scraping/data/img/MARIMER_SOLUCION_NASAL_HIPERTONICA.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "PrevPrice": "Antes:$59.200",
+        "bestPrice": "$50.320",
+        "precioPorSku js-PUM": "Mililitro a $503,20"
+    },
+    "descripcion": "marimer solucion nasal hipertonica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0014364"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

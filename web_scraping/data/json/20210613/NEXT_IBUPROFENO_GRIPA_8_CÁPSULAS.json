@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/next-gl-gripa-capsula-blanda-650240032592/p",
+    "fecha_hora_scraping": "2021-06-13 16:49:44",
+    "titulo": "NEXT IBUPROFENO GRIPA 8 C\u00c1PSULAS",
+    "nombre_imagen": "./web_scraping/data/img/NEXT_IBUPROFENO_GRIPA_8_C\u00c1PSULAS.jpg",
+    "presentacion": "CAJA X 8 CAP",
+    "precio": {
+        "bestPrice": "$11.800",
+        "precioPorSku js-PUM": "Capsula a $1.475,00"
+    },
+    "descripcion": "ESTE PRODUCTO ES UN MEDICAMENTO. NO EXCEDER SU CONSUMO. LEER INDICACIONES Y CONTRAINDICACIONES. SI LOS S\u00cdNTOMAS PERSISTEN, CONSULTAR AL M\u00c9DICO.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG 10 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO FENILEFRINA CLORHIDRATO CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016942"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

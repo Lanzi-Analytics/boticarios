@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/linimento-outdol-sport-aerosol-7707351591135/p",
+    "fecha_hora_scraping": "2021-06-13 16:44:36",
+    "titulo": "LINIMENTO OUTDOL SPORT AEROSOL",
+    "nombre_imagen": "./web_scraping/data/img/LINIMENTO_OUTDOL_SPORT_AEROSOL.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "PrevPrice": "Antes:$47.600",
+        "bestPrice": "$40.460",
+        "precioPorSku js-PUM": "Mililitro a $202,30"
+    },
+    "descripcion": "linimento outdol sport aerosol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85515-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

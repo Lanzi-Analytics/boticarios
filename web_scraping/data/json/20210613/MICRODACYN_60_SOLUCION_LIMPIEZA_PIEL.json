@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/microdacyn-60-solucion-limpieza-piel-7502273993377/p",
+    "fecha_hora_scraping": "2021-06-13 16:44:20",
+    "titulo": "MICRODACYN 60 SOLUCION LIMPIEZA PIEL",
+    "nombre_imagen": "./web_scraping/data/img/MICRODACYN_60_SOLUCION_LIMPIEZA_PIEL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$41.350",
+        "precioPorSku js-PUM": "Mililitro a $344,58"
+    },
+    "descripcion": "microdacyn 60 solucion limpieza piel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13866-16EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

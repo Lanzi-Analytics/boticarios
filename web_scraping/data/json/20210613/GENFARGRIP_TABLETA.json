@@ -1,18 +1,18 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/genfargrip-tableta-7702605107902/p",
-    "fecha_hora_scraping": "2021-06-13 16:33:26",
+    "url_producto": "https://www.drogueriascolsubsidio.com/genfargrip-tableta-7702605107995/p",
+    "fecha_hora_scraping": "2021-06-13 16:39:43",
     "titulo": "GENFARGRIP TABLETA",
     "nombre_imagen": "./web_scraping/data/img/GENFARGRIP_TABLETA.jpg",
-    "presentacion": "CAJA X 12 TAB",
+    "presentacion": "SOBRE X 4 TAB",
     "precio": {
-        "bestPrice": "$12.900",
-        "precioPorSku js-PUM": "Tableta a $1.075,00"
+        "bestPrice": "$4.850",
+        "precioPorSku js-PUM": "Unidad a $194,00"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 12 TAB"
+            "SOBRE X 4 TAB"
         ],
         [
             "Concentracion",

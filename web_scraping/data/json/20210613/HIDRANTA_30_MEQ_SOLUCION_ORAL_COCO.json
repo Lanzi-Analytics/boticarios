@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidranta-30-meq-solucion-oral-coco-7703454122771/p",
+    "fecha_hora_scraping": "2021-06-13 16:39:38",
+    "titulo": "HIDRANTA 30 MEQ SOLUCION ORAL COCO",
+    "nombre_imagen": "./web_scraping/data/img/HIDRANTA_30_MEQ_SOLUCION_ORAL_COCO.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$8.400",
+        "precioPorSku js-PUM": "Mililitro a $16,80"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013214-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

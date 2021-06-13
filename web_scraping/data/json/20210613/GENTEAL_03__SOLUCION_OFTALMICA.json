@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/genteal-03--solucion-oftalmica-3587381199990/p",
+    "fecha_hora_scraping": "2021-06-13 16:39:32",
+    "titulo": "GENTEAL 0.3 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/GENTEAL_03__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$49.300",
+        "precioPorSku js-PUM": "Mililitro a $4.930,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIDROXIPROPILMETILCELULOSA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-13644-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

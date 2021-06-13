@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vaselina-pura-7707333770169/p",
+    "fecha_hora_scraping": "2021-06-13 16:48:12",
+    "titulo": "VASELINA PURA",
+    "nombre_imagen": "./web_scraping/data/img/VASELINA_PURA.jpg",
+    "presentacion": "POTE X 105 G",
+    "precio": {
+        "bestPrice": "$8.450",
+        "precioPorSku js-PUM": "Gramo a $80,48"
+    },
+    "descripcion": "vaselina pura",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 105 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ARQUIFARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

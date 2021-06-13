@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-forz-sport-linimento--frasco-x-80ml-7707210530855/p",
+    "fecha_hora_scraping": "2021-06-13 16:43:33",
+    "titulo": "OFERTA FORZ SPORT LINIMENTO + FRASCO X 80ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_FORZ_SPORT_LINIMENTO__FRASCO_X_80ML.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$54.200",
+        "precioPorSku js-PUM": "Mililitro a $271,00"
+    },
+    "descripcion": "oferta forz sport linimento + frasco x 80ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57937-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

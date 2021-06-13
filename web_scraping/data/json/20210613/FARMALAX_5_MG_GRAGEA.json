@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702184590010ecarbienestar-digestivomedicamentosfarmalax-5-mg-grageabisacodilo-7702184590010/p",
+    "fecha_hora_scraping": "2021-06-13 16:50:32",
+    "titulo": "FARMALAX 5 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/FARMALAX_5_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$3.950",
+        "precioPorSku js-PUM": "Tableta a $395,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "BISACODILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010359"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

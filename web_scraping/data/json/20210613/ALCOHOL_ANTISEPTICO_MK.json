@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-antiseptico-mk-7702057075101/p",
+    "fecha_hora_scraping": "2021-06-13 16:49:03",
+    "titulo": "ALCOHOL ANTISEPTICO MK",
+    "nombre_imagen": "./web_scraping/data/img/ALCOHOL_ANTISEPTICO_MK.jpg",
+    "presentacion": "FRASCO X 700 ML",
+    "precio": {
+        "bestPrice": "$4.800",
+        "precioPorSku js-PUM": "Mililitro a $6,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 700 ML"
+        ],
+        [
+            "Concentracion",
+            "0,74 ML/ML"
+        ],
+        [
+            "Principio activo",
+            "ETILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-011909-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

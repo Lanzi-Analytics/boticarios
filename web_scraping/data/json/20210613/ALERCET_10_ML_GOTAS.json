@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alercet-10-ml-gotas-7703153031305/p",
+    "fecha_hora_scraping": "2021-06-13 16:47:22",
+    "titulo": "ALERCET 10 ML GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/ALERCET_10_ML_GOTAS.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "PrevPrice": "Antes:$72.250",
+        "bestPrice": "$50.575",
+        "precioPorSku js-PUM": "Mililitro a $3.371,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-002891-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterogermina-plus-suspension-oral-7702771001561/p",
+    "fecha_hora_scraping": "2021-06-13 16:51:02",
+    "titulo": "ENTEROGERMINA PLUS SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ENTEROGERMINA_PLUS_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "PrevPrice": "Antes:$56.550",
+        "bestPrice": "$45.240",
+        "precioPorSku js-PUM": "Mililitro a $9.048,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "4000 MILLESP"
+        ],
+        [
+            "Principio activo",
+            "ESPORAS BACILLUS CLAUSII"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016328"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

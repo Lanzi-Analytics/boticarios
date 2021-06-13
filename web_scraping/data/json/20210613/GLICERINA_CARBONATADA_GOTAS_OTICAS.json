@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glicerina-carbonatada-gotas-oticas-7707012300496/p",
+    "fecha_hora_scraping": "2021-06-13 16:45:35",
+    "titulo": "GLICERINA CARBONATADA GOTAS OTICAS",
+    "nombre_imagen": "./web_scraping/data/img/GLICERINA_CARBONATADA_GOTAS_OTICAS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$4.200",
+        "precioPorSku js-PUM": "Mililitro a $420,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "66.4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SODIO CARBONATO ANHIDRO"
+        ],
+        [
+            "Laboratorio",
+            "ROPIM SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-011893-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

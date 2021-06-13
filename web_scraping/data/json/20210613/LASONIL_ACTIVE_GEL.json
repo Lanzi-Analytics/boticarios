@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lasonil-active-gel-7707351592873/p",
+    "fecha_hora_scraping": "2021-06-13 16:41:48",
+    "titulo": "LASONIL ACTIVE GEL",
+    "nombre_imagen": "./web_scraping/data/img/LASONIL_ACTIVE_GEL.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$39.050",
+        "precioPorSku js-PUM": "Gramo a $1.301,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "5.00000 G 1.00000 G 0.30000 G"
+        ],
+        [
+            "Principio activo",
+            "SALICILATO DIETILAMINA AESCINA HEPARINOIDE"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017310"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

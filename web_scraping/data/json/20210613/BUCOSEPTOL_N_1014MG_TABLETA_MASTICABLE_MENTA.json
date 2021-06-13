@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bucoseptol-n-tableta-bucal-sabor-menta-7706142230543/p",
+    "fecha_hora_scraping": "2021-06-13 16:44:04",
+    "titulo": "BUCOSEPTOL N 10/1.4MG TABLETA MASTICABLE MENTA",
+    "nombre_imagen": "./web_scraping/data/img/BUCOSEPTOL_N_1014MG_TABLETA_MASTICABLE_MENTA.jpg",
+    "presentacion": "BLISTER X 4 TAB",
+    "precio": {
+        "bestPrice": "$3.077",
+        "precioPorSku js-PUM": "Tableta a $769,17"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG 1,4 MG"
+        ],
+        [
+            "Principio activo",
+            "BENZOCAINA CETILPIRIDINIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NEO LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015350"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

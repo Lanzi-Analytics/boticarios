@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/micropore-cinta-quirurgica-piel-12mm-x-5m-7702098400788/p",
+    "fecha_hora_scraping": "2021-06-13 16:42:02",
+    "titulo": "MICROPORE CINTA QUIRURGICA PIEL 12MM X 5M",
+    "nombre_imagen": "./web_scraping/data/img/MICROPORE_CINTA_QUIRURGICA_PIEL_12MM_X_5M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$10.700",
+        "precioPorSku js-PUM": "Gramo a $356,67"
+    },
+    "descripcion": "micropore cinta quirurgica piel 12mm x 5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN DEXTROMETORFANO BROMOHIDRATO FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016689"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057804466sal-de-frutas-lua-plus-granulos-efervecentesmedicamentosbienestar-digestivotecnoquimicas-7702057804466/p",
+    "fecha_hora_scraping": "2021-06-13 16:49:38",
+    "titulo": "SAL DE FRUTAS LUA PLUS GRANULOS EFERVECENTES CITRUS",
+    "nombre_imagen": "./web_scraping/data/img/SAL_DE_FRUTAS_LUA_PLUS_GRANULOS_EFERVECENTES_CITRUS.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "$13.150",
+        "precioPorSku js-PUM": "Unidad a $2.191,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "2830 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013340-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

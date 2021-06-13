@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vaselina-pura-usp-7707231002270/p",
+    "fecha_hora_scraping": "2021-06-13 16:45:30",
+    "titulo": "VASELINA PURA USP",
+    "nombre_imagen": "./web_scraping/data/img/VASELINA_PURA_USP.jpg",
+    "presentacion": "POTE X 460 G",
+    "precio": {
+        "bestPrice": "$8.750",
+        "precioPorSku js-PUM": "Gramo a $19,02"
+    },
+    "descripcion": "vaselina pura usp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 460 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

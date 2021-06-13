@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tears-naturale-solucion-oftalmica-5413895026690/p",
+    "fecha_hora_scraping": "2021-06-13 16:39:27",
+    "titulo": "TEARS NATURALE SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/TEARS_NATURALE_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$41.850",
+        "precioPorSku js-PUM": "Mililitro a $2.790,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "3 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIDROXIPROPILMETILCELULOSA DEXTRAN 70"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-007104-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

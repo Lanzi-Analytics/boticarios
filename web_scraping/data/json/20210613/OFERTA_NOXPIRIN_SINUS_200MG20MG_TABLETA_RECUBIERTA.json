@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-noxpirin-sinus-200mg20mg-tableta-recubierta-7707355055008/p",
+    "fecha_hora_scraping": "2021-06-13 16:42:36",
+    "titulo": "OFERTA NOXPIRIN SINUS 200MG/20MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_NOXPIRIN_SINUS_200MG20MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$10.350",
+        "precioPorSku js-PUM": "Tableta a $1.035,00"
+    },
+    "descripcion": "oferta noxpirin sinus 200mg/20mg tableta recubierta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG 20 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008561"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

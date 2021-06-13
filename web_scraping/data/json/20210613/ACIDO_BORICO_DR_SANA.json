@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acido-borico-dr-sana-7707231002300/p",
+    "fecha_hora_scraping": "2021-06-13 16:48:41",
+    "titulo": "ACIDO BORICO DR SANA",
+    "nombre_imagen": "./web_scraping/data/img/ACIDO_BORICO_DR_SANA.jpg",
+    "presentacion": "CAJA X 100 G",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Gramo a $17,50"
+    },
+    "descripcion": "acido borico dr sana",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

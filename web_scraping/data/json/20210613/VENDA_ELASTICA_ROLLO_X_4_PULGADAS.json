@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-elastica-rollo-x-4-pulgadas-7703010130035/p",
+    "fecha_hora_scraping": "2021-06-13 16:50:57",
+    "titulo": "VENDA ELASTICA ROLLO X 4 PULGADAS",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_ELASTICA_ROLLO_X_4_PULGADAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$2.400",
+        "precioPorSku js-PUM": "Unidad a $2.400,00"
+    },
+    "descripcion": "venda elastica rollo x 4 pulgadas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUPERTEX MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0000598"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

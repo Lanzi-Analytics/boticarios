@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-no-tejida-esteril-3x3-pulgadas-7707228366521/p",
+    "fecha_hora_scraping": "2021-06-13 16:51:35",
+    "titulo": "GASA NO TEJIDA ESTERIL 3X3 PULGADAS",
+    "nombre_imagen": "./web_scraping/data/img/GASA_NO_TEJIDA_ESTERIL_3X3_PULGADAS.jpg",
+    "presentacion": "OK",
+    "precio": {
+        "bestPrice": "$500",
+        "precioPorSku js-PUM": "Unidad a $10,00"
+    },
+    "descripcion": "gasa no tejida esteril 3x3 pulgadas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "OK"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003258-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

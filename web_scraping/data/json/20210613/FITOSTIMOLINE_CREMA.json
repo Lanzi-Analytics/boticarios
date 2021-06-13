@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fitostimoline-crema-7704232000465/p",
+    "fecha_hora_scraping": "2021-06-13 16:45:40",
+    "titulo": "FITOSTIMOLINE CREMA",
+    "nombre_imagen": "./web_scraping/data/img/FITOSTIMOLINE_CREMA.jpg",
+    "presentacion": "TUBO X 32 G",
+    "precio": {
+        "bestPrice": "$73.400",
+        "precioPorSku js-PUM": "Gramo a $2.293,75"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 32 G"
+        ],
+        [
+            "Concentracion",
+            "1500 MG/G 1000 MG/G"
+        ],
+        [
+            "Principio activo",
+            "TRITICUM VULGARE 2-FENOXIETANOL"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2012-0001948"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

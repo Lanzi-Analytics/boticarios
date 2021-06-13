@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stopen-05--gel-topico-7703258113203/p",
+    "fecha_hora_scraping": "2021-06-13 16:40:07",
+    "titulo": "STOPEN 0.5 % GEL TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/STOPEN_05__GEL_TOPICO.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$30.850",
+        "precioPorSku js-PUM": "Gramo a $1.542,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "PIROXICAM"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-013045-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/forz-sport-linimento-aerosol-7707210530688/p",
+    "fecha_hora_scraping": "2021-06-13 16:51:26",
+    "titulo": "FORZ SPORT LINIMENTO AEROSOL",
+    "nombre_imagen": "./web_scraping/data/img/FORZ_SPORT_LINIMENTO_AEROSOL.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$54.200",
+        "precioPorSku js-PUM": "Mililitro a $271,00"
+    },
+    "descripcion": "forz sport linimento aerosol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57937-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

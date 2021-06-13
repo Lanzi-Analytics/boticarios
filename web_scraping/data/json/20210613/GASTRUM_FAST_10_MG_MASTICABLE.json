@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gastrum-fast-10-mg-masticable-7702870004067/p",
+    "fecha_hora_scraping": "2021-06-13 16:40:39",
+    "titulo": "GASTRUM FAST 10 MG MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/GASTRUM_FAST_10_MG_MASTICABLE.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$13.900",
+        "precioPorSku js-PUM": "Tableta a $1.158,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "FAMOTIDINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008661-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

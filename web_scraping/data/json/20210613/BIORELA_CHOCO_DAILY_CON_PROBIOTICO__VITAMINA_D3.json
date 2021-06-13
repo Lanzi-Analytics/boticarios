@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7709857301812barra-de-chocolate-con-probioticosvitamina-d3medicamentosventa-librena-7709857301812/p",
+    "fecha_hora_scraping": "2021-06-13 16:47:57",
+    "titulo": "BIORELA CHOCO DAILY CON PROBIOTICO + VITAMINA D3",
+    "nombre_imagen": "./web_scraping/data/img/BIORELA_CHOCO_DAILY_CON_PROBIOTICO__VITAMINA_D3.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$107.550",
+        "precioPorSku js-PUM": "Unidad a $3.585,00"
+    },
+    "descripcion": "barra de chocolate con probioticos+vitamina d3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "MEDICAR SUPPLY SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0008080-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/noxpirin-quickgels-capsula-blanda-7707355054315/p",
+    "fecha_hora_scraping": "2021-06-13 16:50:42",
+    "titulo": "NOXPIRIN QUICKGELS C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/NOXPIRIN_QUICKGELS_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAPSULAS",
+    "precio": {
+        "bestPrice": "$15.350",
+        "precioPorSku js-PUM": "Capsula a $1.535,00"
+    },
+    "descripcion": "noxpirin quickgels c\u00e1psula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAPSULAS"
+        ],
+        [
+            "Concentracion",
+            "500 MG 30 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CAFEINA ANHIDRA FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017025"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

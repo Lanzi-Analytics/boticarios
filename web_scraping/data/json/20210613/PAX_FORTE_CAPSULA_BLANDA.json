@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pax-forte-capsula-blanda-7703202200676/p",
+    "fecha_hora_scraping": "2021-06-13 16:51:12",
+    "titulo": "PAX FORTE CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/PAX_FORTE_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$16.900",
+        "precioPorSku js-PUM": "Capsula a $1.690,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contra indicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 10 MG 2,5 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO FENILEFRINA CLORHIDRATO LEVOCETERIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016653"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

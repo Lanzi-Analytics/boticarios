@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/electrolit-manzana-suero-rehidratante-solucion-7501125176494/p",
+    "fecha_hora_scraping": "2021-06-13 16:50:17",
+    "titulo": "ELECTROLIT MANZANA SUERO REHIDRATANTE SOLUCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/ELECTROLIT_MANZANA_SUERO_REHIDRATANTE_SOLUCI\u00d3N.jpg",
+    "presentacion": "FRASCO X 625 ML",
+    "precio": {
+        "PrevPrice": "Antes:$6.400",
+        "bestPrice": "$5.120",
+        "precioPorSku js-PUM": "Mililitro a $8,19"
+    },
+    "descripcion": "Soluci\u00f3n rehidratante oral, utilizado en prevencion y tratamiento del desequilibrio hidroelectrol\u00edtico ocasionado por el exceso de calor, ejercicio fisico intenso, insolacion, vomito y diarrea leve a moderada.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 625 ML"
+        ],
+        [
+            "Concentracion",
+            "0,12 MG/ML 1,49 MG/ML 0,3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CLORURO/DEXTROSA/MAGNESIO CLORURO/POTASIO CLORURO/SODIO CLORURO/LACTATO"
+        ],
+        [
+            "Laboratorio",
+            "PISA FARMACEUTICA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0009131-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

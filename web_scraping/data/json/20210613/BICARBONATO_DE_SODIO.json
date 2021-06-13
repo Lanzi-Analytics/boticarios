@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bicarbonato-de-sodio-7707231002195/p",
+    "fecha_hora_scraping": "2021-06-13 16:48:49",
+    "titulo": "BICARBONATO DE SODIO",
+    "nombre_imagen": "./web_scraping/data/img/BICARBONATO_DE_SODIO.jpg",
+    "presentacion": "CAJA X 100 G",
+    "precio": {
+        "bestPrice": "$1.200",
+        "precioPorSku js-PUM": "Gramo a $12,00"
+    },
+    "descripcion": "bicarbonato de sodio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

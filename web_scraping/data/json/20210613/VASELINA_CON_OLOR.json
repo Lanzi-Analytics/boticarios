@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vaselina-con-olor-7707231002294/p",
+    "fecha_hora_scraping": "2021-06-13 16:46:01",
+    "titulo": "VASELINA CON OLOR",
+    "nombre_imagen": "./web_scraping/data/img/VASELINA_CON_OLOR.jpg",
+    "presentacion": "CAJA X 105 G",
+    "precio": {
+        "bestPrice": "$4.700",
+        "precioPorSku js-PUM": "Gramo a $44,76"
+    },
+    "descripcion": "vaselina con olor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 105 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50182-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

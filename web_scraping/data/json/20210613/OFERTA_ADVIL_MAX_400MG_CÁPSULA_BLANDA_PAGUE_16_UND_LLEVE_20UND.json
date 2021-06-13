@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-advil-max-400mg-capsula-blanda-pague-16-und-lleve-20und-7702132003487/p",
+    "fecha_hora_scraping": "2021-06-13 16:42:18",
+    "titulo": "OFERTA ADVIL MAX 400MG C\u00c1PSULA BLANDA PAGUE: 16 UND LLEVE: 20UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ADVIL_MAX_400MG_C\u00c1PSULA_BLANDA_PAGUE_16_UND_LLEVE_20UND.jpg",
+    "presentacion": "FRASCO X 20 CAP",
+    "precio": {
+        "bestPrice": "$21.650",
+        "precioPorSku js-PUM": "Capsula a $1.353,13"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0003510-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

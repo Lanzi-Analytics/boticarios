@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703153037376acar-klean-aerosolhigiene-y-cuidado-personalcuidado-corporalrepelentes-e-insecticidasprocaps-7703153037376/p",
+    "fecha_hora_scraping": "2021-06-13 16:47:32",
+    "titulo": "ACAR KLEAN AEROSOL",
+    "nombre_imagen": "./web_scraping/data/img/ACAR_KLEAN_AEROSOL.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$24.150",
+        "precioPorSku js-PUM": "Mililitro a $60,38"
+    },
+    "descripcion": "acar klean aerosol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "BENZOATO BENCILO ACEITE PINO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2014V-0005073"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

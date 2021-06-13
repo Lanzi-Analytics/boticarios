@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-menticol-azul-7702277120964/p",
+    "fecha_hora_scraping": "2021-06-13 16:39:13",
+    "titulo": "LOCION MENTICOL AZUL",
+    "nombre_imagen": "./web_scraping/data/img/LOCION_MENTICOL_AZUL.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "PrevPrice": "Antes:$14.500",
+        "bestPrice": "$13.050",
+        "precioPorSku js-PUM": "Mililitro a $52,20"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "96 % 3.9 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ETILICO ALCOHOL MENTOL"
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-011423-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

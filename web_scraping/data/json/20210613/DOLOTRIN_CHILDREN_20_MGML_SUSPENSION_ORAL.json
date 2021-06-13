@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolotrin-children-20-mgml-suspension-oral-7705451000236/p",
+    "fecha_hora_scraping": "2021-06-13 16:45:10",
+    "titulo": "DOLOTRIN CHILDREN 20 MG/ML SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/DOLOTRIN_CHILDREN_20_MGML_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$15.850",
+        "precioPorSku js-PUM": "Mililitro a $132,08"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO MICRONIZADO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS REMO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005700-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

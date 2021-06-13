@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-esteril-75cm-x-75cm-cureband-7702136647663/p",
+    "fecha_hora_scraping": "2021-06-13 16:52:21",
+    "titulo": "GASA ESTERIL 7.5CM X 7.5CM CUREBAND",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_75CM_X_75CM_CUREBAND.jpg",
+    "presentacion": "CAJA X 9 SOB",
+    "precio": {
+        "bestPrice": "$10.950",
+        "precioPorSku js-PUM": "Sobre a $1.216,67"
+    },
+    "descripcion": "gasa esteril 7.5cm x 7.5cm cureband",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 9 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "HIEDRA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0004830-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

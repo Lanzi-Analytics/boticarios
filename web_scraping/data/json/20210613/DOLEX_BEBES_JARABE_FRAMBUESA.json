@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolex-bebes-jarabe-frambuesa-7441026003348/p",
+    "fecha_hora_scraping": "2021-06-13 16:41:29",
+    "titulo": "DOLEX BEBES JARABE FRAMBUESA",
+    "nombre_imagen": "./web_scraping/data/img/DOLEX_BEBES_JARABE_FRAMBUESA.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$10.500",
+        "precioPorSku js-PUM": "Mililitro a $175,00"
+    },
+    "descripcion": "dolex bebes jarabe frambuesa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "32 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019411"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

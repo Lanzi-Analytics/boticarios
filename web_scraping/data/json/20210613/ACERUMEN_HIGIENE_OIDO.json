@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/a-cerumen-higiene-oido-3518646172519/p",
+    "fecha_hora_scraping": "2021-06-13 16:48:58",
+    "titulo": "A-CERUMEN HIGIENE OIDO",
+    "nombre_imagen": "./web_scraping/data/img/ACERUMEN_HIGIENE_OIDO.jpg",
+    "presentacion": "CAJA X 10 FRASCO",
+    "precio": {
+        "PrevPrice": "Antes:$27.000",
+        "bestPrice": "$22.950",
+        "precioPorSku js-PUM": "Unidad a $2.295,00"
+    },
+    "descripcion": "a-cerumen higiene oido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 FRASCO"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0008301"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

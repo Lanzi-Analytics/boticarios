@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nasivin-adulto-solucion-nasal-4054839644511/p",
+    "fecha_hora_scraping": "2021-06-13 16:43:18",
+    "titulo": "NASIVIN ADULTO 0.05% SOLUCI\u00d3N NASAL",
+    "nombre_imagen": "./web_scraping/data/img/NASIVIN_ADULTO_005_SOLUCI\u00d3N_NASAL.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$26.700",
+        "precioPorSku js-PUM": "Mililitro a $2.670,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG"
+        ],
+        [
+            "Principio activo",
+            "OXIMETAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-001160-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

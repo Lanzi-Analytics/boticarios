@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulfato-de-magnesia-7707231002317/p",
+    "fecha_hora_scraping": "2021-06-13 16:48:36",
+    "titulo": "SULFATO DE MAGNESIA",
+    "nombre_imagen": "./web_scraping/data/img/SULFATO_DE_MAGNESIA.jpg",
+    "presentacion": "CAJA X 100 G",
+    "precio": {
+        "bestPrice": "$1.400",
+        "precioPorSku js-PUM": "Gramo a $14,00"
+    },
+    "descripcion": "sulfato de magnesia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

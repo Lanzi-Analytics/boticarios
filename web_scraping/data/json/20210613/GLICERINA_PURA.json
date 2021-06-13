@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glicerina-pura-7707333770480/p",
+    "fecha_hora_scraping": "2021-06-13 16:46:27",
+    "titulo": "GLICERINA PURA",
+    "nombre_imagen": "./web_scraping/data/img/GLICERINA_PURA.jpg",
+    "presentacion": "FRASCO X 450 ML",
+    "precio": {
+        "bestPrice": "$10.550",
+        "precioPorSku js-PUM": "Mililitro a $23,44"
+    },
+    "descripcion": "glicerina pura",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 450 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ARQUIFARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

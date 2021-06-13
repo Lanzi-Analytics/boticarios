@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ditopax-f-tableta-masticable-7702123008620/p",
+    "fecha_hora_scraping": "2021-06-13 16:42:13",
+    "titulo": "DITOPAX F TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/DITOPAX_F_TABLETA_MASTICABLE.jpg",
+    "presentacion": "BLISTER X 5 TAB",
+    "precio": {
+        "bestPrice": "$4.620",
+        "precioPorSku js-PUM": "Tableta a $924,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "470 MG 410 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO HIDROX/MAGN CARBON MAGNESIO HIDROXIDO SIMETICONA CALCIO CARBONATO"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010M-011575-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

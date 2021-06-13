@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703153032128procapsmuscular-y-articularmedicamentosdiclofen-1--aerosoldiclofenaco-dietilamoniocolmed-internacional-7703153032128/p",
+    "fecha_hora_scraping": "2021-06-13 16:39:08",
+    "titulo": "DICLOFEN 1 % AEROSOL",
+    "nombre_imagen": "./web_scraping/data/img/DICLOFEN_1__AEROSOL.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$33.750",
+        "precioPorSku js-PUM": "Mililitro a $168,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "1 % (P/V)"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO DIETILAMONIO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015829-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

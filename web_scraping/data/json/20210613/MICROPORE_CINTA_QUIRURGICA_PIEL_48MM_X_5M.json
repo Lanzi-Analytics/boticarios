@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/micropore-cinta-quirurgica-piel-48mm-x-5m-7702098400801/p",
+    "fecha_hora_scraping": "2021-06-13 16:52:38",
+    "titulo": "MICROPORE CINTA QUIRURGICA PIEL 48MM X 5M",
+    "nombre_imagen": "./web_scraping/data/img/MICROPORE_CINTA_QUIRURGICA_PIEL_48MM_X_5M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$24.800",
+        "precioPorSku js-PUM": "Unidad a $24.800,00"
+    },
+    "descripcion": "micropore cinta quirurgica piel 48mm x 5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016689"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tonimer-lab-panthexyl-spray-8050444852095/p",
+    "fecha_hora_scraping": "2021-06-13 16:43:38",
+    "titulo": "TONIMER LAB PANTHEXYL SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/TONIMER_LAB_PANTHEXYL_SPRAY.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$69.050",
+        "precioPorSku js-PUM": "Mililitro a $690,50"
+    },
+    "descripcion": "tonimer lab panthexyl spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0019931"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

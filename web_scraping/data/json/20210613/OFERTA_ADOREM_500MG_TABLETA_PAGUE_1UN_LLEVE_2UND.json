@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-adorem-500mg-tableta-pague-1un-lleve-2und-7707355055374/p",
+    "fecha_hora_scraping": "2021-06-13 16:43:03",
+    "titulo": "OFERTA ADOREM 500MG TABLETA PAGUE: 1UN LLEVE: 2UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ADOREM_500MG_TABLETA_PAGUE_1UN_LLEVE_2UND.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$9.200",
+        "precioPorSku js-PUM": "Tableta a $920,00"
+    },
+    "descripcion": "oferta adorem 500mg tableta pague: 1un lleve: 2und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-001869-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

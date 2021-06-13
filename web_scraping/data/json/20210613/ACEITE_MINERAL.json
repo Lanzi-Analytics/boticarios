@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-mineral-7707231002539/p",
+    "fecha_hora_scraping": "2021-06-13 16:48:31",
+    "titulo": "ACEITE MINERAL",
+    "nombre_imagen": "./web_scraping/data/img/ACEITE_MINERAL.jpg",
+    "presentacion": "FRASCO X 22 ML",
+    "precio": {
+        "bestPrice": "$1.100",
+        "precioPorSku js-PUM": "Mililitro a $50,00"
+    },
+    "descripcion": "aceite mineral",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 22 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

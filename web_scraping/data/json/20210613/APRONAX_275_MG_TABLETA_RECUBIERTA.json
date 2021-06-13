@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/apronax-275-mg-tableta-recubierta-7702123005490/p",
+    "fecha_hora_scraping": "2021-06-13 16:46:17",
+    "titulo": "APRONAX 275 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/APRONAX_275_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 8 TAB",
+    "precio": {
+        "bestPrice": "$13.200",
+        "precioPorSku js-PUM": "Tableta a $1.650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 TAB"
+        ],
+        [
+            "Concentracion",
+            "275 MG"
+        ],
+        [
+            "Principio activo",
+            "NAPROXENO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-004602-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

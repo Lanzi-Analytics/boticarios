@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-esteril-10cm-x-10cm-cureband-7702136647694/p",
+    "fecha_hora_scraping": "2021-06-13 16:52:15",
+    "titulo": "GASA ESTERIL 10CM X 10CM CUREBAND",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_10CM_X_10CM_CUREBAND.jpg",
+    "presentacion": "CAJA X 24 SOB",
+    "precio": {
+        "bestPrice": "$28.250",
+        "precioPorSku js-PUM": "Unidad a $1.177,08"
+    },
+    "descripcion": "gasa esteril 10cm x 10cm cureband",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 24 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0004830-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

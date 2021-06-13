@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-dolorsin-fem-400mg20mg-pague-3und-lleve-4-und-7703546041430/p",
+    "fecha_hora_scraping": "2021-06-13 16:41:34",
+    "titulo": "OFERTA DOLORSIN FEM 400MG/20MG PAGUE: 3UND LLEVE: 4 UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_DOLORSIN_FEM_400MG20MG_PAGUE_3UND_LLEVE_4_UND.jpg",
+    "presentacion": "CAJA X 4 CAP",
+    "precio": {
+        "bestPrice": "$5.800",
+        "precioPorSku js-PUM": "Capsula a $1.933,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 20 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014291"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

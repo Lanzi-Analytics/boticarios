@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colik-teens-200-mg-tableta-recubierta-7702870337790/p",
+    "fecha_hora_scraping": "2021-06-13 16:44:48",
+    "titulo": "COLIK TEENS 200 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/COLIK_TEENS_200_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 5 TAB",
+    "precio": {
+        "bestPrice": "$4.800",
+        "precioPorSku js-PUM": "Tableta a $960,00"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. si los s\u00edntomas persisten consulte a su m\u00e9dico. leer indicaciones y contraindicaciones en el inserto. analg\u00e9sico, antipir\u00e9tico. reg. sanitario invima 2018m-0018535",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018535"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

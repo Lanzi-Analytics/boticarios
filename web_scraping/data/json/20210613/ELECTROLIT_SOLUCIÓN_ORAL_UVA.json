@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/electrolit-solucion-oral-uva-7501125176548/p",
+    "fecha_hora_scraping": "2021-06-13 16:49:52",
+    "titulo": "ELECTROLIT SOLUCI\u00d3N ORAL UVA",
+    "nombre_imagen": "./web_scraping/data/img/ELECTROLIT_SOLUCI\u00d3N_ORAL_UVA.jpg",
+    "presentacion": "FRASCO X 625 ML",
+    "precio": {
+        "PrevPrice": "Antes:$6.400",
+        "bestPrice": "$5.120",
+        "precioPorSku js-PUM": "Mililitro a $8,19"
+    },
+    "descripcion": "Soluci\u00f3n rehidratante oral, utilizado en prevencion y tratamiento del desequilibrio hidroelectrol\u00edtico ocasionado por el exceso de calor, ejercicio fisico intenso, insolacion, vomito y diarrea leve a moderada.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 625 ML"
+        ],
+        [
+            "Concentracion",
+            "5 G 0,314 G 0,149 G"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CLORURO/DEXTROSA/MAGNESIO CLORURO/POTASIO CLORURO/SODIO CLORURO/LACTATO"
+        ],
+        [
+            "Laboratorio",
+            "PISA FARMACEUTICA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0009131-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

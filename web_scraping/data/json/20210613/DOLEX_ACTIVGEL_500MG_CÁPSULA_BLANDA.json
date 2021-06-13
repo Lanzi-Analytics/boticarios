@@ -1,18 +1,18 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/dolex-activgel-500mg-capsula-blanda-7703363006100/p",
-    "fecha_hora_scraping": "2021-06-13 16:37:22",
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolex-activgel-500mg-capsula-blanda-7703363006094/p",
+    "fecha_hora_scraping": "2021-06-13 16:51:56",
     "titulo": "DOLEX ACTIVGEL 500MG C\u00c1PSULA BLANDA",
     "nombre_imagen": "./web_scraping/data/img/DOLEX_ACTIVGEL_500MG_C\u00c1PSULA_BLANDA.jpg",
-    "presentacion": "FRASCO X 24 CAP",
+    "presentacion": "CAJA X 10 CAP",
     "precio": {
-        "bestPrice": "$25.350",
-        "precioPorSku js-PUM": "Capsula a $1.056,25"
+        "bestPrice": "$12.050",
+        "precioPorSku js-PUM": "Capsula a $1.205,00"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "FRASCO X 24 CAP"
+            "CAJA X 10 CAP"
         ],
         [
             "Concentracion",

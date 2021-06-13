@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703202221275sanofi-aventisabdominal-y-colicomedicamentosbuscapina-fem-20-mg400-mg-comprimidoibuprofeno-hioscina-n-butilbromurocolicos-menstruales-colicos-mestruales-colico-menstrual-colico-mestrual-7703202221275/p",
+    "fecha_hora_scraping": "2021-06-13 16:42:23",
+    "titulo": "BUSCAPINA FEM 20 MG/400 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/BUSCAPINA_FEM_20_MG400_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 6 COMP",
+    "precio": {
+        "bestPrice": "$9.550",
+        "precioPorSku js-PUM": "Comprimido a $1.591,67"
+    },
+    "descripcion": "buscapina fem 20 mg/400 mg comprimido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 COMP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 20 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005595-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/coricidin-05-mg-gotas-pediatricas-7702123009122/p",
+    "fecha_hora_scraping": "2021-06-13 16:39:20",
+    "titulo": "CORICIDIN 0.5 MG GOTAS PEDIATRICAS",
+    "nombre_imagen": "./web_scraping/data/img/CORICIDIN_05_MG_GOTAS_PEDIATRICAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$37.150",
+        "precioPorSku js-PUM": "Mililitro a $1.238,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML 0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN DEXCLORFENIRAMINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-014673-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

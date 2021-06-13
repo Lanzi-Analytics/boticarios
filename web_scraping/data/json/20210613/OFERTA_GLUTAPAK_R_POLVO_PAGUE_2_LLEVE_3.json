@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-glutapak-r-polvo-pague-2-lleve-3-612197735551/p",
+    "fecha_hora_scraping": "2021-06-13 16:45:20",
+    "titulo": "OFERTA GLUTAPAK R POLVO PAGUE 2 LLEVE 3",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_GLUTAPAK_R_POLVO_PAGUE_2_LLEVE_3.jpg",
+    "presentacion": "CAJA X 3 SOB",
+    "precio": {
+        "bestPrice": "$80.650",
+        "precioPorSku js-PUM": "Unidad a $80.650,00"
+    },
+    "descripcion": "oferta glutapak r polvo pague 2 lleve 3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "AMAREY NOVA MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA01I47414"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

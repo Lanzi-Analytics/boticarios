@@ -1,0 +1,38 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/durafex-espalda-forte-capsula-blanda-7702057091163/p",
+    "fecha_hora_scraping": "2021-06-13 16:43:28",
+    "titulo": "DURAFEX ESPALDA FORTE CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/DURAFEX_ESPALDA_FORTE_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 6 CAP",
+    "precio": {
+        "bestPrice": "$12.500",
+        "precioPorSku js-PUM": "Capsula a $2.083,33"
+    },
+    "descripcion": "durafex espalda forte capsula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 CAP"
+        ],
+        [
+            "Concentracion",
+            "325 MG 250 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN NAPROXENO SODIO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018763"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

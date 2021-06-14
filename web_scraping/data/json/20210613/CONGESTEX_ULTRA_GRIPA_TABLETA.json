@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/congestex-ultra-gripa-tableta-7703546033206/p",
+    "fecha_hora_scraping": "2021-06-13 18:48:44",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "CONGESTEX ULTRA GRIPA TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CONGESTEX_ULTRA_GRIPA_TABLETA.jpg",
+    "presentacion": "BLISTER X 4 TAB",
+    "precio": {
+        "bestPrice": "$4.794",
+        "precioPorSku js-PUM": "Tableta a $1.198,44"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 30 MG 20 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CAFEINA ANHIDRA FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0013500-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

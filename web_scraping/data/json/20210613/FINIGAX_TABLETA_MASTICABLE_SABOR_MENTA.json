@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/finigax-tableta-masticable-sabor-menta-7702870072561/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:05",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "FINIGAX TABLETA MASTICABLE SABOR MENTA",
+    "nombre_imagen": "./web_scraping/data/img/FINIGAX_TABLETA_MASTICABLE_SABOR_MENTA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $992,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "125 MG"
+        ],
+        [
+            "Principio activo",
+            "SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-014779-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

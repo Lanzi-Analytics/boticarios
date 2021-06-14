@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clearblu-digital-p-ovulacion-x10un-p-7500435120074/p",
+    "fecha_hora_scraping": "2021-06-13 19:20:13",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|pruebas de embarazo",
+    "titulo": "CLEARBLU DIGITAL P. OVULACION X10UN P&",
+    "nombre_imagen": "./web_scraping/data/img/CLEARBLU_DIGITAL_P_OVULACION_X10UN_P.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "$81.200",
+        "precioPorSku js-PUM": "Unidad a $8.120,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ALCANFOR MENTOL EUCALIPTO ACEITE"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015RD-0003348"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

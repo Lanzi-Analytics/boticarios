@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/docefal-500-mg-tableta-7707355052205/p",
+    "fecha_hora_scraping": "2021-06-13 18:40:19",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "DOCEFAL 500 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DOCEFAL_500_MG_TABLETA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$8.025",
+        "precioPorSku js-PUM": "Tableta a $802,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 30 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CAFEINA ANHIDRA FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-003110-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

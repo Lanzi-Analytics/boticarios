@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pastillas-vick-drops-mentol-7501001305765/p",
+    "fecha_hora_scraping": "2021-06-13 19:16:28",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "PASTILLAS VICK DROPS MENTOL",
+    "nombre_imagen": "./web_scraping/data/img/PASTILLAS_VICK_DROPS_MENTOL.jpg",
+    "presentacion": "SOBRE X 5 UND",
+    "precio": {
+        "bestPrice": "$1.900",
+        "precioPorSku js-PUM": "Unidad a $79,17"
+    },
+    "descripcion": "pastillas vick drops mentol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 5 UND"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "PROPIONATO FLUTICASONA SALMETEROL XINAFOATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16M39896"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707331802398leukoplast-curas-resistente-al-agua-pielmedicamentosventa-libre-7707331802398/p",
+    "fecha_hora_scraping": "2021-06-13 19:00:45",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "LEUKOPLAST CURAS RESISTENTE AL AGUA PIEL",
+    "nombre_imagen": "./web_scraping/data/img/LEUKOPLAST_CURAS_RESISTENTE_AL_AGUA_PIEL.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$5.700",
+        "precioPorSku js-PUM": "Unidad a $285,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013817"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

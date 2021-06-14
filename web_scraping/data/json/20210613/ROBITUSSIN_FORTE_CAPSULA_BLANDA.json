@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/robitussin-forte-capsula-blanda-7702132010799/p",
+    "fecha_hora_scraping": "2021-06-13 18:37:52",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
+    "titulo": "ROBITUSSIN FORTE CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ROBITUSSIN_FORTE_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$13.250",
+        "precioPorSku js-PUM": "Capsula a $1.325,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "GUAIFENESINA  HIDROBROMURO  DEXTROMETORFANO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017284"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

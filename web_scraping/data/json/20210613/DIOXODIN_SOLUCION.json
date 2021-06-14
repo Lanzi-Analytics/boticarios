@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/dioxodin-solucion-7702560007149/p",
-    "fecha_hora_scraping": "2021-06-13 16:35:12",
+    "fecha_hora_scraping": "2021-06-13 18:11:16",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
     "titulo": "DIOXODIN SOLUCION",
     "nombre_imagen": "./web_scraping/data/img/DIOXODIN_SOLUCION.jpg",
     "presentacion": "FRASCO X 60 ML",

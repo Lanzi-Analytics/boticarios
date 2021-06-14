@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alka---seltzer-tableta-efervescente-7702123006787/p",
+    "fecha_hora_scraping": "2021-06-13 18:53:10",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "ALKA - SELTZER TABLETA EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/ALKA__SELTZER_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "BLISTER X 2 TAB",
+    "precio": {
+        "bestPrice": "$1.703",
+        "precioPorSku js-PUM": "Tableta a $851,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "1,976 G 1 G 0.33048 G"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO CITRICO ACIDO ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014024"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

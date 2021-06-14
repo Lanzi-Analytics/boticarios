@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/floratil-250-mg-capsula-dura-7594002621972/p",
+    "fecha_hora_scraping": "2021-06-13 19:10:21",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "FLORATIL 250 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/FLORATIL_250_MG_CAPSULA_DURA.jpg",
+    "presentacion": "BLISTER X 5 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $4.590,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 5 CAP"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "SACCHAROMYCES BOULARDII 17"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0013510-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

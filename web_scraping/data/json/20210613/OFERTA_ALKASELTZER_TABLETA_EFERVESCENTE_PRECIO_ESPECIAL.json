@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-alka-seltzer-tableta-efervescente-precio-especial-7702123006763/p",
+    "fecha_hora_scraping": "2021-06-13 18:52:37",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "OFERTA ALKA-SELTZER TABLETA EFERVESCENTE PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ALKASELTZER_TABLETA_EFERVESCENTE_PRECIO_ESPECIAL.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$11.700",
+        "bestPrice": "$9.945",
+        "precioPorSku js-PUM": "Tableta a $710,36"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "1,976 G 1 G 0,324 G"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO CITRICO ACIDO ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014024"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

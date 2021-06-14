@@ -1,18 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-no-tejida-esteril-3x3-pulgadas-7707228366521/p",
-    "fecha_hora_scraping": "2021-06-13 16:51:35",
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-no-tejida-esteril-3x3-pulgadas-7707228360475/p",
+    "fecha_hora_scraping": "2021-06-13 18:41:41",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
     "titulo": "GASA NO TEJIDA ESTERIL 3X3 PULGADAS",
     "nombre_imagen": "./web_scraping/data/img/GASA_NO_TEJIDA_ESTERIL_3X3_PULGADAS.jpg",
-    "presentacion": "OK",
+    "presentacion": "CAJA X 12 SOB",
     "precio": {
-        "bestPrice": "$500",
-        "precioPorSku js-PUM": "Unidad a $10,00"
+        "bestPrice": "$7.200",
+        "precioPorSku js-PUM": "Sobre a $600,00"
     },
     "descripcion": "gasa no tejida esteril 3x3 pulgadas",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "OK"
+            "CAJA X 12 SOB"
         ],
         [
             "Concentracion",

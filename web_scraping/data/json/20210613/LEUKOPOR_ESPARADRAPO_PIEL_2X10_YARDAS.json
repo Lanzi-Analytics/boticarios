@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leukopor-esparadrapo-piel-2x10-yardas-7707331801957/p",
+    "fecha_hora_scraping": "2021-06-13 18:42:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "LEUKOPOR ESPARADRAPO PIEL 2X10 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/LEUKOPOR_ESPARADRAPO_PIEL_2X10_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$18.900",
+        "precioPorSku js-PUM": "Unidad a $18.900,00"
+    },
+    "descripcion": "leukopor esparadrapo piel 2x10 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013663"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

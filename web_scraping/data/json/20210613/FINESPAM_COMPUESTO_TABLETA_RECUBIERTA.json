@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fin-espam-compuesto-tableta-recubierta-7703038067634/p",
+    "fecha_hora_scraping": "2021-06-13 18:48:24",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|abdominal y colico",
+    "titulo": "FIN-ESPAM COMPUESTO TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FINESPAM_COMPUESTO_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$7.700",
+        "precioPorSku js-PUM": "Tableta a $770,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO LAPROFF SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0017996"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

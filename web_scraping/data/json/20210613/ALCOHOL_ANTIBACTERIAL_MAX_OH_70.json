@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/7702559011201alcohol-antibacterial-max-oh-70medicamentosbotiquin-y-primeros-auxiliosna-7702559011201/p",
-    "fecha_hora_scraping": "2021-06-13 16:47:38",
+    "fecha_hora_scraping": "2021-06-13 18:24:23",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
     "titulo": "ALCOHOL ANTIBACTERIAL MAX OH 70%",
     "nombre_imagen": "./web_scraping/data/img/ALCOHOL_ANTIBACTERIAL_MAX_OH_70.jpg",
     "presentacion": "FRASCO X 500 ML",

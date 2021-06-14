@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/vaselina-con-olor-7707231002294/p",
-    "fecha_hora_scraping": "2021-06-13 16:46:01",
+    "fecha_hora_scraping": "2021-06-13 18:22:40",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "VASELINA CON OLOR",
     "nombre_imagen": "./web_scraping/data/img/VASELINA_CON_OLOR.jpg",
     "presentacion": "CAJA X 105 G",

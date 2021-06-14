@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/broncochem-jarabe-7705713210007/p",
+    "fecha_hora_scraping": "2021-06-13 19:08:22",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "BRONCOCHEM JARABE",
+    "nombre_imagen": "./web_scraping/data/img/BRONCOCHEM_JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $136,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "5.1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CLORHEXIDINA DIGLUCONATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS REMO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012303-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

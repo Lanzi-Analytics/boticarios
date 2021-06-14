@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fixomull-stretch-rollo-15cm-x-10m-bsn-4042809017748/p",
+    "fecha_hora_scraping": "2021-06-13 19:14:33",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "FIXOMULL STRETCH ROLLO 15CM X 10M BSN",
+    "nombre_imagen": "./web_scraping/data/img/FIXOMULL_STRETCH_ROLLO_15CM_X_10M_BSN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$130.300",
+        "bestPrice": "$104.240",
+        "precioPorSku js-PUM": "Unidad a $104.240"
+    },
+    "descripcion": "fixomull stretch rollo 15cm x 10m bsn",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000273-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

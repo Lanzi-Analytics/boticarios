@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/durex-condon-clasico-7501159731133/p",
+    "fecha_hora_scraping": "2021-06-13 19:20:02",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "DUREX CONDON CLASICO",
+    "nombre_imagen": "./web_scraping/data/img/DUREX_CONDON_CLASICO.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$6.755",
+        "bestPrice": "$5.066",
+        "precioPorSku js-PUM": "Unidad a $1.688,67"
+    },
+    "descripcion": "DUREX CONDON CLASICO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0009012"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

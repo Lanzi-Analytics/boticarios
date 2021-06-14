@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nicorette-menta-helada-2mg-tableta-masticable-7891010997823/p",
+    "fecha_hora_scraping": "2021-06-13 18:39:48",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
+    "titulo": "NICORETTE MENTA HELADA 2MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/NICORETTE_MENTA_HELADA_2MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 15TAB",
+    "precio": {
+        "bestPrice": "$63.350",
+        "precioPorSku js-PUM": "Tableta a $2.111,67"
+    },
+    "descripcion": "nicorette menta helada 2mg tableta masticable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG"
+        ],
+        [
+            "Principio activo",
+            "NICOTINA RESINATO"
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013750-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

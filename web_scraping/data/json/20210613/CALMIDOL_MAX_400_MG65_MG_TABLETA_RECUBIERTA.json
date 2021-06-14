@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calmidol-max-400-mg65-mg-tableta-recubierta-7706263200371/p",
+    "fecha_hora_scraping": "2021-06-13 18:46:01",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|abdominal y colico",
+    "titulo": "CALMIDOL MAX 400 MG/65 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CALMIDOL_MAX_400_MG65_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 6 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$8.550",
+        "bestPrice": "$7.267",
+        "precioPorSku js-PUM": "Tableta a $1.211,17"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO CAFEINA ANHIDRA"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009381"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

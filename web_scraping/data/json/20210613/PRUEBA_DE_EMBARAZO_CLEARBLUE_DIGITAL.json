@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prueba-de-embarazo-clearblue-digital-7500435120050/p",
+    "fecha_hora_scraping": "2021-06-13 19:18:26",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|pruebas de embarazo",
+    "titulo": "PRUEBA DE EMBARAZO CLEARBLUE DIGITAL",
+    "nombre_imagen": "./web_scraping/data/img/PRUEBA_DE_EMBARAZO_CLEARBLUE_DIGITAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$32.050",
+        "precioPorSku js-PUM": "Unidad a $32.050,00"
+    },
+    "descripcion": "prueba de embarazo clearblue digital",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "SALICILICO ACIDO LACTICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015RD-0003353"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

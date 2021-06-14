@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pedialyte-max-60-con-zinc-solucion-oral-coco-7501033961540/p",
+    "fecha_hora_scraping": "2021-06-13 18:34:52",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "PEDIALYTE MAX 60 CON ZINC SOLUCI\u00d3N ORAL COCO",
+    "nombre_imagen": "./web_scraping/data/img/PEDIALYTE_MAX_60_CON_ZINC_SOLUCI\u00d3N_ORAL_COCO.jpg",
+    "presentacion": "FCO X 500ML",
+    "precio": {
+        "bestPrice": "$6.600",
+        "precioPorSku js-PUM": "Mililitro a $13,20"
+    },
+    "descripcion": "pedialyte max 60 con zinc soluci\u00f3n oral coco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FCO X 500ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "DEXTROSA/POTASIO CLORURO/SODIO CITRATO/SODIO CLORURO/ZINC GLUCONATO"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011256-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

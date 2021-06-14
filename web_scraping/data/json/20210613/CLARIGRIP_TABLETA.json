@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clarigrip-tableta-7702123011835/p",
+    "fecha_hora_scraping": "2021-06-13 18:58:19",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "CLARIGRIP TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CLARIGRIP_TABLETA.jpg",
+    "presentacion": "BLISTER X 4 TAB",
+    "precio": {
+        "bestPrice": "$6.552",
+        "precioPorSku js-PUM": "Tableta a $1.638,00"
+    },
+    "descripcion": "clarigrip tableta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 5 MG 2 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN FENILEFRINA CLORHIDRATO CLORFENIRAMINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-014871-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

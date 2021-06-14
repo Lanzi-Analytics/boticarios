@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/frebini-energy-fibre-bebida-vainilla-7709485238948/p",
-    "fecha_hora_scraping": "2021-06-13 16:29:05",
+    "fecha_hora_scraping": "2021-06-13 18:04:37",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
     "titulo": "FREBINI ENERGY FIBRE BEBIDA VAINILLA",
     "nombre_imagen": "./web_scraping/data/img/FREBINI_ENERGY_FIBRE_BEBIDA_VAINILLA.jpg",
     "presentacion": "FRASCO X 200 ML",

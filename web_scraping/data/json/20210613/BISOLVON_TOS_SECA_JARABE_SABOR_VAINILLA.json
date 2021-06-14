@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bisolvon-tos-seca-jarabe-sabor-vainilla-7703202221381/p",
+    "fecha_hora_scraping": "2021-06-13 18:47:26",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
+    "titulo": "BISOLVON TOS SECA JARABE SABOR VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/BISOLVON_TOS_SECA_JARABE_SABOR_VAINILLA.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$25.350",
+        "precioPorSku js-PUM": "Mililitro a $211,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DEXTROMETORFANO BROMOHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009150"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

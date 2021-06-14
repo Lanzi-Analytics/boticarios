@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/begut-curitas-adhesivas-color-piel-7707282990410/p",
+    "fecha_hora_scraping": "2021-06-13 19:05:16",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "BEGUT CURITAS ADHESIVAS COLOR PIEL",
+    "nombre_imagen": "./web_scraping/data/img/BEGUT_CURITAS_ADHESIVAS_COLOR_PIEL.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $67,00"
+    },
+    "descripcion": "BEGUT CURITAS ADHESIVAS COLOR PIEL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SEVENPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016502"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

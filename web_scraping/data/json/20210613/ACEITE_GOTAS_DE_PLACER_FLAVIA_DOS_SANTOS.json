@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-gotas-de-placer-7709053556047/p",
+    "fecha_hora_scraping": "2021-06-13 19:18:54",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "ACEITE GOTAS DE PLACER FLAVIA DOS SANTOS",
+    "nombre_imagen": "./web_scraping/data/img/ACEITE_GOTAS_DE_PLACER_FLAVIA_DOS_SANTOS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$51.950",
+        "precioPorSku js-PUM": "Mililitro a $5.195,00"
+    },
+    "descripcion": "aceite gotas de placer flavia dos santos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRAZER SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

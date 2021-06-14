@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-nexcare-gasa-esteril-pague-9und-lleve-12und-7702098039902/p",
+    "fecha_hora_scraping": "2021-06-13 18:52:48",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "OFERTA NEXCARE GASA EST\u00c9RIL PAGUE: 9UND LLEVE: 12UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_NEXCARE_GASA_EST\u00c9RIL_PAGUE_9UND_LLEVE_12UND.jpg",
+    "presentacion": "CAJA X 12 UN",
+    "precio": {
+        "bestPrice": "$7.400",
+        "precioPorSku js-PUM": "Unidad a $308,33"
+    },
+    "descripcion": "oferta nexcare gasa est\u00e9ril pague: 9und lleve: 12und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007696"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

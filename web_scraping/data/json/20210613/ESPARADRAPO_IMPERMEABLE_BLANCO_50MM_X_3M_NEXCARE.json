@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esparadrapo-impermeable-blanco-50mm-x-3m-nexcare-7891040090570/p",
+    "fecha_hora_scraping": "2021-06-13 18:40:24",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "ESPARADRAPO IMPERMEABLE BLANCO 50MM X 3M NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/ESPARADRAPO_IMPERMEABLE_BLANCO_50MM_X_3M_NEXCARE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$13.050",
+        "precioPorSku js-PUM": "Unidad a $13.050,00"
+    },
+    "descripcion": "esparadrapo impermeable blanco 50mm x 3m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0014312"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

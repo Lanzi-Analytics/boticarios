@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leche-de-magnesia-phillips-menta-7502253072900/p",
+    "fecha_hora_scraping": "2021-06-13 18:56:18",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "LECHE DE MAGNESIA PHILLIPS MENTA",
+    "nombre_imagen": "./web_scraping/data/img/LECHE_DE_MAGNESIA_PHILLIPS_MENTA.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$6.100",
+        "precioPorSku js-PUM": "Mililitro a $50,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "83 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MAGNESIO HIDROXIDO"
+        ],
+        [
+            "Laboratorio",
+            "ASPEN COLOMBIANA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002362-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

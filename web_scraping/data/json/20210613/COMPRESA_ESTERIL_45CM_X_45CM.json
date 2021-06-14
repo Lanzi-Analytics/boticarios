@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/compresa-esteril-45cm-x-45cm-7707178253636/p",
+    "fecha_hora_scraping": "2021-06-13 19:14:40",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "COMPRESA ESTERIL 45CM X 45CM",
+    "nombre_imagen": "./web_scraping/data/img/COMPRESA_ESTERIL_45CM_X_45CM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$2.300",
+        "precioPorSku js-PUM": "Unidad a $2.300,00"
+    },
+    "descripcion": "compresa esteril 45cm x 45cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SHERLEG LABORATORIES SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0002239-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

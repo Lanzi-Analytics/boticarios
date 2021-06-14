@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/congestex-capsula-dura-7703546030601/p",
-    "fecha_hora_scraping": "2021-06-13 16:32:46",
+    "fecha_hora_scraping": "2021-06-13 18:08:35",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
     "titulo": "CONGESTEX CAPSULA DURA",
     "nombre_imagen": "./web_scraping/data/img/CONGESTEX_CAPSULA_DURA.jpg",
     "presentacion": "BLISTER X 4 CAP",

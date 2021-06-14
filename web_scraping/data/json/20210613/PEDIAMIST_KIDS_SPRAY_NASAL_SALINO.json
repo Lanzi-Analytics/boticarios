@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pediamist-kids-spray-nasal-salino-705928500754/p",
+    "fecha_hora_scraping": "2021-06-13 18:56:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "PEDIAMIST KIDS SPRAY NASAL SALINO",
+    "nombre_imagen": "./web_scraping/data/img/PEDIAMIST_KIDS_SPRAY_NASAL_SALINO.jpg",
+    "presentacion": "FRASCO X 75ML",
+    "precio": {
+        "bestPrice": "$52.450",
+        "precioPorSku js-PUM": "Mililitro a $699,33"
+    },
+    "descripcion": "pediamist kids spray nasal salino",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 75ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEILMED LATAM COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0014204"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

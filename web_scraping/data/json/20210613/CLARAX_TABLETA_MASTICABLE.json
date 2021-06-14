@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clarax-tableta-masticable-7703234101248/p",
+    "fecha_hora_scraping": "2021-06-13 18:48:14",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "CLARAX TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/CLARAX_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$10.850",
+        "precioPorSku js-PUM": "Tableta a $904,17"
+    },
+    "descripcion": "clarax tableta masticable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "4 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORHEXIDINA DIACETATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2007M-006848R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

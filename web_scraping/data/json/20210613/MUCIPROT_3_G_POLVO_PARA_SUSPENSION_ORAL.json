@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/muciprot-3-g-polvo-para-suspension-oral-7702057012977/p",
+    "fecha_hora_scraping": "2021-06-13 18:56:45",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "MUCIPROT 3 G POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/MUCIPROT_3_G_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$3.721",
+        "precioPorSku js-PUM": "Unidad a $3.720,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "3000 MG"
+        ],
+        [
+            "Principio activo",
+            "DIOSMECTITA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016381"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

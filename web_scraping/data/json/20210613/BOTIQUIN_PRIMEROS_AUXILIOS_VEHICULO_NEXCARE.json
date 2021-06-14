@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/botiquin-primeros-auxilios-vehiculo-nexcare-7702098028982/p",
+    "fecha_hora_scraping": "2021-06-13 18:59:22",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "BOTIQUIN PRIMEROS AUXILIOS VEHICULO NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/BOTIQUIN_PRIMEROS_AUXILIOS_VEHICULO_NEXCARE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$37.450",
+        "precioPorSku js-PUM": "Unidad a $37.450,00"
+    },
+    "descripcion": "botiquin primeros auxilios vehiculo nexc",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007696"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

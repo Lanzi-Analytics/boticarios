@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-today-lubricado-condon-pague-6und-lleve-8und-7702132047610/p",
+    "fecha_hora_scraping": "2021-06-13 19:19:04",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "OFERTA TODAY LUBRICADO COND\u00d3N PAGUE: 6UND LLEVE: 8UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TODAY_LUBRICADO_COND\u00d3N_PAGUE_6UND_LLEVE_8UND.jpg",
+    "presentacion": "CAJA X 8 UN",
+    "precio": {
+        "bestPrice": "$18.500",
+        "precioPorSku js-PUM": "Unidad a $3.083,33"
+    },
+    "descripcion": "oferta today lubricado cond\u00f3n pague: 6und lleve: 8und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0000779-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

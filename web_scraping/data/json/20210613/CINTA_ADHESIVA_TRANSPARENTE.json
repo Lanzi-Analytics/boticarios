@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707228411924m-p-promedicalalgodon-curas-gasas-y-vendasmedicamentoscinta-adhesiva-transparente-7707228411924/p",
+    "fecha_hora_scraping": "2021-06-13 18:36:16",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CINTA ADHESIVA TRANSPARENTE",
+    "nombre_imagen": "./web_scraping/data/img/CINTA_ADHESIVA_TRANSPARENTE.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "$3.650",
+        "precioPorSku js-PUM": "Unidad a $36,50"
+    },
+    "descripcion": "cinta adhesiva transparente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "M P PROMEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005836"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

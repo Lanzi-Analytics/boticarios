@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lomecan-v-200-g-ovulo-vaginal-650240030840/p",
+    "fecha_hora_scraping": "2021-06-13 19:17:38",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "LOMECAN ANTIMICOTICO 3 OVULOS",
+    "nombre_imagen": "./web_scraping/data/img/LOMECAN_ANTIMICOTICO_3_OVULOS.jpg",
+    "presentacion": "CAJA X 3 OVU",
+    "precio": {
+        "bestPrice": "$36.350",
+        "precioPorSku js-PUM": "Unidad a $12.116,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 OVU"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016822"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

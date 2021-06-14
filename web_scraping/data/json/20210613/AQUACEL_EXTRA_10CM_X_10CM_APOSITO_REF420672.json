@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/768455125616boston-medicalalgodon-curas-gasas-y-vendasmedicamentosaquacel-extra-10cm-x-10cm-aposito-ref420672-768455125616/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:15",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "AQUACEL EXTRA 10CM X 10CM APOSITO REF420672",
+    "nombre_imagen": "./web_scraping/data/img/AQUACEL_EXTRA_10CM_X_10CM_APOSITO_REF420672.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "$40.450",
+        "precioPorSku js-PUM": "Unidad a $40.450,00"
+    },
+    "descripcion": "aquacel extra 10cm x 10cm aposito ref420",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000461-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/7709857301812barra-de-chocolate-con-probioticosvitamina-d3medicamentosventa-librena-7709857301812/p",
-    "fecha_hora_scraping": "2021-06-13 16:47:57",
+    "fecha_hora_scraping": "2021-06-13 18:24:42",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "BIORELA CHOCO DAILY CON PROBIOTICO + VITAMINA D3",
     "nombre_imagen": "./web_scraping/data/img/BIORELA_CHOCO_DAILY_CON_PROBIOTICO__VITAMINA_D3.jpg",
     "presentacion": "CAJA X 30 UN",

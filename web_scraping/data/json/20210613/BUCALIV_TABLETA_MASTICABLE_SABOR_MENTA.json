@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bucaliv-tableta-masticable-sabor-menta-7702870100721/p",
+    "fecha_hora_scraping": "2021-06-13 18:49:15",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "BUCALIV TABLETA MASTICABLE SABOR MENTA",
+    "nombre_imagen": "./web_scraping/data/img/BUCALIV_TABLETA_MASTICABLE_SABOR_MENTA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$12.450",
+        "precioPorSku js-PUM": "Tableta a $1.037,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG 0.2 MG"
+        ],
+        [
+            "Principio activo",
+            "CETILPIRIDINIO CLORURO BENOXINATO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008666"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

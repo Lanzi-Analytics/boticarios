@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clean-solucion-topica-sanitizante-7706976546889/p",
+    "fecha_hora_scraping": "2021-06-13 19:02:58",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "clean solucion topica sanitizante",
+    "nombre_imagen": "./web_scraping/data/img/clean_solucion_topica_sanitizante.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$11.550",
+        "precioPorSku js-PUM": "Mililitro a $23,10"
+    },
+    "descripcion": "clean solucion topica sanitizante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS MEREY LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99385-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/yodopovidona-espuma-7707231000122/p",
+    "fecha_hora_scraping": "2021-06-13 19:06:30",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "YODOPOVIDONA ESPUMA",
+    "nombre_imagen": "./web_scraping/data/img/YODOPOVIDONA_ESPUMA.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $87,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "0,008 G/ML"
+        ],
+        [
+            "Principio activo",
+            "YODOPOVIDONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009594"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

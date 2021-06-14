@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diosmit-3g-polvo-para-suspension-oral-7709990568202/p",
+    "fecha_hora_scraping": "2021-06-13 18:39:53",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "DIOSMIT 3G POLVO PARA SUSPENSI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/DIOSMIT_3G_POLVO_PARA_SUSPENSI\u00d3N_ORAL.jpg",
+    "presentacion": "SOBRE",
+    "precio": {
+        "bestPrice": "$4.900",
+        "precioPorSku js-PUM": "Gramo a $1.633,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE"
+        ],
+        [
+            "Concentracion",
+            "3 G"
+        ],
+        [
+            "Principio activo",
+            "DIOSMECTITA"
+        ],
+        [
+            "Laboratorio",
+            "N T I NEW TRADE INTERNACIONAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0007607-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

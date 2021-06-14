@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidraplus-60-meq--zinc-solucion-oral-manzana-7702057012823/p",
+    "fecha_hora_scraping": "2021-06-13 18:32:52",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "HIDRAPLUS 60 MEQ + ZINC SOLUCION ORAL MANZANA",
+    "nombre_imagen": "./web_scraping/data/img/HIDRAPLUS_60_MEQ__ZINC_SOLUCION_ORAL_MANZANA.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$8.000",
+        "precioPorSku js-PUM": "Mililitro a $20,00"
+    },
+    "descripcion": "hidraplus 60 meq + zinc solucion oral ma",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "175 MG 289.2 MG 150.6 MG"
+        ],
+        [
+            "Principio activo",
+            "DEXTROSA/POTASIO CLORURO/SODIO CITRATO/SODIO CLORURO/ZINC GLUCONATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015692"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

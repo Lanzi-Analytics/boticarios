@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/nicorette-4-mg-tableta-masticable-sabor-menta-helada-7891010997830/p",
-    "fecha_hora_scraping": "2021-06-13 16:45:45",
+    "fecha_hora_scraping": "2021-06-13 18:22:24",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "NICORETTE 4 MG TABLETA MASTICABLE SABOR MENTA HELADA",
     "nombre_imagen": "./web_scraping/data/img/NICORETTE_4_MG_TABLETA_MASTICABLE_SABOR_MENTA_HELADA.jpg",
     "presentacion": "CAJA X 30 TAB",

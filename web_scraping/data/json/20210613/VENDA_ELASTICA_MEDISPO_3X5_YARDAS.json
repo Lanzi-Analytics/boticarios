@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-elastica-medispo-3x5-yardas-7707270363608/p",
+    "fecha_hora_scraping": "2021-06-13 18:41:17",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "VENDA ELASTICA MEDISPO 3X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_ELASTICA_MEDISPO_3X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Unidad a $1.750,00"
+    },
+    "descripcion": "venda elastica medispo 3x5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROTEX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011470"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

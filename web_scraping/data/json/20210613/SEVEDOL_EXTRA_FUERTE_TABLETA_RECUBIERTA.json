@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sevedol-extra-fuerte-tableta-recubierta-7702870070536/p",
+    "fecha_hora_scraping": "2021-06-13 18:37:46",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "SEVEDOL EXTRA FUERTE TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/SEVEDOL_EXTRA_FUERTE_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 16 TAB",
+    "precio": {
+        "bestPrice": "$23.750",
+        "precioPorSku js-PUM": "Tableta a $1.484,38"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 16 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG 250 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO ACETAMINOFEN CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008219-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

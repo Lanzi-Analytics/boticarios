@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cronoderm-fem-emulsion-7707279930030/p",
+    "fecha_hora_scraping": "2021-06-13 19:19:21",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "CRONODERM FEM EMULSI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/CRONODERM_FEM_EMULSI\u00d3N.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$61.600",
+        "precioPorSku js-PUM": "Gramo a $1.232,00"
+    },
+    "descripcion": "CRONODERM FEM EMULSI\u00d3N",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GADOR SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80888-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

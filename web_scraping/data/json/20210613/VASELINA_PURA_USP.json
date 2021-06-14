@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/vaselina-pura-usp-7707231002270/p",
-    "fecha_hora_scraping": "2021-06-13 16:45:30",
+    "fecha_hora_scraping": "2021-06-13 18:22:08",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "VASELINA PURA USP",
     "nombre_imagen": "./web_scraping/data/img/VASELINA_PURA_USP.jpg",
     "presentacion": "POTE X 460 G",

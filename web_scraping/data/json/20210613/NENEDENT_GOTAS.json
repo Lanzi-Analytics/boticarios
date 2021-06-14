@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nene-dent-gotas-7702418000414/p",
+    "fecha_hora_scraping": "2021-06-13 18:32:47",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "NENE-DENT GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/NENEDENT_GOTAS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$18.750",
+        "precioPorSku js-PUM": "Mililitro a $1.875,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "5.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009375-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidranta-zinc-60-meq-solucion-oral-sabor-cherry-7703454123037/p",
+    "fecha_hora_scraping": "2021-06-13 18:50:11",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "HIDRANTA ZINC 60 MEQ SOLUCION ORAL SABOR CHERRY",
+    "nombre_imagen": "./web_scraping/data/img/HIDRANTA_ZINC_60_MEQ_SOLUCION_ORAL_SABOR_CHERRY.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$9.050",
+        "precioPorSku js-PUM": "Mililitro a $18,10"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0014646-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

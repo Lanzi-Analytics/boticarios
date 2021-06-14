@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/buscapina-compositum-nf-gotas-7703202221305/p",
+    "fecha_hora_scraping": "2021-06-13 18:46:33",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|abdominal y colico",
+    "titulo": "BUSCAPINA COMPOSITUM NF GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/BUSCAPINA_COMPOSITUM_NF_GOTAS.jpg",
+    "presentacion": "FRASCO X 30ML",
+    "precio": {
+        "bestPrice": "$28.400",
+        "precioPorSku js-PUM": "Mililitro a $2.840,00"
+    },
+    "descripcion": "buscapina compositum nf gotas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG 2 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-004553-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

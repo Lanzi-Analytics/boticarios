@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/parche-leon-hansaplast-7702003459016/p",
+    "fecha_hora_scraping": "2021-06-13 18:59:55",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "PARCHE LEON HANSAPLAST",
+    "nombre_imagen": "./web_scraping/data/img/PARCHE_LEON_HANSAPLAST.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$10.850",
+        "precioPorSku js-PUM": "Unidad a $10.850,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "4.8 MG"
+        ],
+        [
+            "Principio activo",
+            "CAPSAICINA"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0002817-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-today-mutual-sensitive-pague-6und-lleve-8und-7702132018665/p",
+    "fecha_hora_scraping": "2021-06-13 19:26:44",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "OFERTA TODAY MUTUAL SENSITIVE PAGUE: 6UND LLEVE: 8UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TODAY_MUTUAL_SENSITIVE_PAGUE_6UND_LLEVE_8UND.jpg",
+    "presentacion": "CAJA X 8 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $3.633,33"
+    },
+    "descripcion": "oferta today mutual sensitive pague: 6und lleve: 8und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0012169"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

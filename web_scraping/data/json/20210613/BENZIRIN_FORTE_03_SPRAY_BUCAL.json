@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benzirin-forte-03-spray-bucal-7702057010478/p",
+    "fecha_hora_scraping": "2021-06-13 18:54:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "BENZIRIN FORTE 0.3% SPRAY BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/BENZIRIN_FORTE_03_SPRAY_BUCAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$42.800",
+        "precioPorSku js-PUM": "Mililitro a $356,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BENZIDAMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0006145-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

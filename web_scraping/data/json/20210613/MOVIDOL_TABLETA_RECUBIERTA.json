@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/movidol-tableta-recubierta-7702870004104/p",
+    "fecha_hora_scraping": "2021-06-13 18:53:25",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "MOVIDOL TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/MOVIDOL_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$15.150",
+        "precioPorSku js-PUM": "Tableta a $1.262,50"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. si los s\u00edntomas persisten consulte a su m\u00e9dico. leer indicaciones y contraindicaciones en el inserto. analg\u00e9sico, antipir\u00e9tico. reg. sanitario invima 2018m-0008693-r1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG 250 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN NAPROXENO SODIO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008693-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

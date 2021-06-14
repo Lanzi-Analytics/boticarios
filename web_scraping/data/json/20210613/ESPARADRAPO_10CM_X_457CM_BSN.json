@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esparadrapo-10cm-x-457cm-bsn-7707331800509/p",
+    "fecha_hora_scraping": "2021-06-13 18:43:14",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "ESPARADRAPO 10CM X 4.57CM BSN",
+    "nombre_imagen": "./web_scraping/data/img/ESPARADRAPO_10CM_X_457CM_BSN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$38.100",
+        "precioPorSku js-PUM": "Unidad a $38.100,00"
+    },
+    "descripcion": "esparadrapo 10cm x 4.57cm bsn",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0006944"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

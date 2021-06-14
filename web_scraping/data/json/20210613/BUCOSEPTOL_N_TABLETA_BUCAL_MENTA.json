@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bucoseptol-n-tableta-bucal-menta-7706142230512/p",
+    "fecha_hora_scraping": "2021-06-13 18:32:56",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "BUCOSEPTOL N TABLETA BUCAL MENTA",
+    "nombre_imagen": "./web_scraping/data/img/BUCOSEPTOL_N_TABLETA_BUCAL_MENTA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$9.050",
+        "precioPorSku js-PUM": "Tableta a $905,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG 1,4 MG"
+        ],
+        [
+            "Principio activo",
+            "BENZOCAINA CETILPIRIDINIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NEO LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015350"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

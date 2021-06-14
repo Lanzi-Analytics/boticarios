@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/acerumen-spray-3518646058233/p",
-    "fecha_hora_scraping": "2021-06-13 16:46:22",
+    "fecha_hora_scraping": "2021-06-13 18:23:02",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "ACERUMEN SPRAY",
     "nombre_imagen": "./web_scraping/data/img/ACERUMEN_SPRAY.jpg",
     "presentacion": "FRASCO X 40 ML",

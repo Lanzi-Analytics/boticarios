@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/epiten-solucion-7707351591258/p",
-    "fecha_hora_scraping": "2021-06-13 16:36:37",
+    "fecha_hora_scraping": "2021-06-13 18:13:00",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "EPITEN SOLUCION",
     "nombre_imagen": "./web_scraping/data/img/EPITEN_SOLUCION.jpg",
     "presentacion": "FRASCO X 10 ML",

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-mutal-sensation-doble-lubricacion-7702132009984/p",
+    "fecha_hora_scraping": "2021-06-13 19:22:08",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON TODAY MUTAL SENSATION DOBLE LUBRICACION",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_TODAY_MUTAL_SENSATION_DOBLE_LUBRICACION.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$22.400",
+        "precioPorSku js-PUM": "Unidad a $3.733,33"
+    },
+    "descripcion": "condon today mutal sensation doble lubri",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO FENILEFRINA CLORHIDRATO CLORFENIRAMINA"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0012169"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

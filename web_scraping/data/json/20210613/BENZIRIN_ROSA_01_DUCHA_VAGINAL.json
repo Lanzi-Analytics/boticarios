@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benzirin-rosa-01-ducha-vaginal-7702057016302/p",
+    "fecha_hora_scraping": "2021-06-13 19:24:48",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "BENZIRIN ROSA 0.1% DUCHA VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/BENZIRIN_ROSA_01_DUCHA_VAGINAL.jpg",
+    "presentacion": "FRASCO X 140ML",
+    "precio": {
+        "bestPrice": "$26.950",
+        "precioPorSku js-PUM": "Mililitro a $192,50"
+    },
+    "descripcion": "benzirin rosa 0.1% ducha vaginal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 140ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BENCIDAMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-004982-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

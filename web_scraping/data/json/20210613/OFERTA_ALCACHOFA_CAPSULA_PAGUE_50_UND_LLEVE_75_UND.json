@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707232090023natural-freshlynaturalesmedicamentosoferta-alcachofa-capsula-pague-50-und-lleve-75-undpolvo-hoja-alcachofa-7707232090023/p",
+    "fecha_hora_scraping": "2021-06-13 19:30:37",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "OFERTA ALCACHOFA CAPSULA PAGUE: 50 UND LLEVE: 75 UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ALCACHOFA_CAPSULA_PAGUE_50_UND_LLEVE_75_UND.jpg",
+    "presentacion": "FRASCO X 75 UN",
+    "precio": {
+        "bestPrice": "$20.800",
+        "precioPorSku js-PUM": "Unidad a $416,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 75 UN"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "POLVO HOJA ALCACHOFA"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2010-0001430"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cureband-premium-curas-ninos-dc-super-friends-7702057645632/p",
+    "fecha_hora_scraping": "2021-06-13 18:56:39",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CUREBAND PREMIUM CURAS NI\u00d1OS DC SUPER FRIENDS",
+    "nombre_imagen": "./web_scraping/data/img/CUREBAND_PREMIUM_CURAS_NI\u00d1OS_DC_SUPER_FRIENDS.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "bestPrice": "$10.650",
+        "precioPorSku js-PUM": "Unidad a $426,00"
+    },
+    "descripcion": "cureband premium curas ni\u00f1os dc super friends",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000411-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

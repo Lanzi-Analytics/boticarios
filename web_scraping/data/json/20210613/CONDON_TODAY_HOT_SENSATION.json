@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-hot-sensation-7702132007706/p",
+    "fecha_hora_scraping": "2021-06-13 19:24:58",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON TODAY HOT SENSATION",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_TODAY_HOT_SENSATION.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$12.750",
+        "precioPorSku js-PUM": "Unidad a $4.250,00"
+    },
+    "descripcion": "condon today hot sensation",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0000058-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

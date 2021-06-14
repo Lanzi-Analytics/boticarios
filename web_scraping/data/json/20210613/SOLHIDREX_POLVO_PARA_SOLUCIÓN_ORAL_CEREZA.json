@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/solhidrex-polvo-para-solucion-oral-cereza-1000001831886/p",
+    "fecha_hora_scraping": "2021-06-13 18:51:42",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "SOLHIDREX POLVO PARA SOLUCI\u00d3N ORAL CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/SOLHIDREX_POLVO_PARA_SOLUCI\u00d3N_ORAL_CEREZA.jpg",
+    "presentacion": "SOBRE",
+    "precio": {
+        "bestPrice": "$1.100",
+        "precioPorSku js-PUM": "Gramo a $38,73"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE"
+        ],
+        [
+            "Concentracion",
+            "20 G 3,50 G 2,90 G"
+        ],
+        [
+            "Principio activo",
+            "DEXTROSA ANHIDRA SODIO CITRATO DIHIDRATO POTASIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO INTERNACIONAL DE COLOMB"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007276"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

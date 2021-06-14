@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-sterisponges-75cm-x-75cm-7707178254152/p",
+    "fecha_hora_scraping": "2021-06-13 18:46:43",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA STERISPONGES 7.5CM X 7.5CM",
+    "nombre_imagen": "./web_scraping/data/img/GASA_STERISPONGES_75CM_X_75CM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$200",
+        "precioPorSku js-PUM": "Unidad a $200,00"
+    },
+    "descripcion": "gasa sterisponges 7.5cm x 7.5cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SHERLEG LABORATORIES SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009DM-0004119"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

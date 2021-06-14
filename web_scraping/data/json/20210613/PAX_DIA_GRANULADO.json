@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/pax-dia-granulado-7706263200609/p",
-    "fecha_hora_scraping": "2021-06-13 16:30:53",
+    "fecha_hora_scraping": "2021-06-13 18:06:20",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
     "titulo": "PAX DIA GRANULADO",
     "nombre_imagen": "./web_scraping/data/img/PAX_DIA_GRANULADO.jpg",
     "presentacion": "CAJA X 6 SOB",

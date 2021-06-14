@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dienille-2mg003mg-comprimido-recubierto-8437009433584/p",
+    "fecha_hora_scraping": "2021-06-13 18:39:07",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
+    "titulo": "ZEROSODIO 0",
+    "nombre_imagen": "./web_scraping/data/img/ZEROSODIO_0.jpg",
+    "presentacion": "FRASCO X 250 G",
+    "precio": {
+        "bestPrice": "$31.250",
+        "precioPorSku js-PUM": "Gramo a $125,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007869-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

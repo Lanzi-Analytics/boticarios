@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/sal-bonfiest-polvo-efervescente-7702057802424/p",
-    "fecha_hora_scraping": "2021-06-13 16:40:24",
+    "fecha_hora_scraping": "2021-06-13 18:16:54",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "SAL BONFIEST POLVO EFERVESCENTE",
     "nombre_imagen": "./web_scraping/data/img/SAL_BONFIEST_POLVO_EFERVESCENTE.jpg",
     "presentacion": "CAJA X 6 SOB",

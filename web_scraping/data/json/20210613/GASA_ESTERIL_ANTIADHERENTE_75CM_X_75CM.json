@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-esteril-antiadherente-75cm-x-75cm-7702560039362/p",
+    "fecha_hora_scraping": "2021-06-13 19:15:06",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA ESTERIL ANTIADHERENTE 7.5CM X 7.5CM",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_ANTIADHERENTE_75CM_X_75CM.jpg",
+    "presentacion": "CAJA X 9 SOB",
+    "precio": {
+        "bestPrice": "$5.750",
+        "precioPorSku js-PUM": "Unidad a $319,44"
+    },
+    "descripcion": "gasa esteril antiadherente 7.5cm x 7.5cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 9 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015601"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

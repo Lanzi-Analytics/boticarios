@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707178251359sherlegalgodon-curas-gasas-y-vendasmedicamentoscompresa-gasa-45cm-x-45-cmgasas-gaza-gazas-compresas-esteriles-compresa-compresas-7707178251359/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:26",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "COMPRESA GASA 45CM X 45 CM",
+    "nombre_imagen": "./web_scraping/data/img/COMPRESA_GASA_45CM_X_45_CM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.033,00"
+    },
+    "descripcion": "compresa gasa 45cm x 45 cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SHERLEG LABORATORIES SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0002239-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702796830009industria-tecnica-de-maderasalgodon-curas-gasas-y-vendasmedicamentosmicropor-piel-kennedy-12x5-yardasmicroporo-micropor-micropore-cinta-micropore-cinta-microporo-cinta-microporosa-cinta-micropor-7702796830009/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:36",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "MICROPOR PIEL KENNEDY 1/2X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/MICROPOR_PIEL_KENNEDY_12X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.200,00"
+    },
+    "descripcion": "micropor piel kennedy 1/2x5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA TECNICA DE MADERAS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003331-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

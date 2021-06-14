@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-cureband-premium-impermeables-surtidas-7702136646567/p",
+    "fecha_hora_scraping": "2021-06-13 18:55:31",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS CUREBAND PREMIUM IMPERMEABLES SURTIDAS",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_CUREBAND_PREMIUM_IMPERMEABLES_SURTIDAS.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$9.250",
+        "precioPorSku js-PUM": "Unidad a $308,33"
+    },
+    "descripcion": "curas cureband premium impermeables surt",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000411-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-tejida-esteril-4x4-pulgadas-7707228360482/p",
+    "fecha_hora_scraping": "2021-06-13 18:45:45",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA TEJIDA ESTERIL 4X4 PULGADAS",
+    "nombre_imagen": "./web_scraping/data/img/GASA_TEJIDA_ESTERIL_4X4_PULGADAS.jpg",
+    "presentacion": "CAJA X 12 SOB",
+    "precio": {
+        "bestPrice": "$11.650",
+        "precioPorSku js-PUM": "Sobre a $970,83"
+    },
+    "descripcion": "gasa no tejida esteril 4x4 pulgadas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003258-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mucinex-600-mg-tableta-de-liberacion-prolongada-7702626208572/p",
+    "fecha_hora_scraping": "2021-06-13 18:53:41",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
+    "titulo": "MUCINEX 600 MG TABLETA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/MUCINEX_600_MG_TABLETA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$34.000",
+        "precioPorSku js-PUM": "Tableta a $1.700,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "GUAIFENESINA"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012521-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/intibon-medicado-2--crema-vaginal-7702870103753/p",
+    "fecha_hora_scraping": "2021-06-13 19:18:43",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "INTIBON MEDICADO 2 % CREMA VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/INTIBON_MEDICADO_2__CREMA_VAGINAL.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$24.350",
+        "precioPorSku js-PUM": "Gramo a $1.217,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "2 G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018324"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

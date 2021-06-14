@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-sin-lubricante-7702132002626/p",
+    "fecha_hora_scraping": "2021-06-13 19:23:45",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON TODAY SIN LUBRICANTE",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_TODAY_SIN_LUBRICANTE.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$8.100",
+        "precioPorSku js-PUM": "Unidad a $2.700,00"
+    },
+    "descripcion": "condon today sin lubricante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0000779-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

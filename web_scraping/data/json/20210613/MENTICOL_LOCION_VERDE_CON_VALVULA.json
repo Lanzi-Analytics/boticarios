@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702277121015belleza-expressantisepticosmedicamentosmenticol-locion-verde-con-valvulaanticeptico-anticepticoslidocaina-clorhidrato-7702277121015/p",
+    "fecha_hora_scraping": "2021-06-13 18:30:21",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "MENTICOL LOCION VERDE CON VALVULA",
+    "nombre_imagen": "./web_scraping/data/img/MENTICOL_LOCION_VERDE_CON_VALVULA.jpg",
+    "presentacion": "FRASCO X 130 ML",
+    "precio": {
+        "PrevPrice": "Antes:$10.600",
+        "bestPrice": "$9.540",
+        "precioPorSku js-PUM": "Mililitro a $73,39"
+    },
+    "descripcion": "menticol locion verde con valvula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 130 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC34179-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

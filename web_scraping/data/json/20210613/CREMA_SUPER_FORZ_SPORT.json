@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-super-forz-sport-7707210530749/p",
+    "fecha_hora_scraping": "2021-06-13 19:14:23",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "CREMA SUPER FORZ SPORT",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_SUPER_FORZ_SPORT.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$23.600",
+        "precioPorSku js-PUM": "Gramo a $393,33"
+    },
+    "descripcion": "crema super forz sport",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66742-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

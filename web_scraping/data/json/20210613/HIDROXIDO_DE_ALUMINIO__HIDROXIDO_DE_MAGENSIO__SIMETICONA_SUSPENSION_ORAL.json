@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidroxido-de-aluminio--hidroxido-de-magensio--simeticona-suspension-oral-7702057713416/p",
+    "fecha_hora_scraping": "2021-06-13 19:03:47",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "HIDROXIDO DE ALUMINIO + HIDROXIDO DE MAGENSIO + SIMETICONA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/HIDROXIDO_DE_ALUMINIO__HIDROXIDO_DE_MAGENSIO__SIMETICONA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $67,60"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML 40 MG/ML 4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO HIDROXIDO MAGNESIO HIDROXIDO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-004940-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

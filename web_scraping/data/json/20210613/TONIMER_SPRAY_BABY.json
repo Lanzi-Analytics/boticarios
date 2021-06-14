@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tonimer-spray-baby-8050444852934/p",
+    "fecha_hora_scraping": "2021-06-13 18:38:57",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "TONIMER SPRAY BABY",
+    "nombre_imagen": "./web_scraping/data/img/TONIMER_SPRAY_BABY.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$67.200",
+        "precioPorSku js-PUM": "Mililitro a $672,00"
+    },
+    "descripcion": "tonimer spray baby",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018819"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

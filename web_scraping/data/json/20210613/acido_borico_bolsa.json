@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acido-borico-bolsa-7707145300608/p",
+    "fecha_hora_scraping": "2021-06-13 19:02:53",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "acido borico bolsa",
+    "nombre_imagen": "./web_scraping/data/img/acido_borico_bolsa.jpg",
+    "presentacion": "BOLSA X 500 G",
+    "precio": {
+        "bestPrice": "$7.750",
+        "precioPorSku js-PUM": "Gragea a $1.937,50"
+    },
+    "descripcion": "acido borico bolsa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 500 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS DISANFER SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

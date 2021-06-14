@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sevedol-extrafuerte-tableta-recubierta-7702870004401/p",
+    "fecha_hora_scraping": "2021-06-13 18:37:24",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "SEVEDOL EXTRAFUERTE TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/SEVEDOL_EXTRAFUERTE_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 8 TAB",
+    "precio": {
+        "bestPrice": "$11.650",
+        "precioPorSku js-PUM": "Tableta a $1.456,25"
+    },
+    "descripcion": "para dolores de cabeza severos y asociados con la migra\u00f1a. alivio eficaz gracias a su combinaci\u00f3n de dos analg\u00e9sicos m\u00e1s un potencializador, tomar una tableta cada 8 horas.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG 250 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO ACETAMINOFEN CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008219-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

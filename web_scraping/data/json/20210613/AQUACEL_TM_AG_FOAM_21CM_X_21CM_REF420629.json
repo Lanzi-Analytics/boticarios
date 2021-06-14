@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aquacel-tm-ag-foam-21cm-x-21cm-ref420629-768455123797/p",
+    "fecha_hora_scraping": "2021-06-13 19:11:28",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "AQUACEL TM AG FOAM 21CM X 21CM REF420629",
+    "nombre_imagen": "./web_scraping/data/img/AQUACEL_TM_AG_FOAM_21CM_X_21CM_REF420629.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $127.400,00"
+    },
+    "descripcion": "aquacel tm ag foam 21cm x 21cm ref420629",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011008"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nexcare-curas-transparentes-impermeables-7702098034853/p",
+    "fecha_hora_scraping": "2021-06-13 18:30:41",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "NEXCARE CURAS TRANSPARENTES IMPERMEABLES",
+    "nombre_imagen": "./web_scraping/data/img/NEXCARE_CURAS_TRANSPARENTES_IMPERMEABLES.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$6.150",
+        "precioPorSku js-PUM": "Unidad a $307,50"
+    },
+    "descripcion": "nexcare curas transparentes impermeables",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0017724"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

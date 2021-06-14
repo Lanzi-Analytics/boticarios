@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/noxpirin-f-adulto-dia-polvo-para-suspension-sabor-mandarina-7707355053431/p",
+    "fecha_hora_scraping": "2021-06-13 18:39:39",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "NOXPIRIN F ADULTO DIA POLVO PARA SUSPENSION SABOR MANDARINA",
+    "nombre_imagen": "./web_scraping/data/img/NOXPIRIN_F_ADULTO_DIA_POLVO_PARA_SUSPENSION_SABOR_MANDARINA.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "PrevPrice": "Antes:$11.500",
+        "bestPrice": "$8.050",
+        "precioPorSku js-PUM": "Unidad a $1.341,67"
+    },
+    "descripcion": "noxpirin f adulto dia polvo para suspens",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010679"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

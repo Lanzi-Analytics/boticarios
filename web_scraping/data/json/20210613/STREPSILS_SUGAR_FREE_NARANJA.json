@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/strepsils-sugar-free-naranja-5000167090130/p",
+    "fecha_hora_scraping": "2021-06-13 18:32:07",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "STREPSILS SUGAR FREE NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/STREPSILS_SUGAR_FREE_NARANJA.jpg",
+    "presentacion": "CAJA X 16 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$19.300",
+        "bestPrice": "$15.440",
+        "precioPorSku js-PUM": "Tableta a $965,00"
+    },
+    "descripcion": "STREPSILS SUGAR FREE NARANJA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 16 TAB"
+        ],
+        [
+            "Concentracion",
+            "8,75 MG"
+        ],
+        [
+            "Principio activo",
+            "FLURBIPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016638"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

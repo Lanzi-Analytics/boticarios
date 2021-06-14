@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702003009723curas-coverplast-standard-resistentes-al-aguamedicamentosalgodon-curas-gasas-y-vendasbsn-medicalcura-curita-curitas-banda-banditas-tirita-adhesiva-7702003009723/p",
+    "fecha_hora_scraping": "2021-06-13 18:31:53",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS COVERPLAST STANDARD RESISTENTES AL AGUA",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_COVERPLAST_STANDARD_RESISTENTES_AL_AGUA.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$6.150",
+        "precioPorSku js-PUM": "Unidad a $307,50"
+    },
+    "descripcion": "curas coverplast standard resistentes al",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000124-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

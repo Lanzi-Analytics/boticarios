@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prueba-de-embarazo-simple-reveal-7707228411948/p",
+    "fecha_hora_scraping": "2021-06-13 19:21:45",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|pruebas de embarazo",
+    "titulo": "PRUEBA DE EMBARAZO SIMPLE REVEAL",
+    "nombre_imagen": "./web_scraping/data/img/PRUEBA_DE_EMBARAZO_SIMPLE_REVEAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.200",
+        "precioPorSku js-PUM": "Unidad a $8.200,00"
+    },
+    "descripcion": "prueba de embarazo simple reveal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "M P PROMEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2017RD-0000570-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

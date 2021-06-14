@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707270363615protexalgodon-curas-gasas-y-vendasmedicamentosvenda-elastica-medispo-4x5-yardas-7707270363615/p",
+    "fecha_hora_scraping": "2021-06-13 18:36:01",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "VENDA ELASTICA MEDISPO 4X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_ELASTICA_MEDISPO_4X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$2.050",
+        "precioPorSku js-PUM": "Unidad a $2.050,00"
+    },
+    "descripcion": "venda elastica medispo 4x5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROTEX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011470"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

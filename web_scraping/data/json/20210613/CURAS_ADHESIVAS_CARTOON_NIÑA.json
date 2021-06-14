@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-adhesivas-cartoon-nina-7707228412600/p",
+    "fecha_hora_scraping": "2021-06-13 19:08:37",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS ADHESIVAS CARTOON NI\u00d1A",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_ADHESIVAS_CARTOON_NI\u00d1A.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $155,00"
+    },
+    "descripcion": "curas adhesivas cartoon ni\u00f1a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "M P PROMEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005777"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

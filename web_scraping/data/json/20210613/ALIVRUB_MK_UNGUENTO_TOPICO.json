@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alivrub-mk-unguento-topico-7702057070335/p",
+    "fecha_hora_scraping": "2021-06-13 18:38:02",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "ALIVRUB MK UNGUENTO TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/ALIVRUB_MK_UNGUENTO_TOPICO.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$11.800",
+        "precioPorSku js-PUM": "Gramo a $236,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "5.26 G 4.67 G 2.82 G"
+        ],
+        [
+            "Principio activo",
+            "ALCANFOR TREMENTINA MENTOL ACEITE VEGETAL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0002744-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

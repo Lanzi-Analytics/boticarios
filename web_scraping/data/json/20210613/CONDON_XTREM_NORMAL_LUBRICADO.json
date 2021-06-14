@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-xtrem-normal-lubricado-7707274720063/p",
+    "fecha_hora_scraping": "2021-06-13 19:22:02",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON XTREM NORMAL LUBRICADO",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_XTREM_NORMAL_LUBRICADO.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$2.750",
+        "precioPorSku js-PUM": "Unidad a $916,67"
+    },
+    "descripcion": "condon xtrem normal lubricado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A    MG"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011256"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

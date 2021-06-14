@@ -1,18 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/noxpirin-quickgels-capsula-blanda-7707355054315/p",
-    "fecha_hora_scraping": "2021-06-13 16:50:42",
+    "url_producto": "https://www.drogueriascolsubsidio.com/noxpirin-quickgels-capsula-blanda-7707355054292/p",
+    "fecha_hora_scraping": "2021-06-13 18:40:13",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
     "titulo": "NOXPIRIN QUICKGELS C\u00c1PSULA BLANDA",
     "nombre_imagen": "./web_scraping/data/img/NOXPIRIN_QUICKGELS_C\u00c1PSULA_BLANDA.jpg",
-    "presentacion": "CAJA X 10 CAPSULAS",
+    "presentacion": "CAJA X 12CAP",
     "precio": {
-        "bestPrice": "$15.350",
-        "precioPorSku js-PUM": "Capsula a $1.535,00"
+        "bestPrice": "$19.100",
+        "precioPorSku js-PUM": "Capsula a $1.591,67"
     },
     "descripcion": "noxpirin quickgels c\u00e1psula blanda",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 10 CAPSULAS"
+            "CAJA X 12CAP"
         ],
         [
             "Concentracion",

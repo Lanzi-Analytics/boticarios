@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ky-gel-lubricante-7702626215235/p",
+    "fecha_hora_scraping": "2021-06-13 19:18:13",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "KY GEL LUBRICANTE",
+    "nombre_imagen": "./web_scraping/data/img/KY_GEL_LUBRICANTE.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$8.700",
+        "precioPorSku js-PUM": "Gramo a $580,00"
+    },
+    "descripcion": "ky gel lubricante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016793"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

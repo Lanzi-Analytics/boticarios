@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fisiomax-gel-lubricante-7703445170040/p",
+    "fecha_hora_scraping": "2021-06-13 19:22:46",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "FISIOMAX GEL LUBRICANTE",
+    "nombre_imagen": "./web_scraping/data/img/FISIOMAX_GEL_LUBRICANTE.jpg",
+    "presentacion": "TUBO X 90 G",
+    "precio": {
+        "bestPrice": "$26.400",
+        "precioPorSku js-PUM": "Gramo a $293,33"
+    },
+    "descripcion": "fisiomax gel lubricante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015425"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/evalax-3350-100g-polvo-para-solucion-oral-7703454122764/p",
+    "fecha_hora_scraping": "2021-06-13 19:16:56",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "EVALAX 3350 100G POLVO PARA SOLUCI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/EVALAX_3350_100G_POLVO_PARA_SOLUCI\u00d3N_ORAL.jpg",
+    "presentacion": "CAJA X 10 SOBRE",
+    "precio": {
+        "bestPrice": "$53.650",
+        "precioPorSku js-PUM": "Unidad a $5.365,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 SOBRE"
+        ],
+        [
+            "Concentracion",
+            "100 G"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 3350"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013080-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

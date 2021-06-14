@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cinta-cure-band-microporoso-piel-1x5-yardas-7702136640329/p",
+    "fecha_hora_scraping": "2021-06-13 18:38:37",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CINTA CURE BAND MICROPOROSO PIEL 1X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/CINTA_CURE_BAND_MICROPOROSO_PIEL_1X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$16.100",
+        "precioPorSku js-PUM": "Unidad a $16.100,00"
+    },
+    "descripcion": "cinta cure band microporoso piel 1x5 yar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0015914"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

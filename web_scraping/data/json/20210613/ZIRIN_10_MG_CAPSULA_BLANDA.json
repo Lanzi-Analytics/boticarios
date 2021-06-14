@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zirin-10-mg-capsula-blanda-8850769020113/p",
+    "fecha_hora_scraping": "2021-06-13 18:35:08",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "ZIRIN 10 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ZIRIN_10_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$8.350",
+        "precioPorSku js-PUM": "Unidad a $1.670,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "RB PHARMACEUTICALS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018119"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

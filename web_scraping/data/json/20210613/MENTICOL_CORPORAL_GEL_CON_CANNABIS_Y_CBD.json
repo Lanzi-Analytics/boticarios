@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/menticol-corporal-gel-con-cannabis-y-cbd-7702277285991/p",
+    "fecha_hora_scraping": "2021-06-13 19:31:11",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "MENTICOL CORPORAL GEL CON CANNABIS Y CBD",
+    "nombre_imagen": "./web_scraping/data/img/MENTICOL_CORPORAL_GEL_CON_CANNABIS_Y_CBD.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$30.650",
+        "precioPorSku js-PUM": "Gramo a $306,50"
+    },
+    "descripcion": "MENTICOL CORPORAL GEL CON CANNABIS Y CBD",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC03261-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

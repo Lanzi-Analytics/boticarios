@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703689031169profamiliapreservativosmedicamentoscondon-piel-sensitivocondoncondonespreservativopreservativospreserbativospreserbativopreserbatibospreserbatibo-7703689031169/p",
+    "fecha_hora_scraping": "2021-06-13 19:20:41",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON PIEL SENSITIVO",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_PIEL_SENSITIVO.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$6.800",
+        "bestPrice": "$5.440",
+        "precioPorSku js-PUM": "Unidad a $1.813,33"
+    },
+    "descripcion": "condon piel sensitivo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASOCIACION PROFAMILIA"
+        ],
+        [
+            "Registro Invima",
+            "V-003842-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

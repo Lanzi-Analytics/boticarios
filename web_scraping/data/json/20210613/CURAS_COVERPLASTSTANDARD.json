@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-coverplaststandard-7707331800325/p",
+    "fecha_hora_scraping": "2021-06-13 19:15:33",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS COVERPLAST\u00a0STANDARD",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_COVERPLASTSTANDARD.jpg",
+    "presentacion": "SOBRE X 10 UN",
+    "precio": {
+        "bestPrice": "$950",
+        "precioPorSku js-PUM": "Unidad a $3,96"
+    },
+    "descripcion": "curas coverplast\u00a0standard",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000124-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

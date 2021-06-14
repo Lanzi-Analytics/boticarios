@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamin-e-400-iu-capsula-blanda-74312417702/p",
+    "fecha_hora_scraping": "2021-06-13 19:27:51",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VITAMIN E 400 IU CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/VITAMIN_E_400_IU_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "$55.900",
+        "precioPorSku js-PUM": "Capsula a $559,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 UI"
+        ],
+        [
+            "Principio activo",
+            "DL-ALFATOCOFERIL ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0012514-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

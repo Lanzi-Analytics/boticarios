@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ditopax-tableta-masticable-7702123008668/p",
+    "fecha_hora_scraping": "2021-06-13 18:52:32",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "DITOPAX TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/DITOPAX_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 50 TAB",
+    "precio": {
+        "bestPrice": "$27.400",
+        "precioPorSku js-PUM": "Tableta a $548,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "282 MG 85 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO HIDROXIDO MAGNESIO HIDROXIDO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-001608-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/balan-b-super-complex-capsula-blanda-665716803101/p",
+    "fecha_hora_scraping": "2021-06-13 19:30:22",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "BALAN B SUPER COMPLEX C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/BALAN_B_SUPER_COMPLEX_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "$29.900",
+        "precioPorSku js-PUM": "Capsula a $299,00"
+    },
+    "descripcion": "balan b super complex c\u00e1psula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0003000"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

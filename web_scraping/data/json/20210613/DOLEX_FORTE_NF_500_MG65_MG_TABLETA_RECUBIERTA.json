@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/dolex-forte-nf-500-mg65-mg-tableta-recubierta-7703363005547/p",
-    "fecha_hora_scraping": "2021-06-13 16:50:22",
+    "fecha_hora_scraping": "2021-06-13 18:27:04",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
     "titulo": "DOLEX FORTE NF 500 MG/65 MG TABLETA RECUBIERTA",
     "nombre_imagen": "./web_scraping/data/img/DOLEX_FORTE_NF_500_MG65_MG_TABLETA_RECUBIERTA.jpg",
     "presentacion": "CAJA X 48 TAB",

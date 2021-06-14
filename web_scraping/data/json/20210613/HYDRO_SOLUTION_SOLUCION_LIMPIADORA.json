@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/hydro-solution-solucion-limpiadora-7702057707620/p",
-    "fecha_hora_scraping": "2021-06-13 16:52:43",
+    "fecha_hora_scraping": "2021-06-13 18:29:37",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "HYDRO SOLUTION SOLUCION LIMPIADORA",
     "nombre_imagen": "./web_scraping/data/img/HYDRO_SOLUTION_SOLUCION_LIMPIADORA.jpg",
     "presentacion": "FRASCO X 360 ML",

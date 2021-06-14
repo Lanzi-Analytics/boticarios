@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/discos-limpiadores-faciales-7702560032004/p",
+    "fecha_hora_scraping": "2021-06-13 19:06:09",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "DISCOS LIMPIADORES FACIALES",
+    "nombre_imagen": "./web_scraping/data/img/DISCOS_LIMPIADORES_FACIALES.jpg",
+    "presentacion": "BOLSA X 50 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $132,00"
+    },
+    "descripcion": "discos limpiadores faciales",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "DILTIAZEM CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0008606"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

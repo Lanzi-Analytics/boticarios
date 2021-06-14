@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/liquigel-multi-gyn-8714207420302/p",
+    "fecha_hora_scraping": "2021-06-13 19:20:18",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "LIQUIGEL MULTI-GYN",
+    "nombre_imagen": "./web_scraping/data/img/LIQUIGEL_MULTIGYN.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$55.800",
+        "precioPorSku js-PUM": "Mililitro a $1.860,00"
+    },
+    "descripcion": "liquigel multi-gyn",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0014439"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

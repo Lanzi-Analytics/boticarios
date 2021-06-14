@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/gastrum-fast-10-mg-masticable-7702870004067/p",
-    "fecha_hora_scraping": "2021-06-13 16:40:39",
+    "fecha_hora_scraping": "2021-06-13 18:17:09",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "GASTRUM FAST 10 MG MASTICABLE",
     "nombre_imagen": "./web_scraping/data/img/GASTRUM_FAST_10_MG_MASTICABLE.jpg",
     "presentacion": "CAJA X 12 TAB",

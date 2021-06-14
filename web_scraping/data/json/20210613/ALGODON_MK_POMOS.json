@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057077082tecnoquimicasalgodon-curas-gasas-y-vendasmedicamentosalgodon-mk-pomos-7702057077082/p",
+    "fecha_hora_scraping": "2021-06-13 18:35:19",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "ALGODON MK POMOS",
+    "nombre_imagen": "./web_scraping/data/img/ALGODON_MK_POMOS.jpg",
+    "presentacion": "BOLSA X 100 G",
+    "precio": {
+        "bestPrice": "$6.750",
+        "precioPorSku js-PUM": "Gramo a $67,50"
+    },
+    "descripcion": "algodon mk pomos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0002353-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hansaplast-parche-leon-arnica-12x18cm-7702003010200/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:56",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "HANSAPLAST PARCHE LEON ARNICA 12X18CM",
+    "nombre_imagen": "./web_scraping/data/img/HANSAPLAST_PARCHE_LEON_ARNICA_12X18CM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $8.750,00"
+    },
+    "descripcion": "HANSAPLAST PARCHE LEON ARNICA 12X18CM",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "PFT2019-0002666"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/multiflora-1-g-polvo-5027314503688/p",
+    "fecha_hora_scraping": "2021-06-13 18:30:31",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "MULTIFLORA 1 G POLVO",
+    "nombre_imagen": "./web_scraping/data/img/MULTIFLORA_1_G_POLVO.jpg",
+    "presentacion": "CAJA X 6 SACHET",
+    "precio": {
+        "PrevPrice": "Antes:$52.050",
+        "bestPrice": "$36.435",
+        "precioPorSku js-PUM": "Unidad a $6.072,50"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SACHET"
+        ],
+        [
+            "Concentracion",
+            "1X10^9 N/A"
+        ],
+        [
+            "Principio activo",
+            "PROBIOTICOS"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0002223"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

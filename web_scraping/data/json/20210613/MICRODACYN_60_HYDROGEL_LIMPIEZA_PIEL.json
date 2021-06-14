@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/microdacyn-60-hydrogel-limpieza-piel-7502273992974/p",
+    "fecha_hora_scraping": "2021-06-13 19:06:19",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "MICRODACYN 60 HYDROGEL LIMPIEZA PIEL",
+    "nombre_imagen": "./web_scraping/data/img/MICRODACYN_60_HYDROGEL_LIMPIEZA_PIEL.jpg",
+    "presentacion": "FRASCO X 240 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $385,42"
+    },
+    "descripcion": "microdacyn 60 hydrogel limpieza piel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13867-16EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

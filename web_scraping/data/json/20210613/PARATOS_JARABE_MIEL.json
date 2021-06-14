@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paratos-jarabe-miel-7707232097459/p",
+    "fecha_hora_scraping": "2021-06-13 19:27:14",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "PARATOS JARABE MIEL",
+    "nombre_imagen": "./web_scraping/data/img/PARATOS_JARABE_MIEL.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$24.150",
+        "precioPorSku js-PUM": "Mililitro a $100,63"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-0001794"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

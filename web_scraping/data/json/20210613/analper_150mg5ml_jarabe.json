@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/analper-150mg5ml-jarabe-7703763190447/p",
+    "fecha_hora_scraping": "2021-06-13 19:02:00",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "analper 150mg/5ml jarabe",
+    "nombre_imagen": "./web_scraping/data/img/analper_150mg5ml_jarabe.jpg",
+    "presentacion": "FRASCO X 90ML",
+    "precio": {
+        "bestPrice": "$12.750",
+        "precioPorSku js-PUM": "Mililitro a $141,67"
+    },
+    "descripcion": "analper 150mg/5ml jarabe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90ML"
+        ],
+        [
+            "Concentracion",
+            "30 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007312"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-lubricante-durazno-7703689000066/p",
+    "fecha_hora_scraping": "2021-06-13 19:22:25",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "GEL LUBRICANTE DURAZNO",
+    "nombre_imagen": "./web_scraping/data/img/GEL_LUBRICANTE_DURAZNO.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "PrevPrice": "Antes:$20.200",
+        "bestPrice": "$16.160",
+        "precioPorSku js-PUM": "Mililitro a $215,47"
+    },
+    "descripcion": "gel lubricante durazno",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ASOCIACION PROFAMILIA"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0009952"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

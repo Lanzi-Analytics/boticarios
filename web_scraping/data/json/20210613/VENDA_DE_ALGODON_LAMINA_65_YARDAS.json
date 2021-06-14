@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-de-algodon-lamina-65-yardas-7703010120654/p",
+    "fecha_hora_scraping": "2021-06-13 19:09:39",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "VENDA DE ALGODON LAMINA 6/5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_DE_ALGODON_LAMINA_65_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.500,00"
+    },
+    "descripcion": "venda de algodon lamina 6/5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUPERTEX MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0001847-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

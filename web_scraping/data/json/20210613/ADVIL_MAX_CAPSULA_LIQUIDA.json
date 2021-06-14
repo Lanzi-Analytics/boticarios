@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/advil-max-capsula-liquida-7702132009663/p",
+    "fecha_hora_scraping": "2021-06-13 18:58:29",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "ADVIL MAX CAPSULA LIQUIDA",
+    "nombre_imagen": "./web_scraping/data/img/ADVIL_MAX_CAPSULA_LIQUIDA.jpg",
+    "presentacion": "BLISTER X 4 CAP",
+    "precio": {
+        "bestPrice": "$5.650",
+        "precioPorSku js-PUM": "Capsula a $1.412,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0003510-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

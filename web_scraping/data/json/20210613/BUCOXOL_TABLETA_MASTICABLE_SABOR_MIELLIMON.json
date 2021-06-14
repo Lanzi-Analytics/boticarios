@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/bucoxol-tableta-masticable-sabor-miel-limon-7703763996933/p",
-    "fecha_hora_scraping": "2021-06-13 16:31:49",
+    "fecha_hora_scraping": "2021-06-13 18:07:31",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "BUCOXOL TABLETA MASTICABLE SABOR MIEL-LIMON",
     "nombre_imagen": "./web_scraping/data/img/BUCOXOL_TABLETA_MASTICABLE_SABOR_MIELLIMON.jpg",
     "presentacion": "CAJA X 10 TAB",

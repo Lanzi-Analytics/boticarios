@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/narizol-9-mgml-solucion-nasal-7703889157683/p",
+    "fecha_hora_scraping": "2021-06-13 18:31:42",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "NARIZOL 9 MG/ML SOLUCION NASAL",
+    "nombre_imagen": "./web_scraping/data/img/NARIZOL_9_MGML_SOLUCION_NASAL.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$19.450",
+        "precioPorSku js-PUM": "Mililitro a $648,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "9 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SODIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005368-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

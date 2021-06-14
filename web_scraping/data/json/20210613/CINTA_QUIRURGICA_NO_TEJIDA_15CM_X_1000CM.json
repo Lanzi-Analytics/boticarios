@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cinta-quirurgica-no-tejida-15cm-x-1000cm-7707228362103/p",
+    "fecha_hora_scraping": "2021-06-13 18:42:29",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CINTA QUIRURGICA NO TEJIDA 15CM X 1000CM",
+    "nombre_imagen": "./web_scraping/data/img/CINTA_QUIRURGICA_NO_TEJIDA_15CM_X_1000CM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$53.750",
+        "precioPorSku js-PUM": "Metro a $5.375,00"
+    },
+    "descripcion": "cinta quirurgica no tejida 15cm x 1000cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003265-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

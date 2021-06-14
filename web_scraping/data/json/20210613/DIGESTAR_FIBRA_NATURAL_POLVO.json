@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/digestar-fibra-natural-polvo-7707232095295/p",
+    "fecha_hora_scraping": "2021-06-13 19:30:32",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "DIGESTAR FIBRA NATURAL POLVO",
+    "nombre_imagen": "./web_scraping/data/img/DIGESTAR_FIBRA_NATURAL_POLVO.jpg",
+    "presentacion": "TARRO X 300 G",
+    "precio": {
+        "bestPrice": "$35.300",
+        "precioPorSku js-PUM": "Gramo a $117,67"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 300 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2010-0001449"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

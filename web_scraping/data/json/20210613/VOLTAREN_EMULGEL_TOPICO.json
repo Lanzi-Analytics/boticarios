@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/voltaren-emulgel-topico-7501124814090/p",
+    "fecha_hora_scraping": "2021-06-13 18:33:44",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "VOLTAREN EMULGEL TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/VOLTAREN_EMULGEL_TOPICO.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$57.700",
+        "precioPorSku js-PUM": "Gramo a $577,00"
+    },
+    "descripcion": "voltaren emulgel topico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "1 %"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO DIETILAMINA"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2018M-011124-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

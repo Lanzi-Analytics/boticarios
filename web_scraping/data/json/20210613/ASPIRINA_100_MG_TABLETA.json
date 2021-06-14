@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aspirina-100-mg-tableta-7702123006800/p",
+    "fecha_hora_scraping": "2021-06-13 18:32:32",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor general",
+    "titulo": "ASPIRINA 100 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ASPIRINA_100_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$12.600",
+        "precioPorSku js-PUM": "Tableta a $450,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014234"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

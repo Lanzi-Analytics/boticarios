@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diclofen-1--spray-7703153032159/p",
+    "fecha_hora_scraping": "2021-06-13 18:34:46",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "DICLOFEN 1% SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/DICLOFEN_1_SPRAY.jpg",
+    "presentacion": "FRASCO X 40 ML",
+    "precio": {
+        "bestPrice": "$12.950",
+        "precioPorSku js-PUM": "Mililitro a $323,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "1 %"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO DIETILAMONIO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015829-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

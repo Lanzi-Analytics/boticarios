@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/of-naproflash-250mg-capsula-dura-pague-3und-lleve-4und-7703546703109/p",
+    "fecha_hora_scraping": "2021-06-13 18:49:45",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor general",
+    "titulo": "OF-NAPROFLASH 250MG C\u00c1PSULA DURA PAGUE: 3UND LLEVE: 4UND",
+    "nombre_imagen": "./web_scraping/data/img/OFNAPROFLASH_250MG_C\u00c1PSULA_DURA_PAGUE_3UND_LLEVE_4UND.jpg",
+    "presentacion": "CAJA X 40 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$7.150",
+        "bestPrice": "$4.647",
+        "precioPorSku js-PUM": "Capsula a $116,17"
+    },
+    "descripcion": "of-naproflash 250mg c\u00e1psula dura pague: 3und lleve: 4und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 40 CAP"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "NAPROXENO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014769"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

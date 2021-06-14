@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neo-intimo-2-crema-vaginal-7706142343991/p",
+    "fecha_hora_scraping": "2021-06-13 19:25:47",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "neo intimo 2% crema vaginal",
+    "nombre_imagen": "./web_scraping/data/img/neo_intimo_2_crema_vaginal.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$15.650",
+        "precioPorSku js-PUM": "Gramo a $782,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NEO LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018952"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

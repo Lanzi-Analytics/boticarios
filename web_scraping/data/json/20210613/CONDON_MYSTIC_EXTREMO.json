@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-mystic-extremo-7702560036125/p",
+    "fecha_hora_scraping": "2021-06-13 19:24:53",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON MYSTIC EXTREMO",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_MYSTIC_EXTREMO.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$8.200",
+        "precioPorSku js-PUM": "Unidad a $2.733,33"
+    },
+    "descripcion": "condon mystic extremo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000011-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

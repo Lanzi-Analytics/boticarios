@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cafiaspirina-forte-65065mg-tabletas-7702123012214/p",
+    "fecha_hora_scraping": "2021-06-13 19:01:02",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "CAFIASPIRINA FORTE 650/65MG TABLETAS",
+    "nombre_imagen": "./web_scraping/data/img/CAFIASPIRINA_FORTE_65065MG_TABLETAS.jpg",
+    "presentacion": "CAJA X 36 TAB",
+    "precio": {
+        "bestPrice": "$39.100",
+        "precioPorSku js-PUM": "Tableta a $1.086,11"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 36 TAB"
+        ],
+        [
+            "Concentracion",
+            "650 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014231"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

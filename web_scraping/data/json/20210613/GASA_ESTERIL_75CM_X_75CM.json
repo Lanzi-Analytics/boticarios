@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-esteril-75cm-x-75cm-7707178252547/p",
+    "fecha_hora_scraping": "2021-06-13 18:47:09",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA ESTERIL 7.5CM X 7.5CM",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_75CM_X_75CM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$670",
+        "precioPorSku js-PUM": "Unidad a $670,00"
+    },
+    "descripcion": "gasa esteril 7.5cm x 7.5cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SHERLEG LABORATORIES SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0002238-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

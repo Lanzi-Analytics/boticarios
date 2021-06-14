@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703234102405biochemdolor-ninosmedicamentosdolpirin-a-junior-uva-jarabeacetaminofen-7703234102405/p",
+    "fecha_hora_scraping": "2021-06-13 19:05:22",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "DOLPIRIN A JUNIOR UVA JARABE",
+    "nombre_imagen": "./web_scraping/data/img/DOLPIRIN_A_JUNIOR_UVA_JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $91,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "30 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008883"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

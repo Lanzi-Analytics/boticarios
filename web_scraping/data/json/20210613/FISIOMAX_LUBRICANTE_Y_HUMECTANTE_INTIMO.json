@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fisiomax-lubricante-y-humectante-intimo-7703445170088/p",
+    "fecha_hora_scraping": "2021-06-13 19:22:31",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "FISIOMAX LUBRICANTE Y HUMECTANTE INTIMO",
+    "nombre_imagen": "./web_scraping/data/img/FISIOMAX_LUBRICANTE_Y_HUMECTANTE_INTIMO.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$1.473",
+        "precioPorSku js-PUM": "Unidad a $1.473,33"
+    },
+    "descripcion": "fisiomax lubricante y humectante intimo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015425"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

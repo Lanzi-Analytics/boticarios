@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/acido-borico-dr-sana-7707231002300/p",
-    "fecha_hora_scraping": "2021-06-13 16:48:41",
+    "fecha_hora_scraping": "2021-06-13 18:25:26",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "ACIDO BORICO DR SANA",
     "nombre_imagen": "./web_scraping/data/img/ACIDO_BORICO_DR_SANA.jpg",
     "presentacion": "CAJA X 100 G",

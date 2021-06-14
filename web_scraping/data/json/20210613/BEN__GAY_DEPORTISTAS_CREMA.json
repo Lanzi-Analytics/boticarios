@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ben---gay-deportistas-crema-7706263200036/p",
+    "fecha_hora_scraping": "2021-06-13 18:46:59",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "BEN - GAY DEPORTISTAS CREMA",
+    "nombre_imagen": "./web_scraping/data/img/BEN__GAY_DEPORTISTAS_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$24.400",
+        "precioPorSku js-PUM": "Gramo a $813,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "280 MG/G 100 MG/G"
+        ],
+        [
+            "Principio activo",
+            "SALICILATO METILO MENTOL"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-012026-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-antiseptico-7702560027338/p",
+    "fecha_hora_scraping": "2021-06-13 19:03:31",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "ALCOHOL ANTIS\u00c9PTICO",
+    "nombre_imagen": "./web_scraping/data/img/ALCOHOL_ANTIS\u00c9PTICO.jpg",
+    "presentacion": "FRASCO X 700 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $6,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 700 ML"
+        ],
+        [
+            "Concentracion",
+            "0,74 ML/ML"
+        ],
+        [
+            "Principio activo",
+            "ETILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007725-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

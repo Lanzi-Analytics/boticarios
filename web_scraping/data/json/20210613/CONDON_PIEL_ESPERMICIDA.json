@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-piel-espermicida-7703689031121/p",
+    "fecha_hora_scraping": "2021-06-13 19:22:57",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON PIEL ESPERMICIDA",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_PIEL_ESPERMICIDA.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$7.050",
+        "bestPrice": "$5.640",
+        "precioPorSku js-PUM": "Unidad a $1.880,00"
+    },
+    "descripcion": "condon piel espermicida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASOCIACION PROFAMILIA"
+        ],
+        [
+            "Registro Invima",
+            "2020DM-0002589-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vasoled-300-mg-capsula-7707016404633/p",
+    "fecha_hora_scraping": "2021-06-13 19:29:56",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VASOLED 300 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/VASOLED_300_MG_CAPSULA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$19.000",
+        "precioPorSku js-PUM": "Capsula a $633,33"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "POLVO SEMILLAS CASTA\u00d1O INDIAS"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2009-0001061"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

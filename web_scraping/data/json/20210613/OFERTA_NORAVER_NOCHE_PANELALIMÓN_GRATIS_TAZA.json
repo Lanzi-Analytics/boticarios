@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-noraver-noche-panela-limon-gratis-taza-7702057162290/p",
+    "fecha_hora_scraping": "2021-06-13 19:04:49",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "OFERTA NORAVER NOCHE PANELA-LIM\u00d3N GRATIS TAZA",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_NORAVER_NOCHE_PANELALIM\u00d3N_GRATIS_TAZA.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $136,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 25 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN DIFENHIDRAMINA CLORHIDRATO FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016067"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

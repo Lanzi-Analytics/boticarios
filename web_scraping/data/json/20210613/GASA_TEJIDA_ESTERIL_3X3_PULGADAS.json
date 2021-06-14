@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-tejida-esteril-3x3-pulgadas-7707228360543/p",
+    "fecha_hora_scraping": "2021-06-13 18:45:40",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA TEJIDA ESTERIL 3X3 PULGADAS",
+    "nombre_imagen": "./web_scraping/data/img/GASA_TEJIDA_ESTERIL_3X3_PULGADAS.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "$7.700",
+        "precioPorSku js-PUM": "Unidad a $1.283,33"
+    },
+    "descripcion": "gasa tejida esteril 3x3 pulgadas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003258-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

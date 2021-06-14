@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lofoten-32mgml-jarabe-7707334710652/p",
+    "fecha_hora_scraping": "2021-06-13 19:12:52",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "lofoten 32mg/ml jarabe",
+    "nombre_imagen": "./web_scraping/data/img/lofoten_32mgml_jarabe.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $214,17"
+    },
+    "descripcion": "lofoten 32mg/ml jarabe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "32 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "NEVOX FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019487"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-genoprazol-10mg-capsula-dura-precio-especial-x-2-unidades-650240053870/p",
+    "fecha_hora_scraping": "2021-06-13 19:03:20",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "OFERTA GENOPRAZOL 10MG C\u00c1PSULA DURA PRECIO ESPECIAL X 2 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_GENOPRAZOL_10MG_C\u00c1PSULA_DURA_PRECIO_ESPECIAL_X_2_UNIDADES.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $21.400,00"
+    },
+    "descripcion": "OFERTA GENOPRAZOL 10MG C\u00c1PSULA DURA PRECIO ESPECIAL X 2 UNIDADES",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "OMEPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0015571-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

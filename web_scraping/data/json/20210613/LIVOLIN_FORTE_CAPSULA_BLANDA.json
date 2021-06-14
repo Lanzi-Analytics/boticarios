@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/livolin-forte-capsula-blanda-8850769020137/p",
+    "fecha_hora_scraping": "2021-06-13 19:17:17",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "LIVOLIN FORTE CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/LIVOLIN_FORTE_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$58.900",
+        "precioPorSku js-PUM": "Capsula a $1.963,33"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "300 MG 30 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "RB PHARMACEUTICALS SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003938"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

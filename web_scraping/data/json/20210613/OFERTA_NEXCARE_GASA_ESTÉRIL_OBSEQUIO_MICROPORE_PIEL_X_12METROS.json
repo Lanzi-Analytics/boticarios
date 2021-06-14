@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-nexcare-gasa-esteril-obsequio-micropore-piel-x-12metros-7702098037366/p",
+    "fecha_hora_scraping": "2021-06-13 18:52:53",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "OFERTA NEXCARE GASA EST\u00c9RIL OBSEQUIO MICROPORE PIEL X 12METROS",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_NEXCARE_GASA_EST\u00c9RIL_OBSEQUIO_MICROPORE_PIEL_X_12METROS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$11.050",
+        "precioPorSku js-PUM": "Unidad a $11.050,00"
+    },
+    "descripcion": "oferta nexcare gasa est\u00e9ril obsequio micropore piel x 12metros",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007696"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

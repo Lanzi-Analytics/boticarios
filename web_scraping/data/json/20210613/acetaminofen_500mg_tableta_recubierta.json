@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acetaminofen-500mg-tableta-recubierta-7702057858858/p",
+    "fecha_hora_scraping": "2021-06-13 19:02:43",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor general",
+    "titulo": "acetaminofen 500mg tableta recubierta",
+    "nombre_imagen": "./web_scraping/data/img/acetaminofen_500mg_tableta_recubierta.jpg",
+    "presentacion": "FRASCO X 24 TAB",
+    "precio": {
+        "bestPrice": "$17.300",
+        "precioPorSku js-PUM": "Tableta a $720,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 24 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-015015-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

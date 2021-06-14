@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057645540medicamentosalgodon-curas-gasas-y-vendastecnoquimicascura-curita-curitas-banda-banditas-tirita-adhesiva-7702057645540/p",
+    "fecha_hora_scraping": "2021-06-13 18:35:29",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CUREBAND PREMIUM CURAS NI\u00d1OS PJMASK",
+    "nombre_imagen": "./web_scraping/data/img/CUREBAND_PREMIUM_CURAS_NI\u00d1OS_PJMASK.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "bestPrice": "$11.500",
+        "precioPorSku js-PUM": "Unidad a $460,00"
+    },
+    "descripcion": "cureband premium curas ni\u00f1os pjmask",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000411-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

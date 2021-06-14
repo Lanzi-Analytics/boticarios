@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alfasafe-venda-fija-blanca-3-x-22m-7707228360819/p",
+    "fecha_hora_scraping": "2021-06-13 18:45:12",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "ALFASAFE VENDA FIJA BLANCA 3\" X 2.2M",
+    "nombre_imagen": "./web_scraping/data/img/ALFASAFE_VENDA_FIJA_BLANCA_3_X_22M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$3.400",
+        "precioPorSku js-PUM": "Unidad a $3.400,00"
+    },
+    "descripcion": "alfasafe venda fija blanca 3\" x 2.2m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0012870"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

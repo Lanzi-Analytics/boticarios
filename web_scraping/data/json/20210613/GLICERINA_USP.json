@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glicerina-usp-7707231002638/p",
+    "fecha_hora_scraping": "2021-06-13 19:04:54",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
+    "titulo": "GLICERINA USP",
+    "nombre_imagen": "./web_scraping/data/img/GLICERINA_USP.jpg",
+    "presentacion": "FRASCO X 22 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $45,45"
+    },
+    "descripcion": "glicerina usp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 22 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

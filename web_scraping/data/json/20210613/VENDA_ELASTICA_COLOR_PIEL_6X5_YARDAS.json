@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-elastica-color-piel-6x5-yardas-7707228360765/p",
+    "fecha_hora_scraping": "2021-06-13 18:45:23",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "VENDA ELASTICA COLOR PIEL 6X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_ELASTICA_COLOR_PIEL_6X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$4.900",
+        "precioPorSku js-PUM": "Unidad a $4.900,00"
+    },
+    "descripcion": "venda elastica color piel 6x5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0012870"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

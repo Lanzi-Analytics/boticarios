@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/gaviscon-doble-accion-sachet-sabor-menta-7702626211770/p",
-    "fecha_hora_scraping": "2021-06-13 16:28:05",
+    "fecha_hora_scraping": "2021-06-13 18:03:38",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "GAVISCON DOBLE ACCION SACHET SABOR MENTA",
     "nombre_imagen": "./web_scraping/data/img/GAVISCON_DOBLE_ACCION_SACHET_SABOR_MENTA.jpg",
     "presentacion": "CAJA X 12 SACHET",

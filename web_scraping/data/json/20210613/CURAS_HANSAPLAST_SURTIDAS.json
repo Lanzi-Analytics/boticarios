@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-hansaplast-surtidas-7702003469343/p",
+    "fecha_hora_scraping": "2021-06-13 18:59:49",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS HANSAPLAST SURTIDAS",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_HANSAPLAST_SURTIDAS.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$6.850",
+        "precioPorSku js-PUM": "Unidad a $342,50"
+    },
+    "descripcion": "curas hansaplast surtidas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0017576"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

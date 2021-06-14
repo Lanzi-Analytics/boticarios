@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/merey-limentol-7706976000176/p",
+    "fecha_hora_scraping": "2021-06-13 18:29:59",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "MEREY LIMENTOL",
+    "nombre_imagen": "./web_scraping/data/img/MEREY_LIMENTOL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$16.350",
+        "precioPorSku js-PUM": "Mililitro a $136,25"
+    },
+    "descripcion": "merey limentol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS MEREY LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38586-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

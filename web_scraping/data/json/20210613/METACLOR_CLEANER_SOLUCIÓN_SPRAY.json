@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metaclor-cleaner-solucion-spray-7705713917456/p",
+    "fecha_hora_scraping": "2021-06-13 18:46:38",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "METACLOR CLEANER SOLUCI\u00d3N SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/METACLOR_CLEANER_SOLUCI\u00d3N_SPRAY.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$10.000",
+        "precioPorSku js-PUM": "Mililitro a $100,00"
+    },
+    "descripcion": "metaclor cleaner soluci\u00f3n spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS REMO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC95192-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

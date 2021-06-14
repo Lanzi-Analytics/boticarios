@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707351591500amigdal-b-tableta-bucalmedicamentosgargantaquidecacetilpiridinio-cloruro-benoxinato-clorhidrato-7707351591500/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:20",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "AMIGDAL B TABLETA BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/AMIGDAL_B_TABLETA_BUCAL.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $1.208,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG 0.2 MG"
+        ],
+        [
+            "Principio activo",
+            "CETILPIRIDINIO CLORURO BENOXINATO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "QUIMICA SUIZA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010147-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

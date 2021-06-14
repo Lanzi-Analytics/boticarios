@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-cureband-premium-impermeables-7702136646529/p",
+    "fecha_hora_scraping": "2021-06-13 18:31:17",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS CUREBAND PREMIUM IMPERMEABLES",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_CUREBAND_PREMIUM_IMPERMEABLES.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$11.200",
+        "precioPorSku js-PUM": "Unidad a $373,33"
+    },
+    "descripcion": "curas cureband premium impermeables",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "DIOSMECTITA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000411-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

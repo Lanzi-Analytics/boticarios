@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-omega-3-plus-sofgel-7707232093390/p",
+    "fecha_hora_scraping": "2021-06-13 19:28:32",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "KIT OMEGA 3 PLUS SOFGEL",
+    "nombre_imagen": "./web_scraping/data/img/KIT_OMEGA_3_PLUS_SOFGEL.jpg",
+    "presentacion": "FRASCO X 200 CAP",
+    "precio": {
+        "bestPrice": "$60.400",
+        "precioPorSku js-PUM": "Capsula a $604,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0000438-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

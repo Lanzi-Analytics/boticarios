@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707232090498natural-freshlynaturalesmedicamentosgaxoff-capsulalimoncillo-canela-hierbabuena-7707232090498/p",
+    "fecha_hora_scraping": "2021-06-13 19:30:17",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GAXOFF CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/GAXOFF_CAPSULA.jpg",
+    "presentacion": "FRASCO X 50 CAP",
+    "precio": {
+        "bestPrice": "$28.450",
+        "precioPorSku js-PUM": "Capsula a $569,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG 150 MG 150 MG"
+        ],
+        [
+            "Principio activo",
+            "LIMONCILLO CANELA HIERBABUENA"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2016-0000272-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

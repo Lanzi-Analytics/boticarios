@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ibuflash-ultra-forte-capsula-blanda-7702057385194/p",
+    "fecha_hora_scraping": "2021-06-13 18:55:01",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "IBUFLASH ULTRA FORTE C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/IBUFLASH_ULTRA_FORTE_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "Blister X 0 G",
+    "precio": {
+        "bestPrice": "$3.111",
+        "precioPorSku js-PUM": "Gramo a $8.000,00"
+    },
+    "descripcion": "ibuflash ultra forte c\u00e1psula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 0 G"
+        ],
+        [
+            "Concentracion",
+            "400 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0014060-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

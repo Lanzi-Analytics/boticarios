@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/ditopax-f-tableta-masticable-7702123008620/p",
-    "fecha_hora_scraping": "2021-06-13 16:42:13",
+    "fecha_hora_scraping": "2021-06-13 18:18:48",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "DITOPAX F TABLETA MASTICABLE",
     "nombre_imagen": "./web_scraping/data/img/DITOPAX_F_TABLETA_MASTICABLE.jpg",
     "presentacion": "BLISTER X 5 TAB",

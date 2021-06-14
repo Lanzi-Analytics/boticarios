@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gastrum-plux-suspension-oral-menta-7702870071113/p",
+    "fecha_hora_scraping": "2021-06-13 18:48:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "GASTRUM PLUX SUSPENSI\u00d3N ORAL MENTA",
+    "nombre_imagen": "./web_scraping/data/img/GASTRUM_PLUX_SUSPENSI\u00d3N_ORAL_MENTA.jpg",
+    "presentacion": "FCO X 360ML",
+    "precio": {
+        "bestPrice": "$44.600",
+        "precioPorSku js-PUM": "Mililitro a $123,89"
+    },
+    "descripcion": "gastrum plux suspensi\u00f3n oral menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FCO X 360ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIDROTALCITA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014584-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

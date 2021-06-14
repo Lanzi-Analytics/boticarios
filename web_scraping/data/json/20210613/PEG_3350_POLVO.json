@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/peg-3350-polvo-7702057014766/p",
+    "fecha_hora_scraping": "2021-06-13 18:32:42",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "PEG 3350 POLVO",
+    "nombre_imagen": "./web_scraping/data/img/PEG_3350_POLVO.jpg",
+    "presentacion": "FRASCO X 160 G",
+    "precio": {
+        "bestPrice": "$46.800",
+        "precioPorSku js-PUM": "Gramo a $292,50"
+    },
+    "descripcion": "peg 3350 polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 160 G"
+        ],
+        [
+            "Concentracion",
+            "100 G"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 3350"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005599-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

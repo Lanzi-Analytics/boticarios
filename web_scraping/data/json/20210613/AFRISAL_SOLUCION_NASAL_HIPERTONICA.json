@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/afrisal-solucion-nasal-hipertonica-7702123010562/p",
+    "fecha_hora_scraping": "2021-06-13 19:10:47",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "AFRISAL SOLUCION NASAL HIPERTONICA",
+    "nombre_imagen": "./web_scraping/data/img/AFRISAL_SOLUCION_NASAL_HIPERTONICA.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $663,00"
+    },
+    "descripcion": "afrisal solucion nasal hipertonica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013463"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

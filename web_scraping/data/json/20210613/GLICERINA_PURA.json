@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/glicerina-pura-7707333770480/p",
-    "fecha_hora_scraping": "2021-06-13 16:46:27",
+    "fecha_hora_scraping": "2021-06-13 18:23:06",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "GLICERINA PURA",
     "nombre_imagen": "./web_scraping/data/img/GLICERINA_PURA.jpg",
     "presentacion": "FRASCO X 450 ML",

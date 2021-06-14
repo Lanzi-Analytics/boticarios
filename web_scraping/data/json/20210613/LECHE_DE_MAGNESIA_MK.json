@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057073930tecnoquimicasbienestar-digestivomedicamentosleche-de-magnesia-mkmagnesio-hidroxido-7702057073930/p",
+    "fecha_hora_scraping": "2021-06-13 18:35:24",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "LECHE DE MAGNESIA MK",
+    "nombre_imagen": "./web_scraping/data/img/LECHE_DE_MAGNESIA_MK.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$5.600",
+        "precioPorSku js-PUM": "Mililitro a $46,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "85 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MAGNESIO HIDROXIDO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-012243-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

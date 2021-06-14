@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-floraplus-polvo-para-solucion-oral-pague-1un-lleve-2und-7707274723361/p",
+    "fecha_hora_scraping": "2021-06-13 19:05:38",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "OFERTA FLORAPLUS POLVO PARA SOLUCI\u00d3N ORAL PAGUE: 1UN LLEVE: 2UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_FLORAPLUS_POLVO_PARA_SOLUCI\u00d3N_ORAL_PAGUE_1UN_LLEVE_2UND.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Sobre a $7.741,67"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "B C N MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003407"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

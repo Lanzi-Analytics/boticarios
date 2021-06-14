@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sal-de-frutas-lua-polvo-efervescente-tradicional-7702057801731/p",
+    "fecha_hora_scraping": "2021-06-13 18:51:31",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "SAL DE FRUTAS LUA POLVO EFERVESCENTE TRADICIONAL",
+    "nombre_imagen": "./web_scraping/data/img/SAL_DE_FRUTAS_LUA_POLVO_EFERVESCENTE_TRADICIONAL.jpg",
+    "presentacion": "Blister X 1 TAB",
+    "precio": {
+        "bestPrice": "$1.792",
+        "precioPorSku js-PUM": "Tableta a $1.553,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "2,83 G 1,35 G 0,82 G"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO TARTARICO ACIDO SODIO CITRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010211-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

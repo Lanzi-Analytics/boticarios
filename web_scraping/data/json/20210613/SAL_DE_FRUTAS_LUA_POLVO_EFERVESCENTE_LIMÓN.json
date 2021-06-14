@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sal-de-frutas-lua-polvo-efervescente-limon-7702057801755/p",
+    "fecha_hora_scraping": "2021-06-13 18:54:55",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "SAL DE FRUTAS LUA POLVO EFERVESCENTE LIM\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/SAL_DE_FRUTAS_LUA_POLVO_EFERVESCENTE_LIM\u00d3N.jpg",
+    "presentacion": "Blister X 2 ML",
+    "precio": {
+        "bestPrice": "$1.748",
+        "precioPorSku js-PUM": "Mililitro a $757,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 2 ML"
+        ],
+        [
+            "Concentracion",
+            "2,83 G 1,27 G 0,82 G"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO TARTARICO ACIDO SODIO CITRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010211-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

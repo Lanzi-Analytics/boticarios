@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/advil-children-tableta-masticable-7702132011604/p",
+    "fecha_hora_scraping": "2021-06-13 18:55:12",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "ADVIL CHILDREN TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/ADVIL_CHILDREN_TABLETA_MASTICABLE.jpg",
+    "presentacion": "BLISTER X 2 TAB",
+    "precio": {
+        "bestPrice": "$2.472",
+        "precioPorSku js-PUM": "Tableta a $1.235,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017330"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

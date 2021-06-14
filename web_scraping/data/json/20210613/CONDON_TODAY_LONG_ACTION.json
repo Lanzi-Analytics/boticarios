@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-long-action-7702132008307/p",
+    "fecha_hora_scraping": "2021-06-13 19:27:05",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON TODAY LONG ACTION",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_TODAY_LONG_ACTION.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$12.900",
+        "precioPorSku js-PUM": "Unidad a $4.300,00"
+    },
+    "descripcion": "condon today long action",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0000377-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

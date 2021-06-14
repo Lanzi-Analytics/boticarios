@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sonax-forte-gragea-7702870999622/p",
+    "fecha_hora_scraping": "2021-06-13 19:27:09",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "SO\u00d1AX FORTE GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/SO\u00d1AX_FORTE_GRAGEA.jpg",
+    "presentacion": "CAJA X 30 GRG",
+    "precio": {
+        "bestPrice": "$53.600",
+        "precioPorSku js-PUM": "Tableta a $1.786,67"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 GRG"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "PASSIFLORA VALERIANA MELLISSA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2007-0000676"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

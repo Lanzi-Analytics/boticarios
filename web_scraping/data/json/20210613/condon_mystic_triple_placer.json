@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-mystic-triple-placer-7702560036163/p",
+    "fecha_hora_scraping": "2021-06-13 19:25:54",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "condon mystic triple placer",
+    "nombre_imagen": "./web_scraping/data/img/condon_mystic_triple_placer.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$8.450",
+        "precioPorSku js-PUM": "Gramo a $65,00"
+    },
+    "descripcion": "condon mystic triple placer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000011-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

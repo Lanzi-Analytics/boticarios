@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lomecan-v-2--crema-vaginal-650240027543/p",
+    "fecha_hora_scraping": "2021-06-13 19:19:10",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "LOMECAN CREMA CLOTRIMAZOL 20 G",
+    "nombre_imagen": "./web_scraping/data/img/LOMECAN_CREMA_CLOTRIMAZOL_20_G.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$28.200",
+        "precioPorSku js-PUM": "Gramo a $1.410,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0014968-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alfasafe-toallitas-con-alcohol-70-7707228369539/p",
+    "fecha_hora_scraping": "2021-06-13 18:33:39",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "ALFASAFE TOALLITAS CON ALCOHOL 70%",
+    "nombre_imagen": "./web_scraping/data/img/ALFASAFE_TOALLITAS_CON_ALCOHOL_70.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "$11.450",
+        "precioPorSku js-PUM": "Unidad a $114,50"
+    },
+    "descripcion": "ALFASAFE TOALLITAS CON ALCOHOL 70%",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020DM-0021464"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rhifisol-suero-fisiologico-7707210530206/p",
+    "fecha_hora_scraping": "2021-06-13 18:40:29",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "RHIFISOL SUERO FISIOLOGICO",
+    "nombre_imagen": "./web_scraping/data/img/RHIFISOL_SUERO_FISIOLOGICO.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$2.650",
+        "precioPorSku js-PUM": "Mililitro a $88,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "9 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SODIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009658-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

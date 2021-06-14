@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/engystol-tableta-7707336720598/p",
-    "fecha_hora_scraping": "2021-06-13 16:27:07",
+    "fecha_hora_scraping": "2021-06-13 18:02:40",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
     "titulo": "ENGYSTOL TABLETA",
     "nombre_imagen": "./web_scraping/data/img/ENGYSTOL_TABLETA.jpg",
     "presentacion": "FRASCO X 50 TAB",

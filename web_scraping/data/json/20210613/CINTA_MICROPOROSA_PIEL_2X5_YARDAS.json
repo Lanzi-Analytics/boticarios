@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cinta-microporosa-piel-2x5-yardas-7707228362172/p",
+    "fecha_hora_scraping": "2021-06-13 18:41:36",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CINTA MICROPOROSA PIEL 2X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/CINTA_MICROPOROSA_PIEL_2X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.150",
+        "precioPorSku js-PUM": "Unidad a $8.150,00"
+    },
+    "descripcion": "cinta microporosa piel 2x5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003265-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

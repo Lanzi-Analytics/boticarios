@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/limonato-tableta-masticable-7709897940989/p",
+    "fecha_hora_scraping": "2021-06-13 18:34:26",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "LIMONATO TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/LIMONATO_TABLETA_MASTICABLE.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$9.900",
+        "precioPorSku js-PUM": "Tableta a $330,00"
+    },
+    "descripcion": "limonato tableta masticable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LIMONATO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-005845-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/751273778140healty-americanaturalesmedicamentosmelatonina-3-mg-capsula-blandamelatonina-751273778140/p",
+    "fecha_hora_scraping": "2021-06-13 19:27:19",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "MELATONINA 3 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/MELATONINA_3_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 120 CAP",
+    "precio": {
+        "bestPrice": "$40.550",
+        "precioPorSku js-PUM": "Capsula a $337,92"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 CAP"
+        ],
+        [
+            "Concentracion",
+            "3 MG"
+        ],
+        [
+            "Principio activo",
+            "MELATONINA"
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016375"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

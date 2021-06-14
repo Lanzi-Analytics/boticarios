@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-adhesivas-color-piel-7707228412303/p",
+    "fecha_hora_scraping": "2021-06-13 18:43:56",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS ADHESIVAS COLOR PIEL",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_ADHESIVAS_COLOR_PIEL.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "$2.200",
+        "precioPorSku js-PUM": "Unidad a $220,00"
+    },
+    "descripcion": "curas adhesivas color piel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "M P PROMEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005777"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

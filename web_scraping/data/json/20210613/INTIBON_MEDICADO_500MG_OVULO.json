@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/intibon-medicado-500mg-ovulo-7703178939662/p",
+    "fecha_hora_scraping": "2021-06-13 19:18:08",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "INTIBON MEDICADO 500MG OVULO",
+    "nombre_imagen": "./web_scraping/data/img/INTIBON_MEDICADO_500MG_OVULO.jpg",
+    "presentacion": "CAJA X 1 OVU",
+    "precio": {
+        "bestPrice": "$26.050",
+        "precioPorSku js-PUM": "Unidad a $26.050,00"
+    },
+    "descripcion": "intibon medicado 500mg ovulo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 OVU"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019387"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-esteril-no-tejida-10cm-x-10cm-7707228362394/p",
+    "fecha_hora_scraping": "2021-06-13 18:41:06",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA ESTERIL NO TEJIDA 10CM X 10CM",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_NO_TEJIDA_10CM_X_10CM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$597",
+        "precioPorSku js-PUM": "Unidad a $597,00"
+    },
+    "descripcion": "gasa esteril no tejida 10cm x 10cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003258-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

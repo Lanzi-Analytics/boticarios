@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-comfort-7702098023963/p",
+    "fecha_hora_scraping": "2021-06-13 19:15:23",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS COMFORT",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_COMFORT.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "$3.150",
+        "precioPorSku js-PUM": "Unidad a $315,00"
+    },
+    "descripcion": "curas comfort",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016435"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

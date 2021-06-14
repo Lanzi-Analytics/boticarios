@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vick-pastillas-vitamina-c-limon-7506195100141/p",
+    "fecha_hora_scraping": "2021-06-13 19:16:23",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "VICK PASTILLAS VITAMINA C LIMON",
+    "nombre_imagen": "./web_scraping/data/img/VICK_PASTILLAS_VITAMINA_C_LIMON.jpg",
+    "presentacion": "SOBRE",
+    "precio": {
+        "bestPrice": "$2.000",
+        "precioPorSku js-PUM": "Unidad a $2.000,00"
+    },
+    "descripcion": "vick pastillas vitamina c limon",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0008635-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

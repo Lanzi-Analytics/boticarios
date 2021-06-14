@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/multidol-express-400-mg-capsula-blanda-7703889150950/p",
+    "fecha_hora_scraping": "2021-06-13 18:50:00",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "MULTIDOL EXPRESS 400 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/MULTIDOL_EXPRESS_400_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 4 CAP",
+    "precio": {
+        "bestPrice": "$5.950",
+        "precioPorSku js-PUM": "Capsula a $1.487,50"
+    },
+    "descripcion": "multidol express 400 mg capsula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0006661-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

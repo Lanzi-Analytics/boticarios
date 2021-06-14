@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sal-de-frutas-lua-plus-7702057801922/p",
+    "fecha_hora_scraping": "2021-06-13 19:00:39",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "SAL DE FRUTAS LUA PLUS GRANULO EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/SAL_DE_FRUTAS_LUA_PLUS_GRANULO_EFERVESCENTE.jpg",
+    "presentacion": "CAJA X 8 SOB",
+    "precio": {
+        "bestPrice": "$17.650",
+        "precioPorSku js-PUM": "Unidad a $2.206,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 SOB"
+        ],
+        [
+            "Concentracion",
+            "2830 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013340-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aposito-tegaderm-6cm-x-7cm-nexcare-7702098400085/p",
+    "fecha_hora_scraping": "2021-06-13 18:54:07",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "APOSITO TEGADERM 6CM X 7CM NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/APOSITO_TEGADERM_6CM_X_7CM_NEXCARE.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "$20.850",
+        "precioPorSku js-PUM": "Unidad a $4.170,00"
+    },
+    "descripcion": "aposito tegaderm 6cm x 7cm nexcare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013141"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

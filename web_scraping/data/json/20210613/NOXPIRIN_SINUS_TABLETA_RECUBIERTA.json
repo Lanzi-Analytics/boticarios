@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/noxpirin-sinus-tableta-recubierta-7707355053486/p",
+    "fecha_hora_scraping": "2021-06-13 18:39:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "NOXPIRIN SINUS TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/NOXPIRIN_SINUS_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$10.350",
+        "precioPorSku js-PUM": "Tableta a $862,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG 20 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008561"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

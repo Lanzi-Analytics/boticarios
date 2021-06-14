@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glucosamina-con-condroitina-750mg600mg-capsula-dura-665716831104/p",
+    "fecha_hora_scraping": "2021-06-13 19:27:34",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GLUCOSAMINA CON CONDROITINA 750MG/600MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/GLUCOSAMINA_CON_CONDROITINA_750MG600MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "$56.250",
+        "precioPorSku js-PUM": "Capsula a $562,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "750 MG 600 MG"
+        ],
+        [
+            "Principio activo",
+            "GLUCOSAMINA SULFATO CONDROITINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008295"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

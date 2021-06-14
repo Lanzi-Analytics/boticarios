@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/7707397791056-glaxo-consumer-healthcare-garganta-mebucaina-forte-tableta-bucal-sabor-mentagripa-dolor-de-garganta-dolorcetilpiridinio-cloruro-benoxinato-clorhidrato-7707397791056/p",
-    "fecha_hora_scraping": "2021-06-13 16:42:52",
+    "fecha_hora_scraping": "2021-06-13 18:19:23",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "MEBUCAINA FORTE TABLETA BUCAL SABOR MENTA",
     "nombre_imagen": "./web_scraping/data/img/MEBUCAINA_FORTE_TABLETA_BUCAL_SABOR_MENTA.jpg",
     "presentacion": "CAJA X 10 TAB",

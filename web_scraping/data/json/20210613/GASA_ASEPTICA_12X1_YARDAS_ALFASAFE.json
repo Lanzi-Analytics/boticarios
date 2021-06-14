@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-aseptica-12x1-yardas-alfasafe-7707228361533/p",
+    "fecha_hora_scraping": "2021-06-13 18:44:39",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA ASEPTICA 1/2X1 YARDAS ALFASAFE",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ASEPTICA_12X1_YARDAS_ALFASAFE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.050",
+        "precioPorSku js-PUM": "Unidad a $1.050,00"
+    },
+    "descripcion": "gasa aseptica 1/2x1 yardas alfasafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003258-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

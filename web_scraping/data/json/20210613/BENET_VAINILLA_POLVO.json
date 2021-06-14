@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/benet-vainilla-polvo-7709707028753/p",
-    "fecha_hora_scraping": "2021-06-13 16:28:45",
+    "fecha_hora_scraping": "2021-06-13 18:04:17",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
     "titulo": "BENET VAINILLA POLVO",
     "nombre_imagen": "./web_scraping/data/img/BENET_VAINILLA_POLVO.jpg",
     "presentacion": "BOLSA X 250 G",

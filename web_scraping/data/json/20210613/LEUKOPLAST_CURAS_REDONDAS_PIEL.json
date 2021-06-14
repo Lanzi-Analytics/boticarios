@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707331802404leukoplast-curas-redondas-pielmedicamentosventa-libre-7707331802404/p",
+    "fecha_hora_scraping": "2021-06-13 19:11:55",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "LEUKOPLAST CURAS REDONDAS PIEL",
+    "nombre_imagen": "./web_scraping/data/img/LEUKOPLAST_CURAS_REDONDAS_PIEL.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $79,50"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013817"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

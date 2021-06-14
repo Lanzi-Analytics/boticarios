@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aquaceltm-ag-foam-125cm-x-125cm-ref420627-768455123773/p",
+    "fecha_hora_scraping": "2021-06-13 19:11:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "AQUACELTM AG FOAM 12.5CM X 12.5CM REF420627",
+    "nombre_imagen": "./web_scraping/data/img/AQUACELTM_AG_FOAM_125CM_X_125CM_REF420627.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $43.700,00"
+    },
+    "descripcion": "aquaceltm ag foam 12.5cm x 12.5cm ref420",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011008"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

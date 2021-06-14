@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-omega-3-colsrol-gratis-omega-3-frasco-x-50-capsulas-7707232092799/p",
+    "fecha_hora_scraping": "2021-06-13 19:28:50",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "OFERTA OMEGA 3 COLSROL GRATIS OMEGA 3 FRASCO X 50 CAPSULAS",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_OMEGA_3_COLSROL_GRATIS_OMEGA_3_FRASCO_X_50_CAPSULAS.jpg",
+    "presentacion": "FRASCO X 50 UN",
+    "precio": {
+        "bestPrice": "$36.150",
+        "precioPorSku js-PUM": "Unidad a $723,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0000438-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

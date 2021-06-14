@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bispeptol-3g-polvo-para-suspension-oral-7709270449191/p",
+    "fecha_hora_scraping": "2021-06-13 19:08:27",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "BISPEPTOL 3G POLVO PARA SUSPENSI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/BISPEPTOL_3G_POLVO_PARA_SUSPENSI\u00d3N_ORAL.jpg",
+    "presentacion": "CAJA X 9 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Sobre a $283,33"
+    },
+    "descripcion": "bispeptol 3g polvo para suspensi\u00f3n oral",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 9 SOB"
+        ],
+        [
+            "Concentracion",
+            "3000 MG"
+        ],
+        [
+            "Principio activo",
+            "DIOSMECTITA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BEST SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018729"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

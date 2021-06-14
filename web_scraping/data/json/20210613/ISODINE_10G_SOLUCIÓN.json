@@ -1,18 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/isodine-10g-solucion-7702195873256/p",
-    "fecha_hora_scraping": "2021-06-13 16:42:28",
+    "url_producto": "https://www.drogueriascolsubsidio.com/isodine-10g-solucion-7702195867217/p",
+    "fecha_hora_scraping": "2021-06-13 19:15:11",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
     "titulo": "ISODINE 10G SOLUCI\u00d3N",
     "nombre_imagen": "./web_scraping/data/img/ISODINE_10G_SOLUCI\u00d3N.jpg",
-    "presentacion": "FRASCO X 60 ML",
+    "presentacion": "FRASCO X 120 ML",
     "precio": {
-        "bestPrice": "$10.400",
-        "precioPorSku js-PUM": "Tableta a $104,00"
+        "bestPrice": "$19.500",
+        "precioPorSku js-PUM": "Mililitro a $162,50"
     },
     "descripcion": "isodine 10g soluci\u00f3n",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "FRASCO X 60 ML"
+            "FRASCO X 120 ML"
         ],
         [
             "Concentracion",

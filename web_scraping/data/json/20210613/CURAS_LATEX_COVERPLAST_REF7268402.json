@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-latex-coverplast-ref72684-02-7707331801667/p",
+    "fecha_hora_scraping": "2021-06-13 18:42:53",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS LATEX COVERPLAST REF72684-02",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_LATEX_COVERPLAST_REF7268402.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$8.750",
+        "precioPorSku js-PUM": "Unidad a $291,67"
+    },
+    "descripcion": "curas latex coverplast ref72684-02",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0006852"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

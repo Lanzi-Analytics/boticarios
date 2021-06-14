@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/locion-de-benjui-7707012300830/p",
-    "fecha_hora_scraping": "2021-06-13 16:47:18",
+    "fecha_hora_scraping": "2021-06-13 18:23:59",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "LOCION DE BENJUI",
     "nombre_imagen": "./web_scraping/data/img/LOCION_DE_BENJUI.jpg",
     "presentacion": "FRASCO X 30 ML",

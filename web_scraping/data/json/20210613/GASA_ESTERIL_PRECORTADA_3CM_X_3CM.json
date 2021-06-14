@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-esteril-precortada-3cm-x-3cm-7707228360499/p",
+    "fecha_hora_scraping": "2021-06-13 18:41:12",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA ESTERIL PRECORTADA 3CM X 3CM",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_PRECORTADA_3CM_X_3CM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$508",
+        "precioPorSku js-PUM": "Unidad a $508,00"
+    },
+    "descripcion": "gasa esteril precortada 3cm x 3cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003258-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703763997008bucoxol-solucion-oral-sabor-frutos-rojosmedicamentosgargantala-sante-7703763997008/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:31",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "BUCOXOL SOLUCION ORAL SABOR FRUTOS ROJOS",
+    "nombre_imagen": "./web_scraping/data/img/BUCOXOL_SOLUCION_ORAL_SABOR_FRUTOS_ROJOS.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $220,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "3 MG/ML 2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BENCIDAMINA CLORHIDRATO CETILPIRIDINIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0014936"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

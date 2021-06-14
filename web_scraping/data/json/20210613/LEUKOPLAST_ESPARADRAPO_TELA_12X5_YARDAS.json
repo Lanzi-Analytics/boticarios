@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leukoplast-esparadrapo-tela-12x5-yardas-7707331800592/p",
+    "fecha_hora_scraping": "2021-06-13 18:43:09",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "LEUKOPLAST ESPARADRAPO TELA 1/2X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/LEUKOPLAST_ESPARADRAPO_TELA_12X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.300",
+        "precioPorSku js-PUM": "Unidad a $8.300,00"
+    },
+    "descripcion": "leukoplast esparadrapo tela 1/2x5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0006944"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

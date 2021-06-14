@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinus-rinse-solucion-nasal-aerosol-705928001008/p",
+    "fecha_hora_scraping": "2021-06-13 18:54:50",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "SINUS RINSE SOLUCION NASAL AEROSOL",
+    "nombre_imagen": "./web_scraping/data/img/SINUS_RINSE_SOLUCION_NASAL_AEROSOL.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$92.250",
+        "precioPorSku js-PUM": "Mililitro a $384,38"
+    },
+    "descripcion": "sinus rinse solucion nasal aerosol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEILMED LATAM COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0014204"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

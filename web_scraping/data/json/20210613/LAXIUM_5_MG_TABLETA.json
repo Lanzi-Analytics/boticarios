@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/laxium-5-mg-tableta-7707177971579/p",
-    "fecha_hora_scraping": "2021-06-13 16:33:00",
+    "fecha_hora_scraping": "2021-06-13 18:08:51",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "LAXIUM 5 MG TABLETA",
     "nombre_imagen": "./web_scraping/data/img/LAXIUM_5_MG_TABLETA.jpg",
     "presentacion": "CAJA X 10 TAB",

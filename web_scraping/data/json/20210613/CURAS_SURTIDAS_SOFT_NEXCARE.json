@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-surtidas-soft-nexcare-51131995260/p",
+    "fecha_hora_scraping": "2021-06-13 18:56:29",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS SURTIDAS SOFT NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_SURTIDAS_SOFT_NEXCARE.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$8.250",
+        "precioPorSku js-PUM": "Unidad a $275,00"
+    },
+    "descripcion": "curas surtidas soft nexcare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016435"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

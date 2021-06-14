@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-para-el-talon-nexcare-51141994956/p",
+    "fecha_hora_scraping": "2021-06-13 19:00:17",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS PARA EL TALON NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_PARA_EL_TALON_NEXCARE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$11.700",
+        "precioPorSku js-PUM": "Unidad a $11.700"
+    },
+    "descripcion": "curas para el talon nexcare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016435"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

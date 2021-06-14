@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-duo-tornado-passion-4005800108532/p",
+    "fecha_hora_scraping": "2021-06-13 19:24:05",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON DUO TORNADO PASSION",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_DUO_TORNADO_PASSION.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$10.100",
+        "precioPorSku js-PUM": "Unidad a $3.366,67"
+    },
+    "descripcion": "condon duo tornado passion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "CLORMADINONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0012234"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

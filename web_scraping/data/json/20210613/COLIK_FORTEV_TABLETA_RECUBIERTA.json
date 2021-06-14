@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colik-fortev-tableta-recubierta-7702870070598/p",
+    "fecha_hora_scraping": "2021-06-13 18:49:25",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|abdominal y colico",
+    "titulo": "COLIK FORTEV TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/COLIK_FORTEV_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 5 TAB",
+    "precio": {
+        "bestPrice": "$7.200",
+        "precioPorSku js-PUM": "Tableta a $1.440,00"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. si los s\u00edntomas persisten consulte a su m\u00e9dico. leer indicaciones y contraindicaciones en el inserto. analg\u00e9sico, antipir\u00e9tico. reg. sanitario invima 2017m-0012468-r1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG 241 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN NAPROXENO SODIO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012468-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

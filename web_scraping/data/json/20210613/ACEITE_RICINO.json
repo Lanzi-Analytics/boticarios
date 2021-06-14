@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/aceite-ricino-7707231003086/p",
-    "fecha_hora_scraping": "2021-06-13 16:47:47",
+    "fecha_hora_scraping": "2021-06-13 18:24:32",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "ACEITE RICINO",
     "nombre_imagen": "./web_scraping/data/img/ACEITE_RICINO.jpg",
     "presentacion": "FRASCO X 120 ML",

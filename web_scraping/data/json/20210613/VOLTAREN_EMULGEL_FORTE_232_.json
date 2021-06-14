@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/voltaren-emulgel-forte-232--7441145402374/p",
+    "fecha_hora_scraping": "2021-06-13 18:54:39",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "VOLTAREN EMULGEL FORTE 2.32 %",
+    "nombre_imagen": "./web_scraping/data/img/VOLTAREN_EMULGEL_FORTE_232_.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$73.750",
+        "precioPorSku js-PUM": "Gramo a $737,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "2 % (P/P)"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO DIETILAMONIO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014657-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

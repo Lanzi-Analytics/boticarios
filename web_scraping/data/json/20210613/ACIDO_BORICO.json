@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/acido-borico-7707231002096/p",
-    "fecha_hora_scraping": "2021-06-13 16:48:53",
+    "fecha_hora_scraping": "2021-06-13 18:25:35",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "ACIDO BORICO",
     "nombre_imagen": "./web_scraping/data/img/ACIDO_BORICO.jpg",
     "presentacion": "CAJA X 400 G",

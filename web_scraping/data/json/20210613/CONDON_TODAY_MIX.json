@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-mix-7702132000936/p",
+    "fecha_hora_scraping": "2021-06-13 19:24:27",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON TODAY MIX",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_TODAY_MIX.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$21.700",
+        "precioPorSku js-PUM": "Tableta a $775,00"
+    },
+    "descripcion": "condon today mix",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0000779-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

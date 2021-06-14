@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-durex-sensitivo-5052197008555/p",
+    "fecha_hora_scraping": "2021-06-13 19:24:38",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON DUREX SENSITIVO",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_DUREX_SENSITIVO.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$13.750",
+        "bestPrice": "$10.312",
+        "precioPorSku js-PUM": "Unidad a $3.437,33"
+    },
+    "descripcion": "condon durex sensitivo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0009012"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702560006395medicamentosalgodon-curas-gasas-y-vendasjgb-7702560006395/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:10",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "OFERTA ALGOD\u00d3N ZIGZAG PAGUE: 100G LLEVE: 125G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ALGOD\u00d3N_ZIGZAG_PAGUE_100G_LLEVE_125G.jpg",
+    "presentacion": "BOLSA X 100 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $53,50"
+    },
+    "descripcion": "oferta algod\u00f3n zigzag pague: 100g lleve: 125g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003372-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

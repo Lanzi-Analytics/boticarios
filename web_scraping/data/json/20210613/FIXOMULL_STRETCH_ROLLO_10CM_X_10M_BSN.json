@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fixomull-stretch-rollo-10cm-x-10m-bsn-4042809017717/p",
+    "fecha_hora_scraping": "2021-06-13 19:14:45",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "FIXOMULL STRETCH ROLLO 10CM X 10M BSN",
+    "nombre_imagen": "./web_scraping/data/img/FIXOMULL_STRETCH_ROLLO_10CM_X_10M_BSN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$84.950",
+        "bestPrice": "$67.960",
+        "precioPorSku js-PUM": "Unidad a $67.960"
+    },
+    "descripcion": "fixomull stretch rollo 10cm x 10m bsn",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "L-ORNITINA L-ASPARTATO"
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000273-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

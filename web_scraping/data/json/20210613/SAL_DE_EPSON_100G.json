@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/sal-de-epson-100g-7707333770145/p",
-    "fecha_hora_scraping": "2021-06-13 16:46:52",
+    "fecha_hora_scraping": "2021-06-13 18:23:33",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "SAL DE EPSON 100G",
     "nombre_imagen": "./web_scraping/data/img/SAL_DE_EPSON_100G.jpg",
     "presentacion": "BOLSA X 100 G",

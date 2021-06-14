@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fin-espam-fem-tableta-recubierta-7703038313038/p",
+    "fecha_hora_scraping": "2021-06-13 18:49:55",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|abdominal y colico",
+    "titulo": "FIN-ESPAM FEM TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FINESPAM_FEM_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$9.500",
+        "precioPorSku js-PUM": "Tableta a $950,00"
+    },
+    "descripcion": "fin-espam fem tableta recubierta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG 20 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO LAPROFF SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018730"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

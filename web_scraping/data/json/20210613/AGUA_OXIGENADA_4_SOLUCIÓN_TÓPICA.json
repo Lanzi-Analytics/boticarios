@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-oxigenada-4-solucion-topica-7702560000010/p",
+    "fecha_hora_scraping": "2021-06-13 18:34:31",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "AGUA OXIGENADA 4% SOLUCI\u00d3N T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/AGUA_OXIGENADA_4_SOLUCI\u00d3N_T\u00d3PICA.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$4.050",
+        "precioPorSku js-PUM": "Mililitro a $33,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "50 %GM"
+        ],
+        [
+            "Principio activo",
+            "PEROXIDO HIDROGENO"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2009 M-010971-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

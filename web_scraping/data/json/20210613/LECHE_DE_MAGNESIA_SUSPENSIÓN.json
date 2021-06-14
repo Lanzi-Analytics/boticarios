@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leche-de-magnesia-suspension-7702057557171/p",
+    "fecha_hora_scraping": "2021-06-13 18:33:49",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "LECHE DE MAGNESIA SUSPENSI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/LECHE_DE_MAGNESIA_SUSPENSI\u00d3N.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$16.900",
+        "precioPorSku js-PUM": "Mililitro a $46,94"
+    },
+    "descripcion": "leche de magnesia suspensi\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "85 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MAGNESIO HIDROXIDO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-012243-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

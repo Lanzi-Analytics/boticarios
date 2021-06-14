@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vick-pastillas-vitamina-c-naranja-7506195199992/p",
+    "fecha_hora_scraping": "2021-06-13 19:16:10",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "VICK PASTILLAS VITAMINA C NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/VICK_PASTILLAS_VITAMINA_C_NARANJA.jpg",
+    "presentacion": "SOBRE",
+    "precio": {
+        "bestPrice": "$1.950",
+        "precioPorSku js-PUM": "Unidad a $1.950,00"
+    },
+    "descripcion": "vick pastillas vitamina c naranja",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0008635-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolpirin-extra-fuerte-tableta-7703234103259/p",
+    "fecha_hora_scraping": "2021-06-13 19:08:59",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "DOLPIRIN EXTRA FUERTE TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DOLPIRIN_EXTRA_FUERTE_TABLETA.jpg",
+    "presentacion": "CAJA X 8 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $1.387,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG 250 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN ACETIL SALICILICO ACIDO CAFEINA ANHIDRA"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011695-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

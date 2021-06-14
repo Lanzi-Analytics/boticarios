@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lubricante-sen-intimo-natural-7707290877017/p",
+    "fecha_hora_scraping": "2021-06-13 19:27:00",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "lubricante sen intimo natural",
+    "nombre_imagen": "./web_scraping/data/img/lubricante_sen_intimo_natural.jpg",
+    "presentacion": "TUBO X 60 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $244,17"
+    },
+    "descripcion": "lubricante sen intimo natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIMICA SUIZA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015622"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

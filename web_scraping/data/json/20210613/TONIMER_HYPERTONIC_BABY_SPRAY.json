@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tonimer-hypertonic-baby-spray-8033224814087/p",
+    "fecha_hora_scraping": "2021-06-13 19:16:45",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "TONIMER HYPERTONIC BABY SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/TONIMER_HYPERTONIC_BABY_SPRAY.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$62.750",
+        "precioPorSku js-PUM": "Mililitro a $627,50"
+    },
+    "descripcion": "tonimer hypertonic baby spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0003430-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hepanat-capsula-blanda-7706849115921/p",
+    "fecha_hora_scraping": "2021-06-13 19:31:57",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "HEPANAT CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/HEPANAT_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$22.700",
+        "precioPorSku js-PUM": "Capsula a $756,67"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "157 MG"
+        ],
+        [
+            "Principio activo",
+            "SILIMARINA VEGETAL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FUNAT SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-0001703"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

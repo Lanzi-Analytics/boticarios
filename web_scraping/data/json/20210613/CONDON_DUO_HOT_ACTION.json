@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-duo-hot-action-4005800026546/p",
+    "fecha_hora_scraping": "2021-06-13 19:25:41",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON DUO HOT ACTION",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_DUO_HOT_ACTION.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$10.000",
+        "precioPorSku js-PUM": "Unidad a $3.333,33"
+    },
+    "descripcion": "condon duo hot action",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO CLAVULANATO POTASIO"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "2009DM-0004926"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

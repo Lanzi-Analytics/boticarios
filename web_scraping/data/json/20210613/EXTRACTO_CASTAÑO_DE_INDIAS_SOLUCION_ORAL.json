@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/extracto-castano-de-indias-solucion-oral-7706849110742/p",
+    "fecha_hora_scraping": "2021-06-13 19:32:21",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "EXTRACTO CASTA\u00d1O DE INDIAS SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/EXTRACTO_CASTA\u00d1O_DE_INDIAS_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$13.950",
+        "precioPorSku js-PUM": "Mililitro a $232,50"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FUNAT SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-000155-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

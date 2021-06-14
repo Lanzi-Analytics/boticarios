@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolex-500-mg-tableta-recubierta-7451079001499/p",
+    "fecha_hora_scraping": "2021-06-13 18:34:57",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor general",
+    "titulo": "DOLEX 500 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DOLEX_500_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 24 TAB",
+    "precio": {
+        "bestPrice": "$20.850",
+        "precioPorSku js-PUM": "Unidad a $868,75"
+    },
+    "descripcion": "dolex 500 mg tableta recubierta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 24 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0015512-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

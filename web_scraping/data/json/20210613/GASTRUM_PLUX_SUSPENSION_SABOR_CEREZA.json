@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gastrum-plux-suspension-sabor-cereza-7702870071090/p",
+    "fecha_hora_scraping": "2021-06-13 18:50:43",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "GASTRUM PLUX SUSPENSION SABOR CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/GASTRUM_PLUX_SUSPENSION_SABOR_CEREZA.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$46.100",
+        "precioPorSku js-PUM": "Mililitro a $128,06"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIDROTALCITA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014584-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

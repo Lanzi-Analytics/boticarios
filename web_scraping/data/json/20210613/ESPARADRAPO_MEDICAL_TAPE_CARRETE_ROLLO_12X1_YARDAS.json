@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esparadrapo-medical-tape-carrete-rollo-12x1-yardas-7707228410071/p",
+    "fecha_hora_scraping": "2021-06-13 18:44:17",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "ESPARADRAPO MEDICAL TAPE CARRETE ROLLO 1/2X1 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/ESPARADRAPO_MEDICAL_TAPE_CARRETE_ROLLO_12X1_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.000",
+        "precioPorSku js-PUM": "Unidad a $1.000,00"
+    },
+    "descripcion": "esparadrapo medical tape carrete rollo 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "M P PROMEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005837"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

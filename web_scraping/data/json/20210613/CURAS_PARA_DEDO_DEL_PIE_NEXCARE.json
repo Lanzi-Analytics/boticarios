@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-para-dedo-del-pie-nexcare-51131212701/p",
+    "fecha_hora_scraping": "2021-06-13 18:57:59",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS PARA DEDO DEL PIE NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_PARA_DEDO_DEL_PIE_NEXCARE.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "$10.350",
+        "precioPorSku js-PUM": "Unidad a $2.070,00"
+    },
+    "descripcion": "curas para dedo del pie nexcare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016435"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

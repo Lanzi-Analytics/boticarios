@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amfolex-capsula-7709675592355/p",
+    "fecha_hora_scraping": "2021-06-13 19:02:38",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "amfolex capsula",
+    "nombre_imagen": "./web_scraping/data/img/amfolex_capsula.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$51.300",
+        "precioPorSku js-PUM": "Tableta a $5.130,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico. no exceder su consumo leer. indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALBBENI SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFT2020-0002697"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

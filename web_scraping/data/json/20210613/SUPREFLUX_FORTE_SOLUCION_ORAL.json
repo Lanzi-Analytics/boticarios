@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/supreflux-forte-solucion-oral-7703546703086/p",
+    "fecha_hora_scraping": "2021-06-13 18:48:54",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "SUPREFLUX FORTE SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/SUPREFLUX_FORTE_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 12 SOB",
+    "precio": {
+        "PrevPrice": "Antes:$19.850",
+        "bestPrice": "$15.880",
+        "precioPorSku js-PUM": "Unidad a $1.323,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 SOB"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 32,5 MG/ML 21,3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALGINATO SODIO BICARBONATO SODIO CALCIO CARBONATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017169"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

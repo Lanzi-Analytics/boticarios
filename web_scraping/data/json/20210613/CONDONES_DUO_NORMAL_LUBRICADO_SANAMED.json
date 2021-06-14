@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condones-duo-normal-lubricado-sanamed-4005800254963/p",
+    "fecha_hora_scraping": "2021-06-13 19:25:28",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDONES DUO NORMAL LUBRICADO SANAMED",
+    "nombre_imagen": "./web_scraping/data/img/CONDONES_DUO_NORMAL_LUBRICADO_SANAMED.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$8.950",
+        "precioPorSku js-PUM": "Unidad a $2.983,33"
+    },
+    "descripcion": "condones duo normal lubricado sanamed",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003568-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

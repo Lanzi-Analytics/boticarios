@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ibuprofeno-kids-100-mg-suspension-oral-7705959885229/p",
+    "fecha_hora_scraping": "2021-06-13 18:32:27",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "IBUPROFENO KIDS 100 MG SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/IBUPROFENO_KIDS_100_MG_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$8.500",
+        "precioPorSku js-PUM": "Mililitro a $70,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "2.00000 G"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO MICRONIZADO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0001230-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/floratil-250-mg-polvo-para-suspension-oral-7594002621996/p",
+    "fecha_hora_scraping": "2021-06-13 18:51:47",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "FLORATIL 250 MG POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/FLORATIL_250_MG_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$4.818",
+        "precioPorSku js-PUM": "Unidad a $4.817,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "SACCHAROMYCES BOULARDII 17"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0013511-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

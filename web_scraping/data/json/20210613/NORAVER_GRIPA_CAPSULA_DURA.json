@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/noraver-gripa-capsula-dura-7702057165338/p",
+    "fecha_hora_scraping": "2021-06-13 18:54:18",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "NORAVER GRIPA CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/NORAVER_GRIPA_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 8 CAP",
+    "precio": {
+        "bestPrice": "$11.550",
+        "precioPorSku js-PUM": "Capsula a $1.443,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG 10 MG 3.33 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO FENILEFRINA CLORHIDRATO CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002622-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

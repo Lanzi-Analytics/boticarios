@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-algodon-zigzag-jgb-pague-50g-lleve75g-7702560006562/p",
+    "fecha_hora_scraping": "2021-06-13 18:38:48",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "OFERTA ALGOD\u00d3N ZIGZAG JGB PAGUE: 50G LLEVE:75G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ALGOD\u00d3N_ZIGZAG_JGB_PAGUE_50G_LLEVE75G.jpg",
+    "presentacion": "BOLSA X 50 G",
+    "precio": {
+        "bestPrice": "$3.100",
+        "precioPorSku js-PUM": "Gramo a $62,00"
+    },
+    "descripcion": "oferta algod\u00f3n zigzag jgb pague: 50g lleve:75g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003372-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

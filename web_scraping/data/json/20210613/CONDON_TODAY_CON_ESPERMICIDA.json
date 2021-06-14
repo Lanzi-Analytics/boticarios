@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-con-espermicida-7702132002749/p",
+    "fecha_hora_scraping": "2021-06-13 19:25:03",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON TODAY CON ESPERMICIDA",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_TODAY_CON_ESPERMICIDA.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$12.850",
+        "precioPorSku js-PUM": "Unidad a $4.283,33"
+    },
+    "descripcion": "condon today con espermicida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0002596-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

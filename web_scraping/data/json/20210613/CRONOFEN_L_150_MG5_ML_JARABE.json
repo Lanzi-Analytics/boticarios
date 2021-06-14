@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cronofen-l-150-mg5-ml-jarabe-7703546033107/p",
+    "fecha_hora_scraping": "2021-06-13 18:50:05",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "CRONOFEN L 150 MG/5 ML JARABE",
+    "nombre_imagen": "./web_scraping/data/img/CRONOFEN_L_150_MG5_ML_JARABE.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$12.600",
+        "precioPorSku js-PUM": "Mililitro a $126,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "30 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0013349-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

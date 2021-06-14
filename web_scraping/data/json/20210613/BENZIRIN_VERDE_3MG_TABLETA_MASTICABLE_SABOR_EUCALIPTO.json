@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/benzirin-verde-3mg-tableta-masticable-sabor-eucalipto-7702057012397/p",
-    "fecha_hora_scraping": "2021-06-13 16:33:51",
+    "fecha_hora_scraping": "2021-06-13 18:09:41",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "BENZIRIN VERDE 3MG TABLETA MASTICABLE SABOR EUCALIPTO",
     "nombre_imagen": "./web_scraping/data/img/BENZIRIN_VERDE_3MG_TABLETA_MASTICABLE_SABOR_EUCALIPTO.jpg",
     "presentacion": "CAJA X 12 TAB",

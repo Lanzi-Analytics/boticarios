@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esparadrapo-tela-1x5-yardas-rollo-bsn-7707331800479/p",
+    "fecha_hora_scraping": "2021-06-13 18:43:19",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "ESPARADRAPO TELA 1X5 YARDAS ROLLO BSN",
+    "nombre_imagen": "./web_scraping/data/img/ESPARADRAPO_TELA_1X5_YARDAS_ROLLO_BSN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.450",
+        "precioPorSku js-PUM": "Unidad a $9.450,00"
+    },
+    "descripcion": "esparadrapo tela 1x5 yardas rollo bsn",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2006DM-0000211-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

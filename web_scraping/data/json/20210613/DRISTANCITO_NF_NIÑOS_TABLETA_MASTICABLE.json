@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dristancito-nf-ninos-tableta-masticable-7702132011529/p",
+    "fecha_hora_scraping": "2021-06-13 18:40:04",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "DRISTANCITO NF NI\u00d1OS TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/DRISTANCITO_NF_NI\u00d1OS_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 6 TAB",
+    "precio": {
+        "bestPrice": "$16.050",
+        "precioPorSku js-PUM": "Tableta a $1.337,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017219"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

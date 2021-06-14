@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dristandol-tableta-7702132001353/p",
+    "fecha_hora_scraping": "2021-06-13 18:59:02",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor general",
+    "titulo": "DRISTANDOL TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DRISTANDOL_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$3.950",
+        "precioPorSku js-PUM": "Tableta a $395,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018322"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

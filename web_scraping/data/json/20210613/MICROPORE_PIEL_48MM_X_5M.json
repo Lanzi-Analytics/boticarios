@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/micropore-piel-48mm-x-5m-7702098036062/p",
+    "fecha_hora_scraping": "2021-06-13 18:59:07",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "MICROPORE PIEL 48MM X 5M",
+    "nombre_imagen": "./web_scraping/data/img/MICROPORE_PIEL_48MM_X_5M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$55.650",
+        "precioPorSku js-PUM": "Unidad a $55.650,00"
+    },
+    "descripcion": "micropore piel 48mm x 5m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001079"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

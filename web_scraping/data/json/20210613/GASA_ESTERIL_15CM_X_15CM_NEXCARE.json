@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-esteril-15cm-x-15cm-nexcare-7702098009165/p",
+    "fecha_hora_scraping": "2021-06-13 18:38:27",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA ESTERIL 15CM X 15CM NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_15CM_X_15CM_NEXCARE.jpg",
+    "presentacion": "CAJA X 24 UN",
+    "precio": {
+        "bestPrice": "$9.950",
+        "precioPorSku js-PUM": "Unidad a $414,58"
+    },
+    "descripcion": "gasa esteril 15cm x 15cm nexcare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 24 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO CAFEINA ANHIDRA"
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007696"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

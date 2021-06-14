@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tukhelix-jarabe-adultos-650240034558/p",
+    "fecha_hora_scraping": "2021-06-13 19:29:10",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "TUKHELIX JARABE PROPOLEO 120 ML",
+    "nombre_imagen": "./web_scraping/data/img/TUKHELIX_JARABE_PROPOLEO_120_ML.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$25.950",
+        "precioPorSku js-PUM": "Mililitro a $216,25"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico. no exceder su consumo leer. indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2018-0002612"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

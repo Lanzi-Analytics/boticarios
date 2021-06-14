@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/duo-retardante-condon-4005800255038/p",
+    "fecha_hora_scraping": "2021-06-13 19:26:37",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "DUO RETARDANTE COND\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/DUO_RETARDANTE_COND\u00d3N.jpg",
+    "presentacion": "UNIDAD X 6UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $3.075,00"
+    },
+    "descripcion": "duo retardante cond\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003568-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

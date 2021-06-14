@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sevedol-tense-tableta-recubierta-7702870072899/p",
+    "fecha_hora_scraping": "2021-06-13 19:02:18",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "sevedol tense tableta recubierta",
+    "nombre_imagen": "./web_scraping/data/img/sevedol_tense_tableta_recubierta.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$17.500",
+        "precioPorSku js-PUM": "Tableta a $1.458,33"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. si los s\u00edntomas persisten consulte a su m\u00e9dico. leer indicaciones y contraindicaciones en el inserto. analg\u00e9sico, antipir\u00e9tico. reg. sanitario invima 2018m-0018364",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG 220 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN NAPROXENO SODIO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018364"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

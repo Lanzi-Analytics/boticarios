@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/dolex-gripa-tableta-7451079001529/p",
-    "fecha_hora_scraping": "2021-06-13 16:37:36",
+    "fecha_hora_scraping": "2021-06-13 18:14:07",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
     "titulo": "DOLEX GRIPA TABLETA",
     "nombre_imagen": "./web_scraping/data/img/DOLEX_GRIPA_TABLETA.jpg",
     "presentacion": "BLISTER X 4 TAB",

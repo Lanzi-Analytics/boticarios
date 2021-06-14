@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702277121022belleza-expressantisepticosmedicamentosmenticol-locion-verde-sin-valvulaanticeptico-anticepticos-7702277121022/p",
+    "fecha_hora_scraping": "2021-06-13 18:30:16",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "MENTICOL LOCION VERDE SIN VALVULA",
+    "nombre_imagen": "./web_scraping/data/img/MENTICOL_LOCION_VERDE_SIN_VALVULA.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "PrevPrice": "Antes:$10.900",
+        "bestPrice": "$9.810",
+        "precioPorSku js-PUM": "Mililitro a $39,24"
+    },
+    "descripcion": "menticol locion verde sin valvula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC34179-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

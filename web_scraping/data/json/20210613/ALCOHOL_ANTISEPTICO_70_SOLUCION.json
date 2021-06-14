@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-antiseptico-70-solucion-7702404000312/p",
+    "fecha_hora_scraping": "2021-06-13 19:08:12",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
+    "titulo": "ALCOHOL ANTISEPTICO 70% SOLUCION",
+    "nombre_imagen": "./web_scraping/data/img/ALCOHOL_ANTISEPTICO_70_SOLUCION.jpg",
+    "presentacion": "BOTELLA X 375 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $11,47"
+    },
+    "descripcion": "alcohol antiseptico 70% solucion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 375 ML"
+        ],
+        [
+            "Concentracion",
+            "0,70 ML/ML"
+        ],
+        [
+            "Principio activo",
+            "ETILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "REPRESENTACIONES CONTINENTAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nasogel-gel-spray-705928045309/p",
+    "fecha_hora_scraping": "2021-06-13 18:52:22",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "NASOGEL GEL SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/NASOGEL_GEL_SPRAY.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$64.550",
+        "precioPorSku js-PUM": "Mililitro a $2.151,67"
+    },
+    "descripcion": "nasogel gel spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEILMED LATAM COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011564"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vick-drops-tableta-cereza-7506339393538/p",
+    "fecha_hora_scraping": "2021-06-13 19:16:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "VICK DROPS TABLETA CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/VICK_DROPS_TABLETA_CEREZA.jpg",
+    "presentacion": "CAJA X 25TAB",
+    "precio": {
+        "bestPrice": "$8.500",
+        "precioPorSku js-PUM": "Unidad a $8.500,00"
+    },
+    "descripcion": "vick drops tableta cereza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000752-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

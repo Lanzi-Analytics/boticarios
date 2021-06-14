@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/dramamine-50-mg-tableta-7501007532608/p",
-    "fecha_hora_scraping": "2021-06-13 16:32:18",
+    "fecha_hora_scraping": "2021-06-13 18:08:02",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "DRAMAMINE 50 MG TABLETA",
     "nombre_imagen": "./web_scraping/data/img/DRAMAMINE_50_MG_TABLETA.jpg",
     "presentacion": "CAJA X 24 TAB",

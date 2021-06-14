@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/4042809244113bsn-medicalalgodon-curas-gasas-y-vendasmedicamentoscoverlet-parche-ocular-regular-4042809244113/p",
+    "fecha_hora_scraping": "2021-06-13 19:07:41",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "COVERLET PARCHE OCULAR REGULAR",
+    "nombre_imagen": "./web_scraping/data/img/COVERLET_PARCHE_OCULAR_REGULAR.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.032,50"
+    },
+    "descripcion": "coverlet parche ocular regular",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0000604"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ky-gel-lubricante-intimo-7891010792077/p",
+    "fecha_hora_scraping": "2021-06-13 19:26:55",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "ky gel lubricante \u00edntimo",
+    "nombre_imagen": "./web_scraping/data/img/ky_gel_lubricante_\u00edntimo.jpg",
+    "presentacion": "SOBRE X 5G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $6.650,00"
+    },
+    "descripcion": "ky gel lubricante \u00edntimo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 5G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011941"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

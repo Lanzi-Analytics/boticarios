@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/micropore-cinta-quirurgica-piel-con-dispensador-24mm-x-5m-7702098400191/p",
+    "fecha_hora_scraping": "2021-06-13 18:55:46",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "MICROPORE CINTA QUIRURGICA PIEL CON DISPENSADOR 24MM X 5M",
+    "nombre_imagen": "./web_scraping/data/img/MICROPORE_CINTA_QUIRURGICA_PIEL_CON_DISPENSADOR_24MM_X_5M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$13.250",
+        "precioPorSku js-PUM": "Unidad a $13.250,00"
+    },
+    "descripcion": "micropore cinta quirurgica piel con disp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016689"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

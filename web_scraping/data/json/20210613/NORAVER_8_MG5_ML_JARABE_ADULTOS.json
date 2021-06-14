@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/noraver-8-mg5-ml-jarabe-adultos-7702057160555/p",
+    "fecha_hora_scraping": "2021-06-13 18:55:57",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
+    "titulo": "NORAVER 8 MG/5 ML JARABE ADULTOS",
+    "nombre_imagen": "./web_scraping/data/img/NORAVER_8_MG5_ML_JARABE_ADULTOS.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$22.650",
+        "precioPorSku js-PUM": "Mililitro a $188,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "1.6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BROMHEXINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0003237-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

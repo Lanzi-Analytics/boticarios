@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tonimer-isotonico-monodosis-8033224818597/p",
+    "fecha_hora_scraping": "2021-06-13 19:05:58",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "TONIMER ISOTONICO MONODOSIS",
+    "nombre_imagen": "./web_scraping/data/img/TONIMER_ISOTONICO_MONODOSIS.jpg",
+    "presentacion": "CAJA X 12 Vial",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.595,83"
+    },
+    "descripcion": "tonimer isotonico monodosis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 Vial"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018819"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

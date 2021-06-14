@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lubricante-sen-intimo-electrizante-7707290877048/p",
+    "fecha_hora_scraping": "2021-06-13 19:21:56",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "LUBRICANTE SEN INTIMO ELECTRIZANTE",
+    "nombre_imagen": "./web_scraping/data/img/LUBRICANTE_SEN_INTIMO_ELECTRIZANTE.jpg",
+    "presentacion": "TUBO X 5 ML",
+    "precio": {
+        "PrevPrice": "Antes:$26.150",
+        "bestPrice": "$22.227",
+        "precioPorSku js-PUM": "Mililitro a $4.445,40"
+    },
+    "descripcion": "lubricante sen intimo electrizante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIMICA SUIZA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0009291"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

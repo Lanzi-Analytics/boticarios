@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/parches-respialivio-7803504000391/p",
+    "fecha_hora_scraping": "2021-06-13 18:40:09",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "PARCHES RESPIALIVIO",
+    "nombre_imagen": "./web_scraping/data/img/PARCHES_RESPIALIVIO.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "$19.550",
+        "precioPorSku js-PUM": "Unidad a $3.910,00"
+    },
+    "descripcion": "parches respialivio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMARIS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

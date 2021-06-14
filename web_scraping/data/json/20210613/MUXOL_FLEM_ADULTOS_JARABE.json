@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/muxol-flem-adultos-jarabe-7703546041829/p",
+    "fecha_hora_scraping": "2021-06-13 18:48:30",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
+    "titulo": "MUXOL FLEM ADULTOS JARABE",
+    "nombre_imagen": "./web_scraping/data/img/MUXOL_FLEM_ADULTOS_JARABE.jpg",
+    "presentacion": "FRASCO X 120ML",
+    "precio": {
+        "bestPrice": "$33.700",
+        "precioPorSku js-PUM": "Mililitro a $280,83"
+    },
+    "descripcion": "muxol flem adultos jarabe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120ML"
+        ],
+        [
+            "Concentracion",
+            "6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AMBROXOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0006794"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lacril-14--solucion-inyectable-7707236678562/p",
+    "fecha_hora_scraping": "2021-06-13 18:43:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
+    "titulo": "LACRIL 14 % SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/LACRIL_14__SOLUCION_INYECTABLE.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$38.450",
+        "precioPorSku js-PUM": "Capsula a $961,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "14 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "POLIVINILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-014771-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

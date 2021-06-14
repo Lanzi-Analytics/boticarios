@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-coverplast-transparente-4042809380415/p",
+    "fecha_hora_scraping": "2021-06-13 19:00:00",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS COVERPLAST TRANSPARENTE",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_COVERPLAST_TRANSPARENTE.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "$6.950",
+        "precioPorSku js-PUM": "Unidad a $695,00"
+    },
+    "descripcion": "curas coverplast transparente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000124-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

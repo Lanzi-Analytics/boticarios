@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fortzink-jarabe-20-mg--5-ml-oral-sabor-vainilla-7703153034061/p",
+    "fecha_hora_scraping": "2021-06-13 18:49:40",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "FORTZINK JARABE 20 MG / 5 ML ORAL SABOR VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/FORTZINK_JARABE_20_MG__5_ML_ORAL_SABOR_VAINILLA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$9.600",
+        "bestPrice": "$7.680",
+        "precioPorSku js-PUM": "Capsula a $128,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ZINC SULFATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014517-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

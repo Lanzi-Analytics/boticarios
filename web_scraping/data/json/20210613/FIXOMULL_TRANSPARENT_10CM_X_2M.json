@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fixomull-transparent-10cm-x-2m-4042809179408/p",
+    "fecha_hora_scraping": "2021-06-13 18:53:19",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "FIXOMULL TRANSPARENT 10CM X 2M",
+    "nombre_imagen": "./web_scraping/data/img/FIXOMULL_TRANSPARENT_10CM_X_2M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$33.800",
+        "bestPrice": "$27.040",
+        "precioPorSku js-PUM": "Metro a $27.040"
+    },
+    "descripcion": "fixomull transparent 10cm x 2m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "PRAMIPEXOL DICLORHID HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0014045"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

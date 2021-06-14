@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ziped-forte-4-mgml-solucion-oral-7703546430005/p",
+    "fecha_hora_scraping": "2021-06-13 18:49:04",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "ZIPED FORTE 4 MG/ML SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ZIPED_FORTE_4_MGML_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 90 ML",
+    "precio": {
+        "bestPrice": "$23.400",
+        "precioPorSku js-PUM": "Mililitro a $260,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 ML"
+        ],
+        [
+            "Concentracion",
+            "4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SULFATO ZINC HEPTAHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015668"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

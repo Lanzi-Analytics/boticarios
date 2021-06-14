@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/duopas-400-mg20-mg-capsula-blanda-7703889155375/p",
+    "fecha_hora_scraping": "2021-06-13 18:48:09",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|abdominal y colico",
+    "titulo": "DUOPAS 400 MG/20 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/DUOPAS_400_MG20_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$41.900",
+        "precioPorSku js-PUM": "Capsula a $4.190,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 20 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011404-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

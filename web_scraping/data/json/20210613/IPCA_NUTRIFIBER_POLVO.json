@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ipca-nutrifiber-polvo-8901079017598/p",
+    "fecha_hora_scraping": "2021-06-13 19:05:42",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "IPCA NUTRIFIBER POLVO",
+    "nombre_imagen": "./web_scraping/data/img/IPCA_NUTRIFIBER_POLVO.jpg",
+    "presentacion": "LATA X 200 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $222,50"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "IPCA LABORATORIES LIMITATED SUCURSA"
+        ],
+        [
+            "Registro Invima",
+            "SD2017-0003972"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

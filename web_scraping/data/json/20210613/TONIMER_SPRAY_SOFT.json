@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tonimer-spray-soft-8033224818207/p",
+    "fecha_hora_scraping": "2021-06-13 18:39:18",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "TONIMER SPRAY SOFT",
+    "nombre_imagen": "./web_scraping/data/img/TONIMER_SPRAY_SOFT.jpg",
+    "presentacion": "FRASCO X 125 ML",
+    "precio": {
+        "bestPrice": "$68.100",
+        "precioPorSku js-PUM": "Mililitro a $544,80"
+    },
+    "descripcion": "tonimer spray soft  fcox125ml cl",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 125 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018819"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

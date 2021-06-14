@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/mucosina-gotas-pediatricas-7704403005602/p",
-    "fecha_hora_scraping": "2021-06-13 16:31:45",
+    "fecha_hora_scraping": "2021-06-13 18:07:17",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
     "titulo": "MUCOSINA GOTAS PEDIATRICAS",
     "nombre_imagen": "./web_scraping/data/img/MUCOSINA_GOTAS_PEDIATRICAS.jpg",
     "presentacion": "FRASCO X 30 ML",

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolysic-parche-bcn-7707274720100/p",
+    "fecha_hora_scraping": "2021-06-13 19:01:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "DOLYSIC PARCHE BCN",
+    "nombre_imagen": "./web_scraping/data/img/DOLYSIC_PARCHE_BCN.jpg",
+    "presentacion": "SOBRE X 2 UN",
+    "precio": {
+        "bestPrice": "$19.400",
+        "precioPorSku js-PUM": "Unidad a $9.700,00"
+    },
+    "descripcion": "parche dolysic sobx2un bcn",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0019186"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/strepsils-intensive-tableta-de-disolucion-bucal-sabor-miel-limon-7702626214849/p",
-    "fecha_hora_scraping": "2021-06-13 16:29:42",
+    "fecha_hora_scraping": "2021-06-13 18:05:07",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "STREPSILS INTENSIVE TABLETA DE DISOLUCION BUCAL SABOR MIEL-LIMON",
     "nombre_imagen": "./web_scraping/data/img/STREPSILS_INTENSIVE_TABLETA_DE_DISOLUCION_BUCAL_SABOR_MIELLIMON.jpg",
     "presentacion": "CAJA X 16 UN",

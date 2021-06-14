@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aquacel-foam-25cm-x-30cm-aposito-ref420624-768455123742/p",
+    "fecha_hora_scraping": "2021-06-13 19:11:39",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "AQUACEL FOAM 25CM X 30CM APOSITO REF420624",
+    "nombre_imagen": "./web_scraping/data/img/AQUACEL_FOAM_25CM_X_30CM_APOSITO_REF420624.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $148.000,00"
+    },
+    "descripcion": "aquacel foam 25cm x 30cm aposito ref4206",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0009243"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/laxacol-170-mg-tableta-7709766790707/p",
+    "fecha_hora_scraping": "2021-06-13 19:05:27",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "LAXACOL 17.0 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/LAXACOL_170_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $5.212,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "17 MG"
+        ],
+        [
+            "Principio activo",
+            "SENOSIDOS CALCIOS A+B"
+        ],
+        [
+            "Laboratorio",
+            "FARMACOL CHINOIN SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018536"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

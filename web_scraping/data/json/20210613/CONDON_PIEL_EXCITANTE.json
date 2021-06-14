@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-piel-excitante-7703689031190/p",
+    "fecha_hora_scraping": "2021-06-13 19:22:36",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON PIEL EXCITANTE",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_PIEL_EXCITANTE.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$7.000",
+        "bestPrice": "$5.600",
+        "precioPorSku js-PUM": "Unidad a $1.866,67"
+    },
+    "descripcion": "condon piel excitante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASOCIACION PROFAMILIA"
+        ],
+        [
+            "Registro Invima",
+            "V-003842-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

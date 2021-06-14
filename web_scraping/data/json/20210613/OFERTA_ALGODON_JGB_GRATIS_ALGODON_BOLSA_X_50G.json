@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-algodon-jgb-gratis-algodon-bolsa-x-50g-7702560029431/p",
+    "fecha_hora_scraping": "2021-06-13 18:32:17",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "OFERTA ALGODON JGB GRATIS ALGODON BOLSA X 50G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ALGODON_JGB_GRATIS_ALGODON_BOLSA_X_50G.jpg",
+    "presentacion": "BOLSA X 100 G",
+    "precio": {
+        "bestPrice": "$5.600",
+        "precioPorSku js-PUM": "Gramo a $56,00"
+    },
+    "descripcion": "oferta algodon jgb gratis algodon bolsa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003372-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

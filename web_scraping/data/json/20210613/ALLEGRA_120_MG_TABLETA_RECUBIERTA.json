@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/allegra-120-mg-tableta-recubierta-7591044008952/p",
+    "fecha_hora_scraping": "2021-06-13 18:50:54",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "ALLEGRA 120 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ALLEGRA_120_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 COM",
+    "precio": {
+        "PrevPrice": "Antes:$49.850",
+        "bestPrice": "$39.880",
+        "precioPorSku js-PUM": "Comprimido a $3.988,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contra indicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 COM"
+        ],
+        [
+            "Concentracion",
+            "120 MG"
+        ],
+        [
+            "Principio activo",
+            "FEXOFENADINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-007439-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterolyte-75-meq-coco-solucion-oral-7706263000773/p",
+    "fecha_hora_scraping": "2021-06-13 18:31:37",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "ENTEROLYTE 75 MEQ COCO SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ENTEROLYTE_75_MEQ_COCO_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$7.250",
+        "precioPorSku js-PUM": "Mililitro a $18,13"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "15 MG/ML 2.9 MG/ML 2.6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DEXTROSA/POTASIO CLORURO/SODIO CITRATO/SODIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011429-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

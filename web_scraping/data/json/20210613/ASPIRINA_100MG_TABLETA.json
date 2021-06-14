@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aspirina-100mg-tableta-7702123006817/p",
+    "fecha_hora_scraping": "2021-06-13 18:33:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor general",
+    "titulo": "ASPIRINA 100MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ASPIRINA_100MG_TABLETA.jpg",
+    "presentacion": "Blister X 28 TAB",
+    "precio": {
+        "bestPrice": "$12.130",
+        "precioPorSku js-PUM": "Tableta a $433,21"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014234"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

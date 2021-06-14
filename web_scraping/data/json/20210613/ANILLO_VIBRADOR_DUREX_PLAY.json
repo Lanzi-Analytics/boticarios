@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anillo-vibrador-durex-play-5038483393987/p",
+    "fecha_hora_scraping": "2021-06-13 19:23:17",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "ANILLO VIBRADOR DUREX PLAY",
+    "nombre_imagen": "./web_scraping/data/img/ANILLO_VIBRADOR_DUREX_PLAY.jpg",
+    "presentacion": "CAJA X 12 UN",
+    "precio": {
+        "PrevPrice": "Antes:$24.100",
+        "bestPrice": "$18.075",
+        "precioPorSku js-PUM": "Unidad a $1.506,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "PERINDOPRIL ARGININA"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NO REQUIERE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

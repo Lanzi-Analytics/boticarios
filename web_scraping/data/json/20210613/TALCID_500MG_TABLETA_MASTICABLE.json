@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/talcid-500mg-tableta-masticable-7702123007890/p",
+    "fecha_hora_scraping": "2021-06-13 18:55:19",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "TALCID 500MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/TALCID_500MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "BLISTER X 6 TAB",
+    "precio": {
+        "bestPrice": "$4.185",
+        "precioPorSku js-PUM": "Tableta a $697,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 6 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "HIDROTALCITA"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014609"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

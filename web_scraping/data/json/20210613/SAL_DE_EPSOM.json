@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/sal-de-epsom-7707333770374/p",
-    "fecha_hora_scraping": "2021-06-13 16:46:32",
+    "fecha_hora_scraping": "2021-06-13 18:23:12",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "SAL DE EPSOM",
     "nombre_imagen": "./web_scraping/data/img/SAL_DE_EPSOM.jpg",
     "presentacion": "BOLSA X 400 G",

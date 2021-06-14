@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitalux-plus-tableta-recubierta-3596590761201/p",
+    "fecha_hora_scraping": "2021-06-13 18:30:36",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
+    "titulo": "VITALUX PLUS TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/VITALUX_PLUS_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$78.550",
+        "precioPorSku js-PUM": "Tableta a $2.618,33"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su medico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002735"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

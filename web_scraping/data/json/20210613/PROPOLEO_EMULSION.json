@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/propoleo-emulsion-7707232091761/p",
+    "fecha_hora_scraping": "2021-06-13 19:29:00",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "PROPOLEO EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/PROPOLEO_EMULSION.jpg",
+    "presentacion": "FRASCO X 350 G",
+    "precio": {
+        "bestPrice": "$17.900",
+        "precioPorSku js-PUM": "Gramo a $51,14"
+    },
+    "descripcion": "propoleo emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 350 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD16M14495"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

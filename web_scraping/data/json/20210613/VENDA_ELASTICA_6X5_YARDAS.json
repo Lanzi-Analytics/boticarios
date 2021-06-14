@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-elastica-6x5-yardas-7707178252639/p",
+    "fecha_hora_scraping": "2021-06-13 18:47:15",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "VENDA ELASTICA 6X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_ELASTICA_6X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$2.690",
+        "precioPorSku js-PUM": "Unidad a $2.690,00"
+    },
+    "descripcion": "venda elastica 6x5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SHERLEG LABORATORIES SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0000641-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pruebade-ovulacion-rapid-response-7707228412341/p",
+    "fecha_hora_scraping": "2021-06-13 19:26:10",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|pruebas de embarazo",
+    "titulo": "PRUEBADE OVULACION RAPID RESPONSE",
+    "nombre_imagen": "./web_scraping/data/img/PRUEBADE_OVULACION_RAPID_RESPONSE.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.824,00"
+    },
+    "descripcion": "pruebade ovulacion rapid response",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "M P PROMEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018RD-0004833"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

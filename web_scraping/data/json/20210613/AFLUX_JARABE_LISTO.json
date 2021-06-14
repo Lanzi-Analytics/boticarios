@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/aflux-jarabe-listo-7702057010218/p",
-    "fecha_hora_scraping": "2021-06-13 16:40:34",
+    "fecha_hora_scraping": "2021-06-13 18:17:05",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
     "titulo": "AFLUX JARABE LISTO",
     "nombre_imagen": "./web_scraping/data/img/AFLUX_JARABE_LISTO.jpg",
     "presentacion": "FRASCO X 150 ML",

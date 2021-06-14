@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/multi-solution-plus-7702057707798/p",
+    "fecha_hora_scraping": "2021-06-13 18:30:26",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
+    "titulo": "MULTI SOLUTION PLUS",
+    "nombre_imagen": "./web_scraping/data/img/MULTI_SOLUTION_PLUS.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$50.250",
+        "precioPorSku js-PUM": "Mililitro a $139,58"
+    },
+    "descripcion": "multi solution plus",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002490-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dulcolax-5-mg-gragea-7703202221152/p",
+    "fecha_hora_scraping": "2021-06-13 18:33:12",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "DULCOLAX 5 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/DULCOLAX_5_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 20 GRG",
+    "precio": {
+        "bestPrice": "$20.700",
+        "precioPorSku js-PUM": "Gragea a $1.035,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 GRG"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "BISACODILO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-001357-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

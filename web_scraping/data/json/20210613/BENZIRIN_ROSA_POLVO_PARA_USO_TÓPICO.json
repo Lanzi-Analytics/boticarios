@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benzirin-rosa-polvo-para-uso-topico-7702057018030/p",
+    "fecha_hora_scraping": "2021-06-13 19:23:13",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "BENZIRIN ROSA POLVO PARA USO T\u00d3PICO",
+    "nombre_imagen": "./web_scraping/data/img/BENZIRIN_ROSA_POLVO_PARA_USO_T\u00d3PICO.jpg",
+    "presentacion": "Blister X 12 ML",
+    "precio": {
+        "bestPrice": "$9.120",
+        "precioPorSku js-PUM": "Mililitro a $760,00"
+    },
+    "descripcion": "benzirin rosa polvo para uso t\u00f3pico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 12 ML"
+        ],
+        [
+            "Concentracion",
+            "498 MG"
+        ],
+        [
+            "Principio activo",
+            "BENCIDAMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007037"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

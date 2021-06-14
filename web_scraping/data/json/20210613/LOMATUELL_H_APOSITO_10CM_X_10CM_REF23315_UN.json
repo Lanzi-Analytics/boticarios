@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/1000001103075medical-distributionalgodon-curas-gasas-y-vendasmedicamentoslomatuell-h-aposito-10cm-x-10cm-ref23315-1000001103075/p",
+    "fecha_hora_scraping": "2021-06-13 19:06:35",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "LOMATUELL H APOSITO 10CM X 10CM REF23315 UN",
+    "nombre_imagen": "./web_scraping/data/img/LOMATUELL_H_APOSITO_10CM_X_10CM_REF23315_UN.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $6.500,00"
+    },
+    "descripcion": "lomatuell h aposito 10cm x 10cm ref23315",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEDICAL DISTRIBUTION CIA INTERNACIO"
+        ],
+        [
+            "Registro Invima",
+            "2009DM-0003400"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

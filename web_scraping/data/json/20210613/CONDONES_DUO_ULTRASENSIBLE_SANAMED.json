@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condones-duo-ultrasensible-sanamed-4005800255021/p",
+    "fecha_hora_scraping": "2021-06-13 19:24:44",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDONES DUO ULTRASENSIBLE SANAMED",
+    "nombre_imagen": "./web_scraping/data/img/CONDONES_DUO_ULTRASENSIBLE_SANAMED.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Unidad a $3.216,67"
+    },
+    "descripcion": "condones duo ultrasensible sanamed",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003568-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

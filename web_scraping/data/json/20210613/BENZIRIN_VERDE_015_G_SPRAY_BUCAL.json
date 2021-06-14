@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benzirin-verde-015-g-spray-bucal-7702057018054/p",
+    "fecha_hora_scraping": "2021-06-13 19:15:44",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
+    "titulo": "BENZIRIN VERDE 0.15 G SPRAY BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/BENZIRIN_VERDE_015_G_SPRAY_BUCAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$37.950",
+        "precioPorSku js-PUM": "Mililitro a $316,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "1.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BENZIDAMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-004678-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

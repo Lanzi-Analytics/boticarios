@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/buscapina-10-mg-gragea-7703202221244/p",
+    "fecha_hora_scraping": "2021-06-13 18:47:31",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|abdominal y colico",
+    "titulo": "BUSCAPINA 10 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/BUSCAPINA_10_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 20 GRG",
+    "precio": {
+        "bestPrice": "$25.800",
+        "precioPorSku js-PUM": "Gragea a $1.290,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 GRG"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-000552-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

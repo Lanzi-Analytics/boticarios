@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dristan-triple-accion-nf-tableta-7702132008789/p",
+    "fecha_hora_scraping": "2021-06-13 19:16:05",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "DRISTAN TRIPLE ACCION NF TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DRISTAN_TRIPLE_ACCION_NF_TABLETA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$9.400",
+        "precioPorSku js-PUM": "Tableta a $783,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 15 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN DEXTROMETORFANO BROMOHIDRATO FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0010189-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

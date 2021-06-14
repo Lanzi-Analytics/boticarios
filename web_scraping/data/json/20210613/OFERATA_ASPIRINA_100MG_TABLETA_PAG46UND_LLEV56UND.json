@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702123011828-oferata-aspirina-100mg-tableta-pag46und-llev56und-medicamentos-dolor-fuerte-bayeracetil-salicilico-acidoaspirinetaaspirinetas-7702123011828/p",
+    "fecha_hora_scraping": "2021-06-13 19:04:38",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "OFERATA ASPIRINA 100MG TABLETA PAG:46UND LLEV:56UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERATA_ASPIRINA_100MG_TABLETA_PAG46UND_LLEV56UND.jpg",
+    "presentacion": "CAJA X 46 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $453,26"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 46 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014234"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

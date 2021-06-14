@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acetaminofen-500-mg-tableta-cubierta-tecnoquimicas-7702057070144/p",
+    "fecha_hora_scraping": "2021-06-13 19:14:28",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor general",
+    "titulo": "acetaminofen 500 mg tableta cubierta tecnoquimicas",
+    "nombre_imagen": "./web_scraping/data/img/acetaminofen_500_mg_tableta_cubierta_tecnoquimicas.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $476,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-015015-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

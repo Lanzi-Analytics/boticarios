@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gynocanesten-200-mg-ovulo-7702123001348/p",
+    "fecha_hora_scraping": "2021-06-13 19:17:43",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "GYNOCANESTEN 200 MG OVULO",
+    "nombre_imagen": "./web_scraping/data/img/GYNOCANESTEN_200_MG_OVULO.jpg",
+    "presentacion": "CAJA X 3 OVU",
+    "precio": {
+        "bestPrice": "$40.600",
+        "precioPorSku js-PUM": "OVULO a $13.533,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 OVU"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004385-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

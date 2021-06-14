@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chiquident-55-g-solucion-bucal-7703546701822/p",
+    "fecha_hora_scraping": "2021-06-13 19:08:54",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "CHIQUIDENT 5.5 G SOLUCION BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/CHIQUIDENT_55_G_SOLUCION_BUCAL.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.595,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "5.5 MG"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017237"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biogaia-gti-tableta-masticable-7350012553784/p",
+    "fecha_hora_scraping": "2021-06-13 18:30:56",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "BIOGAIA GTI TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/BIOGAIA_GTI_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$125.200",
+        "precioPorSku js-PUM": "Tableta a $4.173,33"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004345"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

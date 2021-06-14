@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oraltroz-80-mg-tos-ninos-jarabe-7703889157713/p",
+    "fecha_hora_scraping": "2021-06-13 19:04:09",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
+    "titulo": "ORALTROZ 80 MG TOS NI\u00d1OS JARABE",
+    "nombre_imagen": "./web_scraping/data/img/ORALTROZ_80_MG_TOS_NI\u00d1OS_JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $110,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "0.8 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BROMHEXINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007657"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

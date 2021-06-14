@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tabcin-noche-capsula-blanda-7702123005445/p",
+    "fecha_hora_scraping": "2021-06-13 18:52:43",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "TABCIN NOCHE C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/TABCIN_NOCHE_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 12 CAP",
+    "precio": {
+        "bestPrice": "$15.300",
+        "precioPorSku js-PUM": "Capsula a $1.275,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 CAP"
+        ],
+        [
+            "Concentracion",
+            "250 MG 10 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN DEXTROMETORFANO BROMOHIDRATO DOXILAMINA SUCCINATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0000695-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

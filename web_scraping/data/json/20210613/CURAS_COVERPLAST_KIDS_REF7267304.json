@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-coverplast-kids-ref72673-04-4042809273366/p",
+    "fecha_hora_scraping": "2021-06-13 19:00:11",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS COVERPLAST KIDS REF72673-04",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_COVERPLAST_KIDS_REF7267304.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$14.300",
+        "precioPorSku js-PUM": "Unidad a $476,67"
+    },
+    "descripcion": "curas coverplast kids ref72673-04",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "PRAMIPEXOL DICLORHID HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000124-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

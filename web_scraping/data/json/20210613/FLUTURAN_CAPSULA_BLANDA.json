@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fluturan-capsula-blanda-7703889154026/p",
+    "fecha_hora_scraping": "2021-06-13 18:47:52",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "FLUTURAN CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/FLUTURAN_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$28.900",
+        "precioPorSku js-PUM": "Capsula a $2.890,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 10 MG 2.5 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO FENILEFRINA CLORHIDRATO DESLORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008186"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

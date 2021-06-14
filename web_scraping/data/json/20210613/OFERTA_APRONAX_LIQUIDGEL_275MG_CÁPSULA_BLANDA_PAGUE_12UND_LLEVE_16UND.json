@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-apronax-liquid-gel-275mg-capsula-blanda-pague-12und-lleve-16und-7702123011972/p",
+    "fecha_hora_scraping": "2021-06-13 19:04:33",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "OFERTA APRONAX LIQUID-GEL 275MG C\u00c1PSULA BLANDA PAGUE: 12UND LLEVE: 16UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_APRONAX_LIQUIDGEL_275MG_C\u00c1PSULA_BLANDA_PAGUE_12UND_LLEVE_16UND.jpg",
+    "presentacion": "CAJA X 16 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $1.625,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 16 CAP"
+        ],
+        [
+            "Concentracion",
+            "275 MG"
+        ],
+        [
+            "Principio activo",
+            "NAPROXENO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014208"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

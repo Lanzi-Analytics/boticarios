@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-algodon-zig-zag-gratis-25g-7702057060725/p",
+    "fecha_hora_scraping": "2021-06-13 19:02:06",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "oferta algod\u00f3n zig zag gratis: 25g",
+    "nombre_imagen": "./web_scraping/data/img/oferta_algod\u00f3n_zig_zag_gratis_25g.jpg",
+    "presentacion": "BOLSA X 75G",
+    "precio": {
+        "bestPrice": "$2.200",
+        "precioPorSku js-PUM": "Gramo a $44,00"
+    },
+    "descripcion": "oferta algod\u00f3n zig zag gratis: 25g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 75G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002353"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

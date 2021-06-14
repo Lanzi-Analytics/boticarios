@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gasa-esteril-no-tejida-75cm-x-75cm-7707228362288/p",
+    "fecha_hora_scraping": "2021-06-13 18:41:28",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA ESTERIL NO TEJIDA 7.5CM X 7.5CM",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_NO_TEJIDA_75CM_X_75CM.jpg",
+    "presentacion": "CAJA X 12 SOB",
+    "precio": {
+        "bestPrice": "$7.600",
+        "precioPorSku js-PUM": "Unidad a $633,33"
+    },
+    "descripcion": "gasa esteril no tejida 7.5cm x 7.5cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003258-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

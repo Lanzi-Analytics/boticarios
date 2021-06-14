@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aquacel-extra-5cm-x-5cm-aposito-ref420671-768455125586/p",
+    "fecha_hora_scraping": "2021-06-13 19:11:23",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "AQUACEL EXTRA 5CM X 5CM APOSITO REF420671",
+    "nombre_imagen": "./web_scraping/data/img/AQUACEL_EXTRA_5CM_X_5CM_APOSITO_REF420671.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $18.350,00"
+    },
+    "descripcion": "aquacel extra 5cm x 5cm aposito ref42067",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000461-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

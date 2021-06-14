@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gelindia-gel-castano-de-indias-7706849111015/p",
+    "fecha_hora_scraping": "2021-06-13 19:32:16",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GELINDIA GEL CASTA\u00d1O DE INDIAS",
+    "nombre_imagen": "./web_scraping/data/img/GELINDIA_GEL_CASTA\u00d1O_DE_INDIAS.jpg",
+    "presentacion": "TUBO X 250 G",
+    "precio": {
+        "bestPrice": "$38.450",
+        "precioPorSku js-PUM": "Gramo a $153,80"
+    },
+    "descripcion": "gelindia gel casta\u00f1o de indias",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 250 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FUNAT SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13969-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

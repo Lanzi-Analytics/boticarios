@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057160968noraver-gripa-noche-panela-limonmedicamentosgripatecnoquimicasacetaminofen-difenhidramina-clorhidrato-fenilefrina-clorhidrato-7702057160968/p",
+    "fecha_hora_scraping": "2021-06-13 19:05:10",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "NORAVER GRIPA NOCHE PANELA-LIMON",
+    "nombre_imagen": "./web_scraping/data/img/NORAVER_GRIPA_NOCHE_PANELALIMON.jpg",
+    "presentacion": "SOBRE",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.900,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE"
+        ],
+        [
+            "Concentracion",
+            "500 MG 25 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN DIFENHIDRAMINA CLORHIDRATO FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016067"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aposito-goly-ocular-infantil-7707296100096/p",
+    "fecha_hora_scraping": "2021-06-13 18:40:34",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "APOSITO GOLY OCULAR INFANTIL",
+    "nombre_imagen": "./web_scraping/data/img/APOSITO_GOLY_OCULAR_INFANTIL.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$7.900",
+        "precioPorSku js-PUM": "Unidad a $395,00"
+    },
+    "descripcion": "aposito goly ocular infantil",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MARYDDAN MEDICA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013143"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

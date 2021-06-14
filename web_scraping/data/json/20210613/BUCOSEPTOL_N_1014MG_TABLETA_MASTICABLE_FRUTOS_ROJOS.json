@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/bucoseptol-n-tableta-bucal-sabor-frutos-rojos-7706142210514/p",
-    "fecha_hora_scraping": "2021-06-13 16:44:59",
+    "fecha_hora_scraping": "2021-06-13 18:21:37",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "BUCOSEPTOL N 10/1.4MG TABLETA MASTICABLE FRUTOS ROJOS",
     "nombre_imagen": "./web_scraping/data/img/BUCOSEPTOL_N_1014MG_TABLETA_MASTICABLE_FRUTOS_ROJOS.jpg",
     "presentacion": "CAJA X 10 TAB",

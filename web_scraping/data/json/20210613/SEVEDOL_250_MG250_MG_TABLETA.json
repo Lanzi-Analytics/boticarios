@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sevedol-250-mg250-mg-tableta-7702870001745/p",
+    "fecha_hora_scraping": "2021-06-13 19:13:52",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "SEVEDOL 250 MG/250 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/SEVEDOL_250_MG250_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$11.400",
+        "precioPorSku js-PUM": "Tableta a $950,00"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. si los s\u00edntomas persisten consulte a su m\u00e9dico. leer indicaciones y contraindicaciones en el inserto. analg\u00e9sico, antipir\u00e9tico. reg. sanitario invima 2017m-015027-r2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG 250 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN ACETIL SALICILICO ACIDO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-015027-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

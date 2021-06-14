@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gastrum-plux-menta-10--suspension-oral-77025388/p",
+    "fecha_hora_scraping": "2021-06-13 19:04:27",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "GASTRUM PLUX MENTA 10 % SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/GASTRUM_PLUX_MENTA_10__SUSPENSION_ORAL.jpg",
+    "presentacion": "SOB X 10 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $180,00"
+    },
+    "descripcion": "es un medicamento no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consulte a su m\u00e9dico. gastrum plux. reg san invima 2018m \u2013 0014584 \u2013 r1 anti\u00e1cido regulador de la acidez g\u00e1strica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOB X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIDROTALCITA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014584-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

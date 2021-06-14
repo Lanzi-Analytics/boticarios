@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labinpina-10-mg-gragea-7707177972118/p",
+    "fecha_hora_scraping": "2021-06-13 18:46:11",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|abdominal y colico",
+    "titulo": "LABINPINA 10 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/LABINPINA_10_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$16.400",
+        "precioPorSku js-PUM": "Tableta a $820,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "HIOSCINA N-BUTIL BROMURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO INTERNACIONAL DE COLOMB"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005256-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

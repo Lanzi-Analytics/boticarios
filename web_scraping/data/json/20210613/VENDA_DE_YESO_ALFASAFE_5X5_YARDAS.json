@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-de-yeso-alfasafe-5x5-yardas-7707228360963/p",
+    "fecha_hora_scraping": "2021-06-13 18:44:45",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "VENDA DE YESO ALFASAFE 5X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_DE_YESO_ALFASAFE_5X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.500",
+        "precioPorSku js-PUM": "Unidad a $8.500,00"
+    },
+    "descripcion": "venda de yeso alfasafe 5x5 yardas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003254-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

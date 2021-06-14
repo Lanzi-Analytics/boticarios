@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolex-avanzado-500mg-tableta-recubierta-7707397791032/p",
+    "fecha_hora_scraping": "2021-06-13 19:13:47",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor general",
+    "titulo": "DOLEX AVANZADO 500MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DOLEX_AVANZADO_500MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 100 TAB",
+    "precio": {
+        "bestPrice": "$72.600",
+        "precioPorSku js-PUM": "Tableta a $726,00"
+    },
+    "descripcion": "este producto est\u00e1 contraindicado en personas con historial previo de hipersensibilidad al acetaminof\u00e9n o a los excipientes. nuevas advertencias y precauciones contiene acetaminof\u00e9n. no usar con otros productos que contengan acetaminof\u00e9n. el uso concomitante con otros productos que contienen acetaminof\u00e9n puede conducir a una sobredosis.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009802-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tonimer-hypertonic-monodosis-8050444850930/p",
+    "fecha_hora_scraping": "2021-06-13 18:30:05",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "TONIMER HYPERTONIC MONODOSIS",
+    "nombre_imagen": "./web_scraping/data/img/TONIMER_HYPERTONIC_MONODOSIS.jpg",
+    "presentacion": "CAJA X 18 UN",
+    "precio": {
+        "bestPrice": "$47.700",
+        "precioPorSku js-PUM": "Unidad a $2.650,00"
+    },
+    "descripcion": "tonimer hypertonic monodosis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 18 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0003430-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

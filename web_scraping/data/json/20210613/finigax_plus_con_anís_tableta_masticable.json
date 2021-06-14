@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/finigax-plus-con-anis-tableta-masticable-7702870072547/p",
+    "fecha_hora_scraping": "2021-06-13 19:13:03",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "finigax plus con an\u00eds tableta masticable",
+    "nombre_imagen": "./web_scraping/data/img/finigax_plus_con_an\u00eds_tableta_masticable.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $997,50"
+    },
+    "descripcion": "finigax plus con an\u00eds tableta masticable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "125 MG 20 MG"
+        ],
+        [
+            "Principio activo",
+            "SIMETICONA ANIS ACEITE ESENCIAL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000429-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

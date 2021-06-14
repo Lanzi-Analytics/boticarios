@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/durex-real-feel-condon-7702626214856/p",
+    "fecha_hora_scraping": "2021-06-13 19:18:31",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "DUREX REAL FEEL COND\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/DUREX_REAL_FEEL_COND\u00d3N.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$13.650",
+        "bestPrice": "$10.237",
+        "precioPorSku js-PUM": "Unidad a $3.412,33"
+    },
+    "descripcion": "durex real feel cond\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0012916"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

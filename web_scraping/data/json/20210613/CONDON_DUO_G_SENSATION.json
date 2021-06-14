@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-duo-g-sensation-4005800041495/p",
+    "fecha_hora_scraping": "2021-06-13 19:25:34",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON DUO G SENSATION",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_DUO_G_SENSATION.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$11.400",
+        "precioPorSku js-PUM": "Unidad a $3.800,00"
+    },
+    "descripcion": "condon duo g sensation",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INDAPAMIDA"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003568-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

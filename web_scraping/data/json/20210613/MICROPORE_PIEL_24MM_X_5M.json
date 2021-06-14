@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/micropore-piel-24mm-x-5m-7702098036055/p",
+    "fecha_hora_scraping": "2021-06-13 18:59:12",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "MICROPORE PIEL 24MM X 5M",
+    "nombre_imagen": "./web_scraping/data/img/MICROPORE_PIEL_24MM_X_5M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$35.700",
+        "precioPorSku js-PUM": "Unidad a $35.700,00"
+    },
+    "descripcion": "micropore piel 24mm x 5m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016689"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

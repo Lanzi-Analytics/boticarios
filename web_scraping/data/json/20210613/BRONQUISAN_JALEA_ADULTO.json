@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bronquisan-jalea-adulto-7707237630019/p",
+    "fecha_hora_scraping": "2021-06-13 19:28:01",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "BRONQUISAN JALEA ADULTO",
+    "nombre_imagen": "./web_scraping/data/img/BRONQUISAN_JALEA_ADULTO.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$7.000",
+        "precioPorSku js-PUM": "Mililitro a $29,17"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO EL MANA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2010-0001601"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

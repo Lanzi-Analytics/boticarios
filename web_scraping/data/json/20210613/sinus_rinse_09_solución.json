@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinus-rinse-09-solucion-705928002005/p",
+    "fecha_hora_scraping": "2021-06-13 19:02:12",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "sinus rinse 0.9% soluci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/sinus_rinse_09_soluci\u00f3n.jpg",
+    "presentacion": "CAJA X 120 SOB",
+    "precio": {
+        "bestPrice": "$104.350",
+        "precioPorSku js-PUM": "Sobre a $869,58"
+    },
+    "descripcion": "sinus rinse 0.9% soluci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 120 SOB"
+        ],
+        [
+            "Concentracion",
+            "0,9 % (P/V)"
+        ],
+        [
+            "Principio activo",
+            "SODIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "NEILMED LATAM COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0014204"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

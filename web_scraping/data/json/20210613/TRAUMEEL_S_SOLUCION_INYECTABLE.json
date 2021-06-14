@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/traumeel-s-solucion-inyectable-7707336721762/p",
+    "fecha_hora_scraping": "2021-06-13 19:32:31",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "TRAUMEEL S SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/TRAUMEEL_S_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "$82.950",
+        "precioPorSku js-PUM": "Unidad a $16.590,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2020-0000863-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

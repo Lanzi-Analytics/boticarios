@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7501159033312rb-health-colombiapreservativosmedicamentoscondon-durex-placer-prolongadocondoncondonespreservativopreservativospreserbativospreserbativopreserbatibospreserbatiboatenolol-7501159033312/p",
+    "fecha_hora_scraping": "2021-06-13 19:20:47",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON DUREX PLACER PROLONGADO",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_DUREX_PLACER_PROLONGADO.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$12.000",
+        "bestPrice": "$9.000",
+        "precioPorSku js-PUM": "Unidad a $3.000,00"
+    },
+    "descripcion": "condon durex placer prolongado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ATENOLOL"
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0009012"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

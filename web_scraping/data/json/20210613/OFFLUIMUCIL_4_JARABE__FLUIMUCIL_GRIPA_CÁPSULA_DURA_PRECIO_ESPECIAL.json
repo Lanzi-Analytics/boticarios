@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/of-fluimucil-4-jarabe--fluimucil-gripa-capsula-dura-precio-especial-7703445130204/p",
+    "fecha_hora_scraping": "2021-06-13 19:03:26",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
+    "titulo": "OF-FLUIMUCIL 4% JARABE + FLUIMUCIL GRIPA C\u00c1PSULA DURA PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFFLUIMUCIL_4_JARABE__FLUIMUCIL_GRIPA_C\u00c1PSULA_DURA_PRECIO_ESPECIAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $203,33"
+    },
+    "descripcion": "of-fluimucil 4% jarabe + fluimucil gripa c\u00e1psula dura precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "N-ACETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0013734-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

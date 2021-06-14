@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fisiomax-lubricante-7703445117021/p",
+    "fecha_hora_scraping": "2021-06-13 19:22:20",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "FISIOMAX LUBRICANTE",
+    "nombre_imagen": "./web_scraping/data/img/FISIOMAX_LUBRICANTE.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$12.900",
+        "precioPorSku js-PUM": "Gramo a $258,00"
+    },
+    "descripcion": "fisiomax lubricante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015425"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/lasonil-active-gel-7707351592873/p",
-    "fecha_hora_scraping": "2021-06-13 16:41:48",
+    "fecha_hora_scraping": "2021-06-13 18:18:22",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
     "titulo": "LASONIL ACTIVE GEL",
     "nombre_imagen": "./web_scraping/data/img/LASONIL_ACTIVE_GEL.jpg",
     "presentacion": "TUBO X 30 G",

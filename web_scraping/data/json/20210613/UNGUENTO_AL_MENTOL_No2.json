@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/unguento-al-mentol-no2-7702057102203/p",
+    "fecha_hora_scraping": "2021-06-13 18:56:03",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "UNGUENTO AL MENTOL No2",
+    "nombre_imagen": "./web_scraping/data/img/UNGUENTO_AL_MENTOL_No2.jpg",
+    "presentacion": "POTE X 20 G",
+    "precio": {
+        "bestPrice": "$10.000",
+        "precioPorSku js-PUM": "Mililitro a $83,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 20 G"
+        ],
+        [
+            "Concentracion",
+            "14 G 4 G 3 G"
+        ],
+        [
+            "Principio activo",
+            "SALICILATO METILO MENTOL RACEMICO ALCANFOR SINTETICO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "M-006295-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

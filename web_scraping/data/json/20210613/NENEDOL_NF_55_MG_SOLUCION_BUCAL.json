@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nenedol-nf-55-mg-solucion-bucal-7707351592286/p",
+    "fecha_hora_scraping": "2021-06-13 19:08:32",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "NENEDOL NF 5.5 MG SOLUCION BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/NENEDOL_NF_55_MG_SOLUCION_BUCAL.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.015,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "5,55 MG"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "QUIMICA SUIZA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016193"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

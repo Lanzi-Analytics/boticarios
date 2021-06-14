@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bonfibra-mandarina-goma-7703153035570/p",
+    "fecha_hora_scraping": "2021-06-13 19:06:04",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "BONFIBRA MANDARINA GOMA",
+    "nombre_imagen": "./web_scraping/data/img/BONFIBRA_MANDARINA_GOMA.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $693,33"
+    },
+    "descripcion": "bonfibra mandarina goma",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003960-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

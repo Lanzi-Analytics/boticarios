@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolex-ninos-100mg-tableta-masticable-7451079000874/p",
+    "fecha_hora_scraping": "2021-06-13 18:52:27",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor ni\u00f1os",
+    "titulo": "DOLEX NI\u00d1OS 100MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/DOLEX_NI\u00d1OS_100MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$14.150",
+        "precioPorSku js-PUM": "Tableta a $707,50"
+    },
+    "descripcion": "dolex ni\u00f1os 100mg tableta masticable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2016M-011879-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

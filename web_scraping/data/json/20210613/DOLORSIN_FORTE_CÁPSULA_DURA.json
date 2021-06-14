@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolorsin-forte-capsula-dura-7703546043205/p",
+    "fecha_hora_scraping": "2021-06-13 18:49:50",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|dolor fuerte",
+    "titulo": "DOLORSIN FORTE C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/DOLORSIN_FORTE_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "BLISTER X 4 CAP",
+    "precio": {
+        "bestPrice": "$6.375",
+        "precioPorSku js-PUM": "Capsula a $1.593,75"
+    },
+    "descripcion": "dolorsin forte c\u00e1psula dura",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013927-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

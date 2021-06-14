@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707270363097protexalgodon-curas-gasas-y-vendasmedicamentosgasa-esteril-precortada-3cm-x-3cm-medisprogasas-gaza-gazas-compresas-esteriles-compresa-compresas-7707270363097/p",
+    "fecha_hora_scraping": "2021-06-13 18:35:40",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "GASA ESTERIL PRECORTADA 3CM X 3CM MEDISPRO",
+    "nombre_imagen": "./web_scraping/data/img/GASA_ESTERIL_PRECORTADA_3CM_X_3CM_MEDISPRO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.200",
+        "precioPorSku js-PUM": "Unidad a $1.200,00"
+    },
+    "descripcion": "gasa esteril precortada 3cm x 3cm medisp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROTEX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011470"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

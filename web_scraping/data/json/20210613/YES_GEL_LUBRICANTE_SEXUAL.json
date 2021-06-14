@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/yes-gel-lubricante-sexual-7800026587416/p",
+    "fecha_hora_scraping": "2021-06-13 19:26:31",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "YES! GEL LUBRICANTE SEXUAL",
+    "nombre_imagen": "./web_scraping/data/img/YES_GEL_LUBRICANTE_SEXUAL.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $925,00"
+    },
+    "descripcion": "yes! gel lubricante sexual",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0009877"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-elastica-coban-3x5-yardas-nexcare-7702098401747/p",
+    "fecha_hora_scraping": "2021-06-13 18:54:02",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "VENDA ELASTICA COBAN 3X5 YARDAS NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_ELASTICA_COBAN_3X5_YARDAS_NEXCARE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$16.400",
+        "precioPorSku js-PUM": "Unidad a $16.400,00"
+    },
+    "descripcion": "venda elastica coban 3x5 yardas nexcare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-001732-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

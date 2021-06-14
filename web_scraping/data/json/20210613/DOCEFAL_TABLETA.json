@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707355052700siegfriedgripamedicamentosdocefal-tabletaacetaminofen-cafeina-anhidra-fenilefrina-clorhidrato-7707355052700/p",
+    "fecha_hora_scraping": "2021-06-13 18:35:50",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
+    "titulo": "DOCEFAL TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DOCEFAL_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$9.450",
+        "precioPorSku js-PUM": "Tableta a $945,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 30 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CAFEINA ANHIDRA FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-003110-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

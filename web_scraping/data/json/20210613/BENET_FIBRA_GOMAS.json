@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-fibra-gomas-7709707028722/p",
+    "fecha_hora_scraping": "2021-06-13 19:05:48",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "BENET FIBRA GOMAS",
+    "nombre_imagen": "./web_scraping/data/img/BENET_FIBRA_GOMAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $492,22"
+    },
+    "descripcion": "benet fibra gomas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005506-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

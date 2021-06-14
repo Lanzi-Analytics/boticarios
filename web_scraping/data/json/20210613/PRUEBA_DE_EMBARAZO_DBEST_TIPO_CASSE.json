@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prueba-de-embarazo-dbest-tipo-casse-649360247160/p",
+    "fecha_hora_scraping": "2021-06-13 19:26:50",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|pruebas de embarazo",
+    "titulo": "PRUEBA DE EMBARAZO DBEST TIPO CASSE",
+    "nombre_imagen": "./web_scraping/data/img/PRUEBA_DE_EMBARAZO_DBEST_TIPO_CASSE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$5.150",
+        "precioPorSku js-PUM": "Unidad a $5.150,00"
+    },
+    "descripcion": "prueba de embarazo dbest tipo casse",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMALAB PHL LABORATORIOS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018RD-0004918"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

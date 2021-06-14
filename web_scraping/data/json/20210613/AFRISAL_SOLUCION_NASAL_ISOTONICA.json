@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/afrisal-solucion-nasal-isotonica-7702123010555/p",
+    "fecha_hora_scraping": "2021-06-13 18:53:57",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
+    "titulo": "AFRISAL SOLUCION NASAL ISOTONICA",
+    "nombre_imagen": "./web_scraping/data/img/AFRISAL_SOLUCION_NASAL_ISOTONICA.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$57.400",
+        "precioPorSku js-PUM": "Mililitro a $574,00"
+    },
+    "descripcion": "afrisal solucion nasal isotonica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013464"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

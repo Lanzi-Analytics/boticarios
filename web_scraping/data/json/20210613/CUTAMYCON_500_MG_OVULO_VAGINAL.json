@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cutamycon-500-mg-ovulo-vaginal-7703889158321/p",
+    "fecha_hora_scraping": "2021-06-13 19:17:53",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|cremas y ovulos",
+    "titulo": "CUTAMYCON 500 MG OVULO VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/CUTAMYCON_500_MG_OVULO_VAGINAL.jpg",
+    "presentacion": "CAJA X 1 CAP",
+    "precio": {
+        "bestPrice": "$22.800",
+        "precioPorSku js-PUM": "Capsula a $22.800,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007074"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

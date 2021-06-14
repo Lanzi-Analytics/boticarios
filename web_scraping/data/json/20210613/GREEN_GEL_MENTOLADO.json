@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/green-gel-mentolado-7702789035138/p",
+    "fecha_hora_scraping": "2021-06-13 19:14:03",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
+    "titulo": "GREEN GEL MENTOLADO",
+    "nombre_imagen": "./web_scraping/data/img/GREEN_GEL_MENTOLADO.jpg",
+    "presentacion": "TARRO X 220 G",
+    "precio": {
+        "bestPrice": "$11.900",
+        "precioPorSku js-PUM": "Gramo a $54,09"
+    },
+    "descripcion": "GREEN GEL MENTOLADO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 220 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FITT GLOBAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC17074-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

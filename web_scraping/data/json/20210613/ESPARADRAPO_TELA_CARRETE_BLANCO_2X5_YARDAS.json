@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esparadrapo-tela-carrete-blanco-2x5-yardas-7707228365753/p",
+    "fecha_hora_scraping": "2021-06-13 18:41:23",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "ESPARADRAPO TELA CARRETE BLANCO 2X5 YARDAS",
+    "nombre_imagen": "./web_scraping/data/img/ESPARADRAPO_TELA_CARRETE_BLANCO_2X5_YARDAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.450",
+        "precioPorSku js-PUM": "Unidad a $9.450,00"
+    },
+    "descripcion": "esparadrapo tela carrete blanco 2x5 yard",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003265-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

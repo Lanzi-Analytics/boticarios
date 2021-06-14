@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lass-supositorio-adulto-7702195115127/p",
+    "fecha_hora_scraping": "2021-06-13 18:55:06",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "LASS SUPOSITORIO ADULTO",
+    "nombre_imagen": "./web_scraping/data/img/LASS_SUPOSITORIO_ADULTO.jpg",
+    "presentacion": "Blister X 5 UN",
+    "precio": {
+        "bestPrice": "$5.280",
+        "precioPorSku js-PUM": "Unidad a $1.056,00"
+    },
+    "descripcion": "lass-supositorio-adulto-7702195115127",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "2,39 G"
+        ],
+        [
+            "Principio activo",
+            "GLICERINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0006209-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

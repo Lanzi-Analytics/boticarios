@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-ninos-animales-nexcare-5902658105562/p",
+    "fecha_hora_scraping": "2021-06-13 18:57:43",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "titulo": "CURAS NI\u00d1OS ANIMALES NEXCARE",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_NI\u00d1OS_ANIMALES_NEXCARE.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$6.150",
+        "precioPorSku js-PUM": "Unidad a $307,50"
+    },
+    "descripcion": "curas ni\u00f1os animales nexcare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "BETAMETASONA DIPROPIONATO CALCIPOTRIOL HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018221"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

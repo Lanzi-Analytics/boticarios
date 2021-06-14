@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bremiel-2-50mg5ml-jarabe-pediatrico-7707173600084/p",
+    "fecha_hora_scraping": "2021-06-13 19:16:00",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
+    "titulo": "BREMIEL-2 50MG/5ML JARABE PEDIATRICO",
+    "nombre_imagen": "./web_scraping/data/img/BREMIEL2_50MG5ML_JARABE_PEDIATRICO.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$27.400",
+        "precioPorSku js-PUM": "Mililitro a $228,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML 400 \u00b5G/ML"
+        ],
+        [
+            "Principio activo",
+            "GUAYACOLATO GLICERILO BROMHEXINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012885-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

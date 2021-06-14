@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ginkgo-biloba-60mg-capsula-blanda-665716435166/p",
+    "fecha_hora_scraping": "2021-06-13 19:32:59",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GINKGO BILOBA 60MG C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/GINKGO_BILOBA_60MG_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 100 CAP",
+    "precio": {
+        "bestPrice": "$28.700",
+        "precioPorSku js-PUM": "Capsula a $287,00"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2018-0000766- R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

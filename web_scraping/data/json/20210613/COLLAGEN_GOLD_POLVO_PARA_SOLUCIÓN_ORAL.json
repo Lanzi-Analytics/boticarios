@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/collagen-gold-polvo-para-solucion-oral-7704189103684/p",
+    "fecha_hora_scraping": "2021-06-13 19:31:16",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "COLLAGEN GOLD POLVO PARA SOLUCI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/COLLAGEN_GOLD_POLVO_PARA_SOLUCI\u00d3N_ORAL.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "$75.600",
+        "precioPorSku js-PUM": "Sobre a $2.520,00"
+    },
+    "descripcion": "COLLAGEN GOLD POLVO PARA SOLUCI\u00d3N ORAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2020-0004522"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

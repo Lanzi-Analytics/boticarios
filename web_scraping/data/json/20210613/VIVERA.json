@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vivera-4054839015915/p",
+    "fecha_hora_scraping": "2021-06-13 19:17:22",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "VIVERA",
+    "nombre_imagen": "./web_scraping/data/img/VIVERA.jpg",
+    "presentacion": "CAJA X 8 SOB",
+    "precio": {
+        "bestPrice": "$54.850",
+        "precioPorSku js-PUM": "Unidad a $6.856,25"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "AZELAICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003671"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

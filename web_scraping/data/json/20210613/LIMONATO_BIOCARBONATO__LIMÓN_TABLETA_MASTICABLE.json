@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/limonato-biocarbonato-limon-tableta-masticable-7709897940965/p",
+    "fecha_hora_scraping": "2021-06-13 18:31:58",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "LIMONATO BIOCARBONATO + LIM\u00d3N TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/LIMONATO_BIOCARBONATO__LIM\u00d3N_TABLETA_MASTICABLE.jpg",
+    "presentacion": "SOBRE X 8 TAB",
+    "precio": {
+        "bestPrice": "$3.500",
+        "precioPorSku js-PUM": "Unidad a $3.500,00"
+    },
+    "descripcion": "limonato biocarbonato + lim\u00f3n tableta masticable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 8 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LIMONATO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-005845-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/viajedol-50-mg-tableta-7707288826485/p",
+    "fecha_hora_scraping": "2021-06-13 19:01:17",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "VIAJEDOL 50 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/VIAJEDOL_50_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$4.550",
+        "precioPorSku js-PUM": "Tableta a $455,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "DIMENHIDRINATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018294"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

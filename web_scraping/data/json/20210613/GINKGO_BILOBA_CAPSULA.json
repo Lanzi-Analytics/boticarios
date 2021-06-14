@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707232092034ginkgo-biloba-capsulamedicamentosnaturalesnatural-freshly-7707232092034/p",
+    "fecha_hora_scraping": "2021-06-13 19:28:40",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GINKGO BILOBA CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/GINKGO_BILOBA_CAPSULA.jpg",
+    "presentacion": "FRASCO X 80 CAP",
+    "precio": {
+        "bestPrice": "$44.850",
+        "precioPorSku js-PUM": "Capsula a $560,63"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 CAP"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "GINKGO BILOBA"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2019-0000818-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

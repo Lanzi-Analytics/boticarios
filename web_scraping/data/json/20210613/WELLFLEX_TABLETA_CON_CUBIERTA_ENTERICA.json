@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/wellflex-tableta-con-cubierta-enterica-751273776474/p",
+    "fecha_hora_scraping": "2021-06-13 19:27:24",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "WELLFLEX TABLETA CON CUBIERTA ENTERICA",
+    "nombre_imagen": "./web_scraping/data/img/WELLFLEX_TABLETA_CON_CUBIERTA_ENTERICA.jpg",
+    "presentacion": "FRASCO X 60 TAB",
+    "precio": {
+        "bestPrice": "$54.700",
+        "precioPorSku js-PUM": "Tableta a $911,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "750 MG 600 MG 250 MG"
+        ],
+        [
+            "Principio activo",
+            "METILSULFONILMETANO GLUCOSAMINA SULFATO CONDROITINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016722"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

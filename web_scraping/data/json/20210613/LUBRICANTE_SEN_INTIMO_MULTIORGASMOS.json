@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lubricante-sen-intimo-multiorgasmos-7707290879271/p",
+    "fecha_hora_scraping": "2021-06-13 19:21:50",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
+    "titulo": "LUBRICANTE SEN INTIMO MULTIORGASMOS",
+    "nombre_imagen": "./web_scraping/data/img/LUBRICANTE_SEN_INTIMO_MULTIORGASMOS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "PrevPrice": "Antes:$16.600",
+        "bestPrice": "$14.110",
+        "precioPorSku js-PUM": "Mililitro a $1.411,00"
+    },
+    "descripcion": "lubricante sen intimo multiorgasmos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIMICA SUIZA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015622"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

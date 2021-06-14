@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/7702626205847gaviscon-liquido-sachet-suspension-oral-mentamedicamentosbienestar-digestivorb-health-colombiaalginato-sodio-bicarbonato-sodio-calcio-carbonato-7702626205847/p",
-    "fecha_hora_scraping": "2021-06-13 16:32:04",
+    "fecha_hora_scraping": "2021-06-13 18:07:46",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "GAVISCON LIQUIDO SACHET SUSPENSION ORAL MENTA",
     "nombre_imagen": "./web_scraping/data/img/GAVISCON_LIQUIDO_SACHET_SUSPENSION_ORAL_MENTA.jpg",
     "presentacion": "CAJA X 12 SACHET",

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bisbacter-262-mg-tableta-masticable-7702870000151/p",
+    "fecha_hora_scraping": "2021-06-13 18:53:35",
+    "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
+    "titulo": "BISBACTER 262 MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/BISBACTER_262_MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$36.250",
+        "precioPorSku js-PUM": "Tableta a $1.812,50"
+    },
+    "descripcion": "BISBACTER 262 MG TABLETA MASTICABLE",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "262 MG"
+        ],
+        [
+            "Principio activo",
+            "BISMUTO SUBCITRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-013059-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

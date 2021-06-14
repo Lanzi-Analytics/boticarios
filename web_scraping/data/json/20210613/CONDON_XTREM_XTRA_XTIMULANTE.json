@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-xtrem-xtra-xtimulante-7707274720117/p",
+    "fecha_hora_scraping": "2021-06-13 19:21:34",
+    "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
+    "titulo": "CONDON XTREM XTRA XTIMULANTE",
+    "nombre_imagen": "./web_scraping/data/img/CONDON_XTREM_XTRA_XTIMULANTE.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$3.050",
+        "precioPorSku js-PUM": "Unidad a $1.016,67"
+    },
+    "descripcion": "condon xtrem xtra xtimulante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011257"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

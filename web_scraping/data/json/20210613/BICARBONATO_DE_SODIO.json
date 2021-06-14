@@ -1,6 +1,7 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/bicarbonato-de-sodio-7707231002195/p",
-    "fecha_hora_scraping": "2021-06-13 16:48:49",
+    "fecha_hora_scraping": "2021-06-13 18:25:30",
+    "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "BICARBONATO DE SODIO",
     "nombre_imagen": "./web_scraping/data/img/BICARBONATO_DE_SODIO.jpg",
     "presentacion": "CAJA X 100 G",

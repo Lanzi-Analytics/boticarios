@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-casero-crem-helado-ron-pasas-7702402052474/p",
+    "fecha_hora_scraping": "2021-06-13 23:51:59",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado casero crem helado ron pasas",
+    "nombre_imagen": "./web_scraping/data/img/helado_casero_crem_helado_ron_pasas.jpg",
+    "presentacion": "UNIDAD X 60 G",
+    "precio": {
+        "bestPrice": "$1.050",
+        "precioPorSku js-PUM": "Gramo a $17,50"
+    },
+    "descripcion": "helado casero crem helado ron pasas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 60 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02140705"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

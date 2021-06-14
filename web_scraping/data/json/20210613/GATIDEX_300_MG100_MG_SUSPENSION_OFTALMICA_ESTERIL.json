@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gatidex-300-mg100-mg-suspension-oftalmica-esteril-7795368000573/p",
+    "fecha_hora_scraping": "2021-06-14 02:18:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GATIDEX 300 MG/100 MG SUSPENSION OFTALMICA ESTERIL",
+    "nombre_imagen": "./web_scraping/data/img/GATIDEX_300_MG100_MG_SUSPENSION_OFTALMICA_ESTERIL.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$85.350",
+        "precioPorSku js-PUM": "Mililitro a $17.070,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "300 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "GATIFLOXACINA SESQUIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016186"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bion-3-probioticos-tableta-recubierta-4054839106644/p",
+    "fecha_hora_scraping": "2021-06-14 08:06:58",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "BION 3 PROBIOTICOS TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/BION_3_PROBIOTICOS_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$34.150",
+        "bestPrice": "$27.320",
+        "precioPorSku js-PUM": "Tableta a $910,67"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2017-0004000"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

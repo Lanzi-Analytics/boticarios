@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-liquido-maybelline-tattoo-studio-liner-ink-black-41554549416/p",
+    "fecha_hora_scraping": "2021-06-14 10:26:48",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR L\u00cdQUIDO MAYBELLINE TATTOO STUDIO LINER INK BLACK",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_L\u00cdQUIDO_MAYBELLINE_TATTOO_STUDIO_LINER_INK_BLACK.jpg",
+    "presentacion": "UNIDAD X 1.2 G",
+    "precio": {
+        "bestPrice": "$40.650",
+        "precioPorSku js-PUM": "Gramo a $33.875,00"
+    },
+    "descripcion": "delineador l\u00edquido maybelline tattoo studio liner ink black",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 1.2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93583-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

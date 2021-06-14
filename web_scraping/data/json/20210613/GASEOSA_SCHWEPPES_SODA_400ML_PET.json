@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-schweppes-soda-400ml-pet-7702535010280/p",
+    "fecha_hora_scraping": "2021-06-14 00:02:53",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "GASEOSA SCHWEPPES SODA 400ML PET",
+    "nombre_imagen": "./web_scraping/data/img/GASEOSA_SCHWEPPES_SODA_400ML_PET.jpg",
+    "presentacion": "BOTELLA X 400ML",
+    "precio": {
+        "bestPrice": "$1.800",
+        "precioPorSku js-PUM": "Mililitro a $4,50"
+    },
+    "descripcion": "GASEOSA SCHWEPPES SODA 400ML PET",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004484-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

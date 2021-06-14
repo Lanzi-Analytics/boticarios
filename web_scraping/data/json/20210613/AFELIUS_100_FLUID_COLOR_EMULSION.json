@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/afelius-100-fluid-color-emulsion-7707355051079/p",
+    "fecha_hora_scraping": "2021-06-14 01:15:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "AFELIUS 100 FLUID COLOR EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/AFELIUS_100_FLUID_COLOR_EMULSION.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "PrevPrice": "Antes:$100.350",
+        "bestPrice": "$65.227",
+        "precioPorSku js-PUM": "Gramo a $1.304,54"
+    },
+    "descripcion": "afelius 100 fluid color emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC03974-12EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

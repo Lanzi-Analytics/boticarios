@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jarit-100-mg-capsula-blanda-7703153035402/p",
+    "fecha_hora_scraping": "2021-06-14 07:04:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "JARIT 100 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/JARIT_100_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "bestPrice": "$125.150",
+        "precioPorSku js-PUM": "Capsula a $4.171,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "PROGESTERONA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014305"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

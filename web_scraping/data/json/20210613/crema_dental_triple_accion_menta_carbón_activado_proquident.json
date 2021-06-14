@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-triple-accion-menta-carbon-activado-proquident-7702314502432/p",
+    "fecha_hora_scraping": "2021-06-14 09:21:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental triple accion menta carb\u00f3n activado proquident",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_triple_accion_menta_carb\u00f3n_activado_proquident.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$4.200",
+        "precioPorSku js-PUM": "Mililitro a $56,00"
+    },
+    "descripcion": "crema dental triple accion menta carb\u00f3n activado proquident",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90148-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

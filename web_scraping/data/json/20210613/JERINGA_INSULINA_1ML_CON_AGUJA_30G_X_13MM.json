@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-insulina-1ml-con-aguja-30g-x-13mm-7707228365647/p",
+    "fecha_hora_scraping": "2021-06-13 23:54:56",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA INSULINA 1ML CON AGUJA 30G X 1/3MM",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_INSULINA_1ML_CON_AGUJA_30G_X_13MM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$450",
+        "precioPorSku js-PUM": "Unidad a $450,00"
+    },
+    "descripcion": "jeringa insulina 1ml con aguja 30g x 1/3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS PARA LA SALUD"
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0001797-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/new-collagen-ae-crema-dia-7703319000046/p",
+    "fecha_hora_scraping": "2021-06-14 01:36:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEW COLLAGEN AE CREMA D\u00cdA",
+    "nombre_imagen": "./web_scraping/data/img/NEW_COLLAGEN_AE_CREMA_D\u00cdA.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.744,17"
+    },
+    "descripcion": "new collagen ae crema d\u00eda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALDOQUIN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44679-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-higiene-intima-jabon-liquido-4005800630958/p",
+    "fecha_hora_scraping": "2021-06-14 01:57:56",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN HIGIENE INTIMA JABON LIQUIDO",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_HIGIENE_INTIMA_JABON_LIQUIDO.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$24.200",
+        "precioPorSku js-PUM": "Mililitro a $96,80"
+    },
+    "descripcion": "eucerin higiene intima jabon liquido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54287-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pradaxa-150-mg-capsula-4048846007797/p",
+    "fecha_hora_scraping": "2021-06-14 05:14:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRADAXA 150 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/PRADAXA_150_MG_CAPSULA.jpg",
+    "presentacion": "CAJA X 60 CAP",
+    "precio": {
+        "bestPrice": "$229.800",
+        "precioPorSku js-PUM": "Capsula a $3.830,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "DABIGATRAN ETEXILATO MESILATO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0011886-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-avene-crema-mineral-spf50-3282779355773/p",
+    "fecha_hora_scraping": "2021-06-14 09:16:53",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR AVENE CREMA MINERAL SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_AVENE_CREMA_MINERAL_SPF50.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$90.550",
+        "precioPorSku js-PUM": "Mililitro a $1.811,00"
+    },
+    "descripcion": "protector solar avene crema mineral spf5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41753-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

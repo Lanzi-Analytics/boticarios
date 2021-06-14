@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/roxicaina-2--jalea-7704588000416/p",
+    "fecha_hora_scraping": "2021-06-14 05:47:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROXICAINA 2 % JALEA",
+    "nombre_imagen": "./web_scraping/data/img/ROXICAINA_2__JALEA.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$19.150",
+        "precioPorSku js-PUM": "Mililitro a $638,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "2 G"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA CLORHIDRATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ROPSOHN THERAPEUTICS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014M-014270-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

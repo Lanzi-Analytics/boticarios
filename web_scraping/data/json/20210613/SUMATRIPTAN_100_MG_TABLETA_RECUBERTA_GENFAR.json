@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sumatriptan-100-mg-tableta-recuberta-genfar-7702605102464/p",
+    "fecha_hora_scraping": "2021-06-14 08:29:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SUMATRIPTAN 100 MG TABLETA RECUBERTA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/SUMATRIPTAN_100_MG_TABLETA_RECUBERTA_GENFAR.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$52.400",
+        "precioPorSku js-PUM": "Tableta a $26.200,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "SUMATRIPTAN SUCCINATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002171-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

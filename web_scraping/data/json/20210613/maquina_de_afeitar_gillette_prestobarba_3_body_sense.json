@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-gillette-prestobarba3-body-sense-7506195153574/p",
+    "fecha_hora_scraping": "2021-06-14 05:31:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar gillette prestobarba 3 body sense",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_gillette_prestobarba_3_body_sense.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "PrevPrice": "Antes:$16.200",
+        "bestPrice": "$12.960",
+        "precioPorSku js-PUM": "Unidad a $6.480,00"
+    },
+    "descripcion": "maquina gillette prestob3 body sense x",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

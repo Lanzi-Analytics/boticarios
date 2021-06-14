@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-tena-mujer-medium-7702027470233/p",
+    "fecha_hora_scraping": "2021-06-14 00:45:03",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "TOALLA HIGI\u00c9NICA TENA DISCREET MEDIUM 30 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/TOALLA_HIGI\u00c9NICA_TENA_DISCREET_MEDIUM_30_UNIDADES.jpg",
+    "presentacion": "PAQUETE X 30 UN",
+    "precio": {
+        "bestPrice": "$24.750",
+        "precioPorSku js-PUM": "Unidad a $825,00"
+    },
+    "descripcion": "TOALLA HIGI\u00c9NICA TENA DISCREET MEDIUM",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

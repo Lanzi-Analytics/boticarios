@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-alergibon-leche-7703332003161/p",
+    "fecha_hora_scraping": "2021-06-14 01:51:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "JABON ALERGIBON LECHE",
+    "nombre_imagen": "./web_scraping/data/img/JABON_ALERGIBON_LECHE.jpg",
+    "presentacion": "BARRA X 90 G",
+    "precio": {
+        "bestPrice": "$16.950",
+        "precioPorSku js-PUM": "Gramo a $188,33"
+    },
+    "descripcion": "jabon alergibon leche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37248-97CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

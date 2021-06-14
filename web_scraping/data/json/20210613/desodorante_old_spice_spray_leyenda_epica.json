@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-old-spice-leyenda-epica-7500435110174/p",
+    "fecha_hora_scraping": "2021-06-14 04:34:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante old spice spray leyenda epica",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_old_spice_spray_leyenda_epica.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "PrevPrice": "Antes:$16.550",
+        "bestPrice": "$13.240",
+        "precioPorSku js-PUM": "Mililitro a $88,27"
+    },
+    "descripcion": "deo ap spray oldspice leyenda ep x 150",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

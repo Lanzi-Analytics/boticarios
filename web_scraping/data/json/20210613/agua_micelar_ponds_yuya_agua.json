@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-micelar-ponds-yuya-agua-7506306210967/p",
+    "fecha_hora_scraping": "2021-06-14 05:19:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "agua micelar ponds yuya agua",
+    "nombre_imagen": "./web_scraping/data/img/agua_micelar_ponds_yuya_agua.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$18.500",
+        "precioPorSku js-PUM": "Mililitro a $61,67"
+    },
+    "descripcion": "agua micelar ponds yuya agua",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88140-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

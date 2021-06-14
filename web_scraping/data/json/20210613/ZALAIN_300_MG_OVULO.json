@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zalain-300-mg-ovulo-8433042014957/p",
+    "fecha_hora_scraping": "2021-06-14 09:32:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZALAIN 300 MG OVULO",
+    "nombre_imagen": "./web_scraping/data/img/ZALAIN_300_MG_OVULO.jpg",
+    "presentacion": "CAJA X 1 OVU",
+    "precio": {
+        "bestPrice": "$66.300",
+        "precioPorSku js-PUM": "OVULO a $66.300,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 OVU"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "SERTACONAZOL NITRATO"
+        ],
+        [
+            "Laboratorio",
+            "PHARMAPRIX COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0006800-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/verapamilo-80-mg-tableta-recubierta-tecnoquimicas-7702057076122/p",
+    "fecha_hora_scraping": "2021-06-13 23:37:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VERAPAMILO 80 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/VERAPAMILO_80_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$2.910",
+        "precioPorSku js-PUM": "Tableta a $291,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "80 MG"
+        ],
+        [
+            "Principio activo",
+            "VERAPAMILO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-003325-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stalevo-tableta-recubierta-7702635710059/p",
+    "fecha_hora_scraping": "2021-06-14 03:35:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "STALEVO TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/STALEVO_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 30TAB",
+    "precio": {
+        "bestPrice": "$127.650",
+        "precioPorSku js-PUM": "Unidad a $4.255,00"
+    },
+    "descripcion": "STALEVO TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG 200 MG 50 MG"
+        ],
+        [
+            "Principio activo",
+            "ENTACAPONA LEVODOPA CARBIDOPA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009103-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

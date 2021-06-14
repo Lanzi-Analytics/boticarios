@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sebium-h2o-solucion-micelar-piel-grasa-3401395376935/p",
+    "fecha_hora_scraping": "2021-06-14 02:16:48",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SEBIUM H2O SOLUCION MICELAR PIEL GRASA",
+    "nombre_imagen": "./web_scraping/data/img/SEBIUM_H2O_SOLUCION_MICELAR_PIEL_GRASA.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$46.250",
+        "precioPorSku js-PUM": "Mililitro a $467,00"
+    },
+    "descripcion": "sebium h2o solucion micelar piel grasa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40223-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

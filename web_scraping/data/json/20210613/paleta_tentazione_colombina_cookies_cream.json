@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-tentazione-colombina-cookies-cream-7702011090553/p",
+    "fecha_hora_scraping": "2021-06-14 01:41:09",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta tentazione colombina cookies cream",
+    "nombre_imagen": "./web_scraping/data/img/paleta_tentazione_colombina_cookies_cream.jpg",
+    "presentacion": "UNIDAD X 78 G",
+    "precio": {
+        "bestPrice": "$3.650",
+        "precioPorSku js-PUM": "Gramo a $46,79"
+    },
+    "descripcion": "paleta tentazione colombina cookies cream",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 78 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAV02I36713"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

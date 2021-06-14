@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chapstick-medicado-4-gramos-barra-7702132004606/p",
+    "fecha_hora_scraping": "2021-06-14 00:20:30",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CHAPSTICK MEDICADO 4 GRAMOS BARRA",
+    "nombre_imagen": "./web_scraping/data/img/CHAPSTICK_MEDICADO_4_GRAMOS_BARRA.jpg",
+    "presentacion": "TUBO X 4 G",
+    "precio": {
+        "bestPrice": "$13.700",
+        "precioPorSku js-PUM": "Gramo a $3.425,00"
+    },
+    "descripcion": "chapstick medicado 4 gramos barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC96157-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

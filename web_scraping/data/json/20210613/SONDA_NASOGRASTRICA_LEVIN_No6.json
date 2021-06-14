@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707178250543sherlegaccesorios-medicosequipos-de-cuidado-en-casasonda-nasograstrica-levin-no6-7707178250543/p",
+    "fecha_hora_scraping": "2021-06-14 04:50:15",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "SONDA NASOGRASTRICA LEVIN No6",
+    "nombre_imagen": "./web_scraping/data/img/SONDA_NASOGRASTRICA_LEVIN_No6.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $580,00"
+    },
+    "descripcion": "sonda nasograstrica levin no6",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SHERLEG LABORATORIES SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000099-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

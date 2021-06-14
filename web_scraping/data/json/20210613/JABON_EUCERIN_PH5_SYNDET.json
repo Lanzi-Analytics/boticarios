@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-eucerin-ph5-syndet-4005800086380/p",
+    "fecha_hora_scraping": "2021-06-14 05:58:51",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "JABON EUCERIN PH5 SYNDET",
+    "nombre_imagen": "./web_scraping/data/img/JABON_EUCERIN_PH5_SYNDET.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "$34.950",
+        "precioPorSku js-PUM": "Unidad a $17.475,00"
+    },
+    "descripcion": "jabon eucerin ph5 syndet",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSEC0947-03GE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

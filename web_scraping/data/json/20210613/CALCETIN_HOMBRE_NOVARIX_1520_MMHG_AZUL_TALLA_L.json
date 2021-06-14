@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calcetin-hombre-no-varix-15-20-mmhg-azul-talla-l-7707066066256/p",
+    "fecha_hora_scraping": "2021-06-13 23:16:27",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "CALCETIN HOMBRE NO-VARIX 15-20 MMHG AZUL TALLA L",
+    "nombre_imagen": "./web_scraping/data/img/CALCETIN_HOMBRE_NOVARIX_1520_MMHG_AZUL_TALLA_L.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$54.700",
+        "bestPrice": "$43.760",
+        "precioPorSku js-PUM": "Unidad a $43.760"
+    },
+    "descripcion": "calcetin hombre no-varix 15-20 mmhg azul",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0003826-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

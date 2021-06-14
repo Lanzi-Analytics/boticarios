@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/siccafluid-025--gel-oftalmico-7702715002432/p",
+    "fecha_hora_scraping": "2021-06-14 07:30:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SICCAFLUID 0.25 % GEL OFTALMICO",
+    "nombre_imagen": "./web_scraping/data/img/SICCAFLUID_025__GEL_OFTALMICO.jpg",
+    "presentacion": "FRASCO X 10 G",
+    "precio": {
+        "bestPrice": "$64.450",
+        "precioPorSku js-PUM": "Gramo a $6.445,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 G"
+        ],
+        [
+            "Concentracion",
+            "2,5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "POLIACRILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-014956-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

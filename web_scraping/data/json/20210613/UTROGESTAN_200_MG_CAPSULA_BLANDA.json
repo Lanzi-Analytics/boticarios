@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/utrogestan-200-mg-capsula-blanda-34839966/p",
+    "fecha_hora_scraping": "2021-06-14 01:05:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "UTROGESTAN 200 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/UTROGESTAN_200_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 15 CAP",
+    "precio": {
+        "bestPrice": "$213.050",
+        "precioPorSku js-PUM": "Capsula a $14.203,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "PROGESTERONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0003046-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vimpat-200-mg-comprimido-recubierto-4030729001893/p",
+    "fecha_hora_scraping": "2021-06-14 02:48:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VIMPAT 200 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/VIMPAT_200_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$278.200",
+        "precioPorSku js-PUM": "Tableta a $9.935,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "LACOSAMIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0011058-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

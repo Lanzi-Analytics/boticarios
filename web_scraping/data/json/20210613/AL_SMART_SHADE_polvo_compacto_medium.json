@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-smart-shade-polvo-compacto-medium-309976038032/p",
+    "fecha_hora_scraping": "2021-06-13 23:18:35",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL SMART SHADE polvo compacto medium",
+    "nombre_imagen": "./web_scraping/data/img/AL_SMART_SHADE_polvo_compacto_medium.jpg",
+    "presentacion": "CONTENEDOR X 6G",
+    "precio": {
+        "bestPrice": "$63.350",
+        "precioPorSku js-PUM": "Gramo a $11.114,04"
+    },
+    "descripcion": "al smart shade polvo compacto medium",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 6G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76547-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

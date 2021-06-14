@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrigel-hmb-polvo-para-solucion-oral-neutro-7703153038342/p",
+    "fecha_hora_scraping": "2021-06-14 09:27:04",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTRIGEL HMB POLVO PARA SOLUCI\u00d3N ORAL NEUTRO",
+    "nombre_imagen": "./web_scraping/data/img/NUTRIGEL_HMB_POLVO_PARA_SOLUCI\u00d3N_ORAL_NEUTRO.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "$123.200",
+        "precioPorSku js-PUM": "Sobre a $4.106,67"
+    },
+    "descripcion": "NUTRIGEL HMB POLVO PARA SOLUCI\u00d3N ORAL NEUTRO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2020-0004536"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

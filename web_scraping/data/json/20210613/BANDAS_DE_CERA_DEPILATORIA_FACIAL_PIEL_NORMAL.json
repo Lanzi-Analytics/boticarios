@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bandas-de-cera-depilatoria-facial-piel-normal-8413600511609/p",
+    "fecha_hora_scraping": "2021-06-14 08:09:25",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "BANDAS DE CERA DEPILATORIA FACIAL PIEL NORMAL",
+    "nombre_imagen": "./web_scraping/data/img/BANDAS_DE_CERA_DEPILATORIA_FACIAL_PIEL_NORMAL.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$18.000",
+        "precioPorSku js-PUM": "Unidad a $900,00"
+    },
+    "descripcion": "bandas de cera depilatoria facial piel normal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73583-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

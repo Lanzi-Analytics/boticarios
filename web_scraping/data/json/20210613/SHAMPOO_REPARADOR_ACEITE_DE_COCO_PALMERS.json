@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-reparador-aceite-de-coco-palmers-10181033056/p",
+    "fecha_hora_scraping": "2021-06-14 02:37:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "SHAMPOO REPARADOR ACEITE DE COCO PALMERS",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_REPARADOR_ACEITE_DE_COCO_PALMERS.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$47.350",
+        "precioPorSku js-PUM": "Mililitro a $118,38"
+    },
+    "descripcion": "shampoo reparador aceite de coco palmers",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "160 N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80371-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

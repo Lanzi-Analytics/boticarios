@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-cr-c-original-7501056325176/p",
+    "fecha_hora_scraping": "2021-06-14 00:42:38",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA PONDS CR C ORIGINAL",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PONDS_CR_C_ORIGINAL.jpg",
+    "presentacion": "POTE X 95 G",
+    "precio": {
+        "bestPrice": "$22.100",
+        "precioPorSku js-PUM": "Gramo a $232,63"
+    },
+    "descripcion": "crema ponds cr c original",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 95 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC29501-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

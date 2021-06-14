@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-sensibio-forte-crema-3401573670282/p",
+    "fecha_hora_scraping": "2021-06-14 00:24:44",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "bioderma sensibio forte crema",
+    "nombre_imagen": "./web_scraping/data/img/bioderma_sensibio_forte_crema.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$86.100",
+        "precioPorSku js-PUM": "Mililitro a $2.152,50"
+    },
+    "descripcion": "bioderma sensibio forte crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40316-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/escitalopram-20mg-comprimido-recubierto-genfar-7705959884369/p",
+    "fecha_hora_scraping": "2021-06-14 00:25:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESCITALOPRAM 20MG COMPRIMIDO RECUBIERTO GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/ESCITALOPRAM_20MG_COMPRIMIDO_RECUBIERTO_GENFAR.jpg",
+    "presentacion": "CAJA X 30 COM",
+    "precio": {
+        "bestPrice": "$65.500",
+        "precioPorSku js-PUM": "Comprimido a $2.183,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 COM"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ESCITALOPRAM OXALATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015699-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

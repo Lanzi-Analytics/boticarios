@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-efecto-tensor-hombre-7707016405234/p",
+    "fecha_hora_scraping": "2021-06-14 05:57:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK EFECTO TENSOR HOMBRE",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_EFECTO_TENSOR_HOMBRE.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$60.550",
+        "precioPorSku js-PUM": "Gramo a $1.211,00"
+    },
+    "descripcion": "arawak efecto tensor hombre",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68125-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

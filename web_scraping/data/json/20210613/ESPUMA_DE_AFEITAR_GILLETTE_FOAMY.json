@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/espuma-de-afeitar-gillette-foamy-sensitive-7702018013326/p",
+    "fecha_hora_scraping": "2021-06-14 03:16:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "ESPUMA DE AFEITAR GILLETTE FOAMY",
+    "nombre_imagen": "./web_scraping/data/img/ESPUMA_DE_AFEITAR_GILLETTE_FOAMY.jpg",
+    "presentacion": "FRASCO X 179 ML",
+    "precio": {
+        "PrevPrice": "Antes:$17.050",
+        "bestPrice": "$13.640",
+        "precioPorSku js-PUM": "Gramo a $76,20"
+    },
+    "descripcion": "espuma af gillette foamy 175 g sensiti",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 179 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

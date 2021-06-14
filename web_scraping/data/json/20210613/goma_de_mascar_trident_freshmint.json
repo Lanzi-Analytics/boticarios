@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goma-de-mascar-trident-freshmint-7506105606077/p",
+    "fecha_hora_scraping": "2021-06-14 01:27:56",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "goma de mascar trident freshmint",
+    "nombre_imagen": "./web_scraping/data/img/goma_de_mascar_trident_freshmint.jpg",
+    "presentacion": "PAQUETE X 18 UN",
+    "precio": {
+        "bestPrice": "$3.650",
+        "precioPorSku js-PUM": "Gramo a $117,74"
+    },
+    "descripcion": "goma de mascar trident freshmint",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 18 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16M09492"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

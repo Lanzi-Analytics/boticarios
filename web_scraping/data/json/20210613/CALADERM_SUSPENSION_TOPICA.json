@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladerm-suspension-topica-7707210530015/p",
+    "fecha_hora_scraping": "2021-06-14 09:17:39",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADERM SUSPENSION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/CALADERM_SUSPENSION_TOPICA.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$15.200",
+        "precioPorSku js-PUM": "Mililitro a $126,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "16 G 0.2325 G"
+        ],
+        [
+            "Principio activo",
+            "ZINC OXIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012730-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

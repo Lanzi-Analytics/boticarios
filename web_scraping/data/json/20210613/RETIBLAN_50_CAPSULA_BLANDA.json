@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retiblan-50-capsula-blanda-7703153000639/p",
+    "fecha_hora_scraping": "2021-06-14 05:16:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RETIBLAN 50 CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/RETIBLAN_50_CAPSULA_BLANDA.jpg",
+    "presentacion": "BLISTER X 10 CAP",
+    "precio": {
+        "bestPrice": "$5.690",
+        "precioPorSku js-PUM": "Capsula a $569,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "5000 UI"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA A PALMITATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-13671-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stratacel-aposito-7640140193359/p",
+    "fecha_hora_scraping": "2021-06-14 04:48:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "STRATACEL APOSITO",
+    "nombre_imagen": "./web_scraping/data/img/STRATACEL_APOSITO.jpg",
+    "presentacion": "TUBO X 10 G",
+    "precio": {
+        "bestPrice": "$114.450",
+        "precioPorSku js-PUM": "Gramo a $11.445,00"
+    },
+    "descripcion": "stratacel aposito",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018417"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

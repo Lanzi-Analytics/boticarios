@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulfaplata-1-crema-7702195131622/p",
+    "fecha_hora_scraping": "2021-06-14 04:19:15",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SULFAPLATA 1% CREMA",
+    "nombre_imagen": "./web_scraping/data/img/SULFAPLATA_1_CREMA.jpg",
+    "presentacion": "POTE X 60 G",
+    "precio": {
+        "bestPrice": "$34.600",
+        "precioPorSku js-PUM": "Gramo a $576,67"
+    },
+    "descripcion": "sulfaplata 1% crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 60 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "PLATA SULFADIAZINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-001338-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

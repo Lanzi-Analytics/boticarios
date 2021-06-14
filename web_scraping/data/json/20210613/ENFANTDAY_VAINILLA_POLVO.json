@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enfantday-vainilla-polvo-7707357682684/p",
+    "fecha_hora_scraping": "2021-06-13 23:13:43",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENFANTDAY VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/ENFANTDAY_VAINILLA_POLVO.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Sobre a $3.266,67"
+    },
+    "descripcion": "enfantday vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALLEN PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD10I61410"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/plusfood-vainilla-7709890697354/p",
+    "fecha_hora_scraping": "2021-06-14 00:32:09",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "plusfood vainilla",
+    "nombre_imagen": "./web_scraping/data/img/plusfood_vainilla.jpg",
+    "presentacion": "FRASCO X 245 G",
+    "precio": {
+        "bestPrice": "$31.950",
+        "precioPorSku js-PUM": "Gramo a $130,41"
+    },
+    "descripcion": "plusfood vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 245 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALBBENI SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009510-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

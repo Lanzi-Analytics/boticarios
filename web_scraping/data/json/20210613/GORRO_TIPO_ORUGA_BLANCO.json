@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gorro-tipo-oruga-blanco-7707228367078/p",
+    "fecha_hora_scraping": "2021-06-13 23:54:07",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GORRO TIPO ORUGA BLANCO",
+    "nombre_imagen": "./web_scraping/data/img/GORRO_TIPO_ORUGA_BLANCO.jpg",
+    "presentacion": "BOLSA X 12 UN",
+    "precio": {
+        "bestPrice": "$7.700",
+        "precioPorSku js-PUM": "Unidad a $641,67"
+    },
+    "descripcion": "gorro tipo oruga blanco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 12 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

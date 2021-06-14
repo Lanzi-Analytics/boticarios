@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/klaricid-ud-500-mg-tableta-de-liberacion-modificada-7790440429969/p",
+    "fecha_hora_scraping": "2021-06-14 04:07:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KLARICID U.D. 500 MG TABLETA DE LIBERACION MODIFICADA",
+    "nombre_imagen": "./web_scraping/data/img/KLARICID_UD_500_MG_TABLETA_DE_LIBERACION_MODIFICADA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$111.600",
+        "precioPorSku js-PUM": "Tableta a $11.160,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CLARITROMICINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016909"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

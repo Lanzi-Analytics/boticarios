@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toalla-higienica-nosotras-invisible-multiestilo-2-x-10-7702026183288/p",
+    "fecha_hora_scraping": "2021-06-14 05:36:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "OFERTA TOALLA HIGIENICA NOSOTRAS INVISIBLE MULTIESTILO 2 X 10",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TOALLA_HIGIENICA_NOSOTRAS_INVISIBLE_MULTIESTILO_2_X_10.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$14.450",
+        "precioPorSku js-PUM": "Unidad a $722,50"
+    },
+    "descripcion": "oferta toalla higienica nosotras invisible multiestilo 2 x 10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07773-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

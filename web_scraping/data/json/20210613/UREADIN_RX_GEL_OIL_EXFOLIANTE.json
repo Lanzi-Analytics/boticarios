@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ureadin-rx-gel-oil-exfoliante-8470001532411/p",
+    "fecha_hora_scraping": "2021-06-14 08:37:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UREADIN RX GEL OIL EXFOLIANTE",
+    "nombre_imagen": "./web_scraping/data/img/UREADIN_RX_GEL_OIL_EXFOLIANTE.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$59.250",
+        "precioPorSku js-PUM": "Mililitro a $1.975,00"
+    },
+    "descripcion": "ureadin rx gel oil exfoliante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSCE-3250-10G.EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

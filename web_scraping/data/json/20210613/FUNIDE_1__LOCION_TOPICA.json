@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/funide-1--locion-topica-7702870002988/p",
+    "fecha_hora_scraping": "2021-06-14 04:37:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FUNIDE 1 % LOCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/FUNIDE_1__LOCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$41.400",
+        "precioPorSku js-PUM": "Mililitro a $1.380,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004936-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

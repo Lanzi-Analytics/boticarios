@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-ensure-advance-polvo-vainilla-gratis-2-botellas-x-237ml-7703186032317/p",
+    "fecha_hora_scraping": "2021-06-14 03:25:00",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA ENSURE ADVANCE POLVO VAINILLA GRATIS 2 BOTELLAS X 237ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ENSURE_ADVANCE_POLVO_VAINILLA_GRATIS_2_BOTELLAS_X_237ML.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $126,50"
+    },
+    "descripcion": "oferta ensure advance polvo vainilla gratis 2 botellas x 237ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I178915"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aciclovir-800-mg-tableta-la-francol-7706569022707/p",
+    "fecha_hora_scraping": "2021-06-14 05:15:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACICLOVIR 800 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/ACICLOVIR_800_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$14.700",
+        "precioPorSku js-PUM": "Tableta a $1.470,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "800 MG"
+        ],
+        [
+            "Principio activo",
+            "ACICLOVIR"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013834-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

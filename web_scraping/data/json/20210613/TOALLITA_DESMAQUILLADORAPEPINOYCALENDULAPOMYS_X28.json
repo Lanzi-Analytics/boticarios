@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallita-desmaquilladorapepinoycalendulapomys-x28-7702026187606/p",
+    "fecha_hora_scraping": "2021-06-14 05:37:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TOALLITA .DESMAQUILLADORA.PEPINOYCALENDULAPOMYS X28",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITA_DESMAQUILLADORAPEPINOYCALENDULAPOMYS_X28.jpg",
+    "presentacion": "PAQUETE X 28UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $332,14"
+    },
+    "descripcion": "TOALLITA .DESMAQUILLADORA.PEPINOYCALENDULAPOMYS X28",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 28UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99314-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

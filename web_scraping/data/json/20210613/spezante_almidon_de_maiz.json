@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/spezante-almidon-de-maiz-7709745585157/p",
+    "fecha_hora_scraping": "2021-06-13 23:11:41",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "spezante almidon de maiz",
+    "nombre_imagen": "./web_scraping/data/img/spezante_almidon_de_maiz.jpg",
+    "presentacion": "LATA X 275 G",
+    "precio": {
+        "bestPrice": "$42.850",
+        "precioPorSku js-PUM": "Gramo a $155,82"
+    },
+    "descripcion": "spezante almidon de maiz",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 275 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD22I14313"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

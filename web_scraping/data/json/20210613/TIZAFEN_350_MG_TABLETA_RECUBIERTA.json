@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707355055282tizafen-350-mg-tableta-recubiertamedicamentosventa-libresiegfried-7707355055282/p",
+    "fecha_hora_scraping": "2021-06-14 09:38:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIZAFEN 350 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/TIZAFEN_350_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$71.650",
+        "precioPorSku js-PUM": "Tableta a $3.582,50"
+    },
+    "descripcion": "tizafen 350 mg tableta recubierta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "350 MG 2 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN TIZANIDINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-005181-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

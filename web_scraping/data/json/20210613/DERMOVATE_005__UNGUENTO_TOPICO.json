@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dermovate-005--unguento-topico-7703363001600/p",
+    "fecha_hora_scraping": "2021-06-14 07:19:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DERMOVATE 0.05 % UNGUENTO TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/DERMOVATE_005__UNGUENTO_TOPICO.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$68.450",
+        "precioPorSku js-PUM": "Gramo a $1.711,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOBETASOL PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012157-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunglass-polvo-compacto-ligth-7707183820090/p",
+    "fecha_hora_scraping": "2021-06-14 06:57:38",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "sunglass polvo compacto ligth",
+    "nombre_imagen": "./web_scraping/data/img/sunglass_polvo_compacto_ligth.jpg",
+    "presentacion": "ESTUCHE X 12 G",
+    "precio": {
+        "PrevPrice": "Antes:$109.450",
+        "bestPrice": "$82.087",
+        "precioPorSku js-PUM": "Gramo a $6.840,58"
+    },
+    "descripcion": "sunglass polvo compacto ligth",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ESTUCHE X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69986-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

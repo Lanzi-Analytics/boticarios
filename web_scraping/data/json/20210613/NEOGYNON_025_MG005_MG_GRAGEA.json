@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neogynon-025-mg005-mg-gragea-7896116861016/p",
+    "fecha_hora_scraping": "2021-06-14 04:40:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEOGYNON 0.25 MG/0.05 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/NEOGYNON_025_MG005_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 21 GRG",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Gragea a $264,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 GRG"
+        ],
+        [
+            "Concentracion",
+            "0.25 MG 0.05 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-003819-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

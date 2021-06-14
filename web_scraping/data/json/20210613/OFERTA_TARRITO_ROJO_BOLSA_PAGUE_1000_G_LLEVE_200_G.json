@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-tarrito-rojo-bolsa-pague-1000-g-lleve-200-g-7702560030130/p",
+    "fecha_hora_scraping": "2021-06-13 23:15:28",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA TARRITO ROJO BOLSA PAGUE: 1000 G LLEVE: 200 G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TARRITO_ROJO_BOLSA_PAGUE_1000_G_LLEVE_200_G.jpg",
+    "presentacion": "BOLSA X 1200 G",
+    "precio": {
+        "bestPrice": "$43.250",
+        "precioPorSku js-PUM": "Gramo a $43,25"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0000556-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-kotex-normal-tela--2-und-7702425804661/p",
+    "fecha_hora_scraping": "2021-06-14 01:01:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas kotex normal tela + 2 und",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_kotex_normal_tela__2_und.jpg",
+    "presentacion": "EMPAQUE X 10 UN",
+    "precio": {
+        "bestPrice": "$4.900",
+        "precioPorSku js-PUM": "Unidad a $408,33"
+    },
+    "descripcion": "toa hig kotex nor tela x10 +2 nor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

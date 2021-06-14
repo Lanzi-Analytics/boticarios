@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-old-spice-vip-7506309864778/p",
+    "fecha_hora_scraping": "2021-06-14 08:16:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante old spice spray vip",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_old_spice_spray_vip.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$16.700",
+        "precioPorSku js-PUM": "Mililitro a $111,33"
+    },
+    "descripcion": "antitranspirante spray old spice vip 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53664-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

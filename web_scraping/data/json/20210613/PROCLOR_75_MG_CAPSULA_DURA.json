@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/proclor-75-mg-capsula-dura-5600860331259/p",
+    "fecha_hora_scraping": "2021-06-14 07:10:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PROCLOR 75 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/PROCLOR_75_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$37.750",
+        "precioPorSku js-PUM": "Capsula a $1.348,21"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "ALTADIS FARMACEUTICA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017130"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

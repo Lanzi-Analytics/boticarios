@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-xeracalm-ad-relipidizante-3282779405553/p",
+    "fecha_hora_scraping": "2021-06-14 03:52:51",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE XERACALM A.D RELIPIDIZANTE",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_XERACALM_AD_RELIPIDIZANTE.jpg",
+    "presentacion": "TUBO X 200 ML",
+    "precio": {
+        "bestPrice": "$103.150",
+        "precioPorSku js-PUM": "Mililitro a $515,75"
+    },
+    "descripcion": "avene xeracalm a.d relipidizante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC60083-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

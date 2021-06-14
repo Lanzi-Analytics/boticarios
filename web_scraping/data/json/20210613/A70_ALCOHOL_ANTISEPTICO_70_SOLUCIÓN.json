@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/a70-alcohol-antiseptico-70-solucion-7709183381717/p",
-    "fecha_hora_scraping": "2021-06-13 19:13:18",
+    "url_producto": "https://www.drogueriascolsubsidio.com/a70-alcohol-antiseptico-70-solucion-7709183381786/p",
+    "fecha_hora_scraping": "2021-06-14 10:29:20",
     "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
-    "titulo": "a70 alcohol antiseptico 70% soluci\u00f3n",
-    "nombre_imagen": "./web_scraping/data/img/a70_alcohol_antiseptico_70_soluci\u00f3n.jpg",
-    "presentacion": "BOTELLA X 250 ML",
+    "titulo": "A70 ALCOHOL ANTISEPTICO 70% SOLUCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/A70_ALCOHOL_ANTISEPTICO_70_SOLUCI\u00d3N.jpg",
+    "presentacion": "BOTELLA X 750 ML",
     "precio": {
         "bestPrice": "",
-        "precioPorSku js-PUM": "Mililitro a $11,80"
+        "precioPorSku js-PUM": "Mililitro a $10,36"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "BOTELLA X 250 ML"
+            "BOTELLA X 750 ML"
         ],
         [
             "Concentracion",

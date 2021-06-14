@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zitavic-polvo-7709988634407/p",
+    "fecha_hora_scraping": "2021-06-14 10:05:03",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "zitavic polvo",
+    "nombre_imagen": "./web_scraping/data/img/zitavic_polvo.jpg",
+    "presentacion": "TARRO X 350 G",
+    "precio": {
+        "bestPrice": "$43.000",
+        "precioPorSku js-PUM": "Gramo a $122,86"
+    },
+    "descripcion": "zitavic polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 350 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NATURLAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003082-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nimesulida-100mg-capsula-blanda-procaps-7703153036119/p",
+    "fecha_hora_scraping": "2021-06-14 02:30:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NIMESULIDA 100MG C\u00c1PSULA BLANDA PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/NIMESULIDA_100MG_C\u00c1PSULA_BLANDA_PROCAPS.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$18.480",
+        "precioPorSku js-PUM": "Capsula a $616,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "NIMESULIDA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018412"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babyskin-n-crema-topica-7703281000310/p",
+    "fecha_hora_scraping": "2021-06-14 08:43:22",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "BABYSKIN N CREMA TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/BABYSKIN_N_CREMA_TOPICA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$19.900",
+        "precioPorSku js-PUM": "Gramo a $663,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "400 MG/G 20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ZINC OXIDO NISTATINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010604-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

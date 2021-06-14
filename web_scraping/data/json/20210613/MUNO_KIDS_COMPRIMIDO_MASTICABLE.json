@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/muno-kids-comprimido-masticable-7804651290055/p",
+    "fecha_hora_scraping": "2021-06-13 23:10:01",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "MUNO KIDS COMPRIMIDO MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/MUNO_KIDS_COMPRIMIDO_MASTICABLE.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$67.100",
+        "precioPorSku js-PUM": "Tableta a $2.236,67"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTIPLES COMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0004154"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

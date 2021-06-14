@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/push-work-pre-workout-fruit-punch-814465012504/p",
+    "fecha_hora_scraping": "2021-06-14 05:01:05",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "PUSH WORK PRE-WORKOUT FRUIT PUNCH",
+    "nombre_imagen": "./web_scraping/data/img/PUSH_WORK_PREWORKOUT_FRUIT_PUNCH.jpg",
+    "presentacion": "TARRO X 210 G",
+    "precio": {
+        "bestPrice": "$82.450",
+        "precioPorSku js-PUM": "Gramo a $392,62"
+    },
+    "descripcion": "push work pre-workout fruit punch",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 210 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004051-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

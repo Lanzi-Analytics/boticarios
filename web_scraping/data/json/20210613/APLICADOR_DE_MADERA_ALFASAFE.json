@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aplicador-de-madera-alfasafe-7707228366507/p",
+    "fecha_hora_scraping": "2021-06-13 23:58:25",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "APLICADOR DE MADERA ALFASAFE",
+    "nombre_imagen": "./web_scraping/data/img/APLICADOR_DE_MADERA_ALFASAFE.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$1.050",
+        "precioPorSku js-PUM": "Unidad a $52,50"
+    },
+    "descripcion": "aplicador de madera alfasafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0010403"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clorhexol-02--spray-bucal-7705028000157/p",
+    "fecha_hora_scraping": "2021-06-14 08:23:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CLORHEXOL 0.2 % SPRAY BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/CLORHEXOL_02__SPRAY_BUCAL.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$31.950",
+        "precioPorSku js-PUM": "Mililitro a $177,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CLORHEXIDINA DIGLUCONATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FARPAG SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009973"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

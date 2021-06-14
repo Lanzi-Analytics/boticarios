@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-gentle-purifying-lotion-p-3760019120584/p",
+    "fecha_hora_scraping": "2021-06-14 00:07:31",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN GENTLE PURIFYING LOTION P+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_GENTLE_PURIFYING_LOTION_P.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$59.500",
+        "precioPorSku js-PUM": "Mililitro a $238,00"
+    },
+    "descripcion": "soskin gentle purifying lotion p+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75800-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

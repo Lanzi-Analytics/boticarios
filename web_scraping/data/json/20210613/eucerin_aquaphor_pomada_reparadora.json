@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-aquaphor-pomada-reparadora-4005800223136/p",
+    "fecha_hora_scraping": "2021-06-14 03:46:10",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN AQUAPHOR POMADA REPARADORA",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_AQUAPHOR_POMADA_REPARADORA.jpg",
+    "presentacion": "TUBO X 49 G",
+    "precio": {
+        "bestPrice": "$40.350",
+        "precioPorSku js-PUM": "Gramo a $823,47"
+    },
+    "descripcion": "eucerin aquaphor pomada reparadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 49 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MESALAZINA"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80508-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampones-ob-digital-medio-7702031579625/p",
+    "fecha_hora_scraping": "2021-06-14 09:57:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "tampones ob digital medio",
+    "nombre_imagen": "./web_scraping/data/img/tampones_ob_digital_medio.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $510,00"
+    },
+    "descripcion": "ob digital medio 20un mas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSH2009CO00034"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

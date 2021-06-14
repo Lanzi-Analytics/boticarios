@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biofolic-shampoo-normal-seco-7709447476814/p",
+    "fecha_hora_scraping": "2021-06-14 08:40:32",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "BIOFOLIC SHAMPOO NORMAL-SECO",
+    "nombre_imagen": "./web_scraping/data/img/BIOFOLIC_SHAMPOO_NORMALSECO.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$61.350",
+        "precioPorSku js-PUM": "Mililitro a $255,63"
+    },
+    "descripcion": "biofolic shampoo normal-seco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOHEALTHY SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70938-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

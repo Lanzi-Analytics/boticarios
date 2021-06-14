@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-tena-pants-ultra-talla-large-7702026179113/p",
+    "fecha_hora_scraping": "2021-06-14 05:12:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1ALES TENA PANTS ULTRA TALLA LARGE",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_TENA_PANTS_ULTRA_TALLA_LARGE.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$39.500",
+        "precioPorSku js-PUM": "Unidad a $3.950,00"
+    },
+    "descripcion": "panal tena pants ultra large x10un",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

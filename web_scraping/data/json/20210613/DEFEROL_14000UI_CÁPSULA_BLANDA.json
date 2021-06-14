@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/deferol-14000ui-capsula-blanda-7703153039646/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEFEROL 14000UI C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/DEFEROL_14000UI_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 4 CAP",
+    "precio": {
+        "bestPrice": "$55.300",
+        "precioPorSku js-PUM": "Capsula a $13.825,00"
+    },
+    "descripcion": "DEFEROL 14000UI C\u00c1PSULA BLANDA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 CAP"
+        ],
+        [
+            "Concentracion",
+            "14000 UI"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0019910"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glucerna-polvo-7703186031594/p",
+    "fecha_hora_scraping": "2021-06-14 07:07:02",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "GLUCERNA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/GLUCERNA_POLVO.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$47.850",
+        "precioPorSku js-PUM": "Gramo a $119,63"
+    },
+    "descripcion": "glucerna polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001023-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-aloha-agua-crem-helado-surtida-7702402202503/p",
+    "fecha_hora_scraping": "2021-06-14 00:38:25",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta aloha agua crem helado surtida",
+    "nombre_imagen": "./web_scraping/data/img/paleta_aloha_agua_crem_helado_surtida.jpg",
+    "presentacion": "UNIDAD X 65 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $20,00"
+    },
+    "descripcion": "paleta aloha agua crem helado surtida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 65 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tnt-crea-tine-complex--polvo-7709556023664/p",
+    "fecha_hora_scraping": "2021-06-14 05:08:57",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "tnt crea-tine complex  polvo",
+    "nombre_imagen": "./web_scraping/data/img/tnt_creatine_complex__polvo.jpg",
+    "presentacion": "TARRO X 450 G",
+    "precio": {
+        "bestPrice": "$49.000",
+        "precioPorSku js-PUM": "Gramo a $108,89"
+    },
+    "descripcion": "tnt crea-tine complex  polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 450 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000549-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

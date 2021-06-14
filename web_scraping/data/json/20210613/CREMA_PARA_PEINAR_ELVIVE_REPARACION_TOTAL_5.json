@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7506078947917crema-para-peinar-elvive-reparacion-total-5higiene-y-cuidado-personalcuidado-del-cabellona-7506078947917/p",
+    "fecha_hora_scraping": "2021-06-14 04:42:12",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "CREMA PARA PEINAR ELVIVE REPARACION TOTAL 5",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PARA_PEINAR_ELVIVE_REPARACION_TOTAL_5.jpg",
+    "presentacion": "FRASCO X 300 X ML",
+    "precio": {
+        "PrevPrice": "Antes:$17.450",
+        "bestPrice": "$12.215",
+        "precioPorSku js-PUM": "Mililitro a $40,72"
+    },
+    "descripcion": "crema para peinar elvive reparacion total 5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79381-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

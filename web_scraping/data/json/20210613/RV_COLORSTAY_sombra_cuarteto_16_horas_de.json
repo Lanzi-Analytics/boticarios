@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-sombra-cuarteto-16-horas-de-309978535027/p",
+    "fecha_hora_scraping": "2021-06-14 02:58:58",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV COLORSTAY sombra cuarteto 16 horas de",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_sombra_cuarteto_16_horas_de.jpg",
+    "presentacion": "CONTENEDOR X 5G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $7.958,33"
+    },
+    "descripcion": "rv colorstay sombra cuarteto 16 horas de",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 5G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC48697-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

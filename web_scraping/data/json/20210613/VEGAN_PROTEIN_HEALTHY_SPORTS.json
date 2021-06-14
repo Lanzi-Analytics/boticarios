@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vegan-protein-healthy-sports-19962797361/p",
+    "fecha_hora_scraping": "2021-06-14 02:40:39",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "VEGAN PROTEIN HEALTHY SPORTS",
+    "nombre_imagen": "./web_scraping/data/img/VEGAN_PROTEIN_HEALTHY_SPORTS.jpg",
+    "presentacion": "FRASCO X 910 G",
+    "precio": {
+        "bestPrice": "$165.100",
+        "precioPorSku js-PUM": "Gramo a $181,43"
+    },
+    "descripcion": "vegan protein healthy sports",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 910 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001298-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

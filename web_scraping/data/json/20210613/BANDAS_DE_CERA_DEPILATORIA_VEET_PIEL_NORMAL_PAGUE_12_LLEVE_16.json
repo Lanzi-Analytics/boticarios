@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bandas-de-cera-depilatoria-veet-piel-normal-pague-12-lleve-16-7702626170398/p",
+    "fecha_hora_scraping": "2021-06-14 05:42:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "BANDAS DE CERA DEPILATORIA VEET PIEL NORMAL PAGUE 12 LLEVE 16",
+    "nombre_imagen": "./web_scraping/data/img/BANDAS_DE_CERA_DEPILATORIA_VEET_PIEL_NORMAL_PAGUE_12_LLEVE_16.jpg",
+    "presentacion": "EMPAQUE X 12 UN",
+    "precio": {
+        "bestPrice": "$32.500",
+        "precioPorSku js-PUM": "Unidad a $2.708,33"
+    },
+    "descripcion": "bandas de cera depilatoria veet piel normal pague 12 lleve 16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 12 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73676-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7709892283135pulsoximetro-de-dedo-refbm1000c-equipos-de-cuidado-en-casamedicion-y-diagnosticooximetro-7709892283135/p",
+    "fecha_hora_scraping": "2021-06-14 08:07:15",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "PULSOXIMETRO DE DEDO REF:BM1000C",
+    "nombre_imagen": "./web_scraping/data/img/PULSOXIMETRO_DE_DEDO_REFBM1000C.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$164.200",
+        "bestPrice": "$123.150",
+        "precioPorSku js-PUM": "Unidad a $123.150"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "DISTRIBUIDORA GLX SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

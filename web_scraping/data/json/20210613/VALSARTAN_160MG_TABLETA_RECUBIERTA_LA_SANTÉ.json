@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/valsartan-160mg-tableta-recubierta-la-sante-7703763341030/p",
+    "fecha_hora_scraping": "2021-06-13 23:06:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VALSARTAN 160MG TABLETA RECUBIERTA LA SANT\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/VALSARTAN_160MG_TABLETA_RECUBIERTA_LA_SANT\u00c9.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$20.000",
+        "precioPorSku js-PUM": "Tableta a $1.428,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007221-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

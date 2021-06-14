@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hiosina-n-butil-bromuro--dipirona-solucion-inyectable-vitalis-7709990751970/p",
+    "fecha_hora_scraping": "2021-06-14 05:19:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIOSINA N-BUTIL BROMURO + DIPIRONA SOLUCI\u00d3N INYECTABLE VITALIS",
+    "nombre_imagen": "./web_scraping/data/img/HIOSINA_NBUTIL_BROMURO__DIPIRONA_SOLUCI\u00d3N_INYECTABLE_VITALIS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$4.900",
+        "precioPorSku js-PUM": "Unidad a $4.900,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "20 MG 2,5 G"
+        ],
+        [
+            "Principio activo",
+            "HIOSCINA N-BUTILBROMURO DIPIRONA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0000903-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

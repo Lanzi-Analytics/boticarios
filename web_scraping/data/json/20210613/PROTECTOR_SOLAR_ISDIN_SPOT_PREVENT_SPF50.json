@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-isdin-spot-prevent-spf50-8429420095397/p",
+    "fecha_hora_scraping": "2021-06-14 01:00:54",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "PROTECTOR SOLAR ISDIN SPOT PREVENT SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_ISDIN_SPOT_PREVENT_SPF50.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$98.600",
+        "precioPorSku js-PUM": "Mililitro a $1.972,00"
+    },
+    "descripcion": "protector solar isdin spot prevent spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64231-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

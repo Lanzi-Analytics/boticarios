@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-scare-7709890697323/p",
+    "fecha_hora_scraping": "2021-06-14 04:24:17",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CREMA SCARE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_SCARE.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$58.300",
+        "precioPorSku js-PUM": "Gramo a $971,67"
+    },
+    "descripcion": "crema scare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "GALBBENI SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC29456-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-bacterion-botanik-7702113037609/p",
+    "fecha_hora_scraping": "2021-06-14 02:36:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "repelente bacterion botanik",
+    "nombre_imagen": "./web_scraping/data/img/repelente_bacterion_botanik.jpg",
+    "presentacion": "ENVASE X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$14.200",
+        "bestPrice": "$11.360",
+        "precioPorSku js-PUM": "Mililitro a $94,67"
+    },
+    "descripcion": "repelente bacterion botanik 120 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75994-16C0"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

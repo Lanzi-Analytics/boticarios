@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/osmoclear-005--solucion-oftalmica-7707277580121/p",
+    "fecha_hora_scraping": "2021-06-14 01:23:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OSMOCLEAR 0.05 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/OSMOCLEAR_005__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "PrevPrice": "Antes:$9.700",
+        "bestPrice": "$8.730",
+        "precioPorSku js-PUM": "Mililitro a $582,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "0.05 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "NAFAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0006761-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

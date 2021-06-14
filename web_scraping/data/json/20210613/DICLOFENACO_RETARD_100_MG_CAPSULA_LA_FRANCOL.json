@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diclofenaco-retard-100-mg-capsula-la-francol-7706569000958/p",
+    "fecha_hora_scraping": "2021-06-14 06:37:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DICLOFENACO RETARD 100 MG CAPSULA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/DICLOFENACO_RETARD_100_MG_CAPSULA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "bestPrice": "$13.900",
+        "precioPorSku js-PUM": "Capsula a $695,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007800-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

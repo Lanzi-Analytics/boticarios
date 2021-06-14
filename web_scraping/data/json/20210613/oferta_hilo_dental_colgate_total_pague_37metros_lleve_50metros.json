@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-hilo-dental-colgate-total-pague-37metros-lleve-50metros-7891024183090/p",
+    "fecha_hora_scraping": "2021-06-14 08:01:41",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "oferta hilo dental colgate total pague: 37metros lleve: 50metros",
+    "nombre_imagen": "./web_scraping/data/img/oferta_hilo_dental_colgate_total_pague_37metros_lleve_50metros.jpg",
+    "presentacion": "CAJA X 50 MT",
+    "precio": {
+        "bestPrice": "$14.200",
+        "precioPorSku js-PUM": "Metro a $284,00"
+    },
+    "descripcion": "of 2hilo dent colgate total ll50m p37.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 MT"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-2007DM-0001246"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

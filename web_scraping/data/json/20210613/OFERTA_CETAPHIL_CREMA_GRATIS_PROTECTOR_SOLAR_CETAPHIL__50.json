@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cetaphil-crema-gratis-protector-solar-cetaphil--50-7707184945259/p",
+    "fecha_hora_scraping": "2021-06-14 07:15:58",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA CETAPHIL CREMA GRATIS PROTECTOR SOLAR CETAPHIL  50+",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CETAPHIL_CREMA_GRATIS_PROTECTOR_SOLAR_CETAPHIL__50.jpg",
+    "presentacion": "POTE X 453 G",
+    "precio": {
+        "bestPrice": "$110.250",
+        "precioPorSku js-PUM": "Gramo a $220,97"
+    },
+    "descripcion": "oferta cetaphil crema gratis protector solar cetaphil  50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 453 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC19154-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

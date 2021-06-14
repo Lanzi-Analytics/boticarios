@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-copitos-algodon-jgb-pague-120-lleve-200-7702560031748/p",
+    "fecha_hora_scraping": "2021-06-14 01:57:39",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA COPITOS ALGOD\u00d3N JGB PAGUE: 120 LLEVE: 200",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_COPITOS_ALGOD\u00d3N_JGB_PAGUE_120_LLEVE_200.jpg",
+    "presentacion": "CAJA X 120",
+    "precio": {
+        "bestPrice": "$8.950",
+        "precioPorSku js-PUM": "Unidad a $74,58"
+    },
+    "descripcion": "oferta copitos algod\u00f3n jgb pague: 120 lleve: 200",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 120"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0008463"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

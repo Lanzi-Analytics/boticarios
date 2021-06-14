@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/menta-xtime-krash-menta-barra-130-gr-77070548/p",
+    "fecha_hora_scraping": "2021-06-14 07:56:16",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "MENTA XTIME KRASH MENTA BARRA 130 GR",
+    "nombre_imagen": "./web_scraping/data/img/MENTA_XTIME_KRASH_MENTA_BARRA_130_GR.jpg",
+    "presentacion": "UNIDAD X 130 G",
+    "precio": {
+        "bestPrice": "$1.300",
+        "precioPorSku js-PUM": "Gramo a $10,00"
+    },
+    "descripcion": "MENTA XTIME KRASH MENTA BARRA 130 GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 130 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000074-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

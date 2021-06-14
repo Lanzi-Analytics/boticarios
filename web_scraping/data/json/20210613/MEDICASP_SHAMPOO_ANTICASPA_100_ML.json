@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/medicasp-2--shampoo-650240029158/p",
+    "fecha_hora_scraping": "2021-06-14 05:05:54",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "MEDICASP SHAMPOO ANTICASPA 100 ML",
+    "nombre_imagen": "./web_scraping/data/img/MEDICASP_SHAMPOO_ANTICASPA_100_ML.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$24.550",
+        "precioPorSku js-PUM": "Mililitro a $245,50"
+    },
+    "descripcion": "medicasp elimina el hongo de la caspa. es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consulte a su m\u00e9dico. registro invima 2015m-0016299irritaci\u00f3n, enrojecimiento, comez\u00f3n y ardor del cuero cabelludo.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "KETOCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016299"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-vainilla-polvo-8427030003160/p",
+    "fecha_hora_scraping": "2021-06-14 09:35:23",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_VAINILLA_POLVO.jpg",
+    "presentacion": "LATA X 900 G",
+    "precio": {
+        "bestPrice": "$95.950",
+        "precioPorSku js-PUM": "Gramo a $106,61"
+    },
+    "descripcion": "ensure vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-006275-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

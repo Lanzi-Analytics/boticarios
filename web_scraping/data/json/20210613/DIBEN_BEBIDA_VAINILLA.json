@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diben-bebida-vainilla-7709640772867/p",
+    "fecha_hora_scraping": "2021-06-14 01:56:19",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "DIBEN BEBIDA VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/DIBEN_BEBIDA_VAINILLA.jpg",
+    "presentacion": "CAJA X 4 FRASCO X 20",
+    "precio": {
+        "bestPrice": "$27.450",
+        "precioPorSku js-PUM": "Mililitro a $34,31"
+    },
+    "descripcion": "diben bebida vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 FRASCO X 20"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FRESENIUS KABI COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA19I22814"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

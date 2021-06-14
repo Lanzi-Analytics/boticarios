@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alercet-100-mg5-ml-jarabe-7703153031312/p",
+    "fecha_hora_scraping": "2021-06-14 04:01:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALERCET 100 MG/5 ML JARABE",
+    "nombre_imagen": "./web_scraping/data/img/ALERCET_100_MG5_ML_JARABE.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "PrevPrice": "Antes:$64.400",
+        "bestPrice": "$45.080",
+        "precioPorSku js-PUM": "Tableta a $751,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-002103-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nessucar-polvo-7891000064634/p",
+    "fecha_hora_scraping": "2021-06-14 00:25:19",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NESSUCAR POLVO",
+    "nombre_imagen": "./web_scraping/data/img/NESSUCAR_POLVO.jpg",
+    "presentacion": "TARRO X 550 G",
+    "precio": {
+        "bestPrice": "$40.850",
+        "precioPorSku js-PUM": "Gramo a $74,27"
+    },
+    "descripcion": "nessucar polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 550 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004525-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

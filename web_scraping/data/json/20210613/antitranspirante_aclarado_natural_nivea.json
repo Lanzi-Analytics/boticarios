@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-aclarado-natural-nivea-4005808837472/p",
+    "fecha_hora_scraping": "2021-06-14 02:59:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "antitranspirante aclarado natural nivea",
+    "nombre_imagen": "./web_scraping/data/img/antitranspirante_aclarado_natural_nivea.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "PrevPrice": "Antes:$11.850",
+        "bestPrice": "$9.480",
+        "precioPorSku js-PUM": "Mililitro a $189,60"
+    },
+    "descripcion": "desod rol-on nivea 50 ml aclaradonatur+d740",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSEC2045-08CE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

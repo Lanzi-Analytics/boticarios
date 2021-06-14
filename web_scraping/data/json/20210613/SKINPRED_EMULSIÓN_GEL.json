@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7704232001097skinpred-emulsion-gelmedicamentosformuladoseuroetika-7704232001097/p",
+    "fecha_hora_scraping": "2021-06-13 23:33:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SKINPRED EMULSI\u00d3N GEL",
+    "nombre_imagen": "./web_scraping/data/img/SKINPRED_EMULSI\u00d3N_GEL.jpg",
+    "presentacion": "TUBO X 15G",
+    "precio": {
+        "bestPrice": "$67.250",
+        "precioPorSku js-PUM": "Gramo a $4.483,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15G"
+        ],
+        [
+            "Concentracion",
+            "1 MG/G"
+        ],
+        [
+            "Principio activo",
+            "PREDNICARBATO"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007253-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

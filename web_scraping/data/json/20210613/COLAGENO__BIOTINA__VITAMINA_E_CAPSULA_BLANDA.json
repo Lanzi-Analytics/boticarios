@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colageno--biotina--vitamina-e-capsula-blanda-7708896366554/p",
+    "fecha_hora_scraping": "2021-06-14 08:21:06",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "COLAGENO + BIOTINA + VITAMINA E CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/COLAGENO__BIOTINA__VITAMINA_E_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "bestPrice": "$27.600",
+        "precioPorSku js-PUM": "Capsula a $920,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SEA & OIL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003204"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

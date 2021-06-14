@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venosmil-200-mg-capsula-dura-8436024610802/p",
+    "fecha_hora_scraping": "2021-06-14 05:17:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VENOSMIL 200 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/VENOSMIL_200_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "bestPrice": "$64.550",
+        "precioPorSku js-PUM": "Capsula a $3.227,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "HIDROSMINA"
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0013955-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

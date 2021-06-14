@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-nosotras-invisible-sensitive-7702026177904/p",
+    "fecha_hora_scraping": "2021-06-13 23:13:58",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas nosotras invisible sensitive",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_nosotras_invisible_sensitive.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$7.650",
+        "precioPorSku js-PUM": "Unidad a $765,00"
+    },
+    "descripcion": "toalla nosotras invisible sensitive x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

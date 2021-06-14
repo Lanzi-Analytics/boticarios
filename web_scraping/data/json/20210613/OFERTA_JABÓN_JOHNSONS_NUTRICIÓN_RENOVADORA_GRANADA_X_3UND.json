@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-johnsons-nutricion-renovadora-granada-x-3und-7702031407447/p",
+    "fecha_hora_scraping": "2021-06-14 01:36:49",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "OFERTA JAB\u00d3N JOHNSON'S NUTRICI\u00d3N RENOVADORA GRANADA X 3UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_JAB\u00d3N_JOHNSONS_NUTRICI\u00d3N_RENOVADORA_GRANADA_X_3UND.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "bestPrice": "$5.750",
+        "precioPorSku js-PUM": "Gramo a $17,42"
+    },
+    "descripcion": "oferta jab\u00f3n johnson's nutrici\u00f3n renovadora granada x 3und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64934-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

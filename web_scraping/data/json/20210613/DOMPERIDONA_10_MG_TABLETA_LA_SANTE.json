@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/domperidona-10-mg-tableta-la-sante-7703763995806/p",
+    "fecha_hora_scraping": "2021-06-14 03:44:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DOMPERIDONA 10 MG TABLETA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/DOMPERIDONA_10_MG_TABLETA_LA_SANTE.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$4.300",
+        "precioPorSku js-PUM": "Tableta a $215,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "DOMPERIDONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013716"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

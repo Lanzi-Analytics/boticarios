@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-dental-cars-ref1321car-70942003797/p",
+    "fecha_hora_scraping": "2021-06-13 23:18:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "GEL DENTAL CARS REF1321CAR",
+    "nombre_imagen": "./web_scraping/data/img/GEL_DENTAL_CARS_REF1321CAR.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Gramo a $111,00"
+    },
+    "descripcion": "gel dental cars ref1321car",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92243-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicalfate-crema-3282770204667/p",
+    "fecha_hora_scraping": "2021-06-14 01:11:05",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CICALFATE CREMA",
+    "nombre_imagen": "./web_scraping/data/img/CICALFATE_CREMA.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$42.150",
+        "precioPorSku js-PUM": "Mililitro a $1.053,75"
+    },
+    "descripcion": "CICALFATE CREMA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC18131-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

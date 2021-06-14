@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/salises-gel-hidratante-sesderma-8470001613233/p",
+    "fecha_hora_scraping": "2021-06-14 09:48:03",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SALISES GEL HIDRATANTE SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/SALISES_GEL_HIDRATANTE_SESDERMA.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$144.900",
+        "precioPorSku js-PUM": "Mililitro a $2.898,00"
+    },
+    "descripcion": "SALISES GEL HIDRATANTE SESDERMA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37020-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fastfen-tableta-recubierta-7707355052229/p",
+    "fecha_hora_scraping": "2021-06-13 23:10:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FASTFEN TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FASTFEN_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 10 TAB",
+    "precio": {
+        "bestPrice": "$45.550",
+        "precioPorSku js-PUM": "Tableta a $4.555,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 37.5 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN TRAMADOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002227-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

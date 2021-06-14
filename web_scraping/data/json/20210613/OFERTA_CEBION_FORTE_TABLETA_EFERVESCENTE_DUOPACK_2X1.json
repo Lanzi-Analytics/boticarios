@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cebion-forte-tableta-efervescente-duopack-2x1-7702418006096/p",
+    "fecha_hora_scraping": "2021-06-14 07:13:38",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA CEBION FORTE TABLETA EFERVESCENTE DUOPACK 2X1",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CEBION_FORTE_TABLETA_EFERVESCENTE_DUOPACK_2X1.jpg",
+    "presentacion": "TUBO X 20 TAB",
+    "precio": {
+        "bestPrice": "$21.850",
+        "precioPorSku js-PUM": "Tableta a $2.185,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0002224"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

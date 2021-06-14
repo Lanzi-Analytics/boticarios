@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/robaxifen-nf-400-mg325-mg-tableta-recubierta-7702132010720/p",
+    "fecha_hora_scraping": "2021-06-14 04:04:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROBAXIFEN NF 400 MG/325 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ROBAXIFEN_NF_400_MG325_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 24 TAB",
+    "precio": {
+        "bestPrice": "$59.150",
+        "precioPorSku js-PUM": "Tableta a $2.464,58"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 24 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG 325 MG"
+        ],
+        [
+            "Principio activo",
+            "METOCARBAMOL ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016865"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

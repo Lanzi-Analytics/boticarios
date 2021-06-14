@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/teatrical-crema-facial-antiarrugas-650240032738/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TEATTRICAL ANTIARRUGAS 200 G",
+    "nombre_imagen": "./web_scraping/data/img/TEATTRICAL_ANTIARRUGAS_200_G.jpg",
+    "presentacion": "FRASCO X 200 G",
+    "precio": {
+        "bestPrice": "$30.300",
+        "precioPorSku js-PUM": "Gramo a $151,50"
+    },
+    "descripcion": "contiene c\u00e9lulas madre de la flor buddleja davidii, que brindan protecci\u00f3n antioxidante ayudando a estimular la producci\u00f3n de col\u00e1geno y elastina mejorando la apariencia de la piel.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83153-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

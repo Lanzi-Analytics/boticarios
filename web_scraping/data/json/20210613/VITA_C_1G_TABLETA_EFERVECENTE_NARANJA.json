@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vita-c-1g-tableta-efervecente-naranja-7702057700409/p",
+    "fecha_hora_scraping": "2021-06-14 07:40:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VITA C 1G TABLETA EFERVECENTE NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/VITA_C_1G_TABLETA_EFERVECENTE_NARANJA.jpg",
+    "presentacion": "TUBO X 10 TAB",
+    "precio": {
+        "bestPrice": "$11.300",
+        "precioPorSku js-PUM": "Tableta a $1.130,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0012932-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

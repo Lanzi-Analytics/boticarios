@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-oral-b-satin-tape-menta-7891051029828/p",
+    "fecha_hora_scraping": "2021-06-14 05:36:12",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "hilo dental oral-b satin tape menta",
+    "nombre_imagen": "./web_scraping/data/img/hilo_dental_oralb_satin_tape_menta.jpg",
+    "presentacion": "PAQUETE X 25 M",
+    "precio": {
+        "bestPrice": "$10.250",
+        "precioPorSku js-PUM": "Metro a $410,00"
+    },
+    "descripcion": "seda dental oral-b satin tap ment 25mt",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 25 M"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

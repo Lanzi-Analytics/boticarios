@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/te-fuze-tea-negro-durazno-7702535014233/p",
+    "fecha_hora_scraping": "2021-06-14 08:26:16",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "t\u00e9 fuze tea negro durazno",
+    "nombre_imagen": "./web_scraping/data/img/t\u00e9_fuze_tea_negro_durazno.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$1.950",
+        "precioPorSku js-PUM": "Mililitro a $4,88"
+    },
+    "descripcion": "t\u00e9 fuze tea negro durazno",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD13I85910"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/instacalm-crema-topica-7707177973122/p",
+    "fecha_hora_scraping": "2021-06-14 01:26:51",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "INSTACALM CREMA T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/INSTACALM_CREMA_T\u00d3PICA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$15.300",
+        "precioPorSku js-PUM": "Gramo a $510,00"
+    },
+    "descripcion": "instacalm crema t\u00f3pica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "100 G 20 G"
+        ],
+        [
+            "Principio activo",
+            "NISTATINA OXIDO ZINC"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO INTERNACIONAL DE COLOMB"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0009454-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

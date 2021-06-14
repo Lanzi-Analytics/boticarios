@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/5702191025569scheriderm-crema-topicamedicamentosformulados-5702191025569/p",
+    "fecha_hora_scraping": "2021-06-14 02:48:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SCHERIDERM CREMA T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/SCHERIDERM_CREMA_T\u00d3PICA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$59.600",
+        "precioPorSku js-PUM": "Mililitro a $331,11"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G 5 MG/KG"
+        ],
+        [
+            "Principio activo",
+            "NITRATO ISOCONAZOL SULFATO NEOMICINA VALERATO DIFLUCORTOLONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010314-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-20ml-con-aguja-21-x-12-pulgadas-3p-1000001204321/p",
+    "fecha_hora_scraping": "2021-06-14 06:25:34",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA 20ML CON AGUJA 21 X 1/2 PULGADAS 3P",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_20ML_CON_AGUJA_21_X_12_PULGADAS_3P.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $349,00"
+    },
+    "descripcion": "jeringa 20ml con aguja 21 x 1/2 pulgadas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMEUROPEA DE COLOMBIA"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0001071-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

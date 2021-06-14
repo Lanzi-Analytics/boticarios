@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703153022938procapscuidado-corporalmedicamentosclotrimazol-1--crema-topica-procapsclotrimazolcolmed-internacional-7703153022938/p",
+    "fecha_hora_scraping": "2021-06-14 09:59:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLOTRIMAZOL 1 % CREMA TOPICA PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/CLOTRIMAZOL_1__CREMA_TOPICA_PROCAPS.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$8.550",
+        "precioPorSku js-PUM": "Gramo a $213,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0009002"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

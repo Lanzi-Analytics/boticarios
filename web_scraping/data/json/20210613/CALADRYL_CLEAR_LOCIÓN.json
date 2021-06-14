@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladryl-clear-locion-77014535/p",
+    "fecha_hora_scraping": "2021-06-14 01:49:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADRYL CLEAR LOCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/CALADRYL_CLEAR_LOCI\u00d3N.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$22.150",
+        "precioPorSku js-PUM": "Mililitro a $221,50"
+    },
+    "descripcion": "caladryl clear loci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "PRAMOXINA CLORHIDRATO ZINC ACETATO DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015113"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiras-freestyle-optium-93815000549/p",
+    "fecha_hora_scraping": "2021-06-14 04:24:39",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TIRAS FREESTYLE OPTIUM",
+    "nombre_imagen": "./web_scraping/data/img/TIRAS_FREESTYLE_OPTIUM.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "PrevPrice": "Antes:$74.000",
+        "bestPrice": "$55.500",
+        "precioPorSku js-PUM": "Unidad a $2.220,00"
+    },
+    "descripcion": "tiras freestyle optium",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS TIRAS DE GLUCOMTERIA"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001408"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

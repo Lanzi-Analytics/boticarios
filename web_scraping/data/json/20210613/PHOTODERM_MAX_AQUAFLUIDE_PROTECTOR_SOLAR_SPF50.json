@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/3401561197715naos-colombiadermocosmeticabellezaprotector-solar-photoderm-max-aquafluide-spf50bloqueadoresbloqueador-protector-solar-bloqueadores-solares-protectores-solaresbioderma-biodemar-bioderm-3401561197715/p",
+    "fecha_hora_scraping": "2021-06-14 08:01:24",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PHOTODERM MAX AQUAFLUIDE PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/PHOTODERM_MAX_AQUAFLUIDE_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$105.550",
+        "precioPorSku js-PUM": "Mililitro a $2.638,75"
+    },
+    "descripcion": "protector solar photoderm max aquafluide",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ADAPALENO"
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66876-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7706569518606lovastatina-20mg-tableta-la-francolmedicamentosformuladoslafrancol-7706569518606/p",
+    "fecha_hora_scraping": "2021-06-14 07:53:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LOVASTATINA 20MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/LOVASTATINA_20MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$15.850",
+        "precioPorSku js-PUM": "Tableta a $528,33"
+    },
+    "descripcion": "lovastatina 20mg tableta la francol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "LOVASTATINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-012909-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

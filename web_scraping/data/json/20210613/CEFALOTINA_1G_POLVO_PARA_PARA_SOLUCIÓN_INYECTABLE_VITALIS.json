@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cefalotina-1g-polvo-para-para-solucion-inyectable-vitalis-7709526459820/p",
+    "fecha_hora_scraping": "2021-06-14 07:51:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CEFALOTINA 1G POLVO PARA PARA SOLUCI\u00d3N INYECTABLE VITALIS",
+    "nombre_imagen": "./web_scraping/data/img/CEFALOTINA_1G_POLVO_PARA_PARA_SOLUCI\u00d3N_INYECTABLE_VITALIS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$7.550",
+        "precioPorSku js-PUM": "Unidad a $7.550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "1 G"
+        ],
+        [
+            "Principio activo",
+            "CEFALOTINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2007M-007484-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

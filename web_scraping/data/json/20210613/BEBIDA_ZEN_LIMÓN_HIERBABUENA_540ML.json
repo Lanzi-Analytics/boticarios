@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-zen-limon-hierbabuena-540ml-7702354946685/p",
+    "fecha_hora_scraping": "2021-06-14 03:54:19",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "BEBIDA ZEN LIM\u00d3N HIERBABUENA 540ML",
+    "nombre_imagen": "./web_scraping/data/img/BEBIDA_ZEN_LIM\u00d3N_HIERBABUENA_540ML.jpg",
+    "presentacion": "BOTELLA X 540 ML",
+    "precio": {
+        "bestPrice": "$2.050",
+        "precioPorSku js-PUM": "Mililitro a $3,80"
+    },
+    "descripcion": "BEBIDA ZEN LIM\u00d3N HIERBABUENA 540ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 540 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007922-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

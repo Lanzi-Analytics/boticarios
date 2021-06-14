@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-proquident-kids-7702314501756/p",
+    "fecha_hora_scraping": "2021-06-14 08:43:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL PROQUIDENT KIDS",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_PROQUIDENT_KIDS.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$9.550",
+        "precioPorSku js-PUM": "Mililitro a $127,33"
+    },
+    "descripcion": "crema dental proquident kids",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO25230"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

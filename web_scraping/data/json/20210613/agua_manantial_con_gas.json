@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-manantial-con-gas-7702609005488/p",
+    "fecha_hora_scraping": "2021-06-14 08:21:12",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "agua manantial con gas",
+    "nombre_imagen": "./web_scraping/data/img/agua_manantial_con_gas.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "PrevPrice": "Antes:$2.050",
+        "bestPrice": "$1.435",
+        "precioPorSku js-PUM": "Mililitro a $2,39"
+    },
+    "descripcion": "agua manantial con gas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

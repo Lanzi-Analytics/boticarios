@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/budemar-duo-200-mcg6-mcg-solucion-para-inhalacion-8901117027442/p",
+    "fecha_hora_scraping": "2021-06-14 08:20:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BUDEMAR DUO 200 MCG/6 MCG SOLUCION PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/BUDEMAR_DUO_200_MCG6_MCG_SOLUCION_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$138.450",
+        "precioPorSku js-PUM": "Unidad a $138.450,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "200 \u00b5G/D 6 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "BUDESONIDA FORMOTEROL FUMARATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOTOSCANA FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010643-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

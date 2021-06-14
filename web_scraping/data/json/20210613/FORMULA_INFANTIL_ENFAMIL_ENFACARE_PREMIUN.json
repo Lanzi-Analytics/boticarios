@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfamil-enfacare-premiun-7506205810299/p",
+    "fecha_hora_scraping": "2021-06-14 01:28:42",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAMIL ENFACARE PREMIUN",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAMIL_ENFACARE_PREMIUN.jpg",
+    "presentacion": "LATA X 363 G",
+    "precio": {
+        "bestPrice": "$62.350",
+        "precioPorSku js-PUM": "Gramo a $171,76"
+    },
+    "descripcion": "formula infantil enfamil enfacare premiu",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 363 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSIA01I30611"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

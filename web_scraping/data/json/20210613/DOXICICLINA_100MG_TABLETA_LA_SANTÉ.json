@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/doxiciclina-100mg-tableta-la-sante-7703763185016/p",
+    "fecha_hora_scraping": "2021-06-14 01:12:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DOXICICLINA 100MG TABLETA LA SANT\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/DOXICICLINA_100MG_TABLETA_LA_SANT\u00c9.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$8.500",
+        "precioPorSku js-PUM": "Tableta a $850,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "DOXICICLINA HICLATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0001874-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

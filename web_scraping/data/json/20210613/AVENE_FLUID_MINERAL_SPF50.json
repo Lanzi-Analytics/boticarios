@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-fluid-mineral-spf50-3282770075687/p",
+    "fecha_hora_scraping": "2021-06-14 07:22:58",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE FLUID MINERAL SPF50",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_FLUID_MINERAL_SPF50.jpg",
+    "presentacion": "FRASCO X 40 ML",
+    "precio": {
+        "bestPrice": "$94.600",
+        "precioPorSku js-PUM": "Mililitro a $2.365,00"
+    },
+    "descripcion": "avene fluid mineral spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77645-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

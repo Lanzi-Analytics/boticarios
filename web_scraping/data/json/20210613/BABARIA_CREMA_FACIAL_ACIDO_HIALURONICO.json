@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-crema-facial-acido-hialuronico-8410412100113/p",
+    "fecha_hora_scraping": "2021-06-14 08:32:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "BABARIA CREMA FACIAL ACIDO HIALURONICO",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_CREMA_FACIAL_ACIDO_HIALURONICO.jpg",
+    "presentacion": "FRASCO X 125 ML",
+    "precio": {
+        "bestPrice": "$24.250",
+        "precioPorSku js-PUM": "Mililitro a $194,00"
+    },
+    "descripcion": "babaria crema facial acido hialuronico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 125 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90982-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

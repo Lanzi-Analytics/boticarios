@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/iltux-40-mg-tableta-recubierta-7841141002712/p",
+    "fecha_hora_scraping": "2021-06-14 06:51:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ILTUX 40 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ILTUX_40_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$45.200",
+        "precioPorSku js-PUM": "Tableta a $1.614,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "OLMESARTAN MEDOXOMIL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011693-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

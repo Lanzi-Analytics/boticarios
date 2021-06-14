@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/te-hatsu-blanco--mangostino-7707362390079/p",
+    "fecha_hora_scraping": "2021-06-14 04:50:54",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "t\u00e9 hatsu blanco & mangostino",
+    "nombre_imagen": "./web_scraping/data/img/t\u00e9_hatsu_blanco__mangostino.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$3.850",
+        "precioPorSku js-PUM": "Mililitro a $9,63"
+    },
+    "descripcion": "t\u00e9 hatsu blanco & mangostino",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAA13118611"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-advance-vainilla-7703186030276/p",
+    "fecha_hora_scraping": "2021-06-14 07:49:07",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE ADVANCE VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_ADVANCE_VAINILLA.jpg",
+    "presentacion": "FRASCO X 237 ML",
+    "precio": {
+        "bestPrice": "$7.750",
+        "precioPorSku js-PUM": "Mililitro a $32,70"
+    },
+    "descripcion": "ENSURE ADVANCE VAINILLA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I178915"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

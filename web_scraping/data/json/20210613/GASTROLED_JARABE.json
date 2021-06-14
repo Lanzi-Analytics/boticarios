@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gastroled-jarabe-7707016405739/p",
+    "fecha_hora_scraping": "2021-06-14 09:14:37",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GASTROLED JARABE",
+    "nombre_imagen": "./web_scraping/data/img/GASTROLED_JARABE.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $73,33"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2016-0002511"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

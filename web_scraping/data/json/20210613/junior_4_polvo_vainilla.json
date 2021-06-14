@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/junior-4-polvo-vainilla-7709969236934/p",
+    "fecha_hora_scraping": "2021-06-14 03:42:42",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "junior 4+ polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/junior_4_polvo_vainilla.jpg",
+    "presentacion": "TARRO X 700 G",
+    "precio": {
+        "bestPrice": "$40.000",
+        "precioPorSku js-PUM": "Gramo a $40.000,00"
+    },
+    "descripcion": "junior 4+ polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 700 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NATURLAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003082-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

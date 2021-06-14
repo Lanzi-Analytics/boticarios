@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-hyaluronic-serum-3760019121093/p",
+    "fecha_hora_scraping": "2021-06-14 01:23:09",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN HYALURONIC SERUM",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_HYALURONIC_SERUM.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$162.000",
+        "precioPorSku js-PUM": "Mililitro a $5.400,00"
+    },
+    "descripcion": "soskin hyaluronic serum",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69684-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

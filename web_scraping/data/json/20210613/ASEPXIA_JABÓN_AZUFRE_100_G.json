@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-jabon-en-barra-650240007828/p",
+    "fecha_hora_scraping": "2021-06-13 23:10:06",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "ASEPXIA JAB\u00d3N AZUFRE 100 G",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_JAB\u00d3N_AZUFRE_100_G.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "$9.450",
+        "precioPorSku js-PUM": "Unidad a $9.450,00"
+    },
+    "descripcion": "ayuda a combatir las imperfecciones de la piel. recomendado para piel grasa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75154-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-sensodyne-rapido-alivio-blanqueador-7794640172472/p",
+    "fecha_hora_scraping": "2021-06-14 05:51:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "crema dental sensodyne rapido alivio blanqueador",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_sensodyne_rapido_alivio_blanqueador.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$25.400",
+        "precioPorSku js-PUM": "Gramo a $254,00"
+    },
+    "descripcion": "sensodyne rapidoalivio blanqu x100gr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80101-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

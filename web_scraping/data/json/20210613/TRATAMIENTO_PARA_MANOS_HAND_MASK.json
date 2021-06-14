@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tratamiento-para-manos-hand-mask-8809033594300/p",
+    "fecha_hora_scraping": "2021-06-14 08:10:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "TRATAMIENTO PARA MANOS HAND MASK",
+    "nombre_imagen": "./web_scraping/data/img/TRATAMIENTO_PARA_MANOS_HAND_MASK.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$10.800",
+        "precioPorSku js-PUM": "Unidad a $10.800,00"
+    },
+    "descripcion": "tratamiento para manos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COBICO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71708-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

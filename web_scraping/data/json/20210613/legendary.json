@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/legendary-7707368890801/p",
+    "fecha_hora_scraping": "2021-06-13 23:27:27",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "legendary",
+    "nombre_imagen": "./web_scraping/data/img/legendary.jpg",
+    "presentacion": "FRASCO X 450 G",
+    "precio": {
+        "bestPrice": "$89.000",
+        "precioPorSku js-PUM": "Gramo a $197,78"
+    },
+    "descripcion": "legendary",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 450 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000549-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

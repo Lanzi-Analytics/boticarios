@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/isocord-10-mg-comprimido-7703158003000/p",
+    "fecha_hora_scraping": "2021-06-14 02:11:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ISOCORD 10 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/ISOCORD_10_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 30 COM",
+    "precio": {
+        "bestPrice": "$24.100",
+        "precioPorSku js-PUM": "Comprimido a $803,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 COM"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "ISOSORBIDE DINITRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAGO DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003289-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

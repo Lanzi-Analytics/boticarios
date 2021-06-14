@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/niogermox-solucion-topica-8429420138490/p",
+    "fecha_hora_scraping": "2021-06-14 10:04:23",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "NIOGERMOX SOLUCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/NIOGERMOX_SOLUCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 3,3 ML",
+    "precio": {
+        "bestPrice": "$102.450",
+        "precioPorSku js-PUM": "Mililitro a $31.045,45"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 3,3 ML"
+        ],
+        [
+            "Concentracion",
+            "69,2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CICLOPIROX"
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017658"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/berodual-hfa-50-mcg20-mcg-solucion-para-inhalacion-4048846001672/p",
+    "fecha_hora_scraping": "2021-06-14 03:14:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BERODUAL HFA 20/50MCG AEROSOL CON INHALADOR",
+    "nombre_imagen": "./web_scraping/data/img/BERODUAL_HFA_2050MCG_AEROSOL_CON_INHALADOR.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$27.550",
+        "precioPorSku js-PUM": "Mililitro a $2.755,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "50 \u00b5G/D 20 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "FENOTEROL BROMOHIDRATO IPRATROPIO BROMURO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0002085-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

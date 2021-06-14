@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/albendazol-200-mg-tableta-recubierta-tecnoquimicas-7702057070212/p",
+    "fecha_hora_scraping": "2021-06-13 23:14:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALBENDAZOL 200 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/ALBENDAZOL_200_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$2.850",
+        "precioPorSku js-PUM": "Tableta a $1.425,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "ALBENDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-012141-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

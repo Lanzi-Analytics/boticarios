@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-carefree-7702031500605/p",
+    "fecha_hora_scraping": "2021-06-14 04:14:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores carefree",
+    "nombre_imagen": "./web_scraping/data/img/protectores_carefree.jpg",
+    "presentacion": "PAQUETE X 15 UN",
+    "precio": {
+        "bestPrice": "$2.400",
+        "precioPorSku js-PUM": "Unidad a $160,00"
+    },
+    "descripcion": "carefree protecci\u00f3n x15",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 15 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02700-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-de-cejas-loreal-paris-brow-artist-genius-kit-01-light-3600522832621/p",
+    "fecha_hora_scraping": "2021-06-14 00:48:52",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "KIT DE CEJAS L'OR\u00c9AL PARIS BROW ARTIST GENIUS KIT 01 LIGHT",
+    "nombre_imagen": "./web_scraping/data/img/KIT_DE_CEJAS_LOR\u00c9AL_PARIS_BROW_ARTIST_GENIUS_KIT_01_LIGHT.jpg",
+    "presentacion": "UNIDAD X 3.5G",
+    "precio": {
+        "bestPrice": "$57.450",
+        "precioPorSku js-PUM": "Gramo a $16.414,29"
+    },
+    "descripcion": "kit de cejas l'or\u00e9al paris brow artist genius kit 01 light",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 3.5G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71615-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

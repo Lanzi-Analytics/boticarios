@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retimax-like-contorno-ojos-7707327210077/p",
+    "fecha_hora_scraping": "2021-06-14 07:20:36",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RETIMAX LIKE CONTORNO OJOS",
+    "nombre_imagen": "./web_scraping/data/img/RETIMAX_LIKE_CONTORNO_OJOS.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$110.550",
+        "precioPorSku js-PUM": "Gramo a $3.685,00"
+    },
+    "descripcion": "retimax like contorno ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC27233-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulfato-de-zinc-solucion-oral-sabor-cereza-la-francol-7706569022929/p",
+    "fecha_hora_scraping": "2021-06-14 03:27:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SULFATO DE ZINC SOLUCION ORAL SABOR CEREZA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/SULFATO_DE_ZINC_SOLUCION_ORAL_SABOR_CEREZA_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$17.200",
+        "precioPorSku js-PUM": "Mililitro a $143,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "ZINC SULFATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017362"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

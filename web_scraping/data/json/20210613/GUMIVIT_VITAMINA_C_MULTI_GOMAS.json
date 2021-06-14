@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gumivit-vitamina-c-multi-gomas-7703153034429/p",
+    "fecha_hora_scraping": "2021-06-14 02:08:17",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GUMIVIT VITAMINA C MULTI GOMAS",
+    "nombre_imagen": "./web_scraping/data/img/GUMIVIT_VITAMINA_C_MULTI_GOMAS.jpg",
+    "presentacion": "BOLSA X 12 SOB",
+    "precio": {
+        "bestPrice": "$15.450",
+        "precioPorSku js-PUM": "Sobre a $1.287,50"
+    },
+    "descripcion": "GUMIVIT VITAMINA C MULTI GOMAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 12 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAK01I10612"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/climbaseb-shampoo-7707355050744/p",
+    "fecha_hora_scraping": "2021-06-14 07:11:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "CLIMBASEB SHAMPOO",
+    "nombre_imagen": "./web_scraping/data/img/CLIMBASEB_SHAMPOO.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "bestPrice": "$89.350",
+        "precioPorSku js-PUM": "Gramo a $744,58"
+    },
+    "descripcion": "climbaseb shampoo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13275-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

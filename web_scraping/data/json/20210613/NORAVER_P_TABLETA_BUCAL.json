@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/noraver-p-tableta-bucal-7702057186470/p",
-    "fecha_hora_scraping": "2021-06-13 18:52:06",
+    "url_producto": "https://www.drogueriascolsubsidio.com/noraver-p-tableta-bucal-7702057184315/p",
+    "fecha_hora_scraping": "2021-06-14 02:01:01",
     "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "NORAVER P TABLETA BUCAL",
     "nombre_imagen": "./web_scraping/data/img/NORAVER_P_TABLETA_BUCAL.jpg",
-    "presentacion": "CAJA X 12 TAB",
+    "presentacion": "BLISTER X 6 TAB",
     "precio": {
-        "bestPrice": "$14.300",
-        "precioPorSku js-PUM": "Tableta a $1.191,67"
+        "bestPrice": "$7.234",
+        "precioPorSku js-PUM": "Tableta a $1.205,73"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 12 TAB"
+            "BLISTER X 6 TAB"
         ],
         [
             "Concentracion",

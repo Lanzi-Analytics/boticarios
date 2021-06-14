@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repuesto-maquina-de-afeitar-gillette-venus-breeze-7506339315899/p",
+    "fecha_hora_scraping": "2021-06-14 00:41:11",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "repuesto de afeitar gillette venus breeze",
+    "nombre_imagen": "./web_scraping/data/img/repuesto_de_afeitar_gillette_venus_breeze.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$26.700",
+        "precioPorSku js-PUM": "Unidad a $13.350,00"
+    },
+    "descripcion": "repuesto venus breeze x 2its",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

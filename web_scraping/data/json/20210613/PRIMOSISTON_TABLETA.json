@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7896116866028primosiston-tabletamedicamentosventa-librebayer-7896116866028/p",
+    "fecha_hora_scraping": "2021-06-14 04:46:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRIMOSISTON TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/PRIMOSISTON_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$18.700",
+        "precioPorSku js-PUM": "Tableta a $623,33"
+    },
+    "descripcion": "primosiston tableta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0.01 MG"
+        ],
+        [
+            "Principio activo",
+            "NORETISTERONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-003818-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

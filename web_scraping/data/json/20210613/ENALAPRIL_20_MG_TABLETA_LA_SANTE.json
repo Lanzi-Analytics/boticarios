@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enalapril-20-mg-tableta-la-sante-7703763290130/p",
+    "fecha_hora_scraping": "2021-06-14 09:28:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ENALAPRIL 20 MG TABLETA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/ENALAPRIL_20_MG_TABLETA_LA_SANTE.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$2.550",
+        "precioPorSku js-PUM": "Tableta a $255,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ENALAPRIL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003399-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

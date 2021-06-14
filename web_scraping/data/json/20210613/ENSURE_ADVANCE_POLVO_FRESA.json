@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-advance-polvo-fresa-8710428013873/p",
+    "fecha_hora_scraping": "2021-06-14 07:54:01",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE ADVANCE POLVO FRESA",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_ADVANCE_POLVO_FRESA.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$50.300",
+        "precioPorSku js-PUM": "Gramo a $125,75"
+    },
+    "descripcion": "ensure advance polvo fresa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004359-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fixamicin-dol-solucion-otica-7702057013912/p",
+    "fecha_hora_scraping": "2021-06-14 10:24:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FIXAMICIN DOL SOLUCI\u00d2N \u00d2TICA",
+    "nombre_imagen": "./web_scraping/data/img/FIXAMICIN_DOL_SOLUCI\u00d2N_\u00d2TICA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$31.200",
+        "precioPorSku js-PUM": "Mililitro a $2.080,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML 3,75 MG/ML 10000 UI/ML"
+        ],
+        [
+            "Principio activo",
+            "POLIMIXINA B SULFATO NEOMICINA SULFATO DEXAMETASONA LIDOCAINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018923"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

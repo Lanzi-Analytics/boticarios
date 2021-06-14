@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rueditas-faciales-pomys-original-x-2-7702026321475/p",
+    "fecha_hora_scraping": "2021-06-14 01:26:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "RUEDITAS FACIALES POMYS ORIGINAL X 2",
+    "nombre_imagen": "./web_scraping/data/img/RUEDITAS_FACIALES_POMYS_ORIGINAL_X_2.jpg",
+    "presentacion": "PAQUETE X 120 UN",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Unidad a $80,42"
+    },
+    "descripcion": "rueditas faciales pomys original x 2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 120 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

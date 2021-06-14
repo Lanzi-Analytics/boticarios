@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-winny-ultratrim-sec-etapa-1--toallitas-humedas-7701021115713/p",
+    "fecha_hora_scraping": "2021-06-13 23:24:22",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1ales winny ultratrim sec etapa 1 + toallitas h\u00famedas",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_winny_ultratrim_sec_etapa_1__toallitas_h\u00famedas.jpg",
+    "presentacion": "PAQUETE X 32 UN",
+    "precio": {
+        "bestPrice": "$18.250",
+        "precioPorSku js-PUM": "Unidad a $350,96"
+    },
+    "descripcion": "pa\u00f1ales winny ultratrim sec etapa 1 + toallitas h\u00famedas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 32 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02378-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

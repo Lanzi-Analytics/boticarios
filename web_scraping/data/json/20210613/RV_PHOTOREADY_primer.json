@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-photoready-primer-309974104012/p",
+    "fecha_hora_scraping": "2021-06-14 04:36:43",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV PHOTOREADY primer",
+    "nombre_imagen": "./web_scraping/data/img/RV_PHOTOREADY_primer.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$56.400",
+        "precioPorSku js-PUM": "Mililitro a $1.880,00"
+    },
+    "descripcion": "rv photoready primer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC48704-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

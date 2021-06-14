@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-proquident-escolar-higiene-bucal-kids-7702314181217/p",
+    "fecha_hora_scraping": "2021-06-14 04:16:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "KIT PROQUIDENT ESCOLAR HIGIENE BUCAL KIDS",
+    "nombre_imagen": "./web_scraping/data/img/KIT_PROQUIDENT_ESCOLAR_HIGIENE_BUCAL_KIDS.jpg",
+    "presentacion": "KIT X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $13.450,00"
+    },
+    "descripcion": "kit proquident escolar higiene bucal kids",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "KIT X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80138-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

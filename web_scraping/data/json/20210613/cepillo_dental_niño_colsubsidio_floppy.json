@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-nino-colsubsidio-floppy-7701009149433/p",
+    "fecha_hora_scraping": "2021-06-14 08:52:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental ni\u00f1o colsubsidio floppy",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_ni\u00f1o_colsubsidio_floppy.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$2.150",
+        "precioPorSku js-PUM": "Unidad a $2.150,00"
+    },
+    "descripcion": "cepillo dental colsub ni\u00f1o floppy",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PLACECOL SA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001316"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

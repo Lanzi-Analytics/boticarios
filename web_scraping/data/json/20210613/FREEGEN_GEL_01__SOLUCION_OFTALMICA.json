@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/freegen-gel-01--solucion-oftalmica-7707239270060/p",
+    "fecha_hora_scraping": "2021-06-14 02:03:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FREEGEN GEL 0.1 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/FREEGEN_GEL_01__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$57.750",
+        "precioPorSku js-PUM": "Mililitro a $3.850,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CARBOXIMETILCELULOSA SODICA"
+        ],
+        [
+            "Laboratorio",
+            "ESPECIALIDADES OFTALMOLOGICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005282-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

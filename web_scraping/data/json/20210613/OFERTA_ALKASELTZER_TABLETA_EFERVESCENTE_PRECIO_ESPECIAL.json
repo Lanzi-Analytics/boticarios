@@ -1,28 +1,27 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-alka-seltzer-tableta-efervescente-precio-especial-7702123006763/p",
-    "fecha_hora_scraping": "2021-06-13 18:52:37",
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-alka-seltzer-tableta-efervescente-precio-especial-7702123010982/p",
+    "fecha_hora_scraping": "2021-06-14 06:43:23",
     "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "OFERTA ALKA-SELTZER TABLETA EFERVESCENTE PRECIO ESPECIAL",
     "nombre_imagen": "./web_scraping/data/img/OFERTA_ALKASELTZER_TABLETA_EFERVESCENTE_PRECIO_ESPECIAL.jpg",
-    "presentacion": "CAJA X 14 TAB",
+    "presentacion": "CAJA X 28 TAB",
     "precio": {
-        "PrevPrice": "Antes:$11.700",
-        "bestPrice": "$9.945",
-        "precioPorSku js-PUM": "Tableta a $710,36"
+        "bestPrice": "$21.550",
+        "precioPorSku js-PUM": "Tableta a $1.539,29"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 14 TAB"
+            "CAJA X 28 TAB"
         ],
         [
             "Concentracion",
-            "1,976 G 1 G 0,324 G"
+            "1,97 G 1 G 0,32 G"
         ],
         [
             "Principio activo",
-            "BICARBONATO SODIO CITRICO ACIDO ACETIL SALICILICO ACIDO"
+            "BICARBONATO SODIO ACETIL SALICILICO ACIDO"
         ],
         [
             "Laboratorio",

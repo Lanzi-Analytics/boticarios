@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cera-lacoupe-sculpt-for-men-67545008113/p",
+    "fecha_hora_scraping": "2021-06-14 08:51:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "CERA LACOUPE SCULPT FOR MEN",
+    "nombre_imagen": "./web_scraping/data/img/CERA_LACOUPE_SCULPT_FOR_MEN.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$38.900",
+        "precioPorSku js-PUM": "Gramo a $648,33"
+    },
+    "descripcion": "cera lacoupe sculpt for men",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83401-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

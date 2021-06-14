@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gomas-kids-benet-vitamina-c--zinc-goma-frasco-7709707028708/p",
+    "fecha_hora_scraping": "2021-06-14 03:31:06",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GOMAS KIDS BENET VITAMINA C + ZINC GOMA FRASCO",
+    "nombre_imagen": "./web_scraping/data/img/GOMAS_KIDS_BENET_VITAMINA_C__ZINC_GOMA_FRASCO.jpg",
+    "presentacion": "FRASCO X 48 UN",
+    "precio": {
+        "bestPrice": "$14.100",
+        "precioPorSku js-PUM": "Gramo a $117,50"
+    },
+    "descripcion": "gomas kids benet vitamina c + zinc goma frasco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 48 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005507-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

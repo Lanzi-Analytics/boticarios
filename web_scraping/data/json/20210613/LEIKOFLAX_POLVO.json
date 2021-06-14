@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/814465010739newlab-nutritionnaturalesmedicamentosleiko-flax-polvoinsumos-para-la-salud-814465010739/p",
+    "fecha_hora_scraping": "2021-06-14 01:25:26",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "LEIKO-FLAX POLVO",
+    "nombre_imagen": "./web_scraping/data/img/LEIKOFLAX_POLVO.jpg",
+    "presentacion": "TARRO X 300 G",
+    "precio": {
+        "bestPrice": "$57.250",
+        "precioPorSku js-PUM": "Gramo a $190,83"
+    },
+    "descripcion": "leiko-flax polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 300 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS PARA LA SALUD"
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA10I84412"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

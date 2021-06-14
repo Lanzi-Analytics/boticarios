@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nazidil-isotonico-spray-nasal-3401097239125/p",
+    "fecha_hora_scraping": "2021-06-14 07:12:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NAZIDIL ISOTONICO SPRAY NASAL",
+    "nombre_imagen": "./web_scraping/data/img/NAZIDIL_ISOTONICO_SPRAY_NASAL.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$34.150",
+        "precioPorSku js-PUM": "Mililitro a $683,00"
+    },
+    "descripcion": "nazidil isotonico spray nasal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020DM-0005639-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

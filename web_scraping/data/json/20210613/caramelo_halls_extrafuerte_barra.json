@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caramelo-halls-extrafuerte-barra-7622210427106/p",
+    "fecha_hora_scraping": "2021-06-13 23:26:48",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "caramelo halls extrafuerte barra",
+    "nombre_imagen": "./web_scraping/data/img/caramelo_halls_extrafuerte_barra.jpg",
+    "presentacion": "BARRA X 9 UN",
+    "precio": {
+        "bestPrice": "$1.450",
+        "precioPorSku js-PUM": "Gramo a $58,00"
+    },
+    "descripcion": "caramelo halls extrafuerte barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 9 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I171514"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-dove-dermoaclarant-spray-7506306241152/p",
+    "fecha_hora_scraping": "2021-06-14 04:10:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "DESODORANTE DOVE DERMOACLARANT SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_DOVE_DERMOACLARANT_SPRAY.jpg",
+    "presentacion": "TUBO X 150 ML",
+    "precio": {
+        "bestPrice": "$19.000",
+        "precioPorSku js-PUM": "Mililitro a $126,67"
+    },
+    "descripcion": "desodorante dove dermoaclarant spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

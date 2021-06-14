@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nebulizador-portatil-nebzmart-7506358400484/p",
+    "fecha_hora_scraping": "2021-06-14 07:10:27",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|terapia respiratoria",
+    "titulo": "NEBULIZADOR PORTATIL NEBZMART",
+    "nombre_imagen": "./web_scraping/data/img/NEBULIZADOR_PORTATIL_NEBZMART.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$334.450",
+        "bestPrice": "$250.837",
+        "precioPorSku js-PUM": "Unidad a $250.837"
+    },
+    "descripcion": "nebulizador portatil nebzmart",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLENMARK PHARMACEUTICALS COLOM SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018026"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

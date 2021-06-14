@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/emulsion-de-scott-sabor-fruta-tropical-7707172681206/p",
+    "fecha_hora_scraping": "2021-06-14 05:45:22",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "EMULSION DE SCOTT SABOR FRUTA TROPICAL",
+    "nombre_imagen": "./web_scraping/data/img/EMULSION_DE_SCOTT_SABOR_FRUTA_TROPICAL.jpg",
+    "presentacion": "FRASCO X 450 ML",
+    "precio": {
+        "bestPrice": "$19.650",
+        "precioPorSku js-PUM": "Mililitro a $43,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 450 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "20018M-0009269-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

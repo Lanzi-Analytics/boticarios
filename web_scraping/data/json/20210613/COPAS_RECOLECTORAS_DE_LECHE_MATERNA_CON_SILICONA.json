@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/copas-recolectoras-de-leche-materna-con-silicona-7612367003537/p",
+    "fecha_hora_scraping": "2021-06-14 04:39:34",
+    "breadcumb": "colsubsidio|mamas y bebes|accesorios",
+    "titulo": "COPAS RECOLECTORAS DE LECHE MATERNA CON SILICONA",
+    "nombre_imagen": "./web_scraping/data/img/COPAS_RECOLECTORAS_DE_LECHE_MATERNA_CON_SILICONA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $93.100,00"
+    },
+    "descripcion": "copas recolectoras de leche materna con",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AREOLA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

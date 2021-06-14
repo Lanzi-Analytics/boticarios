@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamina-a-plus-bilberry-softgels-751273772018/p",
+    "fecha_hora_scraping": "2021-06-14 09:18:53",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VITAMINA A PLUS BILBERRY SOFTGELS",
+    "nombre_imagen": "./web_scraping/data/img/VITAMINA_A_PLUS_BILBERRY_SOFTGELS.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "$31.550",
+        "precioPorSku js-PUM": "Capsula a $315,50"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "METILSULFONILMETANO GLUCOSAMINA SULFATO CONDROITINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0002075"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

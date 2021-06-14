@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-pantene-fuerza-y-reconstruccion-7500435020251/p",
+    "fecha_hora_scraping": "2021-06-14 10:00:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo pantene pro-v fuerza y reconstrucci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_pantene_prov_fuerza_y_reconstrucci\u00f3n.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$12.000",
+        "precioPorSku js-PUM": "Mililitro a $60,00"
+    },
+    "descripcion": "shampoo pantene fuerza reconstruccion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015216"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

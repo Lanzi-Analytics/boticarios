@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colfibra-linaza-cereales-7709281906218/p",
+    "fecha_hora_scraping": "2021-06-14 08:05:05",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "COLFIBRA LINAZA CEREALES",
+    "nombre_imagen": "./web_scraping/data/img/COLFIBRA_LINAZA_CEREALES.jpg",
+    "presentacion": "TARRO X 300 G",
+    "precio": {
+        "bestPrice": "$26.200",
+        "precioPorSku js-PUM": "Gramo a $87,33"
+    },
+    "descripcion": "colfibra linaza cereales",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 300 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "IPS VITAL LIFE INTERNACIONAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV10I35810"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

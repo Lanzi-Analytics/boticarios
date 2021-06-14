@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinogan-4--gotas-7591044401333/p",
+    "fecha_hora_scraping": "2021-06-14 07:44:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SINOGAN 4 % GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/SINOGAN_4__GOTAS.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$55.450",
+        "precioPorSku js-PUM": "Mililitro a $2.772,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LEVOMEPROMAZINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0000678-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

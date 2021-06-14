@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-vitamina-e-400ui-pague-1un-lleve-2und-7702057735647/p",
+    "fecha_hora_scraping": "2021-06-14 01:44:38",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA VITAMINA E 400UI PAGUE: 1UN LLEVE: 2UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_VITAMINA_E_400UI_PAGUE_1UN_LLEVE_2UND.jpg",
+    "presentacion": "CAJA X 50 CAP",
+    "precio": {
+        "bestPrice": "$30.150",
+        "precioPorSku js-PUM": "Capsula a $603,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 UI"
+        ],
+        [
+            "Principio activo",
+            "DL-ALFATOCOFERIL ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0003418-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

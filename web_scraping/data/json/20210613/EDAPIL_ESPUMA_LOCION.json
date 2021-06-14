@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/edapil-espuma-locion-7703281001591/p",
+    "fecha_hora_scraping": "2021-06-14 07:39:27",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "EDAPIL ESPUMA LOCION",
+    "nombre_imagen": "./web_scraping/data/img/EDAPIL_ESPUMA_LOCION.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "PrevPrice": "Antes:$99.950",
+        "bestPrice": "$69.965",
+        "precioPorSku js-PUM": "Mililitro a $466,43"
+    },
+    "descripcion": "edapil espuma locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54203-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

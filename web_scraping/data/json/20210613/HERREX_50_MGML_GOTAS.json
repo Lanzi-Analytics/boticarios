@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/herrex-50-mgml-gotas-7703454120128/p",
+    "fecha_hora_scraping": "2021-06-14 05:01:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HERREX 50 MG/ML GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/HERREX_50_MGML_GOTAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$83.300",
+        "precioPorSku js-PUM": "Mililitro a $2.776,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIERRO POLIMALTOSADO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-13850-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biolax-granulado-naranja-7702870070314/p",
+    "fecha_hora_scraping": "2021-06-14 03:16:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BIOLAX GRANULADO NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/BIOLAX_GRANULADO_NARANJA.jpg",
+    "presentacion": "FRASCO X 340 G",
+    "precio": {
+        "bestPrice": "$71.700",
+        "precioPorSku js-PUM": "Gramo a $210,88"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 340 G"
+        ],
+        [
+            "Concentracion",
+            "70 G"
+        ],
+        [
+            "Principio activo",
+            "PSYLLIUM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2018-0001880-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

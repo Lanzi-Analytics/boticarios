@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mascarilla-hidratante-hyaluronic-gummy-beautytreas-8429979449498/p",
+    "fecha_hora_scraping": "2021-06-14 09:17:33",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "mascarilla hidratante hyaluronic gummy beautytreas",
+    "nombre_imagen": "./web_scraping/data/img/mascarilla_hidratante_hyaluronic_gummy_beautytreas.jpg",
+    "presentacion": "SOBRE X 1 UN",
+    "precio": {
+        "bestPrice": "$26.650",
+        "precioPorSku js-PUM": "Unidad a $26.650,00"
+    },
+    "descripcion": "mascarilla hidratante hyaluronic gummy beautytreas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94531-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

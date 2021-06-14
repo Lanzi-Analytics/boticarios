@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113003635jabon-liquido-antibacterial-bacterionhigiene-y-cuidado-personaljabones-y-gel-antibacterialna-7702113003635/p",
+    "fecha_hora_scraping": "2021-06-14 02:39:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JABON LIQUIDO ANTIBACTERIAL BACTERION",
+    "nombre_imagen": "./web_scraping/data/img/JABON_LIQUIDO_ANTIBACTERIAL_BACTERION.jpg",
+    "presentacion": "FRASCO X 300 X ML",
+    "precio": {
+        "bestPrice": "$8.300",
+        "precioPorSku js-PUM": "Mililitro a $27,67"
+    },
+    "descripcion": "jabon liquido antibacterial bacterion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36076-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

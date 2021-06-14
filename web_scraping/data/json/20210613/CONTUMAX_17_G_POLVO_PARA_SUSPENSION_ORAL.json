@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/contumax-17-g-polvo-para-suspension-oral-7501871721337/p",
+    "fecha_hora_scraping": "2021-06-14 03:21:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CONTUMAX 17 G POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/CONTUMAX_17_G_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "CAJA X 15 SOB",
+    "precio": {
+        "bestPrice": "$61.100",
+        "precioPorSku js-PUM": "Unidad a $4.073,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 SOB"
+        ],
+        [
+            "Concentracion",
+            "17 G"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 3350"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011380-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

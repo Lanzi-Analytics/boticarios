@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nistatina--oxido-de-zinc-unguento-procaps-7703153023621/p",
+    "fecha_hora_scraping": "2021-06-14 00:00:15",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "NISTATINA + OXIDO DE ZINC UNGUENTO PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/NISTATINA__OXIDO_DE_ZINC_UNGUENTO_PROCAPS.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$13.650",
+        "precioPorSku js-PUM": "Gramo a $227,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "100000 UI/G 200 MG/G"
+        ],
+        [
+            "Principio activo",
+            "NISTATINA ZINC OXIDO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0009123-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-vitu-vitamina-e-tono1-macadamia-ni-7702044210676/p",
+    "fecha_hora_scraping": "2021-06-13 23:40:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO VIT\u00da VITAMINA E TONO1 MACADAMIA NI",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_VIT\u00da_VITAMINA_E_TONO1_MACADAMIA_NI.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.200",
+        "precioPorSku js-PUM": "Gramo a $565,52"
+    },
+    "descripcion": "polvo vit\u00fa vitamina e tono1 macadamia ni",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56638-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

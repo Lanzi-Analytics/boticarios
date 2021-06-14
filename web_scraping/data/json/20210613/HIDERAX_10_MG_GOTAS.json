@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hiderax-10-mg-gotas-7702870000663/p",
+    "fecha_hora_scraping": "2021-06-14 07:07:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIDERAX 10 MG GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/HIDERAX_10_MG_GOTAS.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$52.300",
+        "precioPorSku js-PUM": "Mililitro a $3.486,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "0.1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIDROXICINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-006472-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

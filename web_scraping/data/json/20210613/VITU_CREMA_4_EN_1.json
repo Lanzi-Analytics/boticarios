@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitu-crema-4-en-1-7702044210683/p",
+    "fecha_hora_scraping": "2021-06-14 02:20:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "VITU CREMA 4 EN 1",
+    "nombre_imagen": "./web_scraping/data/img/VITU_CREMA_4_EN_1.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $233,00"
+    },
+    "descripcion": "vitu crema 4 en 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC25304-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

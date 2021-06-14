@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panos-humedos-antbacterial-x-10-cross-7702026311148/p",
+    "fecha_hora_scraping": "2021-06-14 09:59:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "PA\u00d1OS HUMEDOS ANTBACTERIAL X 10 CROSS",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1OS_HUMEDOS_ANTBACTERIAL_X_10_CROSS.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$2.350",
+        "precioPorSku js-PUM": "Unidad a $235,00"
+    },
+    "descripcion": "pa\u00f1os humedos antbacterial x 10 cross",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68065-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

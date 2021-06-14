@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707274724030bcn-medicalformuladosmedicamentosbedsore-aposito-liquido-7707274724030/p",
+    "fecha_hora_scraping": "2021-06-14 05:47:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BEDSORE APOSITO LIQUIDO",
+    "nombre_imagen": "./web_scraping/data/img/BEDSORE_APOSITO_LIQUIDO.jpg",
+    "presentacion": "CAJA X 4 UN",
+    "precio": {
+        "bestPrice": "$49.600",
+        "precioPorSku js-PUM": "Unidad a $12.400,00"
+    },
+    "descripcion": "bedsore aposito liquido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013061"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

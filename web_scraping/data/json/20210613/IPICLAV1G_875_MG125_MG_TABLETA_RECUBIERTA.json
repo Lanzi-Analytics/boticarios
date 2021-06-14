@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ipiclav-1g-875-mg125-mg-tableta-recubierta-8901079012555/p",
+    "fecha_hora_scraping": "2021-06-14 05:59:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IPICLAV-1G 875 MG/125 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/IPICLAV1G_875_MG125_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$69.150",
+        "precioPorSku js-PUM": "Tableta a $4.939,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "875 MG 125 MG"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO CLAVULANATO POTASIO"
+        ],
+        [
+            "Laboratorio",
+            "IPCA LABORATORIES LIMITATED SUCURSA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012739-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

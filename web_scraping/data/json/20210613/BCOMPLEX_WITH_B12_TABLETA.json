@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/b-complex-with-b12-tableta-74312401909/p",
+    "fecha_hora_scraping": "2021-06-14 08:30:31",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "B-COMPLEX WITH B12 TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/BCOMPLEX_WITH_B12_TABLETA.jpg",
+    "presentacion": "FRASCO X 90 TAB",
+    "precio": {
+        "bestPrice": "$38.550",
+        "precioPorSku js-PUM": "Tableta a $428,33"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 \u00b5G 14 MG 7 MG"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2009-0001223"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

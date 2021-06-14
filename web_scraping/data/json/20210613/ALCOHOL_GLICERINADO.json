@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-glicerinado-7702560044663/p",
+    "fecha_hora_scraping": "2021-06-14 03:59:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "ALCOHOL GLICERINADO",
+    "nombre_imagen": "./web_scraping/data/img/ALCOHOL_GLICERINADO.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$8.500",
+        "precioPorSku js-PUM": "Mililitro a $17,00"
+    },
+    "descripcion": "alcohol glicerinado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ETILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99492-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

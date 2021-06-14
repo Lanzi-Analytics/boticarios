@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gynoplus-500mg-ovulo-7707173600459/p",
+    "fecha_hora_scraping": "2021-06-14 08:00:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GYNOPLUS 500MG \u00d3VULO",
+    "nombre_imagen": "./web_scraping/data/img/GYNOPLUS_500MG_\u00d3VULO.jpg",
+    "presentacion": "CAJA X 10 OVU",
+    "precio": {
+        "bestPrice": "$51.900",
+        "precioPorSku js-PUM": "OVULO a $5.190,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 OVU"
+        ],
+        [
+            "Concentracion",
+            "500 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013600-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicatricure-gel-hidratante-650240003974/p",
+    "fecha_hora_scraping": "2021-06-14 06:49:48",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CICATRICURE GEL CICATRICES 30 G",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_GEL_CICATRICES_30_G.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$42.650",
+        "precioPorSku js-PUM": "Gramo a $1.421,67"
+    },
+    "descripcion": "gel que ayuda a disminuir visiblemente la longitud, el grosor y la coloraci\u00f3n de cicatrices (utilizar en cicatrices no queloides menores a un a\u00f1o). estimula la regeneraci\u00f3n de las fibras de col\u00e1geno del tejido cut\u00e1neo a la vez que hidrata la piel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72211-19BO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

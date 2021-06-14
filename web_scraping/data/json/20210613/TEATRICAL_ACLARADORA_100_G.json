@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/650240032684genommacuidado-facialmedicamentoscrema-facial-teatrical-aclaradoracrema-cara-tratamiento-hidratante-aclaradora-650240032684/p",
+    "fecha_hora_scraping": "2021-06-14 07:16:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TEATRICAL ACLARADORA 100 G",
+    "nombre_imagen": "./web_scraping/data/img/TEATRICAL_ACLARADORA_100_G.jpg",
+    "presentacion": "POTE X 100 G",
+    "precio": {
+        "bestPrice": "$16.900",
+        "precioPorSku js-PUM": "Gramo a $169,00"
+    },
+    "descripcion": "posee activos de protecci\u00f3n antioxidante para ayudar a la piel a lucir m\u00e1s tersa y radiante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68402-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

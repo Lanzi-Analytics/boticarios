@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-gum-flossers-menta-70942303033/p",
+    "fecha_hora_scraping": "2021-06-14 01:24:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "SEDA DENTAL GUM FLOSSERS MENTA",
+    "nombre_imagen": "./web_scraping/data/img/SEDA_DENTAL_GUM_FLOSSERS_MENTA.jpg",
+    "presentacion": "PAQUETE",
+    "precio": {
+        "bestPrice": "$13.450",
+        "precioPorSku js-PUM": "Unidad a $13.450,00"
+    },
+    "descripcion": "seda dental gum flossers menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016924"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

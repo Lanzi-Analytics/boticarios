@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-curaprox-curakid-ref4260-7612412426007/p",
+    "fecha_hora_scraping": "2021-06-14 09:05:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental curaprox curakid ref4260",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_curaprox_curakid_ref4260.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$16.100",
+        "precioPorSku js-PUM": "Unidad a $16.100,00"
+    },
+    "descripcion": "cepillo dental curakid 4260 curaprox",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LAMOSAN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0006985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

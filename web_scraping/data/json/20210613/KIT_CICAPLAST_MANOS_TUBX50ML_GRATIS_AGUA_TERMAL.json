@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-cicaplast-manos-tubx50ml-gratis-agua-termal-7702058922107/p",
+    "fecha_hora_scraping": "2021-06-14 09:23:40",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "KIT CICAPLAST MANOS TUBX50ML GRATIS AGUA TERMAL",
+    "nombre_imagen": "./web_scraping/data/img/KIT_CICAPLAST_MANOS_TUBX50ML_GRATIS_AGUA_TERMAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$31.850",
+        "precioPorSku js-PUM": "Unidad a $31.850,00"
+    },
+    "descripcion": "KIT CICAPLAST MANOS TUBX50ML GRATIS AGUA TERMAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01383-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

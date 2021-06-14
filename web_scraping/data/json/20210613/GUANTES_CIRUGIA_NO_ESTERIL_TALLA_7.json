@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-cirugia-no-esteril-talla-7-7707228360116/p",
+    "fecha_hora_scraping": "2021-06-14 02:15:57",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES CIRUGIA NO ESTERIL TALLA 7",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_CIRUGIA_NO_ESTERIL_TALLA_7.jpg",
+    "presentacion": "BOLSA X PAR",
+    "precio": {
+        "bestPrice": "$1.150",
+        "precioPorSku js-PUM": "Unidad a $1.150,00"
+    },
+    "descripcion": "guantes cirugia no esteril talla 7",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X PAR"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0002025-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

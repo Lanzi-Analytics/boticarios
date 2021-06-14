@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-tentazione-colombina-frutos-rojos-7702011090546/p",
+    "fecha_hora_scraping": "2021-06-14 06:22:54",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta tentazione colombina frutos rojos",
+    "nombre_imagen": "./web_scraping/data/img/paleta_tentazione_colombina_frutos_rojos.jpg",
+    "presentacion": "UNIDAD X 78 G",
+    "precio": {
+        "bestPrice": "$3.650",
+        "precioPorSku js-PUM": "Gramo a $46,79"
+    },
+    "descripcion": "paleta tentazione colombina frutos rojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 78 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD02M27293"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

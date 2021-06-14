@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-con-ajonjoli-manitoba-7702409000423/p",
+    "fecha_hora_scraping": "2021-06-14 00:35:24",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "man\u00ed con ajonjol\u00ed manitoba",
+    "nombre_imagen": "./web_scraping/data/img/man\u00ed_con_ajonjol\u00ed_manitoba.jpg",
+    "presentacion": "PAQUETE X 50 G",
+    "precio": {
+        "PrevPrice": "Antes:$1.800",
+        "bestPrice": "$1.440",
+        "precioPorSku js-PUM": "Gramo a $28,80"
+    },
+    "descripcion": "man\u00ed con ajonjol\u00ed manitoba",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MANITOBA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

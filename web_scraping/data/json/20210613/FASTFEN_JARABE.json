@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707355052236fastfen-jarabemedicamentosformuladossiegfried-7707355052236/p",
+    "fecha_hora_scraping": "2021-06-14 08:22:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FASTFEN JARABE",
+    "nombre_imagen": "./web_scraping/data/img/FASTFEN_JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$55.250",
+        "precioPorSku js-PUM": "Mililitro a $460,42"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "65 MG/ML 7.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN TRAMADOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004424-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

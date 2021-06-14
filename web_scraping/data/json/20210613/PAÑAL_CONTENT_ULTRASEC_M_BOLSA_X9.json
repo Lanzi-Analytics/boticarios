@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-content-ultrasec-m-bolsa-x9-7701021112361/p",
+    "fecha_hora_scraping": "2021-06-14 02:35:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1AL CONTENT ULTRASEC M BOLSA X9",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_CONTENT_ULTRASEC_M_BOLSA_X9.jpg",
+    "presentacion": "BOLSA X 9UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.500,00"
+    },
+    "descripcion": "PA\u00d1AL CONTENT ULTRASEC M BOLSA X9",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 9UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05905-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

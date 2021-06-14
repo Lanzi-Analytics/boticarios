@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lincomicina-300mg1ml-solucion-inyectable-vitalis-7707236120078/p",
+    "fecha_hora_scraping": "2021-06-14 01:14:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LINCOMICINA 300MG/1ML SOLUCI\u00d3N INYECTABLE VITALIS",
+    "nombre_imagen": "./web_scraping/data/img/LINCOMICINA_300MG1ML_SOLUCI\u00d3N_INYECTABLE_VITALIS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$3.000",
+        "precioPorSku js-PUM": "Mililitro a $3.000,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "300 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LINCOMICINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2008M-011523-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

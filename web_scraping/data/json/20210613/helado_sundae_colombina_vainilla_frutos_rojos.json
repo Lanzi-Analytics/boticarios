@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-sundae-colombina-vainilla-frutos-rojos-7702149093075/p",
+    "fecha_hora_scraping": "2021-06-13 23:53:31",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado sundae colombina vainilla frutos rojos",
+    "nombre_imagen": "./web_scraping/data/img/helado_sundae_colombina_vainilla_frutos_rojos.jpg",
+    "presentacion": "VASO X 90 G",
+    "precio": {
+        "bestPrice": "$2.650",
+        "precioPorSku js-PUM": "Gramo a $29,44"
+    },
+    "descripcion": "helado sundae colombina vainilla frutos rojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "VASO X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA001086-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

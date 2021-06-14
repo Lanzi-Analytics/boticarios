@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calcimed-complex-capsula-blanda-7703234103877/p",
+    "fecha_hora_scraping": "2021-06-14 08:09:36",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CALCIMED COMPLEX CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/CALCIMED_COMPLEX_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $1.363,33"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003549"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

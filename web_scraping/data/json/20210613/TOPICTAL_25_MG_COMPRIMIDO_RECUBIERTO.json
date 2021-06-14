@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/topictal-25-mg-comprimido-recubierto-7730979091312/p",
+    "fecha_hora_scraping": "2021-06-14 01:20:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TOPICTAL 25 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/TOPICTAL_25_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$12.250",
+        "precioPorSku js-PUM": "Tableta a $437,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "TOPIRAMATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0010037"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

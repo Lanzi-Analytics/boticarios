@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/varteral-nf-160mg5mg-capsula-blanda-7703153022624/p",
+    "fecha_hora_scraping": "2021-06-14 05:56:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VARTERAL NF 160MG/5MG C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/VARTERAL_NF_160MG5MG_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 14 CAP",
+    "precio": {
+        "bestPrice": "$70.900",
+        "precioPorSku js-PUM": "Capsula a $5.064,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 CAP"
+        ],
+        [
+            "Concentracion",
+            "160 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN AMLODIPINO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008460"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-carbon-mascarilla-peel-off-gel-7798140259459/p",
+    "fecha_hora_scraping": "2021-06-14 08:59:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ASEPXIA MASCARILLA CARB\u00d3N 30 G",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_MASCARILLA_CARB\u00d3N_30_G.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $481,67"
+    },
+    "descripcion": "ASEPXIA CARB\u00d3N MASCARILLA PEEL OFF GEL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93938-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladerm-quemacure-emulsion-7707210530978/p",
+    "fecha_hora_scraping": "2021-06-14 07:03:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADERM QUEMACURE EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/CALADERM_QUEMACURE_EMULSION.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$27.200",
+        "precioPorSku js-PUM": "Gramo a $453,33"
+    },
+    "descripcion": "caladerm quemacure emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82561-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

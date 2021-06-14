@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aciclovir-5--crema-topica-la-sante-7703763993970/p",
+    "fecha_hora_scraping": "2021-06-14 05:24:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACICLOVIR 5 % CREMA TOPICA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/ACICLOVIR_5__CREMA_TOPICA_LA_SANTE.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$13.000",
+        "precioPorSku js-PUM": "Gramo a $650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "5 G"
+        ],
+        [
+            "Principio activo",
+            "ACICLOVIR"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011342-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

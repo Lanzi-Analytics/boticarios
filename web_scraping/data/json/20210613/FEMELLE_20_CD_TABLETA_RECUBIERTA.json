@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/femelle-20-cd-tableta-recubierta-7707189521243/p",
+    "fecha_hora_scraping": "2021-06-14 01:07:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEMELLE 20 CD TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FEMELLE_20_CD_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$24.400",
+        "precioPorSku js-PUM": "Tableta a $871,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "3 MG 0,02 MG"
+        ],
+        [
+            "Principio activo",
+            "DROSPIRENONA ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0008489-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

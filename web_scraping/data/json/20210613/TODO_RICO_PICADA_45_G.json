@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/todo-rico-picada-45-g-7702152110462/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:32",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "TODO RICO PICADA 45 G",
+    "nombre_imagen": "./web_scraping/data/img/TODO_RICO_PICADA_45_G.jpg",
+    "presentacion": "PAQUETE X 45 G",
+    "precio": {
+        "bestPrice": "$1.800",
+        "precioPorSku js-PUM": "Gramo a $40,00"
+    },
+    "descripcion": "TODO RICO PICADA 45 G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 45 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD10I13101"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

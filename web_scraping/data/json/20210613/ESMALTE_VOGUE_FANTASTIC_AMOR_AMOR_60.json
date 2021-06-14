@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esmalte-vogue-fantastic-amor-amor-60-7702433290104/p",
+    "fecha_hora_scraping": "2021-06-14 04:25:25",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|u\u00f1as",
+    "titulo": "ESMALTE VOGUE FANTASTIC AMOR AMOR 60",
+    "nombre_imagen": "./web_scraping/data/img/ESMALTE_VOGUE_FANTASTIC_AMOR_AMOR_60.jpg",
+    "presentacion": "UNIDAD X 10 ML",
+    "precio": {
+        "bestPrice": "$3.450",
+        "precioPorSku js-PUM": "Mililitro a $345,00"
+    },
+    "descripcion": "esmalte vogue fantastic amor amor 60",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC2047-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

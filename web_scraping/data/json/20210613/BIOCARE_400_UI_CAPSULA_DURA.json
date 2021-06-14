@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biocar-e-400-ui-capsula-dura-7703546024433/p",
+    "fecha_hora_scraping": "2021-06-14 01:11:14",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "BIOCAR-E 400 UI CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/BIOCARE_400_UI_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$37.100",
+        "precioPorSku js-PUM": "Capsula a $1.236,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 UI"
+        ],
+        [
+            "Principio activo",
+            "DL-ALFATOCOFERIL ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010875"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/novalgina-500-mg-tableta-7501165010444/p",
+    "fecha_hora_scraping": "2021-06-14 01:33:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NOVALGINA 500 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/NOVALGINA_500_MG_TABLETA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$13.170",
+        "precioPorSku js-PUM": "Tableta a $1.317,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "DIPIRONA"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-001717-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clobetasol-propionato-005--crema-tecnoquimicas-7702057061319/p",
+    "fecha_hora_scraping": "2021-06-14 05:11:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLOBETASOL PROPIONATO 0.05 % CREMA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CLOBETASOL_PROPIONATO_005__CREMA_TECNOQUIMICAS.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$16.750",
+        "precioPorSku js-PUM": "Gramo a $558,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOBETASOL PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011205-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

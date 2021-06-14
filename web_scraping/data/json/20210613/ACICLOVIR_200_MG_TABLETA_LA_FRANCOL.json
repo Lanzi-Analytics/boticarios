@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aciclovir-200-mg-tableta-la-francol-7706569000712/p",
+    "fecha_hora_scraping": "2021-06-14 04:22:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACICLOVIR 200 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/ACICLOVIR_200_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$4.150",
+        "precioPorSku js-PUM": "Tableta a $415,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "ACICLOVIR"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-14314-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

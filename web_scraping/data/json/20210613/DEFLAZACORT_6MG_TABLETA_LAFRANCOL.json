@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/deflazacort-6mg-tableta-lafrancol-7706569021366/p",
+    "fecha_hora_scraping": "2021-06-14 00:10:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEFLAZACORT 6MG TABLETA LAFRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/DEFLAZACORT_6MG_TABLETA_LAFRANCOL.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$5.850",
+        "precioPorSku js-PUM": "Tableta a $585,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "6 MG"
+        ],
+        [
+            "Principio activo",
+            "DEFLAZACORT"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007499"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

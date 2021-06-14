@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-alercet-10mg-capsula-blanda-pague-1un-lleve-2und-7703153037529/p",
+    "fecha_hora_scraping": "2021-06-14 03:43:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OFERTA ALERCET 10MG C\u00c1PSULA BLANDA PAGUE: 1UN LLEVE: 2UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ALERCET_10MG_C\u00c1PSULA_BLANDA_PAGUE_1UN_LLEVE_2UND.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$73.650",
+        "bestPrice": "$66.285",
+        "precioPorSku js-PUM": "Capsula a $6.628,50"
+    },
+    "descripcion": "oferta alercet 10mg c\u00e1psula blanda pague: 1un lleve: 2und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002663-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

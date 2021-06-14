@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/a-derma-dermalobour-crema-reparadora-3282770014105/p",
+    "fecha_hora_scraping": "2021-06-14 00:55:46",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "A-DERMA DERMALOBOUR CREMA REPARADORA",
+    "nombre_imagen": "./web_scraping/data/img/ADERMA_DERMALOBOUR_CREMA_REPARADORA.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$38.550",
+        "precioPorSku js-PUM": "Mililitro a $771,00"
+    },
+    "descripcion": "a-derma dermalobour crema reparadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69280-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

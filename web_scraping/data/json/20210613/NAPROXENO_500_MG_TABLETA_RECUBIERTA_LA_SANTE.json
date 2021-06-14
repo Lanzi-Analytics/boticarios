@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/naproxeno-500-mg-tableta-recubierta-la-sante-7703763410620/p",
+    "fecha_hora_scraping": "2021-06-14 09:52:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NAPROXENO 500 MG TABLETA RECUBIERTA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/NAPROXENO_500_MG_TABLETA_RECUBIERTA_LA_SANTE.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$7.400",
+        "precioPorSku js-PUM": "Capsula a $740,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "NAPROXENO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-000323-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

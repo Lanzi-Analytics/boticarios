@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/isbela-20-mg0035-mg-tableta-recubierta-7703153025571/p",
+    "fecha_hora_scraping": "2021-06-14 05:50:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ISBELA 2.0 MG/0.035 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ISBELA_20_MG0035_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$54.450",
+        "precioPorSku js-PUM": "Tableta a $2.592,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0,035 MG"
+        ],
+        [
+            "Principio activo",
+            "CIPROTERONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0009417-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

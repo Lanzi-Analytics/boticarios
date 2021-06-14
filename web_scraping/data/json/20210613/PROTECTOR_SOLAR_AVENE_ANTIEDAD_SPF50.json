@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-avene-antiedad-spf50-3282770072655/p",
+    "fecha_hora_scraping": "2021-06-14 02:44:08",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR AVENE ANTIEDAD SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_AVENE_ANTIEDAD_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "PrevPrice": "Antes:$106.450",
+        "bestPrice": "$85.160",
+        "precioPorSku js-PUM": "Mililitro a $1.703,20"
+    },
+    "descripcion": "protector solar avene antiedad spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77770-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

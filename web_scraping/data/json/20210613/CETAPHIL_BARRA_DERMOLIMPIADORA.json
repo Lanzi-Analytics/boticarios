@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-barra-dermolimpiadora-302993923046/p",
+    "fecha_hora_scraping": "2021-06-14 00:16:49",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CETAPHIL BARRA DERMOLIMPIADORA",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_BARRA_DERMOLIMPIADORA.jpg",
+    "presentacion": "BARRA X 127 G",
+    "precio": {
+        "bestPrice": "$34.950",
+        "precioPorSku js-PUM": "Gramo a $275,20"
+    },
+    "descripcion": "cetaphil barra dermolimpiadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 127 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ALIZAPRIDA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41638-93CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

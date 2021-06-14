@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-saborizada-h2oh-limonata-7702090044577/p",
+    "fecha_hora_scraping": "2021-06-14 04:23:08",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "agua saborizada h2oh! limonata",
+    "nombre_imagen": "./web_scraping/data/img/agua_saborizada_h2oh_limonata.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$2.700",
+        "precioPorSku js-PUM": "Mililitro a $4,50"
+    },
+    "descripcion": "agua saborizada h2oh! limonata",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004042-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-velvet-foil-sombra-crema-golden-vibe-309970036317/p",
+    "fecha_hora_scraping": "2021-06-14 06:06:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL VELVET FOIL sombra crema Golden Vibe",
+    "nombre_imagen": "./web_scraping/data/img/AL_VELVET_FOIL_sombra_crema_Golden_Vibe.jpg",
+    "presentacion": "TUBO X 11 ML",
+    "precio": {
+        "bestPrice": "$34.250",
+        "precioPorSku js-PUM": "Mililitro a $3.215,96"
+    },
+    "descripcion": "al velvet foil sombra crema golden vibe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 11 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91337-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

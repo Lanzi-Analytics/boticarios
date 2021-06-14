@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/novadrox-od-1-g-tableta-de-liberacion-prolongada-7704039110497/p",
+    "fecha_hora_scraping": "2021-06-14 00:21:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NOVADROX OD 1 G TABLETA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/NOVADROX_OD_1_G_TABLETA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 5 TAB",
+    "precio": {
+        "bestPrice": "$100.050",
+        "precioPorSku js-PUM": "Tableta a $20.010,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 G"
+        ],
+        [
+            "Principio activo",
+            "CEFADROXILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LEGRAND SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0007704"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

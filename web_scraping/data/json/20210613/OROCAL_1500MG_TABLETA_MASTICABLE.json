@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/orocal-1500mg-tableta-masticable-7703038020097/p",
+    "fecha_hora_scraping": "2021-06-14 00:39:38",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OROCAL 1500MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/OROCAL_1500MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$15.500",
+        "precioPorSku js-PUM": "Tableta a $516,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO LAPROFF SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013166-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

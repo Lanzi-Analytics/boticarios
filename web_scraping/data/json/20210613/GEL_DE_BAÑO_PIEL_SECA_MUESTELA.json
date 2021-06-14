@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-de-bano-piel-seca-muestela-3504105028619/p",
+    "fecha_hora_scraping": "2021-06-14 00:44:29",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "GEL DE BA\u00d1O PIEL SECA MUESTELA",
+    "nombre_imagen": "./web_scraping/data/img/GEL_DE_BA\u00d1O_PIEL_SECA_MUESTELA.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $193,50"
+    },
+    "descripcion": "gel de ba\u00f1o piel seca muestela",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "GLICLAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC74224-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

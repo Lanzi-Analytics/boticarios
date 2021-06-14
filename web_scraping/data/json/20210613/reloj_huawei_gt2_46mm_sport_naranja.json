@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/reloj-huawei-gt2-46mm-sport-naranja-6901443320523/p",
+    "fecha_hora_scraping": "2021-06-14 05:30:26",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "reloj huawei gt2 (46mm) sport naranja",
+    "nombre_imagen": "./web_scraping/data/img/reloj_huawei_gt2_46mm_sport_naranja.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$699.900",
+        "bestPrice": "$524.925",
+        "precioPorSku js-PUM": "Unidad a $524.925"
+    },
+    "descripcion": "reloj huawei gt2 (46mm) sport naranja",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA DE COMERCIO SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

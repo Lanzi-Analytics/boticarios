@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/winadeine-f-325-mg30-mg-tableta-7706263004214/p",
+    "fecha_hora_scraping": "2021-06-14 00:53:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "WINADEINE F 325 MG/30 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/WINADEINE_F_325_MG30_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$44.100",
+        "precioPorSku js-PUM": "Tableta a $4.410,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 30 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CODEINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-002615-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

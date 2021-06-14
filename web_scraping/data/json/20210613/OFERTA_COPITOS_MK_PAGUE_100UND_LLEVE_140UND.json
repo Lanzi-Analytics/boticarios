@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-copitos-mk-pague-100und-lleve-140und-7702057644383/p",
+    "fecha_hora_scraping": "2021-06-14 02:03:26",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA COPITOS MK PAGUE: 100UND LLEVE: 140UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_COPITOS_MK_PAGUE_100UND_LLEVE_140UND.jpg",
+    "presentacion": "CAJA X 140 UN",
+    "precio": {
+        "bestPrice": "$9.050",
+        "precioPorSku js-PUM": "Unidad a $90,50"
+    },
+    "descripcion": "oferta copitos mk pague: 100und lleve: 140und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 140 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0006807"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

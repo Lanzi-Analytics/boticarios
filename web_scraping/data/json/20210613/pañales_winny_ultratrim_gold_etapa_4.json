@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-winny-ultratrim-gold-etapa-4-7701021147974/p",
+    "fecha_hora_scraping": "2021-06-14 04:30:33",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1ales winny ultratrim gold etapa 4",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_winny_ultratrim_gold_etapa_4.jpg",
+    "presentacion": "PAQUETE X 22 UN",
+    "precio": {
+        "bestPrice": "$23.800",
+        "precioPorSku js-PUM": "Unidad a $1.081,82"
+    },
+    "descripcion": "panal winny ultratrim gold et.4 x22 un",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 22 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

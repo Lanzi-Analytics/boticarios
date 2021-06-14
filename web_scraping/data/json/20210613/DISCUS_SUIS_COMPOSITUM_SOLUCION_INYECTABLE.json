@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/discus-suis-compositum-solucion-inyectable-7707336722073/p",
+    "fecha_hora_scraping": "2021-06-14 06:05:01",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "DISCUS SUIS COMPOSITUM SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/DISCUS_SUIS_COMPOSITUM_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "CAJA X 5UN",
+    "precio": {
+        "bestPrice": "$108.150",
+        "precioPorSku js-PUM": "Unidad a $21.630,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2013-0002045"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

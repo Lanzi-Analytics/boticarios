@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-umbrella-base-compacta-beige-obsequio-umbrella-x-5g-7703281003519/p",
+    "fecha_hora_scraping": "2021-06-14 03:20:07",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "OFERTA UMBRELLA BASE COMPACTA BEIGE OBSEQUIO UMBRELLA X 5G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_UMBRELLA_BASE_COMPACTA_BEIGE_OBSEQUIO_UMBRELLA_X_5G.jpg",
+    "presentacion": "CAJA X 11 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $9.263,64"
+    },
+    "descripcion": "oferta umbrella base compacta beige obse",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 11 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52704-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

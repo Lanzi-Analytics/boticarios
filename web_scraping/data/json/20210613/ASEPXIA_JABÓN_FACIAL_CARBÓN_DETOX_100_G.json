@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-jabon-carbon-detox-650240035401/p",
+    "fecha_hora_scraping": "2021-06-14 00:30:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "ASEPXIA JAB\u00d3N FACIAL CARB\u00d3N DETOX 100 G",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_JAB\u00d3N_FACIAL_CARB\u00d3N_DETOX_100_G.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Gramo a $96,50"
+    },
+    "descripcion": "ayuda a combatir las imperfecciones de la piel. recomendado para piel mixta.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79338-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

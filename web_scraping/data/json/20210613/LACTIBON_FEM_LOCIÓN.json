@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lactibon-fem-locion-7703281000365/p",
+    "fecha_hora_scraping": "2021-06-14 02:31:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "LACTIBON FEM LOCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/LACTIBON_FEM_LOCI\u00d3N.jpg",
+    "presentacion": "FCO X 240 ML",
+    "precio": {
+        "bestPrice": "$39.350",
+        "precioPorSku js-PUM": "Mililitro a $163,96"
+    },
+    "descripcion": "lactibon fem loci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "AGOMELATINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC34743-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

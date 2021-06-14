@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/onbrize-breezhaler-150-mcg-polvo-para-inhalacion-7612797273838/p",
+    "fecha_hora_scraping": "2021-06-14 04:57:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ONBRIZE BREEZHALER 150 MCG POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/ONBRIZE_BREEZHALER_150_MCG_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$84.850",
+        "precioPorSku js-PUM": "Capsula a $2.828,33"
+    },
+    "descripcion": "ONBRIZE BREEZHALER 150 MCG POLVO PARA INHALACION",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "INDACATEROL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0011725-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

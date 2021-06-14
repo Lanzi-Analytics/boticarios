@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-gum-daily-clean-70942003209/p",
+    "fecha_hora_scraping": "2021-06-14 01:38:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL GUM DAILY CLEAN",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_GUM_DAILY_CLEAN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$17.100",
+        "precioPorSku js-PUM": "Unidad a $17.100,00"
+    },
+    "descripcion": "cepillo dental gum daily clean",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

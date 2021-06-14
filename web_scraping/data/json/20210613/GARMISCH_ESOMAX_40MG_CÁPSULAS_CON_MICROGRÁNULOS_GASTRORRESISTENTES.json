@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/garmisch-esomax-40mg-capsulas-con-microgranulos-gastrorresistentes-7460536564118/p",
+    "fecha_hora_scraping": "2021-06-14 03:21:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GARMISCH ESOMAX 40MG C\u00c1PSULAS CON MICROGR\u00c1NULOS GASTRORRESISTENTES",
+    "nombre_imagen": "./web_scraping/data/img/GARMISCH_ESOMAX_40MG_C\u00c1PSULAS_CON_MICROGR\u00c1NULOS_GASTRORRESISTENTES.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$95.800",
+        "precioPorSku js-PUM": "Capsula a $3.421,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "ESOMEPRAZOL MAGNESIO TRIHID"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009801"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

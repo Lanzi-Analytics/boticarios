@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oximetazolina-clorhidrato-0050--solucion-nasal-la-sante-7703763334018/p",
+    "fecha_hora_scraping": "2021-06-14 00:34:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OXIMETAZOLINA CLORHIDRATO 0.050 % SOLUCION NASAL LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/OXIMETAZOLINA_CLORHIDRATO_0050__SOLUCION_NASAL_LA_SANTE.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$10.700",
+        "precioPorSku js-PUM": "Mililitro a $713,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "0.05 %"
+        ],
+        [
+            "Principio activo",
+            "OXIMETAZOLINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005627-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-cicalfate-crema-de-manos-3282779416139/p",
+    "fecha_hora_scraping": "2021-06-14 08:58:11",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE CICALFATE CREMA DE MANOS",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_CICALFATE_CREMA_DE_MANOS.jpg",
+    "presentacion": "UNIDAD X 100 ML",
+    "precio": {
+        "bestPrice": "$58.109",
+        "precioPorSku js-PUM": "Mililitro a $581,09"
+    },
+    "descripcion": "avene cicalfate crema de manos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92524-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

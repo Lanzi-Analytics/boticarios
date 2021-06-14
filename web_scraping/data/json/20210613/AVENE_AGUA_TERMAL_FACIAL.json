@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-agua-termal-facial-3282779035576/p",
+    "fecha_hora_scraping": "2021-06-14 05:42:59",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE AGUA TERMAL FACIAL",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_AGUA_TERMAL_FACIAL.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$33.900",
+        "precioPorSku js-PUM": "Mililitro a $678,00"
+    },
+    "descripcion": "avene agua termal facial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC15706-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

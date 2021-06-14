@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-pro-medio-compact-3014260846725/p",
+    "fecha_hora_scraping": "2021-06-14 03:50:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental pro medio compact ondulado",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_pro_medio_compact_ondulado.jpg",
+    "presentacion": "PAQUETE X 1 UN",
+    "precio": {
+        "bestPrice": "$1.850",
+        "precioPorSku js-PUM": "Unidad a $1.850,00"
+    },
+    "descripcion": "cepillo dent pro medio comp ondulado 4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

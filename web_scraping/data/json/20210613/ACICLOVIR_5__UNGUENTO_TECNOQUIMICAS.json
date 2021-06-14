@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aciclovir-5--unguento-tecnoquimicas-7702057070007/p",
+    "fecha_hora_scraping": "2021-06-14 03:47:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACICLOVIR 5 % UNGUENTO TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/ACICLOVIR_5__UNGUENTO_TECNOQUIMICAS.jpg",
+    "presentacion": "TUBO X 10 G",
+    "precio": {
+        "bestPrice": "$7.600",
+        "precioPorSku js-PUM": "Gramo a $760,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 G"
+        ],
+        [
+            "Concentracion",
+            "5 G"
+        ],
+        [
+            "Principio activo",
+            "ACICLOVIR"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-014551-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

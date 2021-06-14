@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sundown-spf60-mas-economico-7702031963578/p",
+    "fecha_hora_scraping": "2021-06-14 00:21:23",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR SUNDOWN SPF60+ M\u00c1S ECONOMICO",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_SUNDOWN_SPF60_M\u00c1S_ECONOMICO.jpg",
+    "presentacion": "ENVASE X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$32.700",
+        "bestPrice": "$26.160",
+        "precioPorSku js-PUM": "Mililitro a $218,00"
+    },
+    "descripcion": "bloqueador solar sundown spf60 precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC05961-93CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

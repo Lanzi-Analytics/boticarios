@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-nosotras-buenas-noches-invisible-7702027041587/p",
+    "fecha_hora_scraping": "2021-06-14 04:21:38",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas nosotras buenas noches invisible",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_nosotras_buenas_noches_invisible.jpg",
+    "presentacion": "BOLSA X 10 UN",
+    "precio": {
+        "bestPrice": "$12.250",
+        "precioPorSku js-PUM": "Unidad a $1.225,00"
+    },
+    "descripcion": "toalla hig nosot b noches inv rap x10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

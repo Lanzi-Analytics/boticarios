@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toalliitas-desmaquilladoras-neutrogena-makeup-remover-70501051054/p",
+    "fecha_hora_scraping": "2021-06-14 02:25:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "toalliitas desmaquilladoras neutrogena makeup remover",
+    "nombre_imagen": "./web_scraping/data/img/toalliitas_desmaquilladoras_neutrogena_makeup_remover.jpg",
+    "presentacion": "PAQUETE X 25 UN",
+    "precio": {
+        "bestPrice": "$27.050",
+        "precioPorSku js-PUM": "Unidad a $1.082,00"
+    },
+    "descripcion": "toalliitas desmaq johnson neu make-up",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSE-29177-C-P"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

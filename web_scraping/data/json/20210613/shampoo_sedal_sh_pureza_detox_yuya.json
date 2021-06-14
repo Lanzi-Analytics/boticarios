@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-sedal-sh-pureza-detox-yuya-7506306205079/p",
+    "fecha_hora_scraping": "2021-06-14 01:02:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo sedal sh pureza detox yuya",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_sedal_sh_pureza_detox_yuya.jpg",
+    "presentacion": "ENVASE X 340 ML",
+    "precio": {
+        "bestPrice": "$9.050",
+        "precioPorSku js-PUM": "Mililitro a $26,62"
+    },
+    "descripcion": "sedal sh pureza detox yuya 12x340ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 340 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

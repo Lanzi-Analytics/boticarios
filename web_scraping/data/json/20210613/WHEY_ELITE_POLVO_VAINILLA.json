@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/whey-elite-polvo-vainilla-814465012115/p",
+    "fecha_hora_scraping": "2021-06-14 00:12:35",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "WHEY ELITE POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/WHEY_ELITE_POLVO_VAINILLA.jpg",
+    "presentacion": "CAJA X 2270G",
+    "precio": {
+        "bestPrice": "$200.200",
+        "precioPorSku js-PUM": "Gramo a $88,19"
+    },
+    "descripcion": "whey elite polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2270G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I90115"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

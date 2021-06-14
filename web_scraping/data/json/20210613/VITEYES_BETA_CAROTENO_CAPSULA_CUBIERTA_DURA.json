@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/882966001525viteyes-beta-caroteno-capsula-cubierta-duranutricion-y-vida-saludablesuplementospharmalab-882966001525/p",
+    "fecha_hora_scraping": "2021-06-13 23:41:00",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "VITEYES BETA CAROTENO CAPSULA CUBIERTA DURA",
+    "nombre_imagen": "./web_scraping/data/img/VITEYES_BETA_CAROTENO_CAPSULA_CUBIERTA_DURA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $1.645,83"
+    },
+    "descripcion": "viteyes beta caroteno capsula cubierta dura",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMALAB PHL LABORATORIOS SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004374"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-colombina-coffee-delight-7702011113566/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:01",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta colombina coffee delight",
+    "nombre_imagen": "./web_scraping/data/img/paleta_colombina_coffee_delight.jpg",
+    "presentacion": "UNIDAD X 60 G",
+    "precio": {
+        "bestPrice": "$2.200",
+        "precioPorSku js-PUM": "Gramo a $36,67"
+    },
+    "descripcion": "paleta colombina coffee delight",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 60 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD02M27293"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

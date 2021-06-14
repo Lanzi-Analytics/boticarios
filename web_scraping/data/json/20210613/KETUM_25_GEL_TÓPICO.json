@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ketum-25-gel-topico-7708548830518/p",
+    "fecha_hora_scraping": "2021-06-14 05:14:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KETUM 2.5% GEL T\u00d3PICO",
+    "nombre_imagen": "./web_scraping/data/img/KETUM_25_GEL_T\u00d3PICO.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$36.050",
+        "precioPorSku js-PUM": "Gramo a $1.201,67"
+    },
+    "descripcion": "ketum 2.5% gel t\u00f3pico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "25 MG/G"
+        ],
+        [
+            "Principio activo",
+            "KETOPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "A MENARINI LATIN AMERICA S L U SUCU"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010124-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

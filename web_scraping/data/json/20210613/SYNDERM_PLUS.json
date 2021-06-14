@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/synderm-plus-7707222420113/p",
+    "fecha_hora_scraping": "2021-06-14 05:08:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SYNDERM PLUS",
+    "nombre_imagen": "./web_scraping/data/img/SYNDERM_PLUS.jpg",
+    "presentacion": "FRASCO X 280 ML",
+    "precio": {
+        "bestPrice": "$55.950",
+        "precioPorSku js-PUM": "Mililitro a $199,82"
+    },
+    "descripcion": "synderm plus",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC05096-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

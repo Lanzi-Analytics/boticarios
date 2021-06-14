@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colageno-hidrolizado-1000-mg-tableta-recubierta-7703153036416/p",
+    "fecha_hora_scraping": "2021-06-14 05:58:23",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "COLAGENO HIDROLIZADO 1000 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/COLAGENO_HIDROLIZADO_1000_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 60 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$36.050",
+        "bestPrice": "$28.840",
+        "precioPorSku js-PUM": "Tableta a $480,67"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004336"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

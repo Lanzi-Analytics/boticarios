@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vita-c-100-mgml-gotas-sabor-fresa-7702057700584/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:55",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITA C 100 MG/ML GOTAS SABOR FRESA",
+    "nombre_imagen": "./web_scraping/data/img/VITA_C_100_MGML_GOTAS_SABOR_FRESA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$15.300",
+        "precioPorSku js-PUM": "Mililitro a $510,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013341-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

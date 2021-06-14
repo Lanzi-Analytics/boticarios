@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/niaciderm-gel-piel-extremadamente-seca-8470001791382/p",
+    "fecha_hora_scraping": "2021-06-14 06:22:41",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "NIACIDERM GEL PIEL EXTREMADAMENTE SECA",
+    "nombre_imagen": "./web_scraping/data/img/NIACIDERM_GEL_PIEL_EXTREMADAMENTE_SECA.jpg",
+    "presentacion": "TUBO X 200 ML",
+    "precio": {
+        "bestPrice": "$78.000",
+        "precioPorSku js-PUM": "Mililitro a $390,00"
+    },
+    "descripcion": "niaciderm gel piel extremadamente seca",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85794-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

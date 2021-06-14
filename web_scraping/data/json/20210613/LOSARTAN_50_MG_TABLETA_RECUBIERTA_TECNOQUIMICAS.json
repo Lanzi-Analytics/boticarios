@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/losartan-50-mg-tableta-recubierta-tecnoquimicas-7702057214777/p",
+    "fecha_hora_scraping": "2021-06-14 05:56:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LOSARTAN 50 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LOSARTAN_50_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 15 TAB",
+    "precio": {
+        "bestPrice": "$9.150",
+        "precioPorSku js-PUM": "Tableta a $610,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN POTASICO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010251R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

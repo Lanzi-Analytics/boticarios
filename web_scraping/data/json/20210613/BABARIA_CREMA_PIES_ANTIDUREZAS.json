@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-crema-pies-antidurezas-8410412024884/p",
+    "fecha_hora_scraping": "2021-06-14 01:14:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BABARIA CREMA PIES ANTIDUREZAS",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_CREMA_PIES_ANTIDUREZAS.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$13.100",
+        "precioPorSku js-PUM": "Mililitro a $262,00"
+    },
+    "descripcion": "babaria crema pies antidurezas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69906-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

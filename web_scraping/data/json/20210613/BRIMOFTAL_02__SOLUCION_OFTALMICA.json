@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/brimoftal-02--solucion-oftalmica-7702057061043/p",
+    "fecha_hora_scraping": "2021-06-14 05:31:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BRIMOFTAL 0.2 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/BRIMOFTAL_02__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$21.050",
+        "precioPorSku js-PUM": "Mililitro a $4.210,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BRIMONIDINA TARTRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0013147-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

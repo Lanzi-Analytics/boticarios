@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lipomega-20-mg-capsula-blanda-7703153036034/p",
+    "fecha_hora_scraping": "2021-06-14 04:25:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LIPOMEGA 20 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/LIPOMEGA_20_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 60 CAP",
+    "precio": {
+        "bestPrice": "$276.600",
+        "precioPorSku js-PUM": "Capsula a $4.610,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG 840 MG"
+        ],
+        [
+            "Principio activo",
+            "OMEGA 3 ACIDOS ATORVASTATINA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0016009-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

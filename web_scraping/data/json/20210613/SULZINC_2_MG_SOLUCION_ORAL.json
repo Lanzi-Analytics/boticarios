@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulzinc-2-mg-solucion-oral-7707288822326/p",
+    "fecha_hora_scraping": "2021-06-14 04:49:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SULZINC 2 MG SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/SULZINC_2_MG_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 80 ML",
+    "precio": {
+        "bestPrice": "$13.800",
+        "precioPorSku js-PUM": "Mililitro a $172,50"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ZINC SULFATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0010287"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

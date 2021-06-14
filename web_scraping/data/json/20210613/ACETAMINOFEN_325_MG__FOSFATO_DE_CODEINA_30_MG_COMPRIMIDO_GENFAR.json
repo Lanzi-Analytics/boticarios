@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acetaminofen-325-mg--fosfato-de-codeina-30-mg-comprimido-genfar-7705959884413/p",
+    "fecha_hora_scraping": "2021-06-14 01:30:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACETAMINOFEN 325 MG + FOSFATO DE CODEINA 30 MG COMPRIMIDO GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/ACETAMINOFEN_325_MG__FOSFATO_DE_CODEINA_30_MG_COMPRIMIDO_GENFAR.jpg",
+    "presentacion": "CAJA X 10 COM",
+    "precio": {
+        "bestPrice": "$11.950",
+        "precioPorSku js-PUM": "Comprimido a $1.195,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 COM"
+        ],
+        [
+            "Concentracion",
+            "325 MG 30 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CODEINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-005316-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

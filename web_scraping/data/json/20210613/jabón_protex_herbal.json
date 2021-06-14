@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-protex-herbal-7702010921520/p",
+    "fecha_hora_scraping": "2021-06-13 23:59:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "jab\u00f3n protex herbal",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_protex_herbal.jpg",
+    "presentacion": "BARRA X 120 G",
+    "precio": {
+        "bestPrice": "$8.200",
+        "precioPorSku js-PUM": "Gramo a $69,58"
+    },
+    "descripcion": "jabon protex herbal 3x120g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 120 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73187-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

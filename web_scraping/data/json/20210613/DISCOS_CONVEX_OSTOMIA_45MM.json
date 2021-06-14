@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/discos-convex-ostomia-45mm-768455050055/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:58",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "DISCOS CONVEX OSTOMIA 45MM",
+    "nombre_imagen": "./web_scraping/data/img/DISCOS_CONVEX_OSTOMIA_45MM.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $9.570,00"
+    },
+    "descripcion": "discos convex ostomia 45mm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0000028-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

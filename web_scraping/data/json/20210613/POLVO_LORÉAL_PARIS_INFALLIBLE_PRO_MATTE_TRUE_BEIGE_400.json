@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-loreal-paris-infallible-pro-matte-true-beige-400-71249293188/p",
+    "fecha_hora_scraping": "2021-06-14 09:01:41",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO L'OR\u00c9AL PARIS INFALLIBLE PRO MATTE TRUE BEIGE 400",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_LOR\u00c9AL_PARIS_INFALLIBLE_PRO_MATTE_TRUE_BEIGE_400.jpg",
+    "presentacion": "UNIDAD X 30 ML",
+    "precio": {
+        "bestPrice": "$61.150",
+        "precioPorSku js-PUM": "Gramo a $6.794,44"
+    },
+    "descripcion": "polvo l'or\u00e9al paris infallible pro matte true beige 400",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68229-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

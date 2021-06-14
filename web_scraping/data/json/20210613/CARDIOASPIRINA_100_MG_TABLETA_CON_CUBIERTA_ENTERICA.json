@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cardioaspirina-100-mg-tableta-con-cubierta-enterica-7702123828631/p",
+    "fecha_hora_scraping": "2021-06-14 01:32:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CARDIOASPIRINA 100 MG TABLETA CON CUBIERTA ENTERICA",
+    "nombre_imagen": "./web_scraping/data/img/CARDIOASPIRINA_100_MG_TABLETA_CON_CUBIERTA_ENTERICA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$44.500",
+        "bestPrice": "$40.050",
+        "precioPorSku js-PUM": "Tableta a $1.335,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-000122-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

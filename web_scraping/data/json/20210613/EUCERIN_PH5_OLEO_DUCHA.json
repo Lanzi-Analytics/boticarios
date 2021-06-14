@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-de-ducha-eucerin-ph5-4005900000767/p",
+    "fecha_hora_scraping": "2021-06-14 06:08:02",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN PH5 OLEO DUCHA",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_PH5_OLEO_DUCHA.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$66.450",
+        "precioPorSku js-PUM": "Mililitro a $332,25"
+    },
+    "descripcion": "aceite de ducha eucerin ph5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "TELMISARTAN AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13070-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

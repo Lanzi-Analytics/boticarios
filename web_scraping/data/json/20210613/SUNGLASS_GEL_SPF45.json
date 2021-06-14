@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunglass-gel-spf45-7707183820045/p",
+    "fecha_hora_scraping": "2021-06-14 05:51:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "SUNGLASS GEL SPF45",
+    "nombre_imagen": "./web_scraping/data/img/SUNGLASS_GEL_SPF45.jpg",
+    "presentacion": "TUBO X 80 G",
+    "precio": {
+        "PrevPrice": "Antes:$76.200",
+        "bestPrice": "$57.150",
+        "precioPorSku js-PUM": "Gramo a $714,38"
+    },
+    "descripcion": "sunglass gel spf45",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 80 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC11560-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

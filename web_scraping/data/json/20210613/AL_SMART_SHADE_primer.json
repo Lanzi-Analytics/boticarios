@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-smart-shade-primer-309974116008/p",
+    "fecha_hora_scraping": "2021-06-14 07:04:10",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL SMART SHADE primer",
+    "nombre_imagen": "./web_scraping/data/img/AL_SMART_SHADE_primer.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$77.000",
+        "precioPorSku js-PUM": "Mililitro a $2.566,67"
+    },
+    "descripcion": "al smart shade primer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC47749-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

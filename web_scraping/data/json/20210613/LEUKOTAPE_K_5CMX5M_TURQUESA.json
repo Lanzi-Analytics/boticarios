@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leukotape-k-5cmx5m-turquesa-4042809390780/p",
+    "fecha_hora_scraping": "2021-06-14 07:59:09",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "LEUKOTAPE K 5CMX5M TURQUESA",
+    "nombre_imagen": "./web_scraping/data/img/LEUKOTAPE_K_5CMX5M_TURQUESA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $59.600,00"
+    },
+    "descripcion": "leukotape k 5cmx5m turquesa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0012639"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

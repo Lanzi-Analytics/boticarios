@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tofedol-1-g2-ml-solucion-inyectable-7707288825242/p",
+    "fecha_hora_scraping": "2021-06-14 03:10:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TOFEDOL 1 G/2 ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/TOFEDOL_1_G2_ML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$11.250",
+        "precioPorSku js-PUM": "Unidad a $11.250,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "1 G"
+        ],
+        [
+            "Principio activo",
+            "ETOFENAMATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016754-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

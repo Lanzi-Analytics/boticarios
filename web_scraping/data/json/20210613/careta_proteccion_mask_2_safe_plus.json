@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/careta-proteccion-mask-2-safe-plus-732535900332/p",
+    "fecha_hora_scraping": "2021-06-14 10:00:28",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "careta proteccion mask 2 safe plus",
+    "nombre_imagen": "./web_scraping/data/img/careta_proteccion_mask_2_safe_plus.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$26.300",
+        "precioPorSku js-PUM": "Unidad a $26.300,00"
+    },
+    "descripcion": "careta proteccion mask 2 safe plus bolx",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CREATING IDEAS SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

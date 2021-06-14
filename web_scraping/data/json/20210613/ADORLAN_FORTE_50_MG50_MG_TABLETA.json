@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/adorlan-forte-50-mg50-mg-tableta-7861073904335/p",
+    "fecha_hora_scraping": "2021-06-14 00:44:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ADORLAN FORTE 50 MG/50 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ADORLAN_FORTE_50_MG50_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$80.350",
+        "precioPorSku js-PUM": "Tableta a $4.017,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG 50 MG"
+        ],
+        [
+            "Principio activo",
+            "TRAMADOL CLORHIDRATO DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018389"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

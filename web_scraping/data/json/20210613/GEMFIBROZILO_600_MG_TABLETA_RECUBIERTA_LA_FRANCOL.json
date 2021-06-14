@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gemfibrozilo-600-mg-tableta-recubierta-la-francol-7706569000170/p",
+    "fecha_hora_scraping": "2021-06-14 09:49:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GEMFIBROZILO 600 MG TABLETA RECUBIERTA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/GEMFIBROZILO_600_MG_TABLETA_RECUBIERTA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$14.750",
+        "precioPorSku js-PUM": "Tableta a $737,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "GEMFIBROZILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-012863-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

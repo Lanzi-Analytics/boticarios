@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desalex-5-mg-tableta-7702502017564/p",
+    "fecha_hora_scraping": "2021-06-14 08:21:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DESALEX 5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DESALEX_5_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$181.050",
+        "precioPorSku js-PUM": "Tableta a $6.035,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "DESLORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0000720-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

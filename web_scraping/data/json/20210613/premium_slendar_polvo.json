@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/premium-slendar-polvo-19962799266/p",
+    "fecha_hora_scraping": "2021-06-14 06:01:26",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "premium slendar polvo",
+    "nombre_imagen": "./web_scraping/data/img/premium_slendar_polvo.jpg",
+    "presentacion": "TARRO X 1014 G",
+    "precio": {
+        "bestPrice": "$170.200",
+        "precioPorSku js-PUM": "Gramo a $167,85"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 1014 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004459"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

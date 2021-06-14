@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-max-factor-fle-infusion-black-3614226290328/p",
+    "fecha_hora_scraping": "2021-06-14 02:11:21",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAX FACTOR FLE INFUSION BLACK",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAX_FACTOR_FLE_INFUSION_BLACK.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $4.328,24"
+    },
+    "descripcion": "pesta\u00f1ina max factor fle infusion black",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92212-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

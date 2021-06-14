@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfamil-premium-etapa-1-7506205811098/p",
+    "fecha_hora_scraping": "2021-06-14 09:04:14",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAMIL PREMIUM ETAPA 1",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAMIL_PREMIUM_ETAPA_1.jpg",
+    "presentacion": "CAJA X 1650 G",
+    "precio": {
+        "bestPrice": "$163.400",
+        "precioPorSku js-PUM": "Gramo a $99,03"
+    },
+    "descripcion": "formula infantil enfamil premium etapa 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1650 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I17402"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

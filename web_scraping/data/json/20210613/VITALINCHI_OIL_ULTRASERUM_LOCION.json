@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitalinchi-oil-ultra-serum-locion-7709614798619/p",
+    "fecha_hora_scraping": "2021-06-14 01:18:26",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "VITALINCHI OIL ULTRA-SERUM LOCION",
+    "nombre_imagen": "./web_scraping/data/img/VITALINCHI_OIL_ULTRASERUM_LOCION.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$79.900",
+        "precioPorSku js-PUM": "Mililitro a $2.663,33"
+    },
+    "descripcion": "vitalinchi oil ultra-serum locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITALINCHI SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91804-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

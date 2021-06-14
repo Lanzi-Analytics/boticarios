@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionador-pantene-restauracion-7500435106382/p",
+    "fecha_hora_scraping": "2021-06-14 00:49:43",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "acondicionador pantene 3 minute miracle restauraci\u00f3n\u00a0 x 170 ml",
+    "nombre_imagen": "./web_scraping/data/img/acondicionador_pantene_3_minute_miracle_restauraci\u00f3n_x_170_ml.jpg",
+    "presentacion": "BOTELLA X 170 ML",
+    "precio": {
+        "bestPrice": "$20.450",
+        "precioPorSku js-PUM": "Mililitro a $120,29"
+    },
+    "descripcion": "acondicionador pantene restauraci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 170 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70223-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

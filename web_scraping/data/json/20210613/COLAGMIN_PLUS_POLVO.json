@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colagmin-plus-polvo-7706849116287/p",
+    "fecha_hora_scraping": "2021-06-14 08:09:30",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "COLAGMIN PLUS POLVO",
+    "nombre_imagen": "./web_scraping/data/img/COLAGMIN_PLUS_POLVO.jpg",
+    "presentacion": "POTE X 200 G",
+    "precio": {
+        "bestPrice": "$50.850",
+        "precioPorSku js-PUM": "Gramo a $254,25"
+    },
+    "descripcion": "colagmin plus polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FUNAT SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAA09I9112"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

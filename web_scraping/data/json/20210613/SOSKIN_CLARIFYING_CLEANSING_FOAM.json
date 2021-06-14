@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-clarifying-cleansing-foam-3760019121055/p",
+    "fecha_hora_scraping": "2021-06-14 03:04:05",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN CLARIFYING CLEANSING FOAM",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_CLARIFYING_CLEANSING_FOAM.jpg",
+    "presentacion": "TUBO X 150 ML",
+    "precio": {
+        "bestPrice": "$120.000",
+        "precioPorSku js-PUM": "Mililitro a $800,00"
+    },
+    "descripcion": "soskin clarifying cleansing foam",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69492-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

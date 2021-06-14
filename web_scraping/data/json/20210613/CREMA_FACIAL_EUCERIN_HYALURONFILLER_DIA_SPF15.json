@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-facial-eucerin-hyaluron-filler-dia-spf15-4005800014475/p",
+    "fecha_hora_scraping": "2021-06-14 03:48:04",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CREMA FACIAL EUCERIN HYALURON-FILLER DIA SPF15",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_FACIAL_EUCERIN_HYALURONFILLER_DIA_SPF15.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$154.350",
+        "precioPorSku js-PUM": "Mililitro a $3.087,00"
+    },
+    "descripcion": "crema facial eucerin hyaluron-filler dia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC47628-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

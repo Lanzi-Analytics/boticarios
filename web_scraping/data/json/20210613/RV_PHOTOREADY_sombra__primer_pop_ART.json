@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-photoready-sombra--primer-pop-art-309971188350/p",
+    "fecha_hora_scraping": "2021-06-14 01:29:12",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV PHOTOREADY sombra + primer pop ART",
+    "nombre_imagen": "./web_scraping/data/img/RV_PHOTOREADY_sombra__primer_pop_ART.jpg",
+    "presentacion": "CONTENEDOR X 3G",
+    "precio": {
+        "bestPrice": "$45.250",
+        "precioPorSku js-PUM": "Gramo a $16.160,71"
+    },
+    "descripcion": "rv photoready sombra + primer pop art",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 3G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54814-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

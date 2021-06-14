@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ultrasoft-lancetas-7613427011424/p",
+    "fecha_hora_scraping": "2021-06-14 05:27:20",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "ULTRASOFT LANCETAS",
+    "nombre_imagen": "./web_scraping/data/img/ULTRASOFT_LANCETAS.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "bestPrice": "$23.400",
+        "precioPorSku js-PUM": "Unidad a $936,00"
+    },
+    "descripcion": "ULTRASOFT LANCETAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS LANCETAS DE GLUCOMETRIA"
+        ],
+        [
+            "Laboratorio",
+            "OPERANDO MEDICOS & QUIRURGICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0009771"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

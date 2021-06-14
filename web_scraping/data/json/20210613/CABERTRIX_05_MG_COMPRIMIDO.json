@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7730979091268tecnofarmaformuladosmedicamentoscabertrix-05-mg-comprimidocabergolina-7730979091268/p",
+    "fecha_hora_scraping": "2021-06-14 06:10:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CABERTRIX 0.5 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/CABERTRIX_05_MG_COMPRIMIDO.jpg",
+    "presentacion": "FRASCO X 4 COM",
+    "precio": {
+        "bestPrice": "$34.400",
+        "precioPorSku js-PUM": "Comprimido a $8.600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 4 COM"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG"
+        ],
+        [
+            "Principio activo",
+            "CABERGOLINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0010196-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

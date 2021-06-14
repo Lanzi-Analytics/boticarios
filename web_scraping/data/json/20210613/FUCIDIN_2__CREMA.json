@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fucidin-2--crema-5702191011180/p",
+    "fecha_hora_scraping": "2021-06-13 23:14:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FUCIDIN 2 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/FUCIDIN_2__CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$73.900",
+        "precioPorSku js-PUM": "Gramo a $4.926,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "FUSIDICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-008790-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

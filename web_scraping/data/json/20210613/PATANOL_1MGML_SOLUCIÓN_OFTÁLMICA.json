@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/patanol-1mgml-solucion-oftalmica-7612797417690/p",
+    "fecha_hora_scraping": "2021-06-14 07:03:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PATANOL 1MG/ML SOLUCI\u00d3N OFT\u00c1LMICA",
+    "nombre_imagen": "./web_scraping/data/img/PATANOL_1MGML_SOLUCI\u00d3N_OFT\u00c1LMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$92.550",
+        "precioPorSku js-PUM": "Mililitro a $18.510,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "OLOPATADINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010973-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

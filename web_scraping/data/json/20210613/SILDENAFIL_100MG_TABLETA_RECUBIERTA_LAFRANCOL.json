@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sildenafil-100mg-tableta-recubierta-lafrancol-7706569020857/p",
+    "fecha_hora_scraping": "2021-06-14 02:23:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SILDENAFIL 100MG TABLETA RECUBIERTA LAFRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/SILDENAFIL_100MG_TABLETA_RECUBIERTA_LAFRANCOL.jpg",
+    "presentacion": "CAJA X 1 TAB",
+    "precio": {
+        "bestPrice": "$8.950",
+        "precioPorSku js-PUM": "Tableta a $8.950,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "SILDENAFILO CITRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0006811-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

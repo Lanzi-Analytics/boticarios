@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atorvastatina-20mg-tableta-recubierta-la-sante-7703763992980/p",
+    "fecha_hora_scraping": "2021-06-14 01:54:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ATORVASTATINA 20MG TABLETA RECUBIERTA LA SANT\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/ATORVASTATINA_20MG_TABLETA_RECUBIERTA_LA_SANT\u00c9.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$38.425",
+        "precioPorSku js-PUM": "Tableta a $1.280,83"
+    },
+    "descripcion": "ATORVASTATINA 20MG TABLETA RECUBIERTA LA SANT\u00c9",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ATORVASTATINA CALCIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000343-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

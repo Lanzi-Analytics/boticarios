@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/voltaren-retard-100mg-tableta-de-liberacion-retardada-7612797196946/p",
+    "fecha_hora_scraping": "2021-06-14 10:22:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VOLTAREN RETARD 100MG TABLETA DE LIBERACI\u00d3N RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/VOLTAREN_RETARD_100MG_TABLETA_DE_LIBERACI\u00d3N_RETARDADA.jpg",
+    "presentacion": "CAJA X 10GRG",
+    "precio": {
+        "bestPrice": "$63.400",
+        "precioPorSku js-PUM": "Gragea a $6.340,00"
+    },
+    "descripcion": "VOLTAREN RETARD 100MG TABLETA DE LIBERACI\u00d3N RETARDADA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10GRG"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-012028-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

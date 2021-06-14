@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-compacto-asepxia-bb-maquillaje-natural-mate-650240032455/p",
+    "fecha_hora_scraping": "2021-06-14 01:53:33",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "ASEPXIA MAQUILLAJE POLVO NATURAL 10 G",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_MAQUILLAJE_POLVO_NATURAL_10_G.jpg",
+    "presentacion": "CAJA X 10 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $2.985,00"
+    },
+    "descripcion": "enriquecido con mol\u00e9culas que absorben la grasa para reducir y combatir imperfecciones",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77836-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

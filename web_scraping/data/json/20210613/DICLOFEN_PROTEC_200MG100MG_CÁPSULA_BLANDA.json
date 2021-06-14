@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diclofen-protec-200mg100mg-capsula-blanda-7703153032395/p",
+    "fecha_hora_scraping": "2021-06-14 10:03:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DICLOFEN PROTEC 200MG/100MG C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/DICLOFEN_PROTEC_200MG100MG_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10CAP",
+    "precio": {
+        "bestPrice": "$17.850",
+        "precioPorSku js-PUM": "Capsula a $1.785,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO HIDROXIDO DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017632"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

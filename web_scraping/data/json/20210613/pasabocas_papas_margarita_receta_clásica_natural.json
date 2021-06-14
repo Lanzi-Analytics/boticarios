@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-papas-margarita-receta-clasica-natural-7702189051431/p",
+    "fecha_hora_scraping": "2021-06-14 05:38:08",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas papas margarita receta cl\u00e1sica natural",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_papas_margarita_receta_cl\u00e1sica_natural.jpg",
+    "presentacion": "PAQUETE X 120 G",
+    "precio": {
+        "bestPrice": "$4.600",
+        "precioPorSku js-PUM": "Gramo a $38,33"
+    },
+    "descripcion": "pasabocas papas margarita receta cl\u00e1sica natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 120 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA08I29913"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

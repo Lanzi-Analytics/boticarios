@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-gentle-make-up-remover-r-3760019120485/p",
+    "fecha_hora_scraping": "2021-06-14 00:00:29",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN GENTLE MAKE-UP REMOVER R+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_GENTLE_MAKEUP_REMOVER_R.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$39.000",
+        "precioPorSku js-PUM": "Mililitro a $390,00"
+    },
+    "descripcion": "soskin gentle make-up remover r+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75973-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

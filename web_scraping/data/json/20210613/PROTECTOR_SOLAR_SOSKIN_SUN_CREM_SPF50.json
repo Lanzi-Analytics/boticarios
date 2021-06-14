@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-soskin-sun-crem-spf50-3760019121154/p",
+    "fecha_hora_scraping": "2021-06-14 02:51:00",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR SOSKIN SUN CREM SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_SOSKIN_SUN_CREM_SPF50.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$69.900",
+        "precioPorSku js-PUM": "Mililitro a $1.398,00"
+    },
+    "descripcion": "protector solar soskin sun crem spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69705-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-capilar-neogen-tratamiento-ultra-intensivo-7707183820359/p",
+    "fecha_hora_scraping": "2021-06-14 07:55:54",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "ACEITE CAPILAR NEOGEN TRATAMIENTO ULTRA INTENSIVO",
+    "nombre_imagen": "./web_scraping/data/img/ACEITE_CAPILAR_NEOGEN_TRATAMIENTO_ULTRA_INTENSIVO.jpg",
+    "presentacion": "CAJA X 4 TUBO",
+    "precio": {
+        "PrevPrice": "Antes:$138.550",
+        "bestPrice": "$103.912",
+        "precioPorSku js-PUM": "Mililitro a $25.978,00"
+    },
+    "descripcion": "aceite capilar neogen tratamiento ultra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 TUBO"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85859-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/resvenova-capsula-7707206270413/p",
+    "fecha_hora_scraping": "2021-06-14 04:35:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "RESVENOVA CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/RESVENOVA_CAPSULA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $1.983,33"
+    },
+    "descripcion": "resvenova fcox60cap n7",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002763"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

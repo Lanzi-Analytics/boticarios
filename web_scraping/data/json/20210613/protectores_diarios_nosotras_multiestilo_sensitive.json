@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-diarios-nosotras-multiestilo-sensitive-7702026178253/p",
+    "fecha_hora_scraping": "2021-06-14 10:07:23",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores diarios nosotras multiestilo sensitive",
+    "nombre_imagen": "./web_scraping/data/img/protectores_diarios_nosotras_multiestilo_sensitive.jpg",
+    "presentacion": "EMPAQUE X 20 UN",
+    "precio": {
+        "bestPrice": "$3.750",
+        "precioPorSku js-PUM": "Unidad a $187,50"
+    },
+    "descripcion": "protectores multiestilo sensitive x20",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

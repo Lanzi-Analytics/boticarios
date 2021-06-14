@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acleria-mascarilla-limpiador-facial-gel-7703281020356/p",
+    "fecha_hora_scraping": "2021-06-14 04:18:41",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ACLERIA MASCARILLA LIMPIADOR FACIAL GEL",
+    "nombre_imagen": "./web_scraping/data/img/ACLERIA_MASCARILLA_LIMPIADOR_FACIAL_GEL.jpg",
+    "presentacion": "TUBO X 150 G",
+    "precio": {
+        "bestPrice": "$55.250",
+        "precioPorSku js-PUM": "Gramo a $368,33"
+    },
+    "descripcion": "ACLERIA MASCARILLA LIMPIADOR FACIAL GEL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00403-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

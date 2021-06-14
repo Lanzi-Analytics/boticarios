@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tinta-liquida-de-cejas-vogue-resist-de-larga-duracion-tono-caoba-7509552844009/p",
+    "fecha_hora_scraping": "2021-06-14 01:39:28",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "TINTA L\u00cdQUIDA DE CEJAS VOGUE RESIST DE LARGA DURACI\u00d3N TONO CAOBA",
+    "nombre_imagen": "./web_scraping/data/img/TINTA_L\u00cdQUIDA_DE_CEJAS_VOGUE_RESIST_DE_LARGA_DURACI\u00d3N_TONO_CAOBA.jpg",
+    "presentacion": "UNIDAD X 4 ML",
+    "precio": {
+        "bestPrice": "$13.550",
+        "precioPorSku js-PUM": "Mililitro a $3.387,50"
+    },
+    "descripcion": "tinta l\u00edquida de cejas vogue resist de larga duraci\u00f3n tono caoba",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSCO91761-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

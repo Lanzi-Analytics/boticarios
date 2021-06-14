@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toalla-desmaquillantes-bioderma-sensibio-h2o-3401528546112/p",
+    "fecha_hora_scraping": "2021-06-14 05:22:18",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "TOALLA DESMAQUILLANTES BIODERMA SENSIBIO H2O",
+    "nombre_imagen": "./web_scraping/data/img/TOALLA_DESMAQUILLANTES_BIODERMA_SENSIBIO_H2O.jpg",
+    "presentacion": "BOLSA X 25 UN",
+    "precio": {
+        "bestPrice": "$34.300",
+        "precioPorSku js-PUM": "Unidad a $1.372,00"
+    },
+    "descripcion": "toalla desmaquillantes bioderma sensibio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75990-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tratamiento-tio-nacho-anticaida-engrosador-650240035142/p",
+    "fecha_hora_scraping": "2021-06-13 23:49:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TIO NACHO TRATAMIENTO ENGROSADOR 135 ML",
+    "nombre_imagen": "./web_scraping/data/img/TIO_NACHO_TRATAMIENTO_ENGROSADOR_135_ML.jpg",
+    "presentacion": "BOTELLA X 135 ML",
+    "precio": {
+        "bestPrice": "$26.900",
+        "precioPorSku js-PUM": "Mililitro a $199,26"
+    },
+    "descripcion": "obt\u00e9n un cabello m\u00e1s fuerte, m\u00e1s grueso y con mayor volumen, gracias a su f\u00f3rmula con jalea real con el componente exclusivo capilgross y extractos de origen natural. usa el sistema completo de t\u00edo nacho engrosador para mejores resultados: tratamiento, shampoo y acondicionador.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 135 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC74136-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

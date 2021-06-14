@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinestryn-total-crema-hidratante-7703445113153/p",
+    "fecha_hora_scraping": "2021-06-14 00:13:35",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SINESTRYN TOTAL CREMA HIDRATANTE",
+    "nombre_imagen": "./web_scraping/data/img/SINESTRYN_TOTAL_CREMA_HIDRATANTE.jpg",
+    "presentacion": "FRASCO X 450 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $38,00"
+    },
+    "descripcion": "sinestryn total crema hidratante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 450 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93038-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

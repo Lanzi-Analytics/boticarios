@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampones-nosotras-digital-tamano-regular-7702027435331/p",
+    "fecha_hora_scraping": "2021-06-14 08:15:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "tampones nosotras digital tama\u00f1o regular",
+    "nombre_imagen": "./web_scraping/data/img/tampones_nosotras_digital_tama\u00f1o_regular.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$14.200",
+        "precioPorSku js-PUM": "Unidad a $710,00"
+    },
+    "descripcion": "tampon nosotras digital regular x20",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gomas-deportivas-titanium-mega-gums-manzana-7709001770709/p",
+    "fecha_hora_scraping": "2021-06-14 04:36:01",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "GOMAS DEPORTIVAS TITANIUM MEGA GUMS MANZANA",
+    "nombre_imagen": "./web_scraping/data/img/GOMAS_DEPORTIVAS_TITANIUM_MEGA_GUMS_MANZANA.jpg",
+    "presentacion": "BOLSA X 35 G",
+    "precio": {
+        "bestPrice": "$6.250",
+        "precioPorSku js-PUM": "Gramo a $178,57"
+    },
+    "descripcion": "gomas deportivas titanium mega gums manz",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 35 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALIMENTOS Y BEBIDAS VALTIK SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-005649-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-winny-sec-etapa-3-bolsax16-7701021118318/p",
+    "fecha_hora_scraping": "2021-06-14 01:24:52",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1AL WINNY SEC ETAPA 3 BOLSAx16",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_WINNY_SEC_ETAPA_3_BOLSAx16.jpg",
+    "presentacion": "BOLSA X 16UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $931,25"
+    },
+    "descripcion": "PA\u00d1AL WINNY SEC ETAPA 3 BOLSAx16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 16UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02378-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

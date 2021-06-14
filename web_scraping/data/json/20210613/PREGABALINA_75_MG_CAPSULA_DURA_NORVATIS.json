@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pregabalina-75-mg-capsula-dura-norvatis-8699516156084/p",
+    "fecha_hora_scraping": "2021-06-14 08:00:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PREGABALINA 75 MG CAPSULA DURA NORVATIS",
+    "nombre_imagen": "./web_scraping/data/img/PREGABALINA_75_MG_CAPSULA_DURA_NORVATIS.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$23.700",
+        "precioPorSku js-PUM": "Capsula a $846,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015414"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

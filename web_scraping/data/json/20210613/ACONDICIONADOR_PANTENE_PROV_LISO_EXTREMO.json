@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionador-pantene-liso-extremo-7501001165253/p",
+    "fecha_hora_scraping": "2021-06-14 03:56:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "ACONDICIONADOR PANTENE PRO-V LISO EXTREMO",
+    "nombre_imagen": "./web_scraping/data/img/ACONDICIONADOR_PANTENE_PROV_LISO_EXTREMO.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "PrevPrice": "Antes:$20.150",
+        "bestPrice": "$15.112",
+        "precioPorSku js-PUM": "Mililitro a $37,78"
+    },
+    "descripcion": "acond pantene 400 ml liso extremo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

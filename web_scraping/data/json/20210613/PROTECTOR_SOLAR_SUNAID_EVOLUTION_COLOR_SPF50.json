@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sunaid-evolution-color-spf50-7707206270604/p",
+    "fecha_hora_scraping": "2021-06-14 03:11:57",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR SUNAID EVOLUTION COLOR SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_SUNAID_EVOLUTION_COLOR_SPF50.jpg",
+    "presentacion": "FRASCO X 40 G",
+    "precio": {
+        "bestPrice": "$100.400",
+        "precioPorSku js-PUM": "Gramo a $2.510,00"
+    },
+    "descripcion": "protector solar sunaid evolution color s",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78022-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

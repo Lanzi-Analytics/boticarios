@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aranda-5mg100mg-capsula-dura-7592229003151/p",
+    "fecha_hora_scraping": "2021-06-14 09:14:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ARANDA 5MG/100MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/ARANDA_5MG100MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$278.700",
+        "precioPorSku js-PUM": "Capsula a $9.290,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "100 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN POTASICO AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007035-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

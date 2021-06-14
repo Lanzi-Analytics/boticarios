@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/umbrella-gel-spf50-7703281001454/p",
+    "fecha_hora_scraping": "2021-06-14 04:06:43",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "UMBRELLA GEL SPF50",
+    "nombre_imagen": "./web_scraping/data/img/UMBRELLA_GEL_SPF50.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$99.400",
+        "precioPorSku js-PUM": "Gramo a $1.656,67"
+    },
+    "descripcion": "umbrella gel spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "DEXTROMETORFANO BROMOHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52005-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

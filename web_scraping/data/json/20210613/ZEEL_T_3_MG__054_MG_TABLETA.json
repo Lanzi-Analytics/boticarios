@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zeel-t-3-mg--054-mg-tableta-7707336722257/p",
+    "fecha_hora_scraping": "2021-06-14 01:19:30",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "ZEEL T 3 MG / 0.54 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ZEEL_T_3_MG__054_MG_TABLETA.jpg",
+    "presentacion": "FRASCO X 50 TAB",
+    "precio": {
+        "bestPrice": "$68.450",
+        "precioPorSku js-PUM": "Tableta a $1.369,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2014-0002314"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

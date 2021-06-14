@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sombra-max-factor-lasting-color-glow-7702044260381/p",
+    "fecha_hora_scraping": "2021-06-13 23:47:38",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "SOMBRA MAX FACTOR LASTING COLOR GLOW",
+    "nombre_imagen": "./web_scraping/data/img/SOMBRA_MAX_FACTOR_LASTING_COLOR_GLOW.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $3.766,67"
+    },
+    "descripcion": "sombra max factor lasting color glow",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00179-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

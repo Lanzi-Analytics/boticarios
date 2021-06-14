@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/titanium-power-barras-frutos-amarillos-7709001770785/p",
+    "fecha_hora_scraping": "2021-06-14 08:24:31",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "TITANIUM POWER BARRAS FRUTOS AMARILLOS",
+    "nombre_imagen": "./web_scraping/data/img/TITANIUM_POWER_BARRAS_FRUTOS_AMARILLOS.jpg",
+    "presentacion": "BOLSA X 200 G",
+    "precio": {
+        "bestPrice": "$35.500",
+        "precioPorSku js-PUM": "Gramo a $177,50"
+    },
+    "descripcion": "titanium power barras frutos amarillos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALIMENTOS Y BEBIDAS VALTIK SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0008621-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

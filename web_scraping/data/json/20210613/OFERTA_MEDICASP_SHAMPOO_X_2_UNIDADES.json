@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-medicasp-2--shampoo-super-oferta-x-2-und-650240033902/p",
+    "fecha_hora_scraping": "2021-06-13 23:43:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "OFERTA MEDICASP SHAMPOO X 2 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_MEDICASP_SHAMPOO_X_2_UNIDADES.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$39.750",
+        "precioPorSku js-PUM": "Mililitro a $397,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "KETOCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016299"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

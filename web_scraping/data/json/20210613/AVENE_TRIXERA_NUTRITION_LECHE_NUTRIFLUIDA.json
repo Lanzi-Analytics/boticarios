@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-trixera-nutrition-leche-nutrifluida-3282770074734/p",
+    "fecha_hora_scraping": "2021-06-14 01:38:15",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE TRIXERA NUTRITION LECHE NUTRIFLUIDA",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_TRIXERA_NUTRITION_LECHE_NUTRIFLUIDA.jpg",
+    "presentacion": "TUBO X 200 ML",
+    "precio": {
+        "bestPrice": "$82.850",
+        "precioPorSku js-PUM": "Mililitro a $414,25"
+    },
+    "descripcion": "avene trixera nutrition leche nutrifluid",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC30608-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/azitromicina-200-mg5-ml-polvo-para-suspension-la-francol-7706569022776/p",
+    "fecha_hora_scraping": "2021-06-14 03:28:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AZITROMICINA 200 MG/5 ML POLVO PARA SUSPENSION LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/AZITROMICINA_200_MG5_ML_POLVO_PARA_SUSPENSION_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$17.800",
+        "precioPorSku js-PUM": "Mililitro a $1.186,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AZITROMICINA DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0001616-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

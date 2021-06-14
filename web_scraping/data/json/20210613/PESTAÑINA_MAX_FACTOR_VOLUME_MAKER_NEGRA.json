@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-max-factor-volume-maker-negra-7702044254328/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:06",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAX FACTOR VOLUME MAKER NEGRA",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAX_FACTOR_VOLUME_MAKER_NEGRA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$29.400",
+        "precioPorSku js-PUM": "Mililitro a $1.909,09"
+    },
+    "descripcion": "pesta\u00f1ina max factor volume maker negra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85570-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

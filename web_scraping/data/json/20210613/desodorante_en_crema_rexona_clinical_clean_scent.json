@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-en-crema-rexona-clinical-clean-scent-79400110695/p",
+    "fecha_hora_scraping": "2021-06-14 00:56:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante en crema rexona clinical clean scent",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_en_crema_rexona_clinical_clean_scent.jpg",
+    "presentacion": "UN X 48 G",
+    "precio": {
+        "bestPrice": "$20.000",
+        "precioPorSku js-PUM": "Gramo a $416,67"
+    },
+    "descripcion": "rexona fw deo soft solid c scent 12x48",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UN X 48 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/metamucil-polvo-para-suspension-oral-naranja-7506339350906/p",
-    "fecha_hora_scraping": "2021-06-13 18:04:42",
+    "url_producto": "https://www.drogueriascolsubsidio.com/metamucil-polvo-para-suspension-oral-naranja-7506339350890/p",
+    "fecha_hora_scraping": "2021-06-14 08:35:19",
     "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
     "titulo": "METAMUCIL POLVO PARA SUSPENSION ORAL NARANJA",
     "nombre_imagen": "./web_scraping/data/img/METAMUCIL_POLVO_PARA_SUSPENSION_ORAL_NARANJA.jpg",
-    "presentacion": "FRASCO X 174 G",
+    "presentacion": "CAJA X 10 SOB",
     "precio": {
-        "bestPrice": "$49.250",
-        "precioPorSku js-PUM": "Gramo a $283,05"
+        "bestPrice": "$28.000",
+        "precioPorSku js-PUM": "Unidad a $2.800,00"
     },
     "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "FRASCO X 174 G"
+            "CAJA X 10 SOB"
         ],
         [
             "Concentracion",

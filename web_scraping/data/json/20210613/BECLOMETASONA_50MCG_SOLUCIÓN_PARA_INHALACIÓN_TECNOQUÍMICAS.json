@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/beclometasona-50mcg-solucion-para-inhalacion-tecnoquimicas-7702057772864/p",
+    "fecha_hora_scraping": "2021-06-14 03:26:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BECLOMETASONA 50MCG SOLUCI\u00d3N PARA INHALACI\u00d3N TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/BECLOMETASONA_50MCG_SOLUCI\u00d3N_PARA_INHALACI\u00d3N_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$35.350",
+        "precioPorSku js-PUM": "Unidad a $35.350,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "50 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "BECLOMETASONA DIPROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0001082-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

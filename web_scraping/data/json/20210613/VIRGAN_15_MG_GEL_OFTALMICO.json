@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/virgan-15-mg-gel-oftalmico-8470006522257/p",
+    "fecha_hora_scraping": "2021-06-14 05:25:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VIRGAN 1.5 MG GEL OFTALMICO",
+    "nombre_imagen": "./web_scraping/data/img/VIRGAN_15_MG_GEL_OFTALMICO.jpg",
+    "presentacion": "TUBO X 5 G",
+    "precio": {
+        "bestPrice": "$90.400",
+        "precioPorSku js-PUM": "Gramo a $18.080,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 5 G"
+        ],
+        [
+            "Concentracion",
+            "1,5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "GANCICLOVIR"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013786"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

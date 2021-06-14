@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7506339390216desodorante-old-spice-barra-lenahigiene-y-cuidado-personaldesodorantesprocter--gamble-7506339390216/p",
+    "fecha_hora_scraping": "2021-06-14 04:58:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "DESODORANTE OLD SPICE BARRA LE\u00d1A",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_OLD_SPICE_BARRA_LE\u00d1A.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "PrevPrice": "Antes:$16.150",
+        "bestPrice": "$12.920",
+        "precioPorSku js-PUM": "Gramo a $258,40"
+    },
+    "descripcion": "DESODORANTE OLD SPICE BARRA LE\u00d1A",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

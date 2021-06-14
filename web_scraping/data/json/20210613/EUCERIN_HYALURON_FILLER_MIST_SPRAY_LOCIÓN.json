@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-hyaluron-filler-mist-spray-locion-7702003006913/p",
+    "fecha_hora_scraping": "2021-06-14 02:53:13",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN HYALURON FILLER MIST SPRAY LOCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_HYALURON_FILLER_MIST_SPRAY_LOCI\u00d3N.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$55.200",
+        "precioPorSku js-PUM": "Mililitro a $368,00"
+    },
+    "descripcion": "eucerin hyaluron filler mist spray loci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85375-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-one-coat-pestanina-mega-volumen-water-309971929021/p",
+    "fecha_hora_scraping": "2021-06-14 04:34:32",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL ONE COAT Pesta\u00f1ina mega volumen water",
+    "nombre_imagen": "./web_scraping/data/img/AL_ONE_COAT_Pesta\u00f1ina_mega_volumen_water.jpg",
+    "presentacion": "TUBO X 10ML",
+    "precio": {
+        "bestPrice": "$42.900",
+        "precioPorSku js-PUM": "Mililitro a $4.290,00"
+    },
+    "descripcion": "al one coat pesta\u00f1ina mega volumen water",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80704-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

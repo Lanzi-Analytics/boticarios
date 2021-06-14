@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-hydrabio-crema-hidratante-piel-sensible-3401329447687/p",
+    "fecha_hora_scraping": "2021-06-14 01:51:26",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA HYDRABIO CREMA HIDRATANTE PIEL SENSIBLE",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_HYDRABIO_CREMA_HIDRATANTE_PIEL_SENSIBLE.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$102.000",
+        "precioPorSku js-PUM": "Mililitro a $2.040,00"
+    },
+    "descripcion": "bioderma hydrabio crema hidratante piel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70408-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

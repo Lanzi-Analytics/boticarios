@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-panitos-humedos-pequenin-flat-pack-original-lleve-70und-7702026313418/p",
+    "fecha_hora_scraping": "2021-06-14 09:12:46",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "oferta pa\u00f1itos humedos peque\u00f1in flat pack original lleve: 70und",
+    "nombre_imagen": "./web_scraping/data/img/oferta_pa\u00f1itos_humedos_peque\u00f1in_flat_pack_original_lleve_70und.jpg",
+    "presentacion": "PAQUETE X 70 UN",
+    "precio": {
+        "bestPrice": "$7.100",
+        "precioPorSku js-PUM": "Unidad a $101,43"
+    },
+    "descripcion": "of panos hum flat pack orig ll70",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 70 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA V-002150-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

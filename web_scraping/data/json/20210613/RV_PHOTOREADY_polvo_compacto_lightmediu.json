@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-photoready-polvo-compacto-lightmediu-309973157026/p",
+    "fecha_hora_scraping": "2021-06-13 23:47:05",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV PHOTOREADY polvo compacto light/mediu",
+    "nombre_imagen": "./web_scraping/data/img/RV_PHOTOREADY_polvo_compacto_lightmediu.jpg",
+    "presentacion": "CONTENEDOR X 7 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $7.267,61"
+    },
+    "descripcion": "rv photoready polvo compacto light/mediu",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 7 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59475-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

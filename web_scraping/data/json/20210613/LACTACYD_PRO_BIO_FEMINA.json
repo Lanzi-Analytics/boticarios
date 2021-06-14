@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lactacyd-pro-bio-femina-7703202993295/p",
+    "fecha_hora_scraping": "2021-06-14 08:45:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "LACTACYD PRO BIO FEMINA",
+    "nombre_imagen": "./web_scraping/data/img/LACTACYD_PRO_BIO_FEMINA.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$25.800",
+        "precioPorSku js-PUM": "Mililitro a $129,00"
+    },
+    "descripcion": "lactacyd pro bio femina",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC65596-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

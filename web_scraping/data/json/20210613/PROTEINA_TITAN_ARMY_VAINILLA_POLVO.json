@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/proteina-titan-army-vainilla-polvo-814465012160/p",
+    "fecha_hora_scraping": "2021-06-14 07:41:59",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "PROTEINA TITAN ARMY VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/PROTEINA_TITAN_ARMY_VAINILLA_POLVO.jpg",
+    "presentacion": "BOLSA X 2270 G",
+    "precio": {
+        "bestPrice": "$93.950",
+        "precioPorSku js-PUM": "Gramo a $41,39"
+    },
+    "descripcion": "proteina titan army vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 2270 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD06I1505"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-cr-c-pepino-7501056326265/p",
+    "fecha_hora_scraping": "2021-06-14 04:15:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA PONDS CR C PEPINO",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PONDS_CR_C_PEPINO.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$13.100",
+        "precioPorSku js-PUM": "Gramo a $262,00"
+    },
+    "descripcion": "crema ponds cr c pepino",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00044-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

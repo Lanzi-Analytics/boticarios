@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-maybelline-falsies-push-up-drama-waterproof-7702058229268/p",
+    "fecha_hora_scraping": "2021-06-14 08:52:31",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAYBELLINE FALSIES PUSH UP DRAMA WATERPROOF",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAYBELLINE_FALSIES_PUSH_UP_DRAMA_WATERPROOF.jpg",
+    "presentacion": "UNIDAD X 10 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $4.190,72"
+    },
+    "descripcion": "pesta\u00f1ina maybelline falsies push up drama waterproof",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69791-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

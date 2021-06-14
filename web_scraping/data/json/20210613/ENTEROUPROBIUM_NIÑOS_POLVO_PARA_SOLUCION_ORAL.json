@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterouprobium-ninos-polvo-para-solucion-oral-7709990896336/p",
+    "fecha_hora_scraping": "2021-06-14 03:09:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ENTEROUPROBIUM NI\u00d1OS POLVO PARA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ENTEROUPROBIUM_NI\u00d1OS_POLVO_PARA_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 4 UN",
+    "precio": {
+        "bestPrice": "$50.500",
+        "precioPorSku js-PUM": "Unidad a $12.625,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZIVOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2012-0002412"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

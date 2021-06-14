@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-diabeticos-vainilla-7702870052532/p",
+    "fecha_hora_scraping": "2021-06-14 05:52:59",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY DIABETICOS VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_DIABETICOS_VAINILLA.jpg",
+    "presentacion": "TARRO X 1.000 G",
+    "precio": {
+        "bestPrice": "$86.600",
+        "precioPorSku js-PUM": "Gramo a $86,60"
+    },
+    "descripcion": "ensoy diabeticos vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 1.000 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV10I21805"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

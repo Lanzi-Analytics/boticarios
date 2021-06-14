@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-humedas-tena-clasicas-7702026174996/p",
+    "fecha_hora_scraping": "2021-06-14 04:01:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "toallas h\u00famedas tena clasicas",
+    "nombre_imagen": "./web_scraping/data/img/toallas_h\u00famedas_tena_clasicas.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$2.650",
+        "precioPorSku js-PUM": "Unidad a $132,50"
+    },
+    "descripcion": "toallas h\u00famedas tena clasicas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81867-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

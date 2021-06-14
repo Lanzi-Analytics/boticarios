@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-desmaquilladoras-familia-pomys-7702026178031/p",
+    "fecha_hora_scraping": "2021-06-14 01:07:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "toallas desmaquilladoras familia pomys",
+    "nombre_imagen": "./web_scraping/data/img/toallas_desmaquilladoras_familia_pomys.jpg",
+    "presentacion": "PAQUETE X 28 UN",
+    "precio": {
+        "bestPrice": "$4.950",
+        "precioPorSku js-PUM": "Unidad a $176,79"
+    },
+    "descripcion": "toallitas desmaquillantes pomys basic",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 28 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85187-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lapiz-delineador-vogue-super-fantastic-trazos-cafe-7509552840254/p",
+    "fecha_hora_scraping": "2021-06-14 00:05:48",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "L\u00c1PIZ DELINEADOR VOGUE SUPER FANTASTIC TRAZOS CAF\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/L\u00c1PIZ_DELINEADOR_VOGUE_SUPER_FANTASTIC_TRAZOS_CAF\u00c9.jpg",
+    "presentacion": "UNIDAD X 1.9 G",
+    "precio": {
+        "bestPrice": "$7.450",
+        "precioPorSku js-PUM": "Gramo a $3.921,05"
+    },
+    "descripcion": "l\u00e1piz delineador vogue super fantastic trazos caf\u00e9",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 1.9 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89734-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

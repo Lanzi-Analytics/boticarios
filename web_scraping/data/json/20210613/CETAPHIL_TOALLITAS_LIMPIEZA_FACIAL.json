@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-toallitas-limpieza-facial-3499320005326/p",
+    "fecha_hora_scraping": "2021-06-14 02:14:48",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CETAPHIL TOALLITAS LIMPIEZA FACIAL",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_TOALLITAS_LIMPIEZA_FACIAL.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "bestPrice": "$26.450",
+        "precioPorSku js-PUM": "Unidad a $1.058,00"
+    },
+    "descripcion": "cetaphil toallitas limpieza facial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ADAPALENO"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64959-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

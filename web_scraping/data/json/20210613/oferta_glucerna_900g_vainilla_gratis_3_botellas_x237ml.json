@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-glucerna-900g-vainilla-gratis-3-botellas-x237ml-7703186032928/p",
+    "fecha_hora_scraping": "2021-06-14 00:19:40",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "oferta glucerna 900g vainilla gratis 3 botellas x237ml",
+    "nombre_imagen": "./web_scraping/data/img/oferta_glucerna_900g_vainilla_gratis_3_botellas_x237ml.jpg",
+    "presentacion": "TARRO X 900 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $103,00"
+    },
+    "descripcion": "oferta glucerna 900g vainilla gratis 3 botellas x237ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001023-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

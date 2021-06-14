@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-moto-inferno-fireb-42g-7702189055989/p",
+    "fecha_hora_scraping": "2021-06-14 06:35:36",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "MANI MOTO INFERNO FIREB 42G",
+    "nombre_imagen": "./web_scraping/data/img/MANI_MOTO_INFERNO_FIREB_42G.jpg",
+    "presentacion": "PAQUETE  X 42 G",
+    "precio": {
+        "bestPrice": "$1.100",
+        "precioPorSku js-PUM": "Gramo a $26,19"
+    },
+    "descripcion": "MANI MOTO INFERNO FIREB 42G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE  X 42 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSA0055759"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

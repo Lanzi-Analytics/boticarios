@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinalgen-forte-75-mg325-mg-tableta-7703258113333/p",
+    "fecha_hora_scraping": "2021-06-14 04:02:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SINALGEN FORTE 7.5 MG/325 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/SINALGEN_FORTE_75_MG325_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$152.400",
+        "precioPorSku js-PUM": "Tableta a $5.080,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 7,5 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN HIDROCODONA BITARTRATO"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018042"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

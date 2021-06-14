@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-liquida-vogue-resist-capuccino-7509552828450/p",
+    "fecha_hora_scraping": "2021-06-14 01:32:06",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE L\u00cdQUIDA VOGUE RESIST CAPUCCINO",
+    "nombre_imagen": "./web_scraping/data/img/BASE_L\u00cdQUIDA_VOGUE_RESIST_CAPUCCINO.jpg",
+    "presentacion": "UNIDAD X 30 ML",
+    "precio": {
+        "bestPrice": "$19.950",
+        "precioPorSku js-PUM": "Mililitro a $665,00"
+    },
+    "descripcion": "base l\u00edquida vogue resist capuccino",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83972-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

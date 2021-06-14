@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/manteca-de-cacao-labial-7706183390053/p",
+    "fecha_hora_scraping": "2021-06-14 05:55:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "MANTECA DE CACAO LABIAL",
+    "nombre_imagen": "./web_scraping/data/img/MANTECA_DE_CACAO_LABIAL.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$383",
+        "precioPorSku js-PUM": "Unidad a $383,33"
+    },
+    "descripcion": "manteca de cacao labial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS APROQUIM LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85342-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

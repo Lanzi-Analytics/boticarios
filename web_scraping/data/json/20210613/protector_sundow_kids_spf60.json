@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-sundow-kids-spf60-7891010518158/p",
+    "fecha_hora_scraping": "2021-06-14 10:25:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "protector sundow kids spf60+",
+    "nombre_imagen": "./web_scraping/data/img/protector_sundow_kids_spf60.jpg",
+    "presentacion": "ENVASE X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$42.300",
+        "bestPrice": "$33.840",
+        "precioPorSku js-PUM": "Mililitro a $282,00"
+    },
+    "descripcion": "protect sundow kids spf x 120 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSCE-3220-10G.EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

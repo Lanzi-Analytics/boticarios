@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/pax-caliente-noche-granulado-7706263200623/p",
-    "fecha_hora_scraping": "2021-06-13 18:37:19",
+    "url_producto": "https://www.drogueriascolsubsidio.com/pax-caliente-noche-granulado-7706263200630/p",
+    "fecha_hora_scraping": "2021-06-14 04:03:43",
     "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|gripa",
     "titulo": "PAX CALIENTE NOCHE GRANULADO",
     "nombre_imagen": "./web_scraping/data/img/PAX_CALIENTE_NOCHE_GRANULADO.jpg",
-    "presentacion": "CAJA X 6 SOB",
+    "presentacion": "BLISTER X 1 UN",
     "precio": {
-        "bestPrice": "$11.050",
-        "precioPorSku js-PUM": "Unidad a $1.841,67"
+        "bestPrice": "$1.563",
+        "precioPorSku js-PUM": "Unidad a $1.562,50"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 6 SOB"
+            "BLISTER X 1 UN"
         ],
         [
             "Concentracion",

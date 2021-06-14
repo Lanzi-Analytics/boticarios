@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-rexona-clinical-men-clean-7791293037141/p",
+    "fecha_hora_scraping": "2021-06-14 00:47:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "ANTITRANSPIRANTE REXONA CLINICAL MEN CLEAN",
+    "nombre_imagen": "./web_scraping/data/img/ANTITRANSPIRANTE_REXONA_CLINICAL_MEN_CLEAN.jpg",
+    "presentacion": "FRASCO X 90 G",
+    "precio": {
+        "bestPrice": "$17.900",
+        "precioPorSku js-PUM": "Gramo a $198,89"
+    },
+    "descripcion": "rexona deo m aer ap clean x90g/150ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84684-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

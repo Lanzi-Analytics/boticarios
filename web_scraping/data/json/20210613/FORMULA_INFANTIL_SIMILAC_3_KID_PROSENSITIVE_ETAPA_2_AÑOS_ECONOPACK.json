@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-similac-3-kid-prosensitive-etapa-2-anos-econopack-7703186032751/p",
+    "fecha_hora_scraping": "2021-06-13 23:33:11",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL SIMILAC 3 KID PROSENSITIVE ETAPA 2 A\u00d1OS ECONOPACK",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_SIMILAC_3_KID_PROSENSITIVE_ETAPA_2_A\u00d1OS_ECONOPACK.jpg",
+    "presentacion": "CAJA X 1750 G",
+    "precio": {
+        "bestPrice": "$101.900",
+        "precioPorSku js-PUM": "Gramo a $58,23"
+    },
+    "descripcion": "f\u00f3rmula infantil similac 3 kid prosensit",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1750 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTIPLES COMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002860-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

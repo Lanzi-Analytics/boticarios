@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flu-sure-t-suspension-oftalmica-7707239272774/p",
+    "fecha_hora_scraping": "2021-06-14 06:25:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLU-SURE T SUSPENSI\u00d3N OFT\u00c1LMICA",
+    "nombre_imagen": "./web_scraping/data/img/FLUSURE_T_SUSPENSI\u00d3N_OFT\u00c1LMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$49.950",
+        "precioPorSku js-PUM": "Mililitro a $9.990,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML 0.25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "FLUOROMETOLONA TETRAHIDROZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ESPECIALIDADES OFTALMOLOGICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013710"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/quetiapina-25-mg-tableta-recubierta-tecnoquimicas-7702057078799/p",
+    "fecha_hora_scraping": "2021-06-14 07:42:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "QUETIAPINA 25 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/QUETIAPINA_25_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$9.800",
+        "precioPorSku js-PUM": "Tableta a $326,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "QUETIAPINA FUMARATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008757"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

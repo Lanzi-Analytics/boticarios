@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-advance-menos-calorias-7703186031402/p",
+    "fecha_hora_scraping": "2021-06-14 05:00:06",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE ADVANCE MENOS CALORIAS",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_ADVANCE_MENOS_CALORIAS.jpg",
+    "presentacion": "BOTELLA X 220 ML",
+    "precio": {
+        "bestPrice": "$7.800",
+        "precioPorSku js-PUM": "Mililitro a $35,45"
+    },
+    "descripcion": "ensure advance menos calorias",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 220 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000617-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

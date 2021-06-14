@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/barrera-protectora-lisa-20cm-x-20cm-768455106967/p",
+    "fecha_hora_scraping": "2021-06-14 04:33:47",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BARRERA PROTECTORA LISA 20CM X 20CM",
+    "nombre_imagen": "./web_scraping/data/img/BARRERA_PROTECTORA_LISA_20CM_X_20CM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $60.400,00"
+    },
+    "descripcion": "barrera protectora lisa 20cm x 20cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0000028-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

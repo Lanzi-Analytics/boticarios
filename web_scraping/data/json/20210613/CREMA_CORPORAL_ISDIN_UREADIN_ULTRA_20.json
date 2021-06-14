@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-corporal-isdin-ureadin-ultra-20-8429420104563/p",
+    "fecha_hora_scraping": "2021-06-14 03:37:31",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CREMA CORPORAL ISDIN UREADIN ULTRA 20",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_CORPORAL_ISDIN_UREADIN_ULTRA_20.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$68.500",
+        "precioPorSku js-PUM": "Tableta a $685,00"
+    },
+    "descripcion": "crema corporal isdin ureadin ultra 20",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC62912-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

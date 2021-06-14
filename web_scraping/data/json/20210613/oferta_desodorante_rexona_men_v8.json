@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-desodorante-rexona-men-v8-7702006200981/p",
+    "fecha_hora_scraping": "2021-06-14 05:49:27",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "oferta desodorante rexona men v8",
+    "nombre_imagen": "./web_scraping/data/img/oferta_desodorante_rexona_men_v8.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "bestPrice": "$27.600",
+        "precioPorSku js-PUM": "Mililitro a $184,00"
+    },
+    "descripcion": "of 2 des aero rexona v8 150 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69005-15 CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

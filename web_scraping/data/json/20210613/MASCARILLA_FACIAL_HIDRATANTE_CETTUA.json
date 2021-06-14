@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mascarilla-facial-hidratante-8809033594324/p",
+    "fecha_hora_scraping": "2021-06-14 08:05:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "MASCARILLA FACIAL HIDRATANTE CETTUA",
+    "nombre_imagen": "./web_scraping/data/img/MASCARILLA_FACIAL_HIDRATANTE_CETTUA.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$6.900",
+        "precioPorSku js-PUM": "Unidad a $6.900,00"
+    },
+    "descripcion": "MASCARILLA FACIAL HIDRATANTE CETTUA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COBICO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76722-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-protector-solar-anthelios-xl-toque-seco-color-spf50-gratis-2-7702058649158/p",
+    "fecha_hora_scraping": "2021-06-14 04:47:39",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "oferta protector solar anthelios xl toque seco color spf50 gratis 2",
+    "nombre_imagen": "./web_scraping/data/img/oferta_protector_solar_anthelios_xl_toque_seco_color_spf50_gratis_2.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.102,00"
+    },
+    "descripcion": "oferta protector solar anthelios xl toque seco color spf50 gratis 2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76242-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

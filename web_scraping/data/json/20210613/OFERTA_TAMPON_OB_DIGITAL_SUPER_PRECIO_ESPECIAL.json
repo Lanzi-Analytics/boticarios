@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-tampon-ob-digital-super-precio-especial-7891010247829/p",
+    "fecha_hora_scraping": "2021-06-14 08:14:11",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "OFERTA TAMPON O.B DIGITAL SUPER PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TAMPON_OB_DIGITAL_SUPER_PRECIO_ESPECIAL.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$8.000",
+        "precioPorSku js-PUM": "Unidad a $800,00"
+    },
+    "descripcion": "oferta tampon ob digital super precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

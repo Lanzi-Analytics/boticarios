@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betarretin-h-crema-7703281000778/p",
+    "fecha_hora_scraping": "2021-06-14 00:14:21",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BETARRETIN H CREMA",
+    "nombre_imagen": "./web_scraping/data/img/BETARRETIN_H_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$57.750",
+        "precioPorSku js-PUM": "Gramo a $1.925,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "40 MG/G 0,5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "HIDROQUINONA TRETINOINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004485-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/motrin-600-mg-tableta-recubierta-7703283401528/p",
+    "fecha_hora_scraping": "2021-06-14 05:16:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MOTRIN 600 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/MOTRIN_600_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$22.000",
+        "precioPorSku js-PUM": "Tableta a $2.200,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-012623-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

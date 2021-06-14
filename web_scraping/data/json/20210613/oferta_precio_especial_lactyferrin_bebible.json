@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-precio-especial-lactyferrin-bebible-8470001535597/p",
+    "fecha_hora_scraping": "2021-06-14 01:37:24",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "oferta precio especial lactyferrin bebible",
+    "nombre_imagen": "./web_scraping/data/img/oferta_precio_especial_lactyferrin_bebible.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$204.900",
+        "precioPorSku js-PUM": "Mililitro a $819,60"
+    },
+    "descripcion": "oferta precio especial lactyferrin bebible",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2020-0004501"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

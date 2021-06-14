@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-vogue-ultra-volumen-tono-negro-7702433293389/p",
+    "fecha_hora_scraping": "2021-06-14 04:55:33",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA VOGUE ULTRA VOLUMEN TONO NEGRO",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_VOGUE_ULTRA_VOLUMEN_TONO_NEGRO.jpg",
+    "presentacion": "UNIDAD X 9 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.561,11"
+    },
+    "descripcion": "pesta\u00f1ina vogue ultra volumen tono negro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC58765-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

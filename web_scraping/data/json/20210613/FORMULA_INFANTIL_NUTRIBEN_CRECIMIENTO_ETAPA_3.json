@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-nutriben-crecimiento-etapa-3-7703546720908/p",
+    "fecha_hora_scraping": "2021-06-14 09:08:42",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL NUTRIBEN CRECIMIENTO ETAPA 3",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_NUTRIBEN_CRECIMIENTO_ETAPA_3.jpg",
+    "presentacion": "TARRO X 900 G",
+    "precio": {
+        "PrevPrice": "Antes:$64.150",
+        "bestPrice": "$51.320",
+        "precioPorSku js-PUM": "Gramo a $57,02"
+    },
+    "descripcion": "formula infantil nutriben crecimiento et",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I66113"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

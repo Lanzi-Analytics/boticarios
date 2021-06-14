@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cetaphil-emulsion-gratis-protector-solar-cetaphil--50-7707184945266/p",
+    "fecha_hora_scraping": "2021-06-14 03:27:32",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA CETAPHIL EMULSI\u00d3N GRATIS PROTECTOR SOLAR CETAPHIL  50+",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CETAPHIL_EMULSI\u00d3N_GRATIS_PROTECTOR_SOLAR_CETAPHIL__50.jpg",
+    "presentacion": "FRASCO X 473 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $213,64"
+    },
+    "descripcion": "oferta cetaphil emulsi\u00f3n gratis protector solar cetaphil  50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 473 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC19153-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

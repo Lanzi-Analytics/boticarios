@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/media-antiembolica-muslo-no-varix-15-20-mmhg-blanco-talla-s-7707066098523/p",
+    "fecha_hora_scraping": "2021-06-14 03:21:20",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "MEDIA ANTIEMBOLICA MUSLO NO-VARIX 15-20 MMHG BLANCO TALLA S",
+    "nombre_imagen": "./web_scraping/data/img/MEDIA_ANTIEMBOLICA_MUSLO_NOVARIX_1520_MMHG_BLANCO_TALLA_S.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$52.900",
+        "bestPrice": "$42.320",
+        "precioPorSku js-PUM": "Unidad a $42.320"
+    },
+    "descripcion": "media antiembolica muslo no-varix 15-20",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0003826-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

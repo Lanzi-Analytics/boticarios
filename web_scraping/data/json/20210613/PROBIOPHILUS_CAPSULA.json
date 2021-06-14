@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/probiophilus-capsula-814465010012/p",
+    "fecha_hora_scraping": "2021-06-14 01:20:23",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "PROBIOPHILUS CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/PROBIOPHILUS_CAPSULA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$33.450",
+        "precioPorSku js-PUM": "Capsula a $557,50"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002689"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

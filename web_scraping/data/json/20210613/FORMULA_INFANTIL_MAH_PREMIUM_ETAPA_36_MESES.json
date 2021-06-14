@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-mah-premium-etapa-3-6-meses-854688003712/p",
+    "fecha_hora_scraping": "2021-06-14 07:41:14",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL MAH! PREMIUM ETAPA 3-6 MESES",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_MAH_PREMIUM_ETAPA_36_MESES.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$40.600",
+        "precioPorSku js-PUM": "Gramo a $101,50"
+    },
+    "descripcion": "formula infantil mah! premium etapa 3-6",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MAH! COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002102-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

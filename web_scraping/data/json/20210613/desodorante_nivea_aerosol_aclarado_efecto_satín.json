@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-nivea-aerosol-aclarado-efecto-satin-4005900081087/p",
+    "fecha_hora_scraping": "2021-06-14 10:04:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante nivea aerosol aclarado efecto sat\u00edn",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_nivea_aerosol_aclarado_efecto_sat\u00edn.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "bestPrice": "$17.350",
+        "precioPorSku js-PUM": "Mililitro a $115,67"
+    },
+    "descripcion": "desodorante nivea spray aclarado satin",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59663-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

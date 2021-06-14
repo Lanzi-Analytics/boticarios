@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-baby-jhonsons-avena-precio-especial-7702031900535/p",
+    "fecha_hora_scraping": "2021-06-14 00:31:43",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "oferta jab\u00f3n baby jhonson's avena precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_jab\u00f3n_baby_jhonsons_avena_precio_especial.jpg",
+    "presentacion": "BARRA X 125 G",
+    "precio": {
+        "bestPrice": "$6.650",
+        "precioPorSku js-PUM": "Gramo a $17,73"
+    },
+    "descripcion": "of 3 jab baby johns x125 avena p.esp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 125 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2006CO19365"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

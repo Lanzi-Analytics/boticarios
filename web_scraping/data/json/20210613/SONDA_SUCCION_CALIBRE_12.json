@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sonda-succion-calibre-12-7707221290489/p",
+    "fecha_hora_scraping": "2021-06-14 01:39:18",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "SONDA SUCCION CALIBRE 12",
+    "nombre_imagen": "./web_scraping/data/img/SONDA_SUCCION_CALIBRE_12.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.581,00"
+    },
+    "descripcion": "sonda succion calibre 12",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEDITEC S A"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

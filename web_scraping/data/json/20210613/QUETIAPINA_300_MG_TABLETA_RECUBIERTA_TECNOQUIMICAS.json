@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/quetiapina-300-mg-tableta-recubierta-tecnoquimicas-7702057079031/p",
+    "fecha_hora_scraping": "2021-06-14 06:12:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "QUETIAPINA 300 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/QUETIAPINA_300_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$122.750",
+        "precioPorSku js-PUM": "Tableta a $4.091,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "QUETIAPINA FUMARATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008892"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

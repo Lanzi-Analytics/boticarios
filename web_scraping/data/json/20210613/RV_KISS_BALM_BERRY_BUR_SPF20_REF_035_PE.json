@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-kiss-balm-berry-bur-spf20-ref-035-pe-309971879357/p",
+    "fecha_hora_scraping": "2021-06-14 10:13:39",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV KISS BALM BERRY BUR SPF20 REF 035 PE",
+    "nombre_imagen": "./web_scraping/data/img/RV_KISS_BALM_BERRY_BUR_SPF20_REF_035_PE.jpg",
+    "presentacion": "TUBO X 3G",
+    "precio": {
+        "bestPrice": "$10.550",
+        "precioPorSku js-PUM": "Gramo a $4.057,69"
+    },
+    "descripcion": "balsamo labial revlon kiss berry burst r",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76757-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/beclometasona-forte-250mcg-solucion-para-inhalacion-bucal-tecnoquimicas-7702057075484/p",
+    "fecha_hora_scraping": "2021-06-14 00:01:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BECLOMETASONA FORTE 250MCG SOLUCION PARA INHALACION BUCAL TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/BECLOMETASONA_FORTE_250MCG_SOLUCION_PARA_INHALACION_BUCAL_TECNOQUIMICAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$55.850",
+        "precioPorSku js-PUM": "Unidad a $55.850,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "250 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "BECLOMETASONA DIPROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0008659-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

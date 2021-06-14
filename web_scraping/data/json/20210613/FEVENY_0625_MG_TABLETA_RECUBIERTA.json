@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/feveny-0625-mg-tableta-recubierta-7707274721619/p",
+    "fecha_hora_scraping": "2021-06-14 02:26:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEVENY 0.625 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FEVENY_0625_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$29.000",
+        "precioPorSku js-PUM": "Tableta a $1.035,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "0,625 MG"
+        ],
+        [
+            "Principio activo",
+            "ESTR\u00d3GENOS CONJUGADOS"
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012121-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

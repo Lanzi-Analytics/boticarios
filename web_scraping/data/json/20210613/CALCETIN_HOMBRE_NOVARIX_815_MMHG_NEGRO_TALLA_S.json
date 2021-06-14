@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calcetin-hombre-no-varix-8-15-mmhg-negro-talla-s-7707066059128/p",
+    "fecha_hora_scraping": "2021-06-14 04:54:29",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "CALCETIN HOMBRE NO-VARIX 8-15 MMHG NEGRO TALLA S",
+    "nombre_imagen": "./web_scraping/data/img/CALCETIN_HOMBRE_NOVARIX_815_MMHG_NEGRO_TALLA_S.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $37.900,00"
+    },
+    "descripcion": "calcetin hombre no-varix 8-15 mmhg negro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0003826-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

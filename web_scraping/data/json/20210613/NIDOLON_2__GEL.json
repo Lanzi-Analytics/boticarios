@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nidolon-2--gel-7707670346355/p",
+    "fecha_hora_scraping": "2021-06-14 02:59:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NIDOLON 2 % GEL",
+    "nombre_imagen": "./web_scraping/data/img/NIDOLON_2__GEL.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$32.700",
+        "precioPorSku js-PUM": "Gramo a $1.090,00"
+    },
+    "descripcion": "NIDOLON 2 % GEL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "NIMESULIDA"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0011521-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avodart-05-mg-capsula-blanda-7707172687437/p",
+    "fecha_hora_scraping": "2021-06-13 23:20:12",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AVODART 0.5 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/AVODART_05_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$59.300",
+        "precioPorSku js-PUM": "Capsula a $1.976,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG"
+        ],
+        [
+            "Principio activo",
+            "DUTASTERIDA"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0002962-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

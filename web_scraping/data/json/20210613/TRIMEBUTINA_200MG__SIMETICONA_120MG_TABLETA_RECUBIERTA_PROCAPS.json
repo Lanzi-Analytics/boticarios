@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trimebutina-200mg--simeticona-120mg-tableta-recubierta-procaps-7703153031251/p",
+    "fecha_hora_scraping": "2021-06-14 07:55:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRIMEBUTINA 200MG + SIMETICONA 120MG TABLETA RECUBIERTA PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/TRIMEBUTINA_200MG__SIMETICONA_120MG_TABLETA_RECUBIERTA_PROCAPS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$41.700",
+        "precioPorSku js-PUM": "Tableta a $1.390,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG 120 MG"
+        ],
+        [
+            "Principio activo",
+            "TRIMEBUTINA MALEATO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016780"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amval-10mg160mg-tableta-recubierta-7702870004005/p",
+    "fecha_hora_scraping": "2021-06-14 05:59:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMVAL 10MG/160MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/AMVAL_10MG160MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$69.900",
+        "precioPorSku js-PUM": "Tableta a $4.992,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN AMLODIPINO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0008530-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

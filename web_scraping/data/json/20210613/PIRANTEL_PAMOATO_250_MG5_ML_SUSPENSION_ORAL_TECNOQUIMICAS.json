@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pirantel-pamoato-250-mg5-ml-suspension-oral-tecnoquimicas-7702057074906/p",
+    "fecha_hora_scraping": "2021-06-14 09:46:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PIRANTEL PAMOATO 250 MG/5 ML SUSPENSION ORAL TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/PIRANTEL_PAMOATO_250_MG5_ML_SUSPENSION_ORAL_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$3.350",
+        "precioPorSku js-PUM": "Mililitro a $223,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "PIRANTEL PAMOATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-000483-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

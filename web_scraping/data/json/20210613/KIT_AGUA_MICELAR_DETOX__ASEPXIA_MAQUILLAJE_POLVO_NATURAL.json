@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-agua-micelar-detox--asepxia-maquillaje-polvo-natural-650240057694/p",
+    "fecha_hora_scraping": "2021-06-14 06:57:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "KIT AGUA MICELAR DETOX + ASEPXIA MAQUILLAJE POLVO NATURAL",
+    "nombre_imagen": "./web_scraping/data/img/KIT_AGUA_MICELAR_DETOX__ASEPXIA_MAQUILLAJE_POLVO_NATURAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$38.400",
+        "precioPorSku js-PUM": "Unidad a $38.400,00"
+    },
+    "descripcion": "KIT AGUA MICELAR DETOX + ASEPXIA MAQUILLAJE POLVO NATURAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37988-20EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

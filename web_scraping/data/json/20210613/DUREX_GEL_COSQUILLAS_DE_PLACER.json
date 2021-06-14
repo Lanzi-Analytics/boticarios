@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/durex-gel-cosquillas-de-placer-7501159033725/p",
-    "fecha_hora_scraping": "2021-06-13 19:20:08",
+    "fecha_hora_scraping": "2021-06-14 08:15:25",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
     "titulo": "DUREX GEL COSQUILLAS DE PLACER",
     "nombre_imagen": "./web_scraping/data/img/DUREX_GEL_COSQUILLAS_DE_PLACER.jpg",
     "presentacion": "TARRO X 50 ML",
     "precio": {
-        "PrevPrice": "Antes:$21.000",
-        "bestPrice": "$15.750",
-        "precioPorSku js-PUM": "Mililitro a $315,00"
+        "bestPrice": "$21.000",
+        "precioPorSku js-PUM": "Mililitro a $420,00"
     },
     "descripcion": "DUREX GEL COSQUILLAS DE PLACER",
     "atributos": [

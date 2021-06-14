@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guante-quirurgico-esteril-talla-75-vital-medic-7707300930480/p",
+    "fecha_hora_scraping": "2021-06-13 23:48:13",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTE QUIRURGICO ESTERIL TALLA 7.5 VITAL MEDIC",
+    "nombre_imagen": "./web_scraping/data/img/GUANTE_QUIRURGICO_ESTERIL_TALLA_75_VITAL_MEDIC.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Unidad a $1.750,00"
+    },
+    "descripcion": "GUANTE QUIRURGICO ESTERIL TALLA 7.5 VITAL MEDIC",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INVERFARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0008462"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zitromax-200-mg5-ml-polvo-para-suspension-oral-7703283401191/p",
+    "fecha_hora_scraping": "2021-06-14 03:54:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZITROMAX 200 MG/5 ML POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ZITROMAX_200_MG5_ML_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$116.750",
+        "precioPorSku js-PUM": "Mililitro a $3.891,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AZITROMICINA DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-014161-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

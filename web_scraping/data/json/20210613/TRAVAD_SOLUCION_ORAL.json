@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/travad-solucion-oral-7702057012007/p",
+    "fecha_hora_scraping": "2021-06-14 02:45:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAVAD SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/TRAVAD_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 133 ML",
+    "precio": {
+        "bestPrice": "$18.950",
+        "precioPorSku js-PUM": "Mililitro a $142,48"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 133 ML"
+        ],
+        [
+            "Concentracion",
+            "160 MG/ML 60 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SODIO FOSFATO BASICO SODIO FOSFATO DIBASICO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-015075-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

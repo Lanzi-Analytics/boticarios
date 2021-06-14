@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-retimax-face--tonico-facial-7707327210466/p",
+    "fecha_hora_scraping": "2021-06-14 06:04:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "OFERTA RETIMAX FACE + TONICO FACIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_RETIMAX_FACE__TONICO_FACIAL.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.972,50"
+    },
+    "descripcion": "oferta retimax face + tonico facial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC27235-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

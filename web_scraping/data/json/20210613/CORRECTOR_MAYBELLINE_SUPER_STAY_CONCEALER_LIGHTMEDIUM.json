@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corrector-maybelline-super-stay-concealer-light-medium-41554574616/p",
+    "fecha_hora_scraping": "2021-06-14 01:40:07",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CORRECTOR MAYBELLINE SUPER STAY CONCEALER LIGHT-MEDIUM",
+    "nombre_imagen": "./web_scraping/data/img/CORRECTOR_MAYBELLINE_SUPER_STAY_CONCEALER_LIGHTMEDIUM.jpg",
+    "presentacion": "UNIDAD X 7 ML",
+    "precio": {
+        "bestPrice": "$48.450",
+        "precioPorSku js-PUM": "Mililitro a $6.921,43"
+    },
+    "descripcion": "corrector maybelline super stay concealer light-medium",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 7 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC95286-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

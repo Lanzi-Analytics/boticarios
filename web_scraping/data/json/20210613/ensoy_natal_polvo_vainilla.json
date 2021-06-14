@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-natal-polvo-vainilla-7702870053348/p",
+    "fecha_hora_scraping": "2021-06-14 04:47:33",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ensoy natal polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/ensoy_natal_polvo_vainilla.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$48.000",
+        "precioPorSku js-PUM": "Gramo a $120,00"
+    },
+    "descripcion": "ensoy natal polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV10I44414"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

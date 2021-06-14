@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/angiovan-100mg-tableta-7702057010652/p",
+    "fecha_hora_scraping": "2021-06-14 00:42:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ANGIOVAN 100MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ANGIOVAN_100MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$26.900",
+        "precioPorSku js-PUM": "Tableta a $2.690,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "CILOSTAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013913"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

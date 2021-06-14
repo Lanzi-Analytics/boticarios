@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bye-bye-crema-repelente-ninos-7707288820780/p",
+    "fecha_hora_scraping": "2021-06-14 05:03:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BYE-BYE CREMA REPELENTE NI\u00d1OS",
+    "nombre_imagen": "./web_scraping/data/img/BYEBYE_CREMA_REPELENTE_NI\u00d1OS.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$7.450",
+        "precioPorSku js-PUM": "Gramo a $124,17"
+    },
+    "descripcion": "bye-bye crema repelente ni\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "10 %"
+        ],
+        [
+            "Principio activo",
+            "EXTRACTO TRITICUM VULGARE"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO25274"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

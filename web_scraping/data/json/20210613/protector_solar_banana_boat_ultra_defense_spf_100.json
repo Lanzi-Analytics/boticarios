@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-banana-boat-ultra-defense-spf-100-79656549652/p",
+    "fecha_hora_scraping": "2021-06-14 09:05:43",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "protector solar banana boat ultra defense spf 100",
+    "nombre_imagen": "./web_scraping/data/img/protector_solar_banana_boat_ultra_defense_spf_100.jpg",
+    "presentacion": "UNIDAD X 118 ML",
+    "precio": {
+        "PrevPrice": "Antes:$38.000",
+        "bestPrice": "$26.600",
+        "precioPorSku js-PUM": "Mililitro a $225,42"
+    },
+    "descripcion": "protector solar banana boat ultra defense spf 100",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 118 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EDGEWELL PERSONAL CARE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NCOC34710-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7501071901690toallitas-desinfectantes-cloroxhigiene-y-cuidado-personaljabones-y-gel-antibacterialna-7501071901690/p",
+    "fecha_hora_scraping": "2021-06-14 08:03:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "TOALLITAS DESINFECTANTES CLOROX",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_DESINFECTANTES_CLOROX.jpg",
+    "presentacion": "PAQUETE X 35 UN",
+    "precio": {
+        "bestPrice": "$10.100",
+        "precioPorSku js-PUM": "Unidad a $10.100,00"
+    },
+    "descripcion": "toallitas desinfectantes clorox",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 35 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOH01911-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

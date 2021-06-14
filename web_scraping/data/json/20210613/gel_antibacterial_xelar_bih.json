@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-antibacterial-xelar-bih-7709305924464/p",
+    "fecha_hora_scraping": "2021-06-13 23:24:41",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "gel antibacterial xelar bih",
+    "nombre_imagen": "./web_scraping/data/img/gel_antibacterial_xelar_bih.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$14.000",
+        "precioPorSku js-PUM": "Mililitro a $28,00"
+    },
+    "descripcion": "gel antibacterial xelar bih",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOHEALTHY SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99333-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desonida-c-crema-7703332003116/p",
+    "fecha_hora_scraping": "2021-06-14 05:19:19",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "DESONIDA C CREMA",
+    "nombre_imagen": "./web_scraping/data/img/DESONIDA_C_CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$24.550",
+        "precioPorSku js-PUM": "Gramo a $1.636,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "30 MG/G 1 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLIOQUINOL DESONIDA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-011347-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

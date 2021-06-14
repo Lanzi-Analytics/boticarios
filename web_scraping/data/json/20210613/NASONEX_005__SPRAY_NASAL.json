@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nasonex-005--spray-nasal-7702502015683/p",
+    "fecha_hora_scraping": "2021-06-14 07:31:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NASONEX 0.05 % SPRAY NASAL",
+    "nombre_imagen": "./web_scraping/data/img/NASONEX_005__SPRAY_NASAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$93.200",
+        "precioPorSku js-PUM": "Unidad a $93.200,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MOMETASONA FUROATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-006560-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

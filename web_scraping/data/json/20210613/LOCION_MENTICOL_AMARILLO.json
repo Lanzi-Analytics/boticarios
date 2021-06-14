@@ -1,36 +1,36 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/locion-menticol-amarillo-7702277120926/p",
-    "fecha_hora_scraping": "2021-06-13 18:57:02",
+    "fecha_hora_scraping": "2021-06-14 07:12:32",
     "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
     "titulo": "LOCION MENTICOL AMARILLO",
     "nombre_imagen": "./web_scraping/data/img/LOCION_MENTICOL_AMARILLO.jpg",
-    "presentacion": "FRASCO X 250 ML",
+    "presentacion": "",
     "precio": {
         "PrevPrice": "Antes:$15.550",
         "bestPrice": "$13.995",
-        "precioPorSku js-PUM": "Mililitro a $55,98"
+        "precioPorSku js-PUM": ""
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "FRASCO X 250 ML"
+            ""
         ],
         [
             "Concentracion",
-            "96 % 3.9 MG/ML"
+            ""
         ],
         [
             "Principio activo",
-            "ETILICO ALCOHOL MENTOL"
+            ""
         ],
         [
             "Laboratorio",
-            "BELLEZA EXPRESS SA"
+            ""
         ],
         [
             "Registro Invima",
-            "2016M-011423-R3"
+            ""
         ],
         [
             "Color",

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/janumet-xr-50-mg1000-mg-tableta-recubierta-de-liberacion-prolongada-8711141912689/p",
+    "fecha_hora_scraping": "2021-06-14 07:46:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "JANUMET XR 50 MG/1000 MG TABLETA RECUBIERTA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/JANUMET_XR_50_MG1000_MG_TABLETA_RECUBIERTA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "FRASCO X 28 TAB",
+    "precio": {
+        "bestPrice": "$59.000",
+        "precioPorSku js-PUM": "Tableta a $2.107,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG 50 MG"
+        ],
+        [
+            "Principio activo",
+            "METFORMINA CLORHIDRATO SITAGLIPTINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015484"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

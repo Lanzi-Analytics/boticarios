@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goicoechea-anticelulitis-extracto-citrico-y-cafeina-crema-650240032387/p",
+    "fecha_hora_scraping": "2021-06-14 06:54:31",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "GOICOECHEA ANTICELULITIS 400 ML",
+    "nombre_imagen": "./web_scraping/data/img/GOICOECHEA_ANTICELULITIS_400_ML.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $48,67"
+    },
+    "descripcion": "GOICOECHEA ANTICELULITIS EXTRACTO C\u00cdTRICO Y CAFE\u00cdNA CREMA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91805-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

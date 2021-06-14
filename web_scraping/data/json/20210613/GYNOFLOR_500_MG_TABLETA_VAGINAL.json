@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gynoflor-500-mg-tableta-vaginal-7707355052243/p",
+    "fecha_hora_scraping": "2021-06-14 06:59:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GYNOFLOR 500 MG TABLETA VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/GYNOFLOR_500_MG_TABLETA_VAGINAL.jpg",
+    "presentacion": "CAJA X 10 OVU",
+    "precio": {
+        "bestPrice": "$33.300",
+        "precioPorSku js-PUM": "OVULO a $3.330,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 OVU"
+        ],
+        [
+            "Concentracion",
+            "500 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-012355-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

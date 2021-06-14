@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bye-bye-repelente-en-crema-7707288820575/p",
+    "fecha_hora_scraping": "2021-06-14 08:06:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BYE-BYE REPELENTE EN CREMA",
+    "nombre_imagen": "./web_scraping/data/img/BYEBYE_REPELENTE_EN_CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$10.600",
+        "precioPorSku js-PUM": "Gramo a $176,67"
+    },
+    "descripcion": "bye-bye repelente en crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "28 %"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC15363-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cefalexina-500-mg-tableta-la-francol-7706569021168/p",
+    "fecha_hora_scraping": "2021-06-14 01:41:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CEFALEXINA 500 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/CEFALEXINA_500_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$7.290",
+        "precioPorSku js-PUM": "Tableta a $729,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CEFALEXINA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-004225-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

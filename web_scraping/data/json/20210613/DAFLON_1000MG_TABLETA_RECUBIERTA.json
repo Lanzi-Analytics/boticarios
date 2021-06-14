@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/daflon-1000mg-tableta-recubierta-3594455600115/p",
+    "fecha_hora_scraping": "2021-06-14 09:20:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DAFLON 1000MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DAFLON_1000MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$286.200",
+        "precioPorSku js-PUM": "Tableta a $9.540,00"
+    },
+    "descripcion": "DAFLON 1000MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "900 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "DIOSMINA HESPERIDINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SERVIER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0019782"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

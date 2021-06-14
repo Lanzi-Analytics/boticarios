@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anthelios-antibrillo-gel-color-spf50-effaclar-gel-exfoliante-effaclar-7702058129209/p",
+    "fecha_hora_scraping": "2021-06-14 02:26:45",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "ANTHELIOS ANTIBRILLO GEL COLOR SPF50+ EFFACLAR GEL EXFOLIANTE+EFFACLAR",
+    "nombre_imagen": "./web_scraping/data/img/ANTHELIOS_ANTIBRILLO_GEL_COLOR_SPF50_EFFACLAR_GEL_EXFOLIANTEEFFACLAR.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$105.100",
+        "precioPorSku js-PUM": "Unidad a $105.100,00"
+    },
+    "descripcion": "anthelios antibrillo gel color spf50+ effaclar gel exfoliante+effaclar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76242-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

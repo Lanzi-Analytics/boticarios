@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cramberry-fruit-plus-vitamina-c-softgels-30768000905/p",
+    "fecha_hora_scraping": "2021-06-14 02:22:28",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CRAMBERRY FRUIT PLUS VITAMINA C SOFTGELS",
+    "nombre_imagen": "./web_scraping/data/img/CRAMBERRY_FRUIT_PLUS_VITAMINA_C_SOFTGELS.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $746,67"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INTERNAL PERFUMERIA Y ESPECIA FARMA"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003740"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

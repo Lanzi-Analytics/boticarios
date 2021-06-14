@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lamotrigina-100mg-tableta-dispersable-humax-7707288821695/p",
+    "fecha_hora_scraping": "2021-06-14 07:20:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LAMOTRIGINA 100MG TABLETA DISPERSABLE HUMAX",
+    "nombre_imagen": "./web_scraping/data/img/LAMOTRIGINA_100MG_TABLETA_DISPERSABLE_HUMAX.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$38.600",
+        "precioPorSku js-PUM": "Tableta a $1.286,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "LAMOTRIGINA"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009334"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

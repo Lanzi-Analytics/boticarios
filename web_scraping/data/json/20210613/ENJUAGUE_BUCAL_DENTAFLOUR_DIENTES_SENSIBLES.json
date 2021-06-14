@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-dentaflour-dientes-sensibles-7702314122203/p",
+    "fecha_hora_scraping": "2021-06-14 03:02:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "ENJUAGUE BUCAL DENTAFLOUR DIENTES SENSIBLES",
+    "nombre_imagen": "./web_scraping/data/img/ENJUAGUE_BUCAL_DENTAFLOUR_DIENTES_SENSIBLES.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$7.350",
+        "precioPorSku js-PUM": "Mililitro a $36,75"
+    },
+    "descripcion": "enjuague bucal dentaflour dientes sensib",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2008CO29689"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

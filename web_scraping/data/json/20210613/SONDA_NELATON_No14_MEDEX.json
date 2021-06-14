@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sonda-nelaton-no14-medex-7707221290045/p",
+    "fecha_hora_scraping": "2021-06-14 04:45:13",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "SONDA NELATON No14 MEDEX",
+    "nombre_imagen": "./web_scraping/data/img/SONDA_NELATON_No14_MEDEX.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$692",
+        "precioPorSku js-PUM": "Unidad a $692,00"
+    },
+    "descripcion": "sonda nelaton no14 medex",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEDITEC S A"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0001689-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

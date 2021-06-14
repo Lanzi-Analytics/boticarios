@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapazol-5-mg-tableta-7703454121644/p",
+    "fecha_hora_scraping": "2021-06-14 08:07:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TAPAZOL 5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/TAPAZOL_5_MG_TABLETA.jpg",
+    "presentacion": "BLISTER X 20 TAB",
+    "precio": {
+        "bestPrice": "$14.390",
+        "precioPorSku js-PUM": "Tableta a $719,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "METIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-004189-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

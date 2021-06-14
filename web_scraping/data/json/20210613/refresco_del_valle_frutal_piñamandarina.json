@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/refresco-del-valle-frutal-pina-mandarina-7702535022535/p",
+    "fecha_hora_scraping": "2021-06-14 03:15:46",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "refresco del valle frutal pi\u00f1a-mandarina",
+    "nombre_imagen": "./web_scraping/data/img/refresco_del_valle_frutal_pi\u00f1amandarina.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "PrevPrice": "Antes:$1.650",
+        "bestPrice": "$1.155",
+        "precioPorSku js-PUM": "Mililitro a $2,31"
+    },
+    "descripcion": "refresco del valle frutal pi\u00f1a-mandarina",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005884-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

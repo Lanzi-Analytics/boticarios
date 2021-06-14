@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lumigan-003--solucion-oftalmica-7707236671570/p",
+    "fecha_hora_scraping": "2021-06-13 23:09:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LUMIGAN 0.03 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/LUMIGAN_003__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 3 ML",
+    "precio": {
+        "bestPrice": "$73.800",
+        "precioPorSku js-PUM": "Mililitro a $24.600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 3 ML"
+        ],
+        [
+            "Concentracion",
+            "0,3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BIMATOPROST"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000560-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

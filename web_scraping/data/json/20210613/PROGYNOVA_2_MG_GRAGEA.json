@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/progynova-2-mg-gragea-7896116861245/p",
+    "fecha_hora_scraping": "2021-06-14 02:54:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PROGYNOVA 2 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/PROGYNOVA_2_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 28 GRG",
+    "precio": {
+        "bestPrice": "$9.000",
+        "precioPorSku js-PUM": "Gragea a $321,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 GRG"
+        ],
+        [
+            "Concentracion",
+            "2 MG"
+        ],
+        [
+            "Principio activo",
+            "VALERATO ESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0004054-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

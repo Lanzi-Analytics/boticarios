@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-facial-teatrical-desmaquillante-650240027727/p",
+    "fecha_hora_scraping": "2021-06-14 07:27:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TEATRICAL DESMAQUILLANTE CREMA FACIAL",
+    "nombre_imagen": "./web_scraping/data/img/TEATRICAL_DESMAQUILLANTE_CREMA_FACIAL.jpg",
+    "presentacion": "POTE X 200 G",
+    "precio": {
+        "bestPrice": "$19.850",
+        "precioPorSku js-PUM": "Gramo a $99,25"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68404-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

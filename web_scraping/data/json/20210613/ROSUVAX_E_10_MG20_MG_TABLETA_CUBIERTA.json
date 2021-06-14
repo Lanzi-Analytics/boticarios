@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rosuvax-e-10-mg20-mg-tableta-cubierta-7707182841324/p",
+    "fecha_hora_scraping": "2021-06-14 07:46:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROSUVAX E 10 MG/20 MG TABLETA CUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ROSUVAX_E_10_MG20_MG_TABLETA_CUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$214.500",
+        "precioPorSku js-PUM": "Tableta a $7.150,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ROSUVASTATINA CALCICA EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013339-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

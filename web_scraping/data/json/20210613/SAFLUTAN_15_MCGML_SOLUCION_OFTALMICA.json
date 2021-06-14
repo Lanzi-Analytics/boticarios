@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/saflutan-15-mcgml-solucion-oftalmica-7709034708021/p",
+    "fecha_hora_scraping": "2021-06-14 10:37:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SAFLUTAN 15 MCG/ML SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/SAFLUTAN_15_MCGML_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$54.100",
+        "precioPorSku js-PUM": "Unidad a $1.803,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "0,015 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TAFLUPROST"
+        ],
+        [
+            "Laboratorio",
+            "MUNDIPHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011752-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

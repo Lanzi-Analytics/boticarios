@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fexofenadina-120-mg-tableta-recubierta-la-francol-7706569022301/p",
+    "fecha_hora_scraping": "2021-06-14 07:51:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEXOFENADINA 120 MG TABLETA RECUBIERTA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/FEXOFENADINA_120_MG_TABLETA_RECUBIERTA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$47.800",
+        "precioPorSku js-PUM": "Tableta a $4.780,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "120 MG"
+        ],
+        [
+            "Principio activo",
+            "FEXOFENADINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0009550-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

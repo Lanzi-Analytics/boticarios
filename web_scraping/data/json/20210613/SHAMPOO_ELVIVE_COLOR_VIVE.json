@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7506078926912shampoo-elvive-color-vivehigiene-y-cuidado-personalcuidado-del-cabellona-7506078926912/p",
+    "fecha_hora_scraping": "2021-06-14 06:03:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "SHAMPOO ELVIVE COLOR VIVE",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_ELVIVE_COLOR_VIVE.jpg",
+    "presentacion": "FRASCO X 400 X ML",
+    "precio": {
+        "PrevPrice": "Antes:$21.750",
+        "bestPrice": "$15.225",
+        "precioPorSku js-PUM": "Mililitro a $38,06"
+    },
+    "descripcion": "shampoo elvive color vive",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC2786-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

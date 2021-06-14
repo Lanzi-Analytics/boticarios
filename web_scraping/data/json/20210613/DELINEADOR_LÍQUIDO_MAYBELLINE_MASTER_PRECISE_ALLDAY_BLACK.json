@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-liquido-maybelline-master-precise-allday-black-41554568226/p",
+    "fecha_hora_scraping": "2021-06-14 02:20:35",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR L\u00cdQUIDO MAYBELLINE MASTER PRECISE ALLDAY BLACK",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_L\u00cdQUIDO_MAYBELLINE_MASTER_PRECISE_ALLDAY_BLACK.jpg",
+    "presentacion": "UNIDAD X 10 ML",
+    "precio": {
+        "bestPrice": "$34.300",
+        "precioPorSku js-PUM": "Mililitro a $31.181,82"
+    },
+    "descripcion": "delineador l\u00edquido maybelline master precise allday black",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69794-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-tosh-fresa-7702402054294/p",
+    "fecha_hora_scraping": "2021-06-14 08:06:22",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta tosh fresa",
+    "nombre_imagen": "./web_scraping/data/img/paleta_tosh_fresa.jpg",
+    "presentacion": "UNIDAD X 75 G",
+    "precio": {
+        "bestPrice": "$1.800",
+        "precioPorSku js-PUM": "Gramo a $24,00"
+    },
+    "descripcion": "paleta tosh fresa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 75 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001117-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

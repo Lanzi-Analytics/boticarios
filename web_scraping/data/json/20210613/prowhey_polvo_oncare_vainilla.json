@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prowhey-polvo-oncare-vainilla-7709729471704/p",
+    "fecha_hora_scraping": "2021-06-14 07:37:32",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "prowhey polvo oncare vainilla",
+    "nombre_imagen": "./web_scraping/data/img/prowhey_polvo_oncare_vainilla.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$92.400",
+        "precioPorSku js-PUM": "Gramo a $231,00"
+    },
+    "descripcion": "prowhey polvo oncare vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007680-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

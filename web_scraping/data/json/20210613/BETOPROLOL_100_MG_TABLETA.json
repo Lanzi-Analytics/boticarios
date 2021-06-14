@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betoprolol-100-mg-tableta-7704588000058/p",
+    "fecha_hora_scraping": "2021-06-14 10:13:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BETOPROLOL 100 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/BETOPROLOL_100_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$7.950",
+        "precioPorSku js-PUM": "Tableta a $265,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "METOPROLOL TARTRATO"
+        ],
+        [
+            "Laboratorio",
+            "ROPSOHN THERAPEUTICS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014M-013817-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

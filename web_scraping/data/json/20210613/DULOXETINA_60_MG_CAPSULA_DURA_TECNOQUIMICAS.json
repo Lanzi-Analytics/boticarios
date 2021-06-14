@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/duloxetina-60-mg-capsula-dura-tecnoquimicas-7702057323264/p",
+    "fecha_hora_scraping": "2021-06-14 09:22:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DULOXETINA 60 MG CAPSULA DURA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/DULOXETINA_60_MG_CAPSULA_DURA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$56.700",
+        "precioPorSku js-PUM": "Capsula a $2.025,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "60 MG"
+        ],
+        [
+            "Principio activo",
+            "DULOXETINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011665-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dhems-espuma-piernas-cansadas-7707208611658/p",
+    "fecha_hora_scraping": "2021-06-14 07:06:28",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DHEMS ESPUMA PIERNAS CANSADAS",
+    "nombre_imagen": "./web_scraping/data/img/DHEMS_ESPUMA_PIERNAS_CANSADAS.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $447,33"
+    },
+    "descripcion": "dhems espuma piernas cansadas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC43038-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

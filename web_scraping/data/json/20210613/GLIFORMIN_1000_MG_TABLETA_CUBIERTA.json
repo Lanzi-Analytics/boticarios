@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gliformin-1000-mg-tableta-cubierta-7707355053912/p",
+    "fecha_hora_scraping": "2021-06-14 08:59:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GLIFORMIN 1000 MG TABLETA CUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/GLIFORMIN_1000_MG_TABLETA_CUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$68.700",
+        "precioPorSku js-PUM": "Tableta a $2.290,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "1000 MG"
+        ],
+        [
+            "Principio activo",
+            "METFORMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008534"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

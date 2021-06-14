@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-interprox-plus-micro-8427426005983/p",
+    "fecha_hora_scraping": "2021-06-14 08:29:12",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CEPILLO INTERPROX PLUS MICRO",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_INTERPROX_PLUS_MICRO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$29.150",
+        "precioPorSku js-PUM": "Unidad a $4.858,33"
+    },
+    "descripcion": "cepillo interprox plus micro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005758"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

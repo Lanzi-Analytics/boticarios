@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corrector-max-factor-facefinity-light-to-medium-30-3614229310078/p",
+    "fecha_hora_scraping": "2021-06-14 02:07:48",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CORRECTOR MAX FACTOR FACEFINITY LIGHT TO MEDIUM #30",
+    "nombre_imagen": "./web_scraping/data/img/CORRECTOR_MAX_FACTOR_FACEFINITY_LIGHT_TO_MEDIUM_30.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $4.730,00"
+    },
+    "descripcion": "corrector max factor facefinity light to medium #30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98196-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

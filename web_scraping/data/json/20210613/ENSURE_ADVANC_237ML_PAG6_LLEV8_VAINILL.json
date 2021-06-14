@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-advanc-237ml-pag6-llev8-vainill-7703186032935/p",
+    "fecha_hora_scraping": "2021-06-14 02:25:44",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE ADVANC 237ML PAG:6 LLEV:8 VAINILL",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_ADVANC_237ML_PAG6_LLEV8_VAINILL.jpg",
+    "presentacion": "BOTELLA X 237 ML",
+    "precio": {
+        "bestPrice": "$45.900",
+        "precioPorSku js-PUM": "Mililitro a $193,67"
+    },
+    "descripcion": "ensure advance 237ml pag:6 llev:8 vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I178915"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

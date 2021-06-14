@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seretide-diskus-50-mcg500-mcg-polvo-para-inhalacion-5034642021531/p",
+    "fecha_hora_scraping": "2021-06-14 09:55:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SERETIDE DISKUS 50 MCG/500 MCG POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/SERETIDE_DISKUS_50_MCG500_MCG_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$106.350",
+        "precioPorSku js-PUM": "Unidad a $106.350,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "500 \u00b5G 50 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "PROPIONATO FLUTICASONA SALMETEROL XINAFOATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-13778-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

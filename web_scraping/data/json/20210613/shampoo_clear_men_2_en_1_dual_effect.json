@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-clear-men-2-en-1-dual-effect-7501056342944/p",
+    "fecha_hora_scraping": "2021-06-14 08:21:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo clear men 2 en 1 dual effect",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_clear_men_2_en_1_dual_effect.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Mililitro a $48,25"
+    },
+    "descripcion": "clear sh 2en1 dual effect 12x200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

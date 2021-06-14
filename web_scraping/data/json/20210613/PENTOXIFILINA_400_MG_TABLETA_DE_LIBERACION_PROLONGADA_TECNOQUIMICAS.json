@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pentoxifilina-400-mg-tableta-de-liberacion-prolongada-tecnoquimicas-7702057071066/p",
+    "fecha_hora_scraping": "2021-06-14 03:32:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PENTOXIFILINA 400 MG TABLETA DE LIBERACION PROLONGADA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/PENTOXIFILINA_400_MG_TABLETA_DE_LIBERACION_PROLONGADA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$46.150",
+        "precioPorSku js-PUM": "Tableta a $1.538,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "PENTOXIFILINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004953-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

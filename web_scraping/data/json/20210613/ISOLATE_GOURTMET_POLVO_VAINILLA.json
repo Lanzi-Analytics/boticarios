@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/isolate-gourtmet-polvo-vainilla-814465012085/p",
+    "fecha_hora_scraping": "2021-06-14 01:33:45",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "ISOLATE GOURTMET POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/ISOLATE_GOURTMET_POLVO_VAINILLA.jpg",
+    "presentacion": "BOLSA X 2270G",
+    "precio": {
+        "bestPrice": "$260.500",
+        "precioPorSku js-PUM": "Gramo a $114,76"
+    },
+    "descripcion": "isolate gourtmet polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 2270G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I90115"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

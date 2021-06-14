@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cefradina-500-mg-capsula-dura-tecnoquimicas-7702057071738/p",
+    "fecha_hora_scraping": "2021-06-14 10:07:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CEFRADINA 500 MG CAPSULA DURA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CEFRADINA_500_MG_CAPSULA_DURA_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 8 TAB",
+    "precio": {
+        "bestPrice": "$16.883",
+        "precioPorSku js-PUM": "Tableta a $2.110,42"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 8 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CEFRADINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-009670-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/olvision-02--solucion-oftalmica-7709990087000/p",
+    "fecha_hora_scraping": "2021-06-14 04:09:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OLVISION 0.2 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/OLVISION_02__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 2,5 ML",
+    "precio": {
+        "bestPrice": "$21.450",
+        "precioPorSku js-PUM": "Mililitro a $8.580,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 2,5 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "OLOPATADINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014376-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

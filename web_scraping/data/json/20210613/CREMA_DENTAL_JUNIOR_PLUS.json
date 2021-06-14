@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-junior-plus-7702314502333/p",
+    "fecha_hora_scraping": "2021-06-14 00:17:49",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL JUNIOR PLUS",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_JUNIOR_PLUS.jpg",
+    "presentacion": "TUBO X 25 ML",
+    "precio": {
+        "bestPrice": "$6.000",
+        "precioPorSku js-PUM": "Mililitro a $80,00"
+    },
+    "descripcion": "crema dental junior plus",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 25 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89003-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

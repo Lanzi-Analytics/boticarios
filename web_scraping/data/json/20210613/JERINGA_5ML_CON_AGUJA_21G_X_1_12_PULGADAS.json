@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-5ml-con-aguja-21g-x-1-12-pulgadas-7707228361786/p",
+    "fecha_hora_scraping": "2021-06-14 02:46:50",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA 5ML CON AGUJA 21G X 1 1/2 PULGADAS",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_5ML_CON_AGUJA_21G_X_1_12_PULGADAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$250",
+        "precioPorSku js-PUM": "Unidad a $250,00"
+    },
+    "descripcion": "jeringa 5ml con aguja 21g x 1 1/2 pulgad",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS PARA LA SALUD"
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0001797-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

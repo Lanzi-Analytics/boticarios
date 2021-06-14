@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/systane-ultra-unidosis-solucion-oftalmica-3700028501738/p",
+    "fecha_hora_scraping": "2021-06-14 03:01:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYSTANE ULTRA UNIDOSIS SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/SYSTANE_ULTRA_UNIDOSIS_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$67.100",
+        "precioPorSku js-PUM": "Unidad a $2.236,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "4 MG/ML 3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 400 PROPILENGLICOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013929"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

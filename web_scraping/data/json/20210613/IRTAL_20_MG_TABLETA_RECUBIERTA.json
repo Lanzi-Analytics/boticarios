@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/irtal-20-mg-tableta-recubierta-7703546705455/p",
+    "fecha_hora_scraping": "2021-06-13 23:33:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IRTAL 20 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/IRTAL_20_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$38.350",
+        "precioPorSku js-PUM": "Tableta a $1.278,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "TADALAFILO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0014995"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

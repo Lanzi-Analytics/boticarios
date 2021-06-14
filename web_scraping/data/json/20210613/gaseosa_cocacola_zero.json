@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-coca-cola-zero-7702535006764/p",
+    "fecha_hora_scraping": "2021-06-14 09:11:22",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa coca-cola zero",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_cocacola_zero.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$2.850",
+        "precioPorSku js-PUM": "Mililitro a $4,75"
+    },
+    "descripcion": "gaseosa coca-cola zero",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD19I28007"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

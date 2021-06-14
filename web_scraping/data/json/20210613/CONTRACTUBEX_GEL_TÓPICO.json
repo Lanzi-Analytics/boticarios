@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/contractubex-gel-topico-4046222290405/p",
+    "fecha_hora_scraping": "2021-06-14 06:16:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CONTRACTUBEX GEL T\u00d3PICO",
+    "nombre_imagen": "./web_scraping/data/img/CONTRACTUBEX_GEL_T\u00d3PICO.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$107.300",
+        "precioPorSku js-PUM": "Gramo a $5.365,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "50 UI/G 100 MG/G 10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "HEPARINA SODIO CEPAE ALANTOINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0000600-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

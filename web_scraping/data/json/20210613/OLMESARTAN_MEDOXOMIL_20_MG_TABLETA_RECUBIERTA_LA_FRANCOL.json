@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7706569022974lafrancolformuladosmedicamentosolmesartan-medoxomil-20-mg-tableta-recubierta-la-francololmesartan-medoxomilo-7706569022974/p",
+    "fecha_hora_scraping": "2021-06-14 03:14:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OLMESARTAN MEDOXOMIL 20 MG TABLETA RECUBIERTA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/OLMESARTAN_MEDOXOMIL_20_MG_TABLETA_RECUBIERTA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$10.200",
+        "precioPorSku js-PUM": "Tableta a $1.020,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "OLMESARTAN MEDOXOMILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017913"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

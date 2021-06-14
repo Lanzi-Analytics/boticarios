@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/smart-shade-polvo-compacto-pressed-powd-309978867050/p",
+    "fecha_hora_scraping": "2021-06-14 10:21:42",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "Smart Shade Polvo Compacto Pressed Powd",
+    "nombre_imagen": "./web_scraping/data/img/Smart_Shade_Polvo_Compacto_Pressed_Powd.jpg",
+    "presentacion": "CONTENEDOR X 6G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $11.114,04"
+    },
+    "descripcion": "smart shade polvo compacto pressed powd",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 6G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC 25938-17300"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

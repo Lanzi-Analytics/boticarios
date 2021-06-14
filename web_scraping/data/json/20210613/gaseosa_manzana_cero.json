@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-manzana-cero-7702090049817/p",
+    "fecha_hora_scraping": "2021-06-14 04:51:38",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa manzana cero",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_manzana_cero.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "$1.850",
+        "precioPorSku js-PUM": "Mililitro a $3,70"
+    },
+    "descripcion": "gaseosa manzana cero",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAK19I8014"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

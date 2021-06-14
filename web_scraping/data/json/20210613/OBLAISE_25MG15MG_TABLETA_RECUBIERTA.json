@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oblaise-25mg15mg-tableta-recubierta-7703689813161/p",
+    "fecha_hora_scraping": "2021-06-14 07:56:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OBLAISE 2.5MG/1.5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/OBLAISE_25MG15MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$24.500",
+        "precioPorSku js-PUM": "Tableta a $875,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2,5 MG 1,5 MG"
+        ],
+        [
+            "Principio activo",
+            "NOMEGESTROL ACETATO ESTRADIOL HEMIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ASOCIACION PROFAMILIA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017549"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

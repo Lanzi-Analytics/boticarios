@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/detrusitol-sr-4-mg-capsula-de-liberacion-prolongada-7703283402273/p",
+    "fecha_hora_scraping": "2021-06-14 04:32:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DETRUSITOL SR 4 MG CAPSULA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/DETRUSITOL_SR_4_MG_CAPSULA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$173.250",
+        "precioPorSku js-PUM": "Tableta a $5.775,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "4 MG"
+        ],
+        [
+            "Principio activo",
+            "TOLTERODINA L-TARTRATO"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0001173-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

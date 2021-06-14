@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hyzaar-100-mg125-mg-tableta-recubierta-7897337715522/p",
+    "fecha_hora_scraping": "2021-06-13 23:07:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HYZAAR 100 MG/12.5 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/HYZAAR_100_MG125_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 COM",
+    "precio": {
+        "bestPrice": "$393.150",
+        "precioPorSku js-PUM": "Comprimido a $13.105,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 COM"
+        ],
+        [
+            "Concentracion",
+            "100 MG 12.5 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN POTASICO HIDROCLOROTIAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0005570-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

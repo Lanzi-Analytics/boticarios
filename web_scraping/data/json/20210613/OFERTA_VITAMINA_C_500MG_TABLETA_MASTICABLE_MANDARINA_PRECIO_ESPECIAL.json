@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-vitamina-c-500mg-tableta-masticable-mandarina-precio-especial-7702057735883/p",
+    "fecha_hora_scraping": "2021-06-14 08:46:08",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA VITAMINA C 500MG TABLETA MASTICABLE MANDARINA PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_VITAMINA_C_500MG_TABLETA_MASTICABLE_MANDARINA_PRECIO_ESPECIAL.jpg",
+    "presentacion": "PAQUETE X 36 TAB",
+    "precio": {
+        "bestPrice": "$13.650",
+        "precioPorSku js-PUM": "Tableta a $379,17"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 36 TAB"
+        ],
+        [
+            "Concentracion",
+            "218 MG 317 MG"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO ASCORBATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0012915-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xelar-espuma-higiene-intima-7709985267745/p",
+    "fecha_hora_scraping": "2021-06-14 07:02:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "XELAR ESPUMA HIGIENE INTIMA",
+    "nombre_imagen": "./web_scraping/data/img/XELAR_ESPUMA_HIGIENE_INTIMA.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$28.950",
+        "precioPorSku js-PUM": "Mililitro a $144,75"
+    },
+    "descripcion": "xelar espuma higiene intima",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOHEALTHY SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70940-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

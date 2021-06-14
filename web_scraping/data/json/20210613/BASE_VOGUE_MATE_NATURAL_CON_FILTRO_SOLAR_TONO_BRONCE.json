@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-vogue-mate-natural-con-filtro-solar-tono-bronce-7509552842135/p",
+    "fecha_hora_scraping": "2021-06-14 06:50:25",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE VOGUE MATE NATURAL CON FILTRO SOLAR TONO BRONCE",
+    "nombre_imagen": "./web_scraping/data/img/BASE_VOGUE_MATE_NATURAL_CON_FILTRO_SOLAR_TONO_BRONCE.jpg",
+    "presentacion": "UNIDAD X 30 G",
+    "precio": {
+        "bestPrice": "$10.200",
+        "precioPorSku js-PUM": "Gramo a $340,00"
+    },
+    "descripcion": "base vogue mate natural con filtro solar tono bronce",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75498-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

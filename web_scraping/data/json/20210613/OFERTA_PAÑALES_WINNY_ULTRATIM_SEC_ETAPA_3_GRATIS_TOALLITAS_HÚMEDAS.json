@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-panales-winny-ultratim-sec-etapa-3-gratis-toallitas-humedas-7701021111838/p",
+    "fecha_hora_scraping": "2021-06-14 03:15:35",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA PA\u00d1ALES WINNY ULTRATIM SEC ETAPA 3 GRATIS TOALLITAS H\u00daMEDAS",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PA\u00d1ALES_WINNY_ULTRATIM_SEC_ETAPA_3_GRATIS_TOALLITAS_H\u00daMEDAS.jpg",
+    "presentacion": "PAQUETE X 32 UN",
+    "precio": {
+        "bestPrice": "$24.800",
+        "precioPorSku js-PUM": "Unidad a $775,00"
+    },
+    "descripcion": "oferta pa\u00f1ales winny ultratim sec etapa 3 gratis toallitas h\u00famedas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 32 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-2006V-001735R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

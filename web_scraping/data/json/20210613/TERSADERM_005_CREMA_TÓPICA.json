@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tersaderm-005-crema-topica-7703319000367/p",
+    "fecha_hora_scraping": "2021-06-14 03:58:14",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "TERSADERM 0.05% CREMA T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/TERSADERM_005_CREMA_T\u00d3PICA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$36.300",
+        "precioPorSku js-PUM": "Gramo a $1.210,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG/G  MG"
+        ],
+        [
+            "Principio activo",
+            "RETINOICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALDOQUIN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010016-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

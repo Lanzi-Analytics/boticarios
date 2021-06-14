@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-tosh-pina-7702402054300/p",
+    "fecha_hora_scraping": "2021-06-14 09:18:23",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta tosh pi\u00f1a",
+    "nombre_imagen": "./web_scraping/data/img/paleta_tosh_pi\u00f1a.jpg",
+    "presentacion": "UNIDAD X 75 G",
+    "precio": {
+        "bestPrice": "$1.800",
+        "precioPorSku js-PUM": "Gramo a $24,00"
+    },
+    "descripcion": "paleta tosh pi\u00f1a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 75 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001117-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

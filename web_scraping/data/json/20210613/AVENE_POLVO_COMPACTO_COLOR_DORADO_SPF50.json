@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-polvo-compacto-color-dorado-spf50-3282779241519/p",
+    "fecha_hora_scraping": "2021-06-14 03:47:47",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE POLVO COMPACTO COLOR DORADO SPF50",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_POLVO_COMPACTO_COLOR_DORADO_SPF50.jpg",
+    "presentacion": "FRASCO X 10 G",
+    "precio": {
+        "bestPrice": "$141.450",
+        "precioPorSku js-PUM": "Gramo a $14.145,00"
+    },
+    "descripcion": "avene polvo compacto color dorado spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13934-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

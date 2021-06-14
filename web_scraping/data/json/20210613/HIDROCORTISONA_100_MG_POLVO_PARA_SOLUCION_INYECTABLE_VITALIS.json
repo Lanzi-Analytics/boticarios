@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidrocortisona-100-mg-polvo-para-solucion-inyectable-vitalis-7709482273362/p",
+    "fecha_hora_scraping": "2021-06-14 00:34:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIDROCORTISONA 100 MG POLVO PARA SOLUCION INYECTABLE VITALIS",
+    "nombre_imagen": "./web_scraping/data/img/HIDROCORTISONA_100_MG_POLVO_PARA_SOLUCION_INYECTABLE_VITALIS.jpg",
+    "presentacion": "CAJA X 1 Vial",
+    "precio": {
+        "bestPrice": "$5.150",
+        "precioPorSku js-PUM": "Via a $5.150,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 Vial"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "HIDROCORTISONA SUCCINATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0003102-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

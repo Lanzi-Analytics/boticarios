@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levotiroxina-75-mcg-tableta-tecnoquimicas-7702057060688/p",
+    "fecha_hora_scraping": "2021-06-14 00:27:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOTIROXINA 75 MCG TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LEVOTIROXINA_75_MCG_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 50 TAB",
+    "precio": {
+        "bestPrice": "$26.200",
+        "precioPorSku js-PUM": "Tableta a $524,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "75 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "LEVOTIROXINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012602-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

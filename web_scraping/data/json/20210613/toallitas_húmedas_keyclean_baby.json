@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-keyclean-baby-7709254815196/p",
+    "fecha_hora_scraping": "2021-06-14 04:59:53",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "toallitas h\u00famedas key&clean baby",
+    "nombre_imagen": "./web_scraping/data/img/toallitas_h\u00famedas_keyclean_baby.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$1.050",
+        "precioPorSku js-PUM": "Unidad a $105,00"
+    },
+    "descripcion": "toallita acol key&clean x 10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TROPICAL DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40522-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

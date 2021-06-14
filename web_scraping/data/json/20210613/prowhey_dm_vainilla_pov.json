@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prowhey-dm-vainilla-pov-7709745585188/p",
+    "fecha_hora_scraping": "2021-06-14 01:40:41",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "prowhey dm vainilla pov",
+    "nombre_imagen": "./web_scraping/data/img/prowhey_dm_vainilla_pov.jpg",
+    "presentacion": "LATA X 850 G",
+    "precio": {
+        "bestPrice": "$119.850",
+        "precioPorSku js-PUM": "Gramo a $141,00"
+    },
+    "descripcion": "prowhey dm vainilla pov",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 850 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I88214"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/redoxon-total-tableta-efervescente-7702123012108/p",
+    "fecha_hora_scraping": "2021-06-13 23:34:14",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "REDOXON TOTAL TABLETA EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/REDOXON_TOTAL_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "FRASCO X 20 UN",
+    "precio": {
+        "bestPrice": "$26.500",
+        "precioPorSku js-PUM": "Unidad a $1.325,00"
+    },
+    "descripcion": "redoxon total tableta efervescente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004368"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

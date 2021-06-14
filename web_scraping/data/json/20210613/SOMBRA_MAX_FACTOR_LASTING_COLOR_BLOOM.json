@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sombra-max-factor-lasting-color-bloom-7702044260374/p",
+    "fecha_hora_scraping": "2021-06-14 07:21:09",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "SOMBRA MAX FACTOR LASTING COLOR BLOOM",
+    "nombre_imagen": "./web_scraping/data/img/SOMBRA_MAX_FACTOR_LASTING_COLOR_BLOOM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $3.766,67"
+    },
+    "descripcion": "sombra max factor lasting color bloom",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00179-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7896116866608meliane-light-060-mg015-mg-tableta-recubiertamedicamentosformuladosbayer-7896116866608/p",
+    "fecha_hora_scraping": "2021-06-14 05:38:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MELIANE LIGHT 0.60 MG/0.15 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/MELIANE_LIGHT_060_MG015_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$94.700",
+        "bestPrice": "$80.495",
+        "precioPorSku js-PUM": "Tableta a $2.874,82"
+    },
+    "descripcion": "meliane light 0.60 mg/0.15 mg tableta recubierta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "0.06 MG 0.015 MG"
+        ],
+        [
+            "Principio activo",
+            "GESTODENO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-014513-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

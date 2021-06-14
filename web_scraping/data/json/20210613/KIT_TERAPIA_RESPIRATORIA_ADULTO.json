@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-terapia-respiratoria-adulto-7707320190062/p",
+    "fecha_hora_scraping": "2021-06-14 02:18:18",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|terapia respiratoria",
+    "titulo": "KIT TERAPIA RESPIRATORIA ADULTO",
+    "nombre_imagen": "./web_scraping/data/img/KIT_TERAPIA_RESPIRATORIA_ADULTO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $4.650,00"
+    },
+    "descripcion": "kit terapia respiratoria adulto",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CORALMEDICA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002667"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

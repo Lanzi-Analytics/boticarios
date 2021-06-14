@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pregabalina-300-mg-capsula-dura-tecnoquimicas-7702057060947/p",
+    "fecha_hora_scraping": "2021-06-14 01:28:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PREGABALINA 300 MG CAPSULA DURA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/PREGABALINA_300_MG_CAPSULA_DURA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 14 CAP",
+    "precio": {
+        "bestPrice": "$37.150",
+        "precioPorSku js-PUM": "Capsula a $2.653,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 CAP"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013014-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

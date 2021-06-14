@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sun-pro-familiar-spf105-7702277140641/p",
+    "fecha_hora_scraping": "2021-06-14 06:10:59",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "protector solar sun pro familiar spf105+",
+    "nombre_imagen": "./web_scraping/data/img/protector_solar_sun_pro_familiar_spf105.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$49.600",
+        "bestPrice": "$34.720",
+        "precioPorSku js-PUM": "Mililitro a $289,33"
+    },
+    "descripcion": "protector solar sun pro familiar spf105+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59853-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

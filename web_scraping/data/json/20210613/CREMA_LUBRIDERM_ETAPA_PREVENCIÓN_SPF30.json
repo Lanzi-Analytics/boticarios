@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-lubriderm-etapa-prevencion-spf30-7702031278238/p",
+    "fecha_hora_scraping": "2021-06-14 07:05:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "CREMA LUBRIDERM ETAPA PREVENCI\u00d3N SPF30+",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_LUBRIDERM_ETAPA_PREVENCI\u00d3N_SPF30.jpg",
+    "presentacion": "ENVASE X 240 ML",
+    "precio": {
+        "bestPrice": "$22.800",
+        "precioPorSku js-PUM": "Mililitro a $95,00"
+    },
+    "descripcion": "crema lubriderm prevencion uv30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 240 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

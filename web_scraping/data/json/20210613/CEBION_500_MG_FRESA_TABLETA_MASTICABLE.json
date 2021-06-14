@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702418000056merckvitaminasnutricion-y-vida-saludablecebion-500-mg-fresa-tableta-masticableascorbico-acido-ascorbato-sodio-7702418000056/p",
+    "fecha_hora_scraping": "2021-06-14 06:32:42",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CEBION 500 MG FRESA TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/CEBION_500_MG_FRESA_TABLETA_MASTICABLE.jpg",
+    "presentacion": "BLISTER X 12 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$8.613",
+        "bestPrice": "$6.890",
+        "precioPorSku js-PUM": "Tableta a $574,17"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "260 MG 290 MG"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO ASCORBATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0007923-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

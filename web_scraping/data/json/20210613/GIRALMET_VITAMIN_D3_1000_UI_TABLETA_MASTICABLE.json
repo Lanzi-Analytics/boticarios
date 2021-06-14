@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/giralmet-vitamin-d3-1000-ui-tableta-masticable-77037251/p",
+    "fecha_hora_scraping": "2021-06-14 09:08:49",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GIRALMET VITAMIN D3 1000 UI TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/GIRALMET_VITAMIN_D3_1000_UI_TABLETA_MASTICABLE.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$26.950",
+        "bestPrice": "$21.560",
+        "precioPorSku js-PUM": "Tableta a $718,67"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2010-0001434"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

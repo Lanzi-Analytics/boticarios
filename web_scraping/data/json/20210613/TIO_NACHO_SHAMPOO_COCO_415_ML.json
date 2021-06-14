@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-tio-nacho-ultra-hidratante-aceite-de-coco-7798140258490/p",
+    "fecha_hora_scraping": "2021-06-13 23:15:03",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TIO NACHO SHAMPOO COCO 415 ML",
+    "nombre_imagen": "./web_scraping/data/img/TIO_NACHO_SHAMPOO_COCO_415_ML.jpg",
+    "presentacion": "FRASCO X 415 ML",
+    "precio": {
+        "bestPrice": "$22.600",
+        "precioPorSku js-PUM": "Mililitro a $54,46"
+    },
+    "descripcion": "su f\u00f3rmula penetra y retiene la hidrataci\u00f3n, devolviendo el 100% del agua perdida desde el primer uso",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 415 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85758-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

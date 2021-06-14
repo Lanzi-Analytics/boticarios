@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tolmus-325-mg375-mg-comprimido-7841141002798/p",
+    "fecha_hora_scraping": "2021-06-14 04:42:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TOLMUS 325 MG/37.5 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/TOLMUS_325_MG375_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 10 COM",
+    "precio": {
+        "bestPrice": "$31.450",
+        "precioPorSku js-PUM": "Comprimido a $3.145,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 COM"
+        ],
+        [
+            "Concentracion",
+            "325 MG 37.5 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN TRAMADOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004949-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

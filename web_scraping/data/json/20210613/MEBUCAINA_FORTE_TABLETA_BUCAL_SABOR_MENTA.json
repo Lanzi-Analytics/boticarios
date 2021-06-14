@@ -1,27 +1,27 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/7707397791056-glaxo-consumer-healthcare-garganta-mebucaina-forte-tableta-bucal-sabor-mentagripa-dolor-de-garganta-dolorcetilpiridinio-cloruro-benoxinato-clorhidrato-7707397791056/p",
-    "fecha_hora_scraping": "2021-06-13 18:19:23",
+    "url_producto": "https://www.drogueriascolsubsidio.com/mebucaina-forte-tableta-bucal-sabor-menta-7707397791049/p",
+    "fecha_hora_scraping": "2021-06-14 09:43:26",
     "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "MEBUCAINA FORTE TABLETA BUCAL SABOR MENTA",
     "nombre_imagen": "./web_scraping/data/img/MEBUCAINA_FORTE_TABLETA_BUCAL_SABOR_MENTA.jpg",
-    "presentacion": "CAJA X 10 TAB",
+    "presentacion": "BLISTER X 10 TAB",
     "precio": {
-        "bestPrice": "$11.950",
-        "precioPorSku js-PUM": "Tableta a $1.195,00"
+        "bestPrice": "$11.565",
+        "precioPorSku js-PUM": "Tableta a $1.156,50"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 10 TAB"
+            "BLISTER X 10 TAB"
         ],
         [
             "Concentracion",
-            "2 MG 1 MG"
+            "1 MG 2 MG"
         ],
         [
             "Principio activo",
-            "CETILPIRIDINIO CLORURO BENOXINATO CLORHIDRATO"
+            "LIDOCAINA CLORHIDRATO"
         ],
         [
             "Laboratorio",

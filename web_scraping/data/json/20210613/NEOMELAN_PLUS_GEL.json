@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neomelan-plus-gel-7707206270116/p",
+    "fecha_hora_scraping": "2021-06-14 04:15:44",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEOMELAN PLUS GEL",
+    "nombre_imagen": "./web_scraping/data/img/NEOMELAN_PLUS_GEL.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$93.700",
+        "precioPorSku js-PUM": "Gramo a $3.123,33"
+    },
+    "descripcion": "neomelan plus gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC18174-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lancetas-one-touch-delica-plus-7709816316482/p",
+    "fecha_hora_scraping": "2021-06-14 03:58:55",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "LANCETAS ONE TOUCH DELICA PLUS",
+    "nombre_imagen": "./web_scraping/data/img/LANCETAS_ONE_TOUCH_DELICA_PLUS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$23.100",
+        "bestPrice": "$17.325",
+        "precioPorSku js-PUM": "Unidad a $17.325"
+    },
+    "descripcion": "LANCETAS ONE TOUCH DELICA PLUS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS LANCETAS DE GLUCOMETRIA"
+        ],
+        [
+            "Laboratorio",
+            "OPERANDO MEDICOS & QUIRURGICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020DM-0021883"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

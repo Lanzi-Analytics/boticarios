@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ladee-2-mg003-mg-comprimido-recubierto-8437009433577/p",
+    "fecha_hora_scraping": "2021-06-14 03:13:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LADEE 2 MG/0.03 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/LADEE_2_MG003_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 21 CAP",
+    "precio": {
+        "bestPrice": "$26.800",
+        "precioPorSku js-PUM": "Unidad a $1.276,19"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 CAP"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0.03 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORMADINONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016841"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

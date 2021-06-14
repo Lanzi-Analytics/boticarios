@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cloperax-suspension-oral-7703153020101/p",
+    "fecha_hora_scraping": "2021-06-14 06:07:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLOPERAX SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/CLOPERAX_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$55.350",
+        "precioPorSku js-PUM": "Mililitro a $461,25"
+    },
+    "descripcion": "CLOPERAX SUSPENSION ORAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "7.08 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CLOPERASTINA FENDIZOATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0006542-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

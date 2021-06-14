@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703454123341brasartan-ctdn-160-mg25-mg-tableta-recubiertamedicamentosformuladosfarma-de-colombiavalsartan-clortalidona-7703454123341/p",
+    "fecha_hora_scraping": "2021-06-14 07:21:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BRASARTAN CTDN 160 MG/25 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/BRASARTAN_CTDN_160_MG25_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$85.650",
+        "precioPorSku js-PUM": "Tableta a $2.855,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN CLORTALIDONA"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016071"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colafit-colageno-cubos-capsula-8594011210616/p",
+    "fecha_hora_scraping": "2021-06-14 09:10:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "COLAFIT COLAGENO CUBOS C\u00c1PSULA",
+    "nombre_imagen": "./web_scraping/data/img/COLAFIT_COLAGENO_CUBOS_C\u00c1PSULA.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$74.350",
+        "bestPrice": "$59.480",
+        "precioPorSku js-PUM": "Capsula a $1.982,67"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INVERSIONES PLAMATECH LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002816"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

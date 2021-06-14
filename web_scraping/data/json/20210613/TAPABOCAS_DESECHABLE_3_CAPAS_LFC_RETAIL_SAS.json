@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-desechable-3-capas-lfc-retail-sas-7703681046420/p",
+    "fecha_hora_scraping": "2021-06-14 05:20:03",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "TAPABOCAS DESECHABLE 3 CAPAS LFC RETAIL SAS",
+    "nombre_imagen": "./web_scraping/data/img/TAPABOCAS_DESECHABLE_3_CAPAS_LFC_RETAIL_SAS.jpg",
+    "presentacion": "BOLSA X 10 UN",
+    "precio": {
+        "bestPrice": "$8.100",
+        "precioPorSku js-PUM": "Unidad a $810,00"
+    },
+    "descripcion": "tapabocas desechable 3 capas lfc retail sas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LFC RETAIL SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

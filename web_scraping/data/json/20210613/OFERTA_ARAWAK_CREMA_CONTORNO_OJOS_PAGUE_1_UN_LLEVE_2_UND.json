@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-arawak-crema-contorno-ojos-pague-1-un-lleve-2-und-7707016404367/p",
+    "fecha_hora_scraping": "2021-06-14 09:57:47",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "OFERTA ARAWAK CREMA CONTORNO OJOS PAGUE: 1 UN LLEVE: 2 UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ARAWAK_CREMA_CONTORNO_OJOS_PAGUE_1_UN_LLEVE_2_UND.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$68.850",
+        "precioPorSku js-PUM": "Gramo a $4.590,00"
+    },
+    "descripcion": "oferta arawak crema contorno ojos pague:",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38997-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/valcote-250-mg-tableta-con-cubierta-enterica-7703186621412/p",
+    "fecha_hora_scraping": "2021-06-14 05:29:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VALCOTE 250 MG TABLETA CON CUBIERTA ENTERICA",
+    "nombre_imagen": "./web_scraping/data/img/VALCOTE_250_MG_TABLETA_CON_CUBIERTA_ENTERICA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$60.600",
+        "precioPorSku js-PUM": "Tableta a $2.020,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "VALPROICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-007747-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

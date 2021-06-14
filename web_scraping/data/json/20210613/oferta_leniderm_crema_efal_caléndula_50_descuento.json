@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-leniderm-crema-efal-calendula-50-descuento-7707355056890/p",
+    "fecha_hora_scraping": "2021-06-14 06:27:48",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "oferta leniderm crema +efal cal\u00e9ndula 50% descuento",
+    "nombre_imagen": "./web_scraping/data/img/oferta_leniderm_crema_efal_cal\u00e9ndula_50_descuento.jpg",
+    "presentacion": "FRASCO X 280 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $155.450,00"
+    },
+    "descripcion": "oferta leniderm crema +efal cal\u00e9ndula 50% descuento",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC08976-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

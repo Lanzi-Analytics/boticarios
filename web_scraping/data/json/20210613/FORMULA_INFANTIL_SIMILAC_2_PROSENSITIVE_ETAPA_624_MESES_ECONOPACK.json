@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-similac-2-prosensitive-etapa-6-24-meses-econopack-7703186032850/p",
+    "fecha_hora_scraping": "2021-06-14 01:15:59",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL SIMILAC 2 PROSENSITIVE ETAPA 6-24 MESES ECONOPACK",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_SIMILAC_2_PROSENSITIVE_ETAPA_624_MESES_ECONOPACK.jpg",
+    "presentacion": "CAJA X 1750 G",
+    "precio": {
+        "bestPrice": "$127.200",
+        "precioPorSku js-PUM": "Gramo a $72,69"
+    },
+    "descripcion": "formula infantil similac 2 prosensitive",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1750 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002862-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

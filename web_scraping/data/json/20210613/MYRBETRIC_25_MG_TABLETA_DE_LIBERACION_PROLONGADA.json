@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/myrbetric-25-mg-tableta-de-liberacion-prolongada-7709484810886/p",
+    "fecha_hora_scraping": "2021-06-14 05:27:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MYRBETRIC 25 MG TABLETA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/MYRBETRIC_25_MG_TABLETA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$66.000",
+        "precioPorSku js-PUM": "Tableta a $2.200,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "MIRABEGRON"
+        ],
+        [
+            "Laboratorio",
+            "ASTELLAS FARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017560"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

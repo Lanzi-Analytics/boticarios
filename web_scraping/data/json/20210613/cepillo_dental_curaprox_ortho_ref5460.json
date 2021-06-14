@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-curaprox-ortho-ref5460-7612412700077/p",
+    "fecha_hora_scraping": "2021-06-14 04:02:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "cepillo dental curaprox ortho ref5460",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_curaprox_ortho_ref5460.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$24.400",
+        "precioPorSku js-PUM": "Unidad a $24.400,00"
+    },
+    "descripcion": "cepillo dental ortho 5460 curaprox",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LAMOSAN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0006985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

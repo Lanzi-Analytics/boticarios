@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xyloprocto-unguento-rectal-6091403219155/p",
+    "fecha_hora_scraping": "2021-06-14 03:43:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "XYLOPROCTO UNGUENTO RECTAL",
+    "nombre_imagen": "./web_scraping/data/img/XYLOPROCTO_UNGUENTO_RECTAL.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$69.050",
+        "precioPorSku js-PUM": "Gramo a $3.452,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "180 MG/G 50 MG/G 35 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ZINC OXIDO LIDOCAINA ALUMINIO SUBACETATO"
+        ],
+        [
+            "Laboratorio",
+            "ASPEN COLOMBIANA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-001740-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/champiojo-emulsion--peine-7707210530084/p",
+    "fecha_hora_scraping": "2021-06-14 08:27:12",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "CHAMPIOJO EMULSION + PEINE",
+    "nombre_imagen": "./web_scraping/data/img/CHAMPIOJO_EMULSION__PEINE.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$22.700",
+        "precioPorSku js-PUM": "Mililitro a $378,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "0.2 G"
+        ],
+        [
+            "Principio activo",
+            "CIPERMETRINA ALFA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "M-010387"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

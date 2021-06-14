@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zentius-20mg-comprimido-recubierto-7730969302817/p",
+    "fecha_hora_scraping": "2021-06-13 23:15:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZENTIUS 20MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/ZENTIUS_20MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "UNIDAD X 10COM",
+    "precio": {
+        "bestPrice": "$146.300",
+        "precioPorSku js-PUM": "Comprimido a $4.876,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 10COM"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ESCITALOPRAM"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0000828-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/citragel-tableta-recubierta-7703153022570/p",
+    "fecha_hora_scraping": "2021-06-14 07:57:39",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CITRAGEL TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CITRAGEL_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$50.850",
+        "precioPorSku js-PUM": "Tableta a $1.695,00"
+    },
+    "descripcion": "CITRAGEL TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "315 MG 200 UI"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008826"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

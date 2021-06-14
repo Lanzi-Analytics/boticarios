@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anoro-625-mcg25-mcg-polvo-para-inhalacion-7441026003065/p",
+    "fecha_hora_scraping": "2021-06-14 08:28:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ANORO 62.5 MCG/25 MCG POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/ANORO_625_MCG25_MCG_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$145.850",
+        "precioPorSku js-PUM": "Unidad a $145.850,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "62.5 MCG 25 MCG"
+        ],
+        [
+            "Principio activo",
+            "UMECLIDINIO BROMUROVILANTEROL TRIFENATATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016721-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

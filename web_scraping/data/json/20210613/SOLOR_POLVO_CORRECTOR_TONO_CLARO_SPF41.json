@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sol-or-polvo-compacto-tono-claro-spf41-7704190000262/p",
+    "fecha_hora_scraping": "2021-06-14 06:44:20",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "SOLOR POLVO CORRECTOR TONO CLARO SPF41+",
+    "nombre_imagen": "./web_scraping/data/img/SOLOR_POLVO_CORRECTOR_TONO_CLARO_SPF41.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$64.700",
+        "bestPrice": "$45.290",
+        "precioPorSku js-PUM": "Gramo a $45.290"
+    },
+    "descripcion": "sol-or polvo compacto tono claro spf41",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIFARMA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73454-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

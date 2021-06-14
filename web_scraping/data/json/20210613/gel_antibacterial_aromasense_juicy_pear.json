@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-antibacterial-aromasense-juicy-pear-7702277005506/p",
+    "fecha_hora_scraping": "2021-06-14 02:14:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "gel antibacterial aromasense juicy pear",
+    "nombre_imagen": "./web_scraping/data/img/gel_antibacterial_aromasense_juicy_pear.jpg",
+    "presentacion": "ENVASE X 88 ML",
+    "precio": {
+        "bestPrice": "$7.500",
+        "precioPorSku js-PUM": "Mililitro a $85,23"
+    },
+    "descripcion": "gel antib aromasense antib 88 ml juicy",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 88 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

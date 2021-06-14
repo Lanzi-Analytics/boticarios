@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bionette-798304316544/p",
+    "fecha_hora_scraping": "2021-06-14 01:13:34",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BIONETTE",
+    "nombre_imagen": "./web_scraping/data/img/BIONETTE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$261.800",
+        "precioPorSku js-PUM": "Unidad a $261.800,00"
+    },
+    "descripcion": "bionette",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEUROFHARMA GLOBAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011044"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

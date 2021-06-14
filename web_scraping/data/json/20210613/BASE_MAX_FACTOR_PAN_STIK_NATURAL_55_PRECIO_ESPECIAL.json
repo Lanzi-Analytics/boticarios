@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-max-factor-pan-stik-natural-55-precio-especial-7702044056441/p",
+    "fecha_hora_scraping": "2021-06-14 05:08:29",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE MAX FACTOR PAN STIK NATURAL #55 PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/BASE_MAX_FACTOR_PAN_STIK_NATURAL_55_PRECIO_ESPECIAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$26.650",
+        "precioPorSku js-PUM": "Gramo a $3.028,41"
+    },
+    "descripcion": "base max factor pan stik natural #55 precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC02589-93CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

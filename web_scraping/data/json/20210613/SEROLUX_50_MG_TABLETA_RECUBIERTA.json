@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/serolux-50-mg-tableta-recubierta-7702635343318/p",
+    "fecha_hora_scraping": "2021-06-14 03:43:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SEROLUX 50 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/SEROLUX_50_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$29.900",
+        "precioPorSku js-PUM": "Tableta a $2.990,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "SERTRALINA HIDROCLORURO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0002612-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

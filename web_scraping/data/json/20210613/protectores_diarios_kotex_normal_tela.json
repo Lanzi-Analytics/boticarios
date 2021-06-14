@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-diarios-kotex-normal-tela-7702425544932/p",
+    "fecha_hora_scraping": "2021-06-13 23:32:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores diarios kotex normal tela",
+    "nombre_imagen": "./web_scraping/data/img/protectores_diarios_kotex_normal_tela.jpg",
+    "presentacion": "EMPAQUE X 15 UN",
+    "precio": {
+        "bestPrice": "$2.250",
+        "precioPorSku js-PUM": "Unidad a $150,00"
+    },
+    "descripcion": "pro dia kot nor tela 12x15 ctrl olor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 15 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

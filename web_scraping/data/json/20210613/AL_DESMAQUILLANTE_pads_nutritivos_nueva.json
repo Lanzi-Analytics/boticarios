@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-desmaquillante-pads-nutritivos-nueva-309975924480/p",
+    "fecha_hora_scraping": "2021-06-14 05:17:27",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL DESMAQUILLANTE pads nutritivos (nueva",
+    "nombre_imagen": "./web_scraping/data/img/AL_DESMAQUILLANTE_pads_nutritivos_nueva.jpg",
+    "presentacion": "TARRO X 80 UN",
+    "precio": {
+        "bestPrice": "$36.200",
+        "precioPorSku js-PUM": "Unidad a $452,50"
+    },
+    "descripcion": "al desmaquillante pads nutritivos (nueva",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 80 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40739-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

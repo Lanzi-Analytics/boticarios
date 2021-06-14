@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neutrogena-crema-contorno-ojos-hydro-boost-7891010882990/p",
+    "fecha_hora_scraping": "2021-06-14 00:16:00",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEUTROGENA CREMA CONTORNO OJOS HYDRO BOOST",
+    "nombre_imagen": "./web_scraping/data/img/NEUTROGENA_CREMA_CONTORNO_OJOS_HYDRO_BOOST.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$42.500",
+        "precioPorSku js-PUM": "Gramo a $2.833,33"
+    },
+    "descripcion": "neutrogena crema contorno ojos hydro boo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71681-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

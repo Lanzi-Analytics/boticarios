@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-para-peinar-pantene-rizos-7501001170080/p",
+    "fecha_hora_scraping": "2021-06-14 07:58:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "crema para peinar pantene pro-v rizos definidos",
+    "nombre_imagen": "./web_scraping/data/img/crema_para_peinar_pantene_prov_rizos_definidos.jpg",
+    "presentacion": "BOTELLA X 300 ML",
+    "precio": {
+        "bestPrice": "$15.450",
+        "precioPorSku js-PUM": "Mililitro a $51,50"
+    },
+    "descripcion": "crema peinar pantene 300 ml rizos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 300 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

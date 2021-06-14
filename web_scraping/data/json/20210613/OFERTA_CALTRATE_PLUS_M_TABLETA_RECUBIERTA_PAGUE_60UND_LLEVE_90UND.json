@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-caltrate-plus-m-tableta-recubierta-pague-60und-lleve-90und-7702132210403/p",
+    "fecha_hora_scraping": "2021-06-14 08:38:41",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA CALTRATE PLUS M TABLETA RECUBIERTA PAGUE: 60UND LLEVE: 90UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CALTRATE_PLUS_M_TABLETA_RECUBIERTA_PAGUE_60UND_LLEVE_90UND.jpg",
+    "presentacion": "CAJA X 90 TAB",
+    "precio": {
+        "bestPrice": "$59.200",
+        "precioPorSku js-PUM": "Tableta a $986,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 90 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG 400 UI 50 MG"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO VITAMINA D3 OXIDO MAGNESIO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015048"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

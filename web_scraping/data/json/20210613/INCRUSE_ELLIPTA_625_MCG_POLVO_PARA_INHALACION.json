@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/incruse-ellipta-625-mcg-polvo-para-inhalacion-7441026003102/p",
+    "fecha_hora_scraping": "2021-06-14 01:53:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "INCRUSE ELLIPTA 62.5 MCG POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/INCRUSE_ELLIPTA_625_MCG_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$111.600",
+        "precioPorSku js-PUM": "Unidad a $111.600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "55 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "UMECLIDINIO BROMURO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017469"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutren-senior-polvo-vainilla-7891000302996/p",
+    "fecha_hora_scraping": "2021-06-14 08:28:03",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTREN SENIOR POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/NUTREN_SENIOR_POLVO_VAINILLA.jpg",
+    "presentacion": "LATA X 370 G",
+    "precio": {
+        "bestPrice": "$45.150",
+        "precioPorSku js-PUM": "Mililitro a $225,75"
+    },
+    "descripcion": "nutren senior polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 370 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009205-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

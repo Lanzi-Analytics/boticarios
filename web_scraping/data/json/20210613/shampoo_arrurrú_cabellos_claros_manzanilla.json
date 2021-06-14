@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-arrurru-cabellos-claros-manzanilla-7702277074656/p",
+    "fecha_hora_scraping": "2021-06-14 03:49:06",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "shampoo arrurr\u00fa cabellos claros manzanilla",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_arrurr\u00fa_cabellos_claros_manzanilla.jpg",
+    "presentacion": "BOTELLA X 120 ML",
+    "precio": {
+        "bestPrice": "$6.300",
+        "precioPorSku js-PUM": "Mililitro a $52,50"
+    },
+    "descripcion": "shm cabellos claros arrurru 120 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

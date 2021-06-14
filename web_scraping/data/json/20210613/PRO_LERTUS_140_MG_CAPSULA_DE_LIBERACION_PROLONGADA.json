@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pro-lertus-140-mg-capsula-de-liberacion-prolongada-7707204490738/p",
+    "fecha_hora_scraping": "2021-06-14 02:43:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRO LERTUS 140 MG CAPSULA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/PRO_LERTUS_140_MG_CAPSULA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$39.650",
+        "precioPorSku js-PUM": "Capsula a $3.965,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "140 MG"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO COLESTIRAMINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0002733-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/piascledine-300-mg-capsula-7460536556540/p",
+    "fecha_hora_scraping": "2021-06-13 23:51:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PIASCLEDINE 300 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/PIASCLEDINE_300_MG_CAPSULA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$155.450",
+        "precioPorSku js-PUM": "Capsula a $5.181,67"
+    },
+    "descripcion": "piascledine 300 mg capsula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "INSAPONIFIC ACEITE GLICINA MAX PERSEA GRATISSIMA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2008-0000832"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

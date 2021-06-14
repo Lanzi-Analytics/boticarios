@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toalla-higienica-nosotras-natural-invisible-x-30--30-panitos-7702027429569/p",
+    "fecha_hora_scraping": "2021-06-14 01:23:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toalla higienica nosotras natural invisible x 30 + 30 pa\u00f1itos",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toalla_higienica_nosotras_natural_invisible_x_30__30_pa\u00f1itos.jpg",
+    "presentacion": "PAQUETE X 30 UN",
+    "precio": {
+        "bestPrice": "$22.900",
+        "precioPorSku js-PUM": "Unidad a $763,33"
+    },
+    "descripcion": "oferta toalla higienica nosotras natural invisible x 30 + 30 pa\u00f1itos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00218-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

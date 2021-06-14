@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-hug-limp-efec-x32-superprecio-7702425801363/p",
+    "fecha_hora_scraping": "2021-06-14 09:15:51",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "TOALLITAS HUMEDAS HUG LIMP EFEC X32 SUPERPRECIO",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_HUMEDAS_HUG_LIMP_EFEC_X32_SUPERPRECIO.jpg",
+    "presentacion": "PAQUETE X 32 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $90,63"
+    },
+    "descripcion": "TOALLITAS HUMEDAS HUG LIMP EFEC X32 SUPERPRECIO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 32 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72746-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

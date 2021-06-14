@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/combo-inti-fresc-nat-210g--doyp-7702870883143/p",
+    "fecha_hora_scraping": "2021-06-14 06:08:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "combo inti fresc nat 210g + doyp",
+    "nombre_imagen": "./web_scraping/data/img/combo_inti_fresc_nat_210g__doyp.jpg",
+    "presentacion": "FRASCO X 280 G",
+    "precio": {
+        "bestPrice": "$12.350",
+        "precioPorSku js-PUM": "Gramo a $44,11"
+    },
+    "descripcion": "combo inti fresc nat 210g + doyp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88904-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

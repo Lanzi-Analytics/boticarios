@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/3282770208795avene-hydrance-emulsion-hidratante-riche-uv-spf30bellezadermocosmeticapercos-3282770208795/p",
+    "fecha_hora_scraping": "2021-06-14 02:51:05",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE HYDRANCE EMULSION HIDRATANTE RICHE UV SPF30",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_HYDRANCE_EMULSION_HIDRATANTE_RICHE_UV_SPF30.jpg",
+    "presentacion": "FRASCO X 40 ML",
+    "precio": {
+        "bestPrice": "$105.554",
+        "precioPorSku js-PUM": "Mililitro a $2.638,85"
+    },
+    "descripcion": "avene hydrance emulsion hidratante riche uv spf30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98631-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

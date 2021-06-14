@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sonda-foley-no18-dos-vias-6936165217974/p",
+    "fecha_hora_scraping": "2021-06-14 10:33:51",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "SONDA FOLEY No18 DOS VIAS",
+    "nombre_imagen": "./web_scraping/data/img/SONDA_FOLEY_No18_DOS_VIAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$3.411",
+        "precioPorSku js-PUM": "Unidad a $3.411,00"
+    },
+    "descripcion": "sonda foley no18 dos vias",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "CITRICO ACIDO ANHIDRO MAGNESIO OXIDO PICOSULFATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "PHARMEUROPEA DE COLOMBIA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015690"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

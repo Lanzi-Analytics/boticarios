@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-johnsons-refrescante-uva-verde-x-3und-7702031407348/p",
+    "fecha_hora_scraping": "2021-06-14 03:06:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "OFERTA JAB\u00d3N JOHNSON'S REFRESCANTE UVA VERDE X 3UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_JAB\u00d3N_JOHNSONS_REFRESCANTE_UVA_VERDE_X_3UND.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "bestPrice": "$5.850",
+        "precioPorSku js-PUM": "Gramo a $17,58"
+    },
+    "descripcion": "oferta jab\u00f3n johnson's refrescante uva verde x 3und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC74046-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

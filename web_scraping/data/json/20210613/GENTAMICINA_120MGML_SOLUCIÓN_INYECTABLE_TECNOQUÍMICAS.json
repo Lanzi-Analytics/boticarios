@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gentamicina-120mgml-solucion-inyectable-tecnoquimicas-7702057204068/p",
+    "fecha_hora_scraping": "2021-06-14 00:21:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GENTAMICINA 120MG/ML SOLUCI\u00d3N INYECTABLE TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/GENTAMICINA_120MGML_SOLUCI\u00d3N_INYECTABLE_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "FRASCO X 1,5 ML",
+    "precio": {
+        "bestPrice": "$3.750",
+        "precioPorSku js-PUM": "Unidad a $3.750,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 1,5 ML"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "GENTAMICINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-006262-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

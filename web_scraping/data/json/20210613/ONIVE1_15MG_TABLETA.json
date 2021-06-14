@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/onive-1-15mg-tableta-7703689637682/p",
+    "fecha_hora_scraping": "2021-06-14 09:49:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ONIVE-1 1.5MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ONIVE1_15MG_TABLETA.jpg",
+    "presentacion": "CAJA X 1 TAB",
+    "precio": {
+        "bestPrice": "$12.050",
+        "precioPorSku js-PUM": "Tableta a $12.050,00"
+    },
+    "descripcion": "onive-1 1.5mg tableta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "1,5 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL"
+        ],
+        [
+            "Laboratorio",
+            "ASOCIACION PROFAMILIA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016963"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

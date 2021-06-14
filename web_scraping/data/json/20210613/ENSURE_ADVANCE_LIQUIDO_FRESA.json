@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-advance-liquido-fresa-7703186031310/p",
+    "fecha_hora_scraping": "2021-06-14 06:19:48",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE ADVANCE LIQUIDO FRESA",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_ADVANCE_LIQUIDO_FRESA.jpg",
+    "presentacion": "BOTELLA X 237 ML",
+    "precio": {
+        "bestPrice": "$7.600",
+        "precioPorSku js-PUM": "Mililitro a $32,07"
+    },
+    "descripcion": "ensure advance liquido fresa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LAMOTRIGINA"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I178915"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/salivar-175-mg-solucion-bucal-7705028000041/p",
+    "fecha_hora_scraping": "2021-06-14 02:41:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "SALIVAR 175 MG SOLUCION BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/SALIVAR_175_MG_SOLUCION_BUCAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$34.900",
+        "precioPorSku js-PUM": "Mililitro a $290,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "1,2266 MG/ML 0.1566 MG/ML 0.162 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "POTASIO CLORURO MAGNESIO CLORURO CALCIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FARPAG SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-011831-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pediasure-vainilla-polvo-7703186976314/p",
+    "fecha_hora_scraping": "2021-06-14 10:19:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PEDIASURE VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/PEDIASURE_VAINILLA_POLVO.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$36.600",
+        "precioPorSku js-PUM": "Gramo a $91,50"
+    },
+    "descripcion": "pediasure vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000539-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

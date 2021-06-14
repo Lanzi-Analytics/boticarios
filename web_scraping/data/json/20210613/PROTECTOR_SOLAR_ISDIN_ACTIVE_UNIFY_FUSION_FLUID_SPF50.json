@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-isdin-active-unify-fusion-fluid-spf50-8429420095403/p",
+    "fecha_hora_scraping": "2021-06-14 02:26:51",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "PROTECTOR SOLAR ISDIN ACTIVE UNIFY FUSION FLUID SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_ISDIN_ACTIVE_UNIFY_FUSION_FLUID_SPF50.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$106.600",
+        "precioPorSku js-PUM": "Mililitro a $2.132,00"
+    },
+    "descripcion": "protector solar isdin active unify fusio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64229-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

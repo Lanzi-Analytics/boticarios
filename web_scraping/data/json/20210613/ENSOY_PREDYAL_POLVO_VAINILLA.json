@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-predyal-polvo-vainilla-7702870053386/p",
+    "fecha_hora_scraping": "2021-06-14 04:45:02",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY PREDYAL POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_PREDYAL_POLVO_VAINILLA.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $143,75"
+    },
+    "descripcion": "ensoy predyal polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV04I9015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

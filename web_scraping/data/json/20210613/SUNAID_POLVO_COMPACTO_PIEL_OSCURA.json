@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunaid-polvo-compacto-piel-oscura-7707206270161/p",
+    "fecha_hora_scraping": "2021-06-14 10:11:46",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "SUNAID POLVO COMPACTO PIEL OSCURA",
+    "nombre_imagen": "./web_scraping/data/img/SUNAID_POLVO_COMPACTO_PIEL_OSCURA.jpg",
+    "presentacion": "CAJA X 12 G",
+    "precio": {
+        "bestPrice": "$89.900",
+        "precioPorSku js-PUM": "Gramo a $7.491,67"
+    },
+    "descripcion": "sunaid polvo compacto piel oscura",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44469-99CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

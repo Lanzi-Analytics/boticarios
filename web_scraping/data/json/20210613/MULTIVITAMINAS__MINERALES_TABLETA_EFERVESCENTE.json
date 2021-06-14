@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/multivitaminas--minerales-tableta-efervescente-4022679136183/p",
+    "fecha_hora_scraping": "2021-06-14 01:03:06",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "MULTIVITAMINAS + MINERALES TABLETA EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/MULTIVITAMINAS__MINERALES_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "TUBO X 20 TAB",
+    "precio": {
+        "bestPrice": "$22.250",
+        "precioPorSku js-PUM": "Tableta a $1.112,50"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PHARMARIS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0004309"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707228360406alfa-tradingaccesorios-medicosequipos-de-cuidado-en-casaguantes-cirugia-no-esteril-talla-8-12-7707228360406/p",
+    "fecha_hora_scraping": "2021-06-14 08:50:04",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES CIRUGIA NO ESTERIL TALLA 8 1/2",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_CIRUGIA_NO_ESTERIL_TALLA_8_12.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.150",
+        "precioPorSku js-PUM": "Unidad a $1.150,00"
+    },
+    "descripcion": "guantes cirugia no esteril talla 8 1/2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0002025-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

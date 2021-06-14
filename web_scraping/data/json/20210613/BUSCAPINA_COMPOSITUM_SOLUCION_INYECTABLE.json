@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/buscapina-compositum-solucion-inyectable-7703202221107/p",
+    "fecha_hora_scraping": "2021-06-14 04:56:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BUSCAPINA COMPOSITUM SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/BUSCAPINA_COMPOSITUM_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$12.700",
+        "precioPorSku js-PUM": "Unidad a $12.700,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "500 MG/ML 4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DIPIRONA SODIO HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-003172-R5"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

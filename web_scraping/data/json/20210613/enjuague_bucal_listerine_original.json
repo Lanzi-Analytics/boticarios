@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-listerine-original-7702035431110/p",
+    "fecha_hora_scraping": "2021-06-14 05:21:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "enjuague bucal listerine original",
+    "nombre_imagen": "./web_scraping/data/img/enjuague_bucal_listerine_original.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$20.350",
+        "precioPorSku js-PUM": "Mililitro a $40,70"
+    },
+    "descripcion": "enjuag bucal listerine 500 ml original",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

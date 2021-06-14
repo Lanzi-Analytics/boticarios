@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ezetimiba-10-mg--simvastatina-40-mg-tableta-recubierta-la-francol-7706569022813/p",
+    "fecha_hora_scraping": "2021-06-14 02:25:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EZETIMIBA 10 MG + SIMVASTATINA 40 MG TABLETA RECUBIERTA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/EZETIMIBA_10_MG__SIMVASTATINA_40_MG_TABLETA_RECUBIERTA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$48.100",
+        "precioPorSku js-PUM": "Tableta a $1.717,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "SIMVASTATINA EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0006981-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

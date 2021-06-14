@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-nosotras-normal-7702027040030/p",
+    "fecha_hora_scraping": "2021-06-14 05:28:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas nosotras normal",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_nosotras_normal.jpg",
+    "presentacion": "BOLSA X 20 UN",
+    "precio": {
+        "bestPrice": "$11.400",
+        "precioPorSku js-PUM": "Unidad a $570,00"
+    },
+    "descripcion": "toalla hig nosot normal 20 und ref 407",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

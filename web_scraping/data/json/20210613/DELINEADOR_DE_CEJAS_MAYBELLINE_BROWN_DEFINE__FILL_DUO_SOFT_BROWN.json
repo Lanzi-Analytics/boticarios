@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-de-cejas-maybelline-brown-define--fill-duo-soft-brown-41554442205/p",
+    "fecha_hora_scraping": "2021-06-14 03:11:17",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR DE CEJAS MAYBELLINE BROWN DEFINE & FILL DUO SOFT BROWN",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_DE_CEJAS_MAYBELLINE_BROWN_DEFINE__FILL_DUO_SOFT_BROWN.jpg",
+    "presentacion": "UNIDAD X 500 MG",
+    "precio": {
+        "bestPrice": "$34.250",
+        "precioPorSku js-PUM": "Miligramo a $311,36"
+    },
+    "descripcion": "delineador de cejas maybelline brown define & fill duo soft brown",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 500 MG"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70437-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

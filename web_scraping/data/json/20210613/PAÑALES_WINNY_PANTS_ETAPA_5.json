@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pa\u00f1ales-winny-pants-etapa-5-7701021117878/p",
+    "fecha_hora_scraping": "2021-06-14 02:41:24",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1ALES WINNY PANTS ETAPA 5",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_WINNY_PANTS_ETAPA_5.jpg",
+    "presentacion": "PAQUETE X 32 UN",
+    "precio": {
+        "bestPrice": "$33.950",
+        "precioPorSku js-PUM": "Unidad a $1.060,94"
+    },
+    "descripcion": "PA\u00d1ALES WINNY PANTS ETAPA 5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 32 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07985-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

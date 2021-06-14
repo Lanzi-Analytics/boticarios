@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/azitromicina-200mg5ml-polvo-para-suspension-con-jeringa-dosificadora-7702057711931/p",
+    "fecha_hora_scraping": "2021-06-14 07:52:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AZITROMICINA 200MG/5ML POLVO PARA SUSPENSI\u00d3N CON JERINGA DOSIFICADORA",
+    "nombre_imagen": "./web_scraping/data/img/AZITROMICINA_200MG5ML_POLVO_PARA_SUSPENSI\u00d3N_CON_JERINGA_DOSIFICADORA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$14.800",
+        "precioPorSku js-PUM": "Mililitro a $986,67"
+    },
+    "descripcion": "azitromicina 200mg/5ml polvo para suspensi\u00f3n con jeringa dosificadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AZITROMICINA DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002588-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

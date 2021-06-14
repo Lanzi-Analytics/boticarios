@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-crema-humectante-3499320003247/p",
+    "fecha_hora_scraping": "2021-06-14 07:15:35",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CETAPHIL CREMA HUMECTANTE",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_CREMA_HUMECTANTE.jpg",
+    "presentacion": "POTE X 453 G",
+    "precio": {
+        "bestPrice": "$110.250",
+        "precioPorSku js-PUM": "Gramo a $243,38"
+    },
+    "descripcion": "cetaphil crema humectante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 453 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "HIDROQUINONA TRETINOINA FLUOCINOLONA ACETONIDA"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC19154-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

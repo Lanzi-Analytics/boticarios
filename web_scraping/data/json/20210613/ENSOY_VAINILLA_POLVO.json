@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-vainilla-polvo-7702870050323/p",
+    "fecha_hora_scraping": "2021-06-14 03:20:53",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_VAINILLA_POLVO.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$43.200",
+        "precioPorSku js-PUM": "Gramo a $108,00"
+    },
+    "descripcion": "ensoy vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV16I27503"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-redugel-caliente-para-masajes-7707016481191/p",
+    "fecha_hora_scraping": "2021-06-14 03:06:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ARAWAK REDUGEL CALIENTE PARA MASAJES",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_REDUGEL_CALIENTE_PARA_MASAJES.jpg",
+    "presentacion": "FRASCO X 400 G",
+    "precio": {
+        "bestPrice": "$25.950",
+        "precioPorSku js-PUM": "Gramo a $64,88"
+    },
+    "descripcion": "arawak redugel caliente para masajes",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38998-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/isdin-micellar-solution-8429420128644/p",
+    "fecha_hora_scraping": "2021-06-14 07:35:55",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ISDIN MICELLAR SOLUTION",
+    "nombre_imagen": "./web_scraping/data/img/ISDIN_MICELLAR_SOLUTION.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$88.200",
+        "precioPorSku js-PUM": "Unidad a $7.350,00"
+    },
+    "descripcion": "isdin micellar solution",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84048-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

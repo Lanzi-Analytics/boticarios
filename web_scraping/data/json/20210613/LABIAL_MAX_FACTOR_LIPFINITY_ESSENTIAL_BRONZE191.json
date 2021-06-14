@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-max-factor-lipfinity-essential-bronze191-8005610624884/p",
+    "fecha_hora_scraping": "2021-06-14 03:57:34",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL MAX FACTOR LIPFINITY ESSENTIAL BRONZE#191",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_MAX_FACTOR_LIPFINITY_ESSENTIAL_BRONZE191.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $12.214,29"
+    },
+    "descripcion": "labial max factor lipfinity essential bronze#191",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33286-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

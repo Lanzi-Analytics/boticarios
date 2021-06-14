@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-total-anti-sarro-3x75-ml-7509546659466/p",
+    "fecha_hora_scraping": "2021-06-14 02:20:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE TOTAL ANTI SARRO 3X75 ML",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_TOTAL_ANTI_SARRO_3X75_ML.jpg",
+    "presentacion": "CAJA X 225ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $104,44"
+    },
+    "descripcion": "CREMA DENTAL COLGATE TOTAL ANTI SARRO 3X75 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 225ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97690-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

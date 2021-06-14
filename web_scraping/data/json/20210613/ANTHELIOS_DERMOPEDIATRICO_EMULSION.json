@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anthelios-dermopediatrico-emulsion-3337872412752/p",
+    "fecha_hora_scraping": "2021-06-14 03:54:30",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "ANTHELIOS DERMOPEDIATRICO EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/ANTHELIOS_DERMOPEDIATRICO_EMULSION.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$112.400",
+        "precioPorSku js-PUM": "Mililitro a $1.124,00"
+    },
+    "descripcion": "anthelios dermopediatrico emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSC2006CO21889"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

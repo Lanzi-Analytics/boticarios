@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bacterion-repelente-crema-kidsx120g-7702113040111/p",
+    "fecha_hora_scraping": "2021-06-14 01:57:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BACTERION REPELENTE CREMA KIDSX120G",
+    "nombre_imagen": "./web_scraping/data/img/BACTERION_REPELENTE_CREMA_KIDSX120G.jpg",
+    "presentacion": "UNIDAD X120G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $82,50"
+    },
+    "descripcion": "BACTERION REPELENTE CREMA KIDSX120G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X120G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00632-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

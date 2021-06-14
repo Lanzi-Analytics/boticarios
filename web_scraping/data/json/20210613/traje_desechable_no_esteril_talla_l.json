@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/traje-desechable-no-esteril-talla-l-7707249358482/p",
+    "fecha_hora_scraping": "2021-06-14 09:59:06",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "traje desechable no esteril talla l",
+    "nombre_imagen": "./web_scraping/data/img/traje_desechable_no_esteril_talla_l.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$35.350",
+        "precioPorSku js-PUM": "Unidad a $33350,00"
+    },
+    "descripcion": "traje desechable no esteril talla l",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            ""
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

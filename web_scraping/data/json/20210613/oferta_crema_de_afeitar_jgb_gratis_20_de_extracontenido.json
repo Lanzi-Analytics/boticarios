@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-crema-de-afeitar-jgb-gratis-20-de-extracontenido-7702560004407/p",
+    "fecha_hora_scraping": "2021-06-14 05:00:54",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "oferta crema de afeitar jgb gratis 20% de extracontenido",
+    "nombre_imagen": "./web_scraping/data/img/oferta_crema_de_afeitar_jgb_gratis_20_de_extracontenido.jpg",
+    "presentacion": "FRASCO X 396 ML",
+    "precio": {
+        "bestPrice": "$25.600",
+        "precioPorSku js-PUM": "Gramo a $64,65"
+    },
+    "descripcion": "of crema afeit jgb x396 gts 20% mas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 396 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

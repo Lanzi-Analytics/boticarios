@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zyrtec-10-mg1-ml-solucion-oral-7707172689301/p",
+    "fecha_hora_scraping": "2021-06-14 07:40:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZYRTEC 10 MG/1 ML SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ZYRTEC_10_MG1_ML_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$65.900",
+        "precioPorSku js-PUM": "Mililitro a $4.393,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-015113-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

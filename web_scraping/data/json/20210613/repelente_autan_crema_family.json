@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-autan-crema-family-7591005981270/p",
+    "fecha_hora_scraping": "2021-06-14 02:56:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "repelente autan crema family",
+    "nombre_imagen": "./web_scraping/data/img/repelente_autan_crema_family.jpg",
+    "presentacion": "BOTELLA X 60 G",
+    "precio": {
+        "bestPrice": "$4.950",
+        "precioPorSku js-PUM": "Mililitro a $10,47"
+    },
+    "descripcion": "repel autan crema family 60cc",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 60 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53723-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

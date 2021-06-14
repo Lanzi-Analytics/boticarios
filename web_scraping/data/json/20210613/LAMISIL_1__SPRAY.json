@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lamisil-1--spray-7702635195801/p",
+    "fecha_hora_scraping": "2021-06-14 02:27:41",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "LAMISIL 1 % SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/LAMISIL_1__SPRAY.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$40.150",
+        "precioPorSku js-PUM": "Mililitro a $1.338,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2018M-011379-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

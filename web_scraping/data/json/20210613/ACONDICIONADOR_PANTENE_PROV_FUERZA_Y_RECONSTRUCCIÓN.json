@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionador-pantene-fuerza-y-reconstruccion-7500435020299/p",
+    "fecha_hora_scraping": "2021-06-14 01:41:25",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "ACONDICIONADOR PANTENE PRO-V FUERZA Y RECONSTRUCCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/ACONDICIONADOR_PANTENE_PROV_FUERZA_Y_RECONSTRUCCI\u00d3N.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "PrevPrice": "Antes:$20.800",
+        "bestPrice": "$15.600",
+        "precioPorSku js-PUM": "Mililitro a $39,00"
+    },
+    "descripcion": "acondic pantene fuerza reconst 400ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

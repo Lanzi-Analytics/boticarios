@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutren-senior-liquido-chocolate-7891000278536/p",
+    "fecha_hora_scraping": "2021-06-13 23:28:51",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTREN SENIOR LIQUIDO CHOCOLATE",
+    "nombre_imagen": "./web_scraping/data/img/NUTREN_SENIOR_LIQUIDO_CHOCOLATE.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$6.800",
+        "precioPorSku js-PUM": "Mililitro a $34,00"
+    },
+    "descripcion": "nutren senior liquido chocolate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009177-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

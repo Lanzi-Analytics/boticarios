@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/somazina-500-mg-comprimido-recubierto-8433042001667/p",
+    "fecha_hora_scraping": "2021-06-14 08:29:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SOMAZINA 500 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/SOMAZINA_500_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 10 COM",
+    "precio": {
+        "bestPrice": "$141.050",
+        "precioPorSku js-PUM": "Comprimido a $14.105,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 COM"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CITICOLINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "BIOTOSCANA FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000346-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soft-picks-advance-palillos-70942307161/p",
+    "fecha_hora_scraping": "2021-06-14 00:10:49",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "SOFT-PICKS ADVANCE PALILLOS",
+    "nombre_imagen": "./web_scraping/data/img/SOFTPICKS_ADVANCE_PALILLOS.jpg",
+    "presentacion": "UNIDAD X 18UN",
+    "precio": {
+        "bestPrice": "$15.250",
+        "precioPorSku js-PUM": "Unidad a $847,22"
+    },
+    "descripcion": "soft-picks advance palillos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 18UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001084"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

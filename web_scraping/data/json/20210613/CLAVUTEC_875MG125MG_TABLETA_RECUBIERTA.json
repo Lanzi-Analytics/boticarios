@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707274721909-clavutec-875125mg-cjx14tab-bcn-medicamentos-formulados-bcn-medicalamoxicilina-trihidrato-clavulanato-potasio-7707274721909/p",
+    "fecha_hora_scraping": "2021-06-14 02:18:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLAVUTEC 875MG/125MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CLAVUTEC_875MG125MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$78.350",
+        "precioPorSku js-PUM": "Tableta a $5.596,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "875 MG 125 MG"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO CLAVULANATO POTASIO"
+        ],
+        [
+            "Laboratorio",
+            "B C N MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013763-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

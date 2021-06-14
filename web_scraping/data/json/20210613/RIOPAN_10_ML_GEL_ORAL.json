@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/riopan-10-ml-gel-oral-7501092721994/p",
+    "fecha_hora_scraping": "2021-06-14 06:25:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RIOPAN 10 ML GEL ORAL",
+    "nombre_imagen": "./web_scraping/data/img/RIOPAN_10_ML_GEL_ORAL.jpg",
+    "presentacion": "CAJA X 10 SOB",
+    "precio": {
+        "bestPrice": "$17.600",
+        "precioPorSku js-PUM": "Unidad a $1.760,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 SOB"
+        ],
+        [
+            "Concentracion",
+            "8 G 1 G"
+        ],
+        [
+            "Principio activo",
+            "MAGALDRATO AL 10%DIMETILPOLISILOXANO"
+        ],
+        [
+            "Laboratorio",
+            "BAXALTA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016241-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

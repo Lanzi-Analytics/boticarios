@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diclofenaco-1--gel-la-sante-7703763993291/p",
+    "fecha_hora_scraping": "2021-06-14 04:38:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DICLOFENACO 1 % GEL LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/DICLOFENACO_1__GEL_LA_SANTE.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$12.800",
+        "precioPorSku js-PUM": "Gramo a $426,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "1 %"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO DIETILAMINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009806"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

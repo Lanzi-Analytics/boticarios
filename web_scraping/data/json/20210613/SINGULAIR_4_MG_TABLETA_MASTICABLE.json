@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/singulair-4-mg-tableta-masticable-7897337715171/p",
+    "fecha_hora_scraping": "2021-06-14 09:28:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SINGULAIR 4 MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/SINGULAIR_4_MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$172.350",
+        "precioPorSku js-PUM": "Tableta a $5.745,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "4 MG"
+        ],
+        [
+            "Principio activo",
+            "MONTELUKAST SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-015025-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

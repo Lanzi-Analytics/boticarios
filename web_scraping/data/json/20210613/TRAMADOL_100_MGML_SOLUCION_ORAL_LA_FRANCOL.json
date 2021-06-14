@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7706569022547lafrancolformuladosmedicamentostramadol-100-mgml-solucion-oral-la-francoltramadol-clorhidrato-7706569022547/p",
+    "fecha_hora_scraping": "2021-06-13 23:31:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAMADOL 100 MG/ML SOLUCION ORAL LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/TRAMADOL_100_MGML_SOLUCION_ORAL_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$11.050",
+        "precioPorSku js-PUM": "Mililitro a $1.105,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TRAMADOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0012033-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

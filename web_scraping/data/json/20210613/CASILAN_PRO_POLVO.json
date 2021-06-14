@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/casilan-pro-polvo-8712400594233/p",
+    "fecha_hora_scraping": "2021-06-14 02:24:59",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "CASILAN PRO POLVO",
+    "nombre_imagen": "./web_scraping/data/img/CASILAN_PRO_POLVO.jpg",
+    "presentacion": "TARRO X 225 G",
+    "precio": {
+        "bestPrice": "$65.850",
+        "precioPorSku js-PUM": "Gramo a $292,67"
+    },
+    "descripcion": "casilan pro polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 225 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DANONE BABY NUTRITION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-006170-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-lift-therapy-contorno-ojos-y-labios-8430795001012/p",
+    "fecha_hora_scraping": "2021-06-14 02:29:51",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE LIFT THERAPY CONTORNO OJOS Y LABIOS",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_LIFT_THERAPY_CONTORNO_OJOS_Y_LABIOS.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$129.050",
+        "precioPorSku js-PUM": "Mililitro a $8.603,33"
+    },
+    "descripcion": "atache lift therapy contorno ojos y labi",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86639-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

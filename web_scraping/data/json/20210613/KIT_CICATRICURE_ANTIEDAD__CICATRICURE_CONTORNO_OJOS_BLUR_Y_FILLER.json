@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-cicatricure-antiedad--cicatricure-contorno-ojos-blur--filler-650240058905/p",
+    "fecha_hora_scraping": "2021-06-14 03:37:03",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "KIT CICATRICURE ANTIEDAD + CICATRICURE CONTORNO OJOS BLUR Y FILLER",
+    "nombre_imagen": "./web_scraping/data/img/KIT_CICATRICURE_ANTIEDAD__CICATRICURE_CONTORNO_OJOS_BLUR_Y_FILLER.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$84.500",
+        "precioPorSku js-PUM": "Unidad a $84.500,00"
+    },
+    "descripcion": "KIT CICATRICURE ANTIEDAD + CICATRICURE CONTORNO OJOS BLUR Y FILLER",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78849-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

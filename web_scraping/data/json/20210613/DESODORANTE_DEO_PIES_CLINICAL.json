@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-deo-pies-clinical-7702113038033/p",
+    "fecha_hora_scraping": "2021-06-14 03:10:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "DESODORANTE DEO PIES CLINICAL",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_DEO_PIES_CLINICAL.jpg",
+    "presentacion": "BOTELLA X 260 ML",
+    "precio": {
+        "bestPrice": "$18.650",
+        "precioPorSku js-PUM": "Mililitro a $71,73"
+    },
+    "descripcion": "desodorante deo pies clinical 260 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 260 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77997-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

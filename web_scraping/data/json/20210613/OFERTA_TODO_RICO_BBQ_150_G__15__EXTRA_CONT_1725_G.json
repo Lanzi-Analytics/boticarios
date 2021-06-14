@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-todo-rico-bbq-150-g--15--extra-cont-1725-g-7702152123196/p",
+    "fecha_hora_scraping": "2021-06-14 08:11:09",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "OFERTA TODO RICO BBQ 150 G + 15 % EXTRA CONT 172.5 G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TODO_RICO_BBQ_150_G__15__EXTRA_CONT_1725_G.jpg",
+    "presentacion": "PAQUETE X 150 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $32,67"
+    },
+    "descripcion": "OFERTA TODO RICO BBQ 150 G + 15 % EXTRA CONT 172.5 G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD10I13101"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

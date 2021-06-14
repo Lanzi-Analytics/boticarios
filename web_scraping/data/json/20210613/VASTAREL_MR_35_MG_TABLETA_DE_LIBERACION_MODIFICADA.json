@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vastarel-mr-35-mg-tableta-de-liberacion-modificada-3594455800478/p",
+    "fecha_hora_scraping": "2021-06-14 02:25:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VASTAREL MR 35 MG TABLETA DE LIBERACION MODIFICADA",
+    "nombre_imagen": "./web_scraping/data/img/VASTAREL_MR_35_MG_TABLETA_DE_LIBERACION_MODIFICADA.jpg",
+    "presentacion": "CAJA X 60 TAB",
+    "precio": {
+        "bestPrice": "$62.850",
+        "precioPorSku js-PUM": "Tableta a $1.047,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "35 MG"
+        ],
+        [
+            "Principio activo",
+            "TRIMETAZIDINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SERVIER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003414-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

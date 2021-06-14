@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-lysol-wipes-poder-citrico-biodegradables-36-unid-7891035000713/p",
+    "fecha_hora_scraping": "2021-06-14 08:35:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "TOALLAS LYSOL WIPES PODER CITRICO BIODEGRADABLES 36 UNID",
+    "nombre_imagen": "./web_scraping/data/img/TOALLAS_LYSOL_WIPES_PODER_CITRICO_BIODEGRADABLES_36_UNID.jpg",
+    "presentacion": "SACHET X 36UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $291,67"
+    },
+    "descripcion": "TOALLAS LYSOL WIPES PODER CITRICO BIODEGRADABLES 36 UNID",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SACHET X 36UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECKITT BENCKISER COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOH08555-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diprofos-7-m-ml-suspension-inyectable-7702502011579/p",
+    "fecha_hora_scraping": "2021-06-14 02:01:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIPROFOS 7 M /ML SUSPENSION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/DIPROFOS_7_M_ML_SUSPENSION_INYECTABLE.jpg",
+    "presentacion": "FRASCO X 1 ML",
+    "precio": {
+        "bestPrice": "$41.250",
+        "precioPorSku js-PUM": "Mililitro a $41.250,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 1 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML 2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BETAMETASONA DIPROPIANATO BETAMETASONA FOSFATO DISODIO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-004735-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sunday-adultos-spf60-7707016404466/p",
+    "fecha_hora_scraping": "2021-06-14 09:31:07",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR SUNDAY ADULTOS SPF60",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_SUNDAY_ADULTOS_SPF60.jpg",
+    "presentacion": "SOBRE X 10 G",
+    "precio": {
+        "bestPrice": "$2.150",
+        "precioPorSku js-PUM": "Unidad a $179,17"
+    },
+    "descripcion": "protector solar sunday adultos spf60",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC21066-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

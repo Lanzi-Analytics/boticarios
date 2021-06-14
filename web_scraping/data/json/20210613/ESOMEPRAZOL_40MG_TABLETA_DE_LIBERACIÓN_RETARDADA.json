@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esomeprazol-40mg-tableta-de-liberacion-retardada-7703763761128/p",
+    "fecha_hora_scraping": "2021-06-14 07:32:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESOMEPRAZOL 40MG TABLETA DE LIBERACI\u00d3N RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/ESOMEPRAZOL_40MG_TABLETA_DE_LIBERACI\u00d3N_RETARDADA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$68.950",
+        "precioPorSku js-PUM": "Tableta a $2.462,50"
+    },
+    "descripcion": "ESOMEPRAZOL 40MG TABLETA DE LIBERACI\u00d3N RETARDADA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "ESOMEPRAZOL MAGNESIO TRIHID"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003818-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

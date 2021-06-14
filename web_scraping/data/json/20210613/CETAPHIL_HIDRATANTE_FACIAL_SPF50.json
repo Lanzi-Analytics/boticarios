@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-hidratante-facial-spf50-3499320004541/p",
+    "fecha_hora_scraping": "2021-06-14 07:40:25",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CETAPHIL HIDRATANTE FACIAL SPF50",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_HIDRATANTE_FACIAL_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$92.800",
+        "precioPorSku js-PUM": "Mililitro a $1.856,00"
+    },
+    "descripcion": "cetaphil hidratante facial spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "HIDROQUINONA TRETINOINA FLUOCINOLONA ACETONIDA"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC49467-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-de-bioseguridad-talla-l-kis-7707249358734/p",
+    "fecha_hora_scraping": "2021-06-14 06:00:16",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "kit de bioseguridad talla l kis",
+    "nombre_imagen": "./web_scraping/data/img/kit_de_bioseguridad_talla_l_kis.jpg",
+    "presentacion": "KIT X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $34.400,00"
+    },
+    "descripcion": "kit de bioseguridad talla l kis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "KIT X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "KAMEX INTERNATIONAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

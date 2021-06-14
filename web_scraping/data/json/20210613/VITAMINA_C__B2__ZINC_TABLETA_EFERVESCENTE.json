@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamina-c--b2--zinc-tableta-efervescente-4022679136473/p",
+    "fecha_hora_scraping": "2021-06-14 01:32:57",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITAMINA C + B2 + ZINC TABLETA EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/VITAMINA_C__B2__ZINC_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "TUBO X 20 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$21.250",
+        "bestPrice": "$17.000",
+        "precioPorSku js-PUM": "Tableta a $850,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PHARMARIS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0004323"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

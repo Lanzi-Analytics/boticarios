@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-kiss-cloud-labial-liquido-airy-scarle-309970057480/p",
+    "fecha_hora_scraping": "2021-06-14 10:15:39",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV KISS CLOUD labial liquido airy scarle",
+    "nombre_imagen": "./web_scraping/data/img/RV_KISS_CLOUD_labial_liquido_airy_scarle.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $7.940,00"
+    },
+    "descripcion": "rv kiss cloud labial liquido airy scarle",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94738-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

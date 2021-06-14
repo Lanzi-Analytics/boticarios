@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/damiclin-300-mg-capsula-dura-7702057010768/p",
+    "fecha_hora_scraping": "2021-06-14 04:32:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DAMICLIN 300 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/DAMICLIN_300_MG_CAPSULA_DURA.jpg",
+    "presentacion": "BLISTER X 6 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $4.447,92"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 6 CAP"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-012172-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

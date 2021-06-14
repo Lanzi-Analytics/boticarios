@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-3-vainilla-7506205809156/p",
+    "fecha_hora_scraping": "2021-06-14 10:25:36",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAGROW PREMIUM 3 VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAGROW_PREMIUM_3_VAINILLA.jpg",
+    "presentacion": "TARRO X 375 G",
+    "precio": {
+        "PrevPrice": "Antes:$35.050",
+        "bestPrice": "$31.545",
+        "precioPorSku js-PUM": "Gramo a $84,12"
+    },
+    "descripcion": "formula infantil enfagrow premium 3 vain",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 375 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I20404"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

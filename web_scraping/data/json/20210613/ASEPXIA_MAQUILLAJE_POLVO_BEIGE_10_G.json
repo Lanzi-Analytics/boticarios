@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-maquillaje-anti-imperfecciones-polvo-tono-beige-medio-650240051609/p",
+    "fecha_hora_scraping": "2021-06-14 03:11:23",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "ASEPXIA MAQUILLAJE POLVO BEIGE 10 G",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_MAQUILLAJE_POLVO_BEIGE_10_G.jpg",
+    "presentacion": "ESTUCHE X 10 G",
+    "precio": {
+        "bestPrice": "$29.500",
+        "precioPorSku js-PUM": "Gramo a $2.950,00"
+    },
+    "descripcion": "asepxia maquillaje anti-imperfecciones polvo tono beige medio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ESTUCHE X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC45200-20PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

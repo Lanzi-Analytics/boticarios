@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pezonera-en-silicona-talla-s-7612367016636/p",
+    "fecha_hora_scraping": "2021-06-14 09:57:19",
+    "breadcumb": "colsubsidio|mamas y bebes|accesorios",
+    "titulo": "PEZONERA EN SILICONA TALLA S",
+    "nombre_imagen": "./web_scraping/data/img/PEZONERA_EN_SILICONA_TALLA_S.jpg",
+    "presentacion": "CAJA X 2 UN",
+    "precio": {
+        "bestPrice": "$84.350",
+        "precioPorSku js-PUM": "Unidad a $42.175,00"
+    },
+    "descripcion": "pezonera en silicona talla s",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AREOLA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

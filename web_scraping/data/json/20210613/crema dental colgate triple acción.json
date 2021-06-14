@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-triple-accion-7753442351034/p",
+    "fecha_hora_scraping": "2021-06-14 05:12:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental colgate triple acci\u00f3n",
+    "nombre_imagen": "crema dental colgate triple acci\u00f3n.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$13.550",
+        "precioPorSku js-PUM": "Mililitro a $60,22"
+    },
+    "descripcion": "cd clgte tracc paq 3x75ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC05992-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

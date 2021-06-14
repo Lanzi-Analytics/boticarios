@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-ricino-7707231003086/p",
-    "fecha_hora_scraping": "2021-06-13 18:24:32",
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-ricino-7707231003246/p",
+    "fecha_hora_scraping": "2021-06-14 06:09:04",
     "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "ACEITE RICINO",
     "nombre_imagen": "./web_scraping/data/img/ACEITE_RICINO.jpg",
-    "presentacion": "FRASCO X 120 ML",
+    "presentacion": "FRASCO X 250 ML",
     "precio": {
-        "bestPrice": "$4.750",
-        "precioPorSku js-PUM": "Mililitro a $39,58"
+        "bestPrice": "$8.900",
+        "precioPorSku js-PUM": "Mililitro a $35,60"
     },
     "descripcion": "aceite ricino",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "FRASCO X 120 ML"
+            "FRASCO X 250 ML"
         ],
         [
             "Concentracion",

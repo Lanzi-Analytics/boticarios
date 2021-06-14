@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-colgate-smiles-barbie-2---5-anos-7591083011098/p",
+    "fecha_hora_scraping": "2021-06-13 23:41:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental colgate smiles barbie 2 - 5 a\u00f1os",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_colgate_smiles_barbie_2__5_a\u00f1os.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$18.400",
+        "precioPorSku js-PUM": "Unidad a $18.400,00"
+    },
+    "descripcion": "cepillo dental colgate smiles 2 - 5 a\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

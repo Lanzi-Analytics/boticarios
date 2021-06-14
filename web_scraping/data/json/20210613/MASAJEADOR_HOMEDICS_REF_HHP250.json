@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/masajeador-homedics-ref-hhp-250-31262059826/p",
+    "fecha_hora_scraping": "2021-06-14 00:35:29",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|fisioterapia y rehabilitaci\u00f3n",
+    "titulo": "MASAJEADOR HOMEDICS REF HHP-250",
+    "nombre_imagen": "./web_scraping/data/img/MASAJEADOR_HOMEDICS_REF_HHP250.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $139.950,00"
+    },
+    "descripcion": "masajeador homedics ref hhp-250",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MECANELECTRO SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

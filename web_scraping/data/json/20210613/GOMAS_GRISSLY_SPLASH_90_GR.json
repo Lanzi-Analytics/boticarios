@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gomas-grissly-splash-90-gr-7702011074249/p",
+    "fecha_hora_scraping": "2021-06-13 23:39:18",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMAS GRISSLY SPLASH 90 GR",
+    "nombre_imagen": "./web_scraping/data/img/GOMAS_GRISSLY_SPLASH_90_GR.jpg",
+    "presentacion": "UNIDAD X 90 G",
+    "precio": {
+        "bestPrice": "$2.100",
+        "precioPorSku js-PUM": "Gramo a $23,33"
+    },
+    "descripcion": "GOMAS GRISSLY SPLASH 90 GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000498-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

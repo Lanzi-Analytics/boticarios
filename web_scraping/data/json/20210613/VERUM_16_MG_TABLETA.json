@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/verum-16-mg-tableta-7861073963547/p",
+    "fecha_hora_scraping": "2021-06-14 08:35:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VERUM 16 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/VERUM_16_MG_TABLETA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$49.975",
+        "precioPorSku js-PUM": "Tableta a $4.997,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "16 MG"
+        ],
+        [
+            "Principio activo",
+            "BETAHISTINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005523-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7798140251910genommaproteccion-solarmedicamentoscrema-goicoechea-diabet-txpiel-varices-hidratante-crema-diabetes-7798140251910/p",
+    "fecha_hora_scraping": "2021-06-14 04:26:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "GOICOECHEA HIDRATANTE DIABET-TX 400 ML",
+    "nombre_imagen": "./web_scraping/data/img/GOICOECHEA_HIDRATANTE_DIABETTX_400_ML.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$26.400",
+        "precioPorSku js-PUM": "Mililitro a $66,00"
+    },
+    "descripcion": "ideal para personas que padecen diabetes y que son m\u00e1s susceptibles a la resequedad extrema protegiendo la dermis de lesiones serias",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85144-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

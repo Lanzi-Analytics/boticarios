@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-blanco-con-elastico-7707228361397/p",
+    "fecha_hora_scraping": "2021-06-14 03:54:36",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "TAPABOCAS BLANCO CON ELASTICO",
+    "nombre_imagen": "./web_scraping/data/img/TAPABOCAS_BLANCO_CON_ELASTICO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.550,00"
+    },
+    "descripcion": "tapabocas blanco con elastico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0004976-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

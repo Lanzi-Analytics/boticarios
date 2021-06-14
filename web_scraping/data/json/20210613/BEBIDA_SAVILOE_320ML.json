@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-saviloe-320ml-7702354946210/p",
+    "fecha_hora_scraping": "2021-06-14 07:17:01",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "BEBIDA SAVILOE 320ML",
+    "nombre_imagen": "./web_scraping/data/img/BEBIDA_SAVILOE_320ML.jpg",
+    "presentacion": "BOTELLA X 320 ML",
+    "precio": {
+        "bestPrice": "$2.050",
+        "precioPorSku js-PUM": "Mililitro a $6,41"
+    },
+    "descripcion": "BEBIDA SAVILOE 320ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 320 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000557-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

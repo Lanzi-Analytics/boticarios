@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-elastica-forz-sport-1m-x-6cm-7707210530893/p",
+    "fecha_hora_scraping": "2021-06-14 07:34:19",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "VENDA ELASTICA FORZ SPORT 1M X 6CM",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_ELASTICA_FORZ_SPORT_1M_X_6CM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$17.550",
+        "precioPorSku js-PUM": "Unidad a $17.550,00"
+    },
+    "descripcion": "venda elastica forz sport 1m x 6cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016615"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

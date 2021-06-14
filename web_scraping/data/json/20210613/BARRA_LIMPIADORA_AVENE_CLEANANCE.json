@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/barra-limpiadora-avene-cleanance-3282770019919/p",
+    "fecha_hora_scraping": "2021-06-13 23:21:47",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BARRA LIMPIADORA AVENE CLEANANCE",
+    "nombre_imagen": "./web_scraping/data/img/BARRA_LIMPIADORA_AVENE_CLEANANCE.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "$37.400",
+        "precioPorSku js-PUM": "Gramo a $374,00"
+    },
+    "descripcion": "barra limpiadroa avene cleanance",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64640-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

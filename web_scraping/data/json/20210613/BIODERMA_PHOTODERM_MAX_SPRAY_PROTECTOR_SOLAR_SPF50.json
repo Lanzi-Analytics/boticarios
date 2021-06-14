@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-photoderm-max-spray-spf50-3701129801062/p",
+    "fecha_hora_scraping": "2021-06-14 04:29:58",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA PHOTODERM MAX SPRAY PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_PHOTODERM_MAX_SPRAY_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$150.600",
+        "precioPorSku js-PUM": "Mililitro a $753,00"
+    },
+    "descripcion": "protector solar photoderm max spray spf5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41384-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

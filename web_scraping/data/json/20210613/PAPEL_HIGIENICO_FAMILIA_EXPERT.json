@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/papel-higienico-familia-expert-7702026180249/p",
+    "fecha_hora_scraping": "2021-06-14 10:31:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "papel higienico familia expert",
+    "nombre_imagen": "./web_scraping/data/img/papel_higienico_familia_expert.jpg",
+    "presentacion": "PAQUETE X 1 UN",
+    "precio": {
+        "bestPrice": "$2.450",
+        "precioPorSku js-PUM": "Unidad a $2.450,00"
+    },
+    "descripcion": "papel higienico familia expert",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

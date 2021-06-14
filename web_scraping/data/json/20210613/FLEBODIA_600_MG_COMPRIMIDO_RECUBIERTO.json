@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flebodia-600-mg-comprimido-recubierto-3400933726997/p",
+    "fecha_hora_scraping": "2021-06-14 05:52:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLEBODIA 600 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/FLEBODIA_600_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$184.800",
+        "precioPorSku js-PUM": "Tableta a $6.160,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "DIOSMINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009839-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

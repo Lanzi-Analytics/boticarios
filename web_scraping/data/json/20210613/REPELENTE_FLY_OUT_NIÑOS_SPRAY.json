@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-fly-out-ninos-spray-7707355054360/p",
+    "fecha_hora_scraping": "2021-06-14 01:40:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "REPELENTE FLY OUT NI\u00d1OS SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/REPELENTE_FLY_OUT_NI\u00d1OS_SPRAY.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "PrevPrice": "Antes:$17.000",
+        "bestPrice": "$12.750",
+        "precioPorSku js-PUM": "Mililitro a $127,50"
+    },
+    "descripcion": "repelente fly out ni\u00f1os spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68423-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

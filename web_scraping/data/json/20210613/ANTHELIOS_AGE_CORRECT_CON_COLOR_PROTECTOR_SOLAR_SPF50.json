@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anthelios-age-correct-con-color-protector-solar-spf50-3337875764353/p",
+    "fecha_hora_scraping": "2021-06-14 03:44:29",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "ANTHELIOS AGE CORRECT CON COLOR PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/ANTHELIOS_AGE_CORRECT_CON_COLOR_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.589,84"
+    },
+    "descripcion": "ANTHELIOS AGE CORRECT CON COLOR PROTECTOR SOLAR SPF50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC02602-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

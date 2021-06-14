@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-para-lactancia-palmers-10181040375/p",
+    "fecha_hora_scraping": "2021-06-14 03:10:55",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "CREMA PARA LACTANCIA PALMERS",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PARA_LACTANCIA_PALMERS.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$42.750",
+        "precioPorSku js-PUM": "Gramo a $1.425,00"
+    },
+    "descripcion": "crema para lactancia palmers",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC48348-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

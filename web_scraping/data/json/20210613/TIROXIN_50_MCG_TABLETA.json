@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiroxin-50-mcg-tableta-7707355054230/p",
+    "fecha_hora_scraping": "2021-06-14 09:19:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIROXIN 50 MCG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/TIROXIN_50_MCG_TABLETA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$5.350",
+        "precioPorSku js-PUM": "Tableta a $535,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "LEVOTIROXINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005365-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

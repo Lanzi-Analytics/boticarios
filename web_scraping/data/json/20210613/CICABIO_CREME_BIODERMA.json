@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicabio-creme-bioderma-3401347869546/p",
+    "fecha_hora_scraping": "2021-06-13 23:17:35",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CICABIO CREME BIODERMA",
+    "nombre_imagen": "./web_scraping/data/img/CICABIO_CREME_BIODERMA.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$45.100",
+        "precioPorSku js-PUM": "Mililitro a $1.127,50"
+    },
+    "descripcion": "cicabio creme bioderma",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52720-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

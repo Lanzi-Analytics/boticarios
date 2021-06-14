@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/timoptol-05--solucion-oftalmica-3556610000024/p",
+    "fecha_hora_scraping": "2021-06-14 08:45:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIMOPTOL 0.5 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/TIMOPTOL_05__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$81.850",
+        "precioPorSku js-PUM": "Mililitro a $16.370,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TIMOLOL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "MUNDIPHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003200-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

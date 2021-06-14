@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seroxat-cr-25-mg-tableta-de-liberacion-prolongada-5050278002737/p",
+    "fecha_hora_scraping": "2021-06-14 04:39:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SEROXAT CR 25 MG TABLETA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/SEROXAT_CR_25_MG_TABLETA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$83.800",
+        "precioPorSku js-PUM": "Tableta a $8.380,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "PAROXETINA CLORHIDRATO HEMIHID"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0002786-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

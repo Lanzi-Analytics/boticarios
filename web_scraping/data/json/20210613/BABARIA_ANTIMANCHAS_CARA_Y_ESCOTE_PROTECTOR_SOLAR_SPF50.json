@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-antimanchas-cara-y-escote-protector-solar-spf50-8410412000703/p",
+    "fecha_hora_scraping": "2021-06-14 07:56:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "BABARIA ANTIMANCHAS CARA Y ESCOTE PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_ANTIMANCHAS_CARA_Y_ESCOTE_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$15.950",
+        "precioPorSku js-PUM": "Mililitro a $212,67"
+    },
+    "descripcion": "babaria antimanchas cara y escote protector solar spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86739-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

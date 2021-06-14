@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-talcos-rexona-efficient-gratis-frasco-x-60g-7702006150064/p",
+    "fecha_hora_scraping": "2021-06-14 08:54:58",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "oferta talcos rexona efficient gratis frasco x 60g",
+    "nombre_imagen": "./web_scraping/data/img/oferta_talcos_rexona_efficient_gratis_frasco_x_60g.jpg",
+    "presentacion": "TARRO X 200 G",
+    "precio": {
+        "bestPrice": "$19.350",
+        "precioPorSku js-PUM": "Gramo a $96,75"
+    },
+    "descripcion": "rexona efficient talco 24x200g prm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 200 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

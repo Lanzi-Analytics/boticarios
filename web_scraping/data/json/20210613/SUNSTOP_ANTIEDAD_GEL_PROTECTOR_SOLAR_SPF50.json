@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunstop-gel-7707222420045/p",
+    "fecha_hora_scraping": "2021-06-14 07:05:28",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "SUNSTOP ANTIEDAD GEL PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/SUNSTOP_ANTIEDAD_GEL_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "FRASCO X 80 G",
+    "precio": {
+        "bestPrice": "$79.750",
+        "precioPorSku js-PUM": "Gramo a $996,88"
+    },
+    "descripcion": "sunstop gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81909-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

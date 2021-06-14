@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glucerna-liquido-vainilla-7703186030283/p",
+    "fecha_hora_scraping": "2021-06-14 09:49:28",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "GLUCERNA LIQUIDO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/GLUCERNA_LIQUIDO_VAINILLA.jpg",
+    "presentacion": "FRASCO X 237 ML",
+    "precio": {
+        "bestPrice": "$7.700",
+        "precioPorSku js-PUM": "Mililitro a $32,49"
+    },
+    "descripcion": "glucerna liquido vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003778-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

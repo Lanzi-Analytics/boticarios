@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xultophy-10036-solucion-inyectable-7709323347573/p",
+    "fecha_hora_scraping": "2021-06-14 00:39:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "XULTOPHY 100/3.6 SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/XULTOPHY_10036_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$127.550",
+        "precioPorSku js-PUM": "Mililitro a $42.516,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "100 U 3,6 MG"
+        ],
+        [
+            "Principio activo",
+            "INSULINA DEGLUDEC/ LIRAGLUTIDA"
+        ],
+        [
+            "Laboratorio",
+            "NOVO NORDISK COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017779"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

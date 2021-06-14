@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-rejuveness-7501056330491/p",
+    "fecha_hora_scraping": "2021-06-14 09:14:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema ponds rejuveness",
+    "nombre_imagen": "./web_scraping/data/img/crema_ponds_rejuveness.jpg",
+    "presentacion": "POTE X 100 G",
+    "precio": {
+        "bestPrice": "$32.350",
+        "precioPorSku js-PUM": "Gramo a $323,50"
+    },
+    "descripcion": "ponds cr rejuveness x100g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-antibacterial-aromasense-frutos-rojos-7702277076599/p",
+    "fecha_hora_scraping": "2021-06-14 03:31:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "gel antibacterial aromasense frutos rojos",
+    "nombre_imagen": "./web_scraping/data/img/gel_antibacterial_aromasense_frutos_rojos.jpg",
+    "presentacion": "FRASCO X 88 ML",
+    "precio": {
+        "bestPrice": "$7.500",
+        "precioPorSku js-PUM": "Mililitro a $85,23"
+    },
+    "descripcion": "gel antibacterial aromasense frutos rojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 88 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2007CO22887"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

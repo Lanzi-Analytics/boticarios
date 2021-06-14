@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702001131815alpinaformulas-infantilesmamas-y-bebesformula-infantil-alpina-baby-basic-etapa-3-12-meses-7702001131815/p",
+    "fecha_hora_scraping": "2021-06-14 08:16:48",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ALPINA BABY BASIC ETAPA 3-12 MESES",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ALPINA_BABY_BASIC_ETAPA_312_MESES.jpg",
+    "presentacion": "LATA X 900 G",
+    "precio": {
+        "bestPrice": "$36.050",
+        "precioPorSku js-PUM": "Gramo a $40,06"
+    },
+    "descripcion": "formula infantil alpina baby basic etapa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALPINA PRODUCTOS ALIMENTICIOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004353-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

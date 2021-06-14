@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphill-emulsion-hidratante-3499320003223/p",
+    "fecha_hora_scraping": "2021-06-14 01:22:35",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CETAPHILL EMULSION HIDRATANTE",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHILL_EMULSION_HIDRATANTE.jpg",
+    "presentacion": "FRASCO X 473 ML",
+    "precio": {
+        "bestPrice": "$106.600",
+        "precioPorSku js-PUM": "Mililitro a $225,37"
+    },
+    "descripcion": "cetaphill emulsion hidratante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 473 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC19153-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

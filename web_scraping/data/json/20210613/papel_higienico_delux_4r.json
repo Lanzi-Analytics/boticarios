@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/papel-higienico-delux-4r-7702026183578/p",
+    "fecha_hora_scraping": "2021-06-14 09:27:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "papel higienico delux 4r",
+    "nombre_imagen": "./web_scraping/data/img/papel_higienico_delux_4r.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$11.500",
+        "precioPorSku js-PUM": "Unidad a $11.500,00"
+    },
+    "descripcion": "papel higienico delux 4r",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

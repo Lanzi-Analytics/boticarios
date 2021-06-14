@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oralherp-labial-natural-7707274721985/p",
+    "fecha_hora_scraping": "2021-06-14 01:57:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ORALHERP LABIAL NATURAL",
+    "nombre_imagen": "./web_scraping/data/img/ORALHERP_LABIAL_NATURAL.jpg",
+    "presentacion": "TUBO X 60 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $4.300,00"
+    },
+    "descripcion": "oralherp labial natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "B C N MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0009508"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

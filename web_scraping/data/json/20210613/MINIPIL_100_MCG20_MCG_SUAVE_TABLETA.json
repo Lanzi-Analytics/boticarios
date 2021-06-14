@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/minipil-100-mcg20-mcg-suave-tableta-7702870002711/p",
+    "fecha_hora_scraping": "2021-06-14 03:19:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MINIPIL 100 MCG/20 MCG SUAVE TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/MINIPIL_100_MCG20_MCG_SUAVE_TABLETA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$5.600",
+        "precioPorSku js-PUM": "Tableta a $266,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "0.1 MG 0.02 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0004156-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

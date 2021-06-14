@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tamsecox-04-mg-capsula-liberacion-modificada-7703546080439/p",
+    "fecha_hora_scraping": "2021-06-14 10:12:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TAMSECOX 0.4 MG CAPSULA LIBERACION MODIFICADA",
+    "nombre_imagen": "./web_scraping/data/img/TAMSECOX_04_MG_CAPSULA_LIBERACION_MODIFICADA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$117.150",
+        "precioPorSku js-PUM": "Capsula a $3.905,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "0.4 MG"
+        ],
+        [
+            "Principio activo",
+            "TAMSULOSINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016775"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

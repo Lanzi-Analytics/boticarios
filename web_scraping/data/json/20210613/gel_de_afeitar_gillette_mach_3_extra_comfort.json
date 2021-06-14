@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/47400130715gel-de-afeitar-gillette-mach-3-extra-comforthigiene-y-cuidado-personalafeitada-y-depilacionprocter--gamble-47400130715/p",
+    "fecha_hora_scraping": "2021-06-14 00:52:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "gel de afeitar gillette mach 3 extra comfort",
+    "nombre_imagen": "./web_scraping/data/img/gel_de_afeitar_gillette_mach_3_extra_comfort.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$24.050",
+        "precioPorSku js-PUM": "Gramo a $121,46"
+    },
+    "descripcion": "gel de afeitar gillette mach 3 extra comfort",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-old-spice-lena-7506339390254/p",
+    "fecha_hora_scraping": "2021-06-14 02:03:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante old spice spray le\u00f1a",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_old_spice_spray_le\u00f1a.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$16.550",
+        "precioPorSku js-PUM": "Mililitro a $110,33"
+    },
+    "descripcion": "desod. old spice spray le\u00f1a 150 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

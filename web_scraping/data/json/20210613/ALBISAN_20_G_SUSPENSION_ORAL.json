@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/albisan-20-g-suspension-oral-7706309001122/p",
+    "fecha_hora_scraping": "2021-06-14 07:35:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALBISAN 20 G SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ALBISAN_20_G_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$68.850",
+        "precioPorSku js-PUM": "Mililitro a $344,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "20 G"
+        ],
+        [
+            "Principio activo",
+            "SUCRALFATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016571"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

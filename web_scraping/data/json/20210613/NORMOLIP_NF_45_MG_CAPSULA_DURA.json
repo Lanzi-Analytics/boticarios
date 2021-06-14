@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/normolip-nf-45-mg-capsula-dura-7702207704714/p",
+    "fecha_hora_scraping": "2021-06-14 02:50:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NORMOLIP NF 45 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/NORMOLIP_NF_45_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$154.450",
+        "precioPorSku js-PUM": "Capsula a $5.148,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "45 MG"
+        ],
+        [
+            "Principio activo",
+            "FENOFIBRATO COLINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014176-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

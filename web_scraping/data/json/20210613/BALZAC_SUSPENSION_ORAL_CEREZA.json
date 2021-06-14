@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/balzac-suspension-oral-cereza-7707334710294/p",
+    "fecha_hora_scraping": "2021-06-14 08:19:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BALZAC SUSPENSION ORAL CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/BALZAC_SUSPENSION_ORAL_CEREZA.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$52.150",
+        "precioPorSku js-PUM": "Mililitro a $144,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "26.7 MG/ML 25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO ALGINATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "NEVOX FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010690-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

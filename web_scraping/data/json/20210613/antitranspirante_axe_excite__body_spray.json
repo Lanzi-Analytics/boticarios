@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-axe-excite--body-spray-7702006000635/p",
+    "fecha_hora_scraping": "2021-06-13 23:58:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "antitranspirante axe excite + body spray",
+    "nombre_imagen": "./web_scraping/data/img/antitranspirante_axe_excite__body_spray.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "PrevPrice": "Antes:$23.450",
+        "bestPrice": "$18.760",
+        "precioPorSku js-PUM": "Mililitro a $125,07"
+    },
+    "descripcion": "axe anti excite 152 ml+body spray 150m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56775-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

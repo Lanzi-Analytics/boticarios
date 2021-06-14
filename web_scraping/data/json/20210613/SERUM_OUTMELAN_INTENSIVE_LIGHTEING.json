@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/serum-outmelan-intensive-lighteing-7709691190948/p",
+    "fecha_hora_scraping": "2021-06-13 23:44:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "SERUM OUTMELAN INTENSIVE LIGHTEING",
+    "nombre_imagen": "./web_scraping/data/img/SERUM_OUTMELAN_INTENSIVE_LIGHTEING.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "PrevPrice": "Antes:$108.450",
+        "bestPrice": "$81.337",
+        "precioPorSku js-PUM": "Mililitro a $2.711,23"
+    },
+    "descripcion": "serum outmelan intensive lighteing",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98895-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

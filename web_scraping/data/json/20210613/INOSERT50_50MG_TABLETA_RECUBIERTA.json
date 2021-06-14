@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/inosert-50-50mg-tableta-recubierta-8901079008237/p",
+    "fecha_hora_scraping": "2021-06-13 23:15:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "INOSERT-50 50MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/INOSERT50_50MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$87.500",
+        "precioPorSku js-PUM": "Tableta a $2.916,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "SERTRALINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "IPCA LABORATORIES LIMITATED SUCURSA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008156"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glucerna-liquido-chocolate-7703186031457/p",
+    "fecha_hora_scraping": "2021-06-14 05:12:27",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "GLUCERNA LIQUIDO CHOCOLATE",
+    "nombre_imagen": "GLUCERNA LIQUIDO CHOCOLATE.jpg",
+    "presentacion": "FRASCO X 237 ML",
+    "precio": {
+        "bestPrice": "$7.850",
+        "precioPorSku js-PUM": "Mililitro a $33,12"
+    },
+    "descripcion": "glucerna liquido chocolate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "SALBUTAMOL SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I188215"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

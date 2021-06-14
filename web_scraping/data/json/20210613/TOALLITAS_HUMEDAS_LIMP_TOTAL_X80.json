@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-limp-total-x80-7702425800717/p",
+    "fecha_hora_scraping": "2021-06-14 02:58:29",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "TOALLITAS HUMEDAS LIMP TOTAL X80",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_HUMEDAS_LIMP_TOTAL_X80.jpg",
+    "presentacion": "PAQUETE X 80 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $131,25"
+    },
+    "descripcion": "TOALLITAS HUMEDAS LIMP TOTAL X80",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 80 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72745-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

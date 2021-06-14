@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/erassin-100-mg-tableta-cubierta-7707177971616/p",
+    "fecha_hora_scraping": "2021-06-14 00:02:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ERASSIN 100 MG TABLETA CUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ERASSIN_100_MG_TABLETA_CUBIERTA.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$18.850",
+        "precioPorSku js-PUM": "Tableta a $9.425,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "SILDENAFILO CITRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO INTERNACIONAL DE COLOMB"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004241-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

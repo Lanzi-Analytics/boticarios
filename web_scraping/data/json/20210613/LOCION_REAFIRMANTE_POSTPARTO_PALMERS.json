@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-reafirmante-postparto-palmers-10181040603/p",
+    "fecha_hora_scraping": "2021-06-14 06:11:39",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "LOCION REAFIRMANTE POSTPARTO PALMERS",
+    "nombre_imagen": "./web_scraping/data/img/LOCION_REAFIRMANTE_POSTPARTO_PALMERS.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$63.650",
+        "precioPorSku js-PUM": "Mililitro a $254,60"
+    },
+    "descripcion": "locion reafirmante postparto palmers",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33299-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

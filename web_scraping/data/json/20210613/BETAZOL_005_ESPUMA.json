@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betazol-005-espuma-7703281001195/p",
+    "fecha_hora_scraping": "2021-06-14 08:28:55",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "BETAZOL 0.05% ESPUMA",
+    "nombre_imagen": "./web_scraping/data/img/BETAZOL_005_ESPUMA.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$49.400",
+        "precioPorSku js-PUM": "Gramo a $988,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOBETASOL PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014367-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

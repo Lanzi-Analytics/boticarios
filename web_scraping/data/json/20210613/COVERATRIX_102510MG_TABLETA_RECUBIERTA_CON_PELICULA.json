@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/coveratrix-102510mg-tableta-recubierta-con-pelicula-5391189340588/p",
+    "fecha_hora_scraping": "2021-06-14 02:36:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COVERATRIX 10/2.5/10MG TABLETA RECUBIERTA CON PELICULA",
+    "nombre_imagen": "./web_scraping/data/img/COVERATRIX_102510MG_TABLETA_RECUBIERTA_CON_PELICULA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$268.150",
+        "precioPorSku js-PUM": "Tableta a $8.938,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG 2,5 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "PERINDOPRIL  ARGINA AMLODIPINO INDAPAMIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SERVIER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016825"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

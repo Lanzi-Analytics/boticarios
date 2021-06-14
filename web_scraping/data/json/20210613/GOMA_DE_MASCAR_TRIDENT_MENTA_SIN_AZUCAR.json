@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goma-de-mascar-trident-menta-sin-azucar-7702133862809/p",
+    "fecha_hora_scraping": "2021-06-14 02:07:53",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMA DE MASCAR TRIDENT MENTA SIN AZUCAR",
+    "nombre_imagen": "./web_scraping/data/img/GOMA_DE_MASCAR_TRIDENT_MENTA_SIN_AZUCAR.jpg",
+    "presentacion": "PAQUETE X 6 UN",
+    "precio": {
+        "bestPrice": "$1.550",
+        "precioPorSku js-PUM": "Gramo a $155,00"
+    },
+    "descripcion": "goma de mascar trident menta sin azucar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 6 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV16149707"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

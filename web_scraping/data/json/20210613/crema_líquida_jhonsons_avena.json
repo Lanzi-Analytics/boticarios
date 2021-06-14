@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-liquida-jhonsons-avena-7891010046859/p",
+    "fecha_hora_scraping": "2021-06-14 00:43:55",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "crema l\u00edquida jhonson's avena",
+    "nombre_imagen": "./web_scraping/data/img/crema_l\u00edquida_jhonsons_avena.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$11.500",
+        "precioPorSku js-PUM": "Mililitro a $57,50"
+    },
+    "descripcion": "crema liq johnson 200 ml avena",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

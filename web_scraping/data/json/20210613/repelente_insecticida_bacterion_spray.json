@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-insecticida-bacterion-spray-7702113016529/p",
+    "fecha_hora_scraping": "2021-06-14 05:30:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "repelente insecticida bacterion spray",
+    "nombre_imagen": "./web_scraping/data/img/repelente_insecticida_bacterion_spray.jpg",
+    "presentacion": "ENVASE X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$13.200",
+        "bestPrice": "$10.560",
+        "precioPorSku js-PUM": "Mililitro a $88,00"
+    },
+    "descripcion": "repelente insec bacterion spray 120 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

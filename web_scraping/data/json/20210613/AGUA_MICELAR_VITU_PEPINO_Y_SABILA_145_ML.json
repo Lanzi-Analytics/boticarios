@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-micelar-vitu-pepino-y-sabila-145-ml-7702044249560/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "AGUA MICELAR VITU PEPINO Y SABILA 145 ML",
+    "nombre_imagen": "./web_scraping/data/img/AGUA_MICELAR_VITU_PEPINO_Y_SABILA_145_ML.jpg",
+    "presentacion": "FRASCO X 145 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $86,90"
+    },
+    "descripcion": "agua micelar vitu pepino y sabila 145 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 145 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83975-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/condon-durex-max-placer-7501159033565/p",
-    "fecha_hora_scraping": "2021-06-13 19:23:50",
+    "fecha_hora_scraping": "2021-06-14 04:13:23",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
     "titulo": "CONDON DUREX MAX PLACER",
     "nombre_imagen": "./web_scraping/data/img/CONDON_DUREX_MAX_PLACER.jpg",
     "presentacion": "CAJA X 3 UN",
     "precio": {
-        "PrevPrice": "Antes:$11.750",
-        "bestPrice": "$8.812",
-        "precioPorSku js-PUM": "Unidad a $2.937,33"
+        "bestPrice": "$11.750",
+        "precioPorSku js-PUM": "Unidad a $3.916,67"
     },
     "descripcion": "condon durex max placer",
     "atributos": [

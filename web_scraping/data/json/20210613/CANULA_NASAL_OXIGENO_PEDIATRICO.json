@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/canula-nasal-oxigeno-pediatrico-7707320190161/p",
+    "fecha_hora_scraping": "2021-06-14 04:27:00",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|terapia respiratoria",
+    "titulo": "CANULA NASAL OXIGENO PEDIATRICO",
+    "nombre_imagen": "./web_scraping/data/img/CANULA_NASAL_OXIGENO_PEDIATRICO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.100,00"
+    },
+    "descripcion": "canula nasal oxigeno pediatrico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CORALMEDICA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002341"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

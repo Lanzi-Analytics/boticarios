@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/isofem-tableta-recubierta-7702870999769/p",
+    "fecha_hora_scraping": "2021-06-13 23:47:14",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ISOFEM TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ISOFEM_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $1.536,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG 200 UI 25 MG"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO VITAMINA D3 ISOFLAVONAS"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0002747-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

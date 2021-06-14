@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trelegy-ellipta-polvo-para-inhalacion-7703363007039/p",
+    "fecha_hora_scraping": "2021-06-14 08:25:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRELEGY ELLIPTA POLVO PARA INHALACI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/TRELEGY_ELLIPTA_POLVO_PARA_INHALACI\u00d3N.jpg",
+    "presentacion": "CAJA X 1 UND",
+    "precio": {
+        "bestPrice": "$261.550",
+        "precioPorSku js-PUM": "Unidad a $261.550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 UND"
+        ],
+        [
+            "Concentracion",
+            "100 \u00b5G 62,5 \u00b5G 25 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "FUROATO DE FLUTICASONA  UMECLIDINIO  VILANTEROL"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019227"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-alergibon-avena-pague-1-lleve2-7703281009979/p",
+    "fecha_hora_scraping": "2021-06-14 03:40:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA JAB\u00d3N ALERGIB\u00d3N AVENA PAGUE: 1 LLEVE:2",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_JAB\u00d3N_ALERGIB\u00d3N_AVENA_PAGUE_1_LLEVE2.jpg",
+    "presentacion": "CAJA X 90 G",
+    "precio": {
+        "bestPrice": "$20.550",
+        "precioPorSku js-PUM": "Gramo a $228,33"
+    },
+    "descripcion": "oferta jab\u00f3n alergib\u00f3n avena pague: 1 lleve:2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC08320-92CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

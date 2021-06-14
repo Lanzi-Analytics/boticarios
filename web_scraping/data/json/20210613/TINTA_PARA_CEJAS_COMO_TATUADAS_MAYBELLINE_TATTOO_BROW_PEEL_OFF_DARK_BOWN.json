@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tinta-para-cejas-como-tatuadas-maybelline-tattoo-brow-peel-off-dark-bown-3600531417765/p",
+    "fecha_hora_scraping": "2021-06-14 10:20:29",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "TINTA PARA CEJAS COMO TATUADAS MAYBELLINE TATTOO BROW PEEL OFF DARK BOWN",
+    "nombre_imagen": "./web_scraping/data/img/TINTA_PARA_CEJAS_COMO_TATUADAS_MAYBELLINE_TATTOO_BROW_PEEL_OFF_DARK_BOWN.jpg",
+    "presentacion": "UNIDAD X 4.6 G",
+    "precio": {
+        "bestPrice": "$63.350",
+        "precioPorSku js-PUM": "Gramo a $13.771,74"
+    },
+    "descripcion": "tinta para cejas como tatuadas maybelline tattoo brow peel off dark bown",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4.6 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90025-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

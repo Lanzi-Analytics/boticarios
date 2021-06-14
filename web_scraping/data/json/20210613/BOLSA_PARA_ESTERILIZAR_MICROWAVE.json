@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bolsa-para-esterilizar-microwave-7612367013994/p",
+    "fecha_hora_scraping": "2021-06-14 05:08:07",
+    "breadcumb": "colsubsidio|mamas y bebes|accesorios",
+    "titulo": "BOLSA PARA ESTERILIZAR MICROWAVE",
+    "nombre_imagen": "./web_scraping/data/img/BOLSA_PARA_ESTERILIZAR_MICROWAVE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $98.050,00"
+    },
+    "descripcion": "bolsa para esterilizar microwave",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AREOLA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

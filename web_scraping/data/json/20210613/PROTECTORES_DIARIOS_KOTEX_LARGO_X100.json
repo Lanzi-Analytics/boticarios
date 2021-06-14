@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-diarios-kotex-largo-x100-7441008156703/p",
+    "fecha_hora_scraping": "2021-06-14 07:46:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "PROTECTORES DIARIOS KOTEX LARGO X100",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTORES_DIARIOS_KOTEX_LARGO_X100.jpg",
+    "presentacion": "PAQUETE X 100 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $139,00"
+    },
+    "descripcion": "PROTECTORES DIARIOS KOTEX LARGO X100",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07951-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

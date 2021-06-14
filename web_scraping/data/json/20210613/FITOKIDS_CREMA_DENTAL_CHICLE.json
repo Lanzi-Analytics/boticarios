@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fito-kids-crema-dental-chicle-7709990613179/p",
+    "fecha_hora_scraping": "2021-06-14 03:44:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "FITO-KIDS CREMA DENTAL CHICLE",
+    "nombre_imagen": "./web_scraping/data/img/FITOKIDS_CREMA_DENTAL_CHICLE.jpg",
+    "presentacion": "TUBO X 75 G",
+    "precio": {
+        "bestPrice": "$18.350",
+        "precioPorSku js-PUM": "Gramo a $244,67"
+    },
+    "descripcion": "fito-kids crema dental chicle",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PF FARMACEUTICA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC10123-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

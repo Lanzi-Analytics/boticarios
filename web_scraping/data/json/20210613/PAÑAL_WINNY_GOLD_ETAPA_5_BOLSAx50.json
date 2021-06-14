@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-winny-gold-etapa-5-bolsax50-7701021118233/p",
+    "fecha_hora_scraping": "2021-06-13 23:38:28",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1AL WINNY GOLD ETAPA 5 BOLSAx50",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_WINNY_GOLD_ETAPA_5_BOLSAx50.jpg",
+    "presentacion": "BOLSA X 50UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.358,00"
+    },
+    "descripcion": "PA\u00d1AL WINNY GOLD ETAPA 5 BOLSAx50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 50UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02379-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

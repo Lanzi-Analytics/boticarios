@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-listerine-control-calculos-zero-alcohol-7702031288350/p",
+    "fecha_hora_scraping": "2021-06-14 03:57:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "enjuague bucal listerine control c\u00e1lculos zero alcohol",
+    "nombre_imagen": "./web_scraping/data/img/enjuague_bucal_listerine_control_c\u00e1lculos_zero_alcohol.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "PrevPrice": "Antes:$20.650",
+        "bestPrice": "$17.552",
+        "precioPorSku js-PUM": "Mililitro a $35,10"
+    },
+    "descripcion": "listerine control zero x500ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

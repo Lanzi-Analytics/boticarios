@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/topicare-hidratante-corporal-7707222420168/p",
+    "fecha_hora_scraping": "2021-06-14 04:26:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "TOPICARE HIDRATANTE CORPORAL",
+    "nombre_imagen": "./web_scraping/data/img/TOPICARE_HIDRATANTE_CORPORAL.jpg",
+    "presentacion": "FRASCO X 280 ML",
+    "precio": {
+        "bestPrice": "$56.200",
+        "precioPorSku js-PUM": "Mililitro a $200,71"
+    },
+    "descripcion": "topicare hidratante corporal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC7077-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

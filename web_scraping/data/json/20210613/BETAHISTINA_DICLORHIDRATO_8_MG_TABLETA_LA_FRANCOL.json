@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702207517505lafrancolformuladosmedicamentosbetahistina-diclorhidrato-8-mg-tableta-la-francolbetahistina-diclorhidrato-7702207517505/p",
+    "fecha_hora_scraping": "2021-06-14 06:41:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BETAHISTINA DICLORHIDRATO 8 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/BETAHISTINA_DICLORHIDRATO_8_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$14.600",
+        "precioPorSku js-PUM": "Tableta a $1.460,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "8 MG"
+        ],
+        [
+            "Principio activo",
+            "BETAHISTINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005257-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

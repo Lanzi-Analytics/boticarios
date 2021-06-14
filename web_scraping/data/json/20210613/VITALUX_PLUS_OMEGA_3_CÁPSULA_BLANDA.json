@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitalux-plus-omega-3-capsula-blanda-7702635722137/p",
+    "fecha_hora_scraping": "2021-06-14 06:12:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VITALUX PLUS OMEGA 3 C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/VITALUX_PLUS_OMEGA_3_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 28CAP",
+    "precio": {
+        "bestPrice": "$73.500",
+        "precioPorSku js-PUM": "Capsula a $2.625,00"
+    },
+    "descripcion": "vitalux plus omega 3 c\u00e1psula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2010-0001595"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

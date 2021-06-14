@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desloratadina-5-mg-tableta-recubierta-genfar-7702605107063/p",
+    "fecha_hora_scraping": "2021-06-14 02:27:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DESLORATADINA 5 MG TABLETA RECUBIERTA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/DESLORATADINA_5_MG_TABLETA_RECUBIERTA_GENFAR.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$23.050",
+        "precioPorSku js-PUM": "Tableta a $2.305,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "DESLORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007990-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

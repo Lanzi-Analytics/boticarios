@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/furoato-de-mometasona-005--spray-nasal-tecnoquimicas-7702057061388/p",
+    "fecha_hora_scraping": "2021-06-14 04:16:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FUROATO DE MOMETASONA 0.05 % SPRAY NASAL TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/FUROATO_DE_MOMETASONA_005__SPRAY_NASAL_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 10 G",
+    "precio": {
+        "bestPrice": "$42.100",
+        "precioPorSku js-PUM": "Gramo a $4.210,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MOMETASONA FUROATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012822-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

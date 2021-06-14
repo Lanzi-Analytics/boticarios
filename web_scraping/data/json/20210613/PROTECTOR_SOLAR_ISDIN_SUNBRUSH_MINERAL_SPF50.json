@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-isdin-sunbrush-mineral-spf50-8429420125100/p",
+    "fecha_hora_scraping": "2021-06-14 09:25:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR ISDIN SUNBRUSH MINERAL SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_ISDIN_SUNBRUSH_MINERAL_SPF50.jpg",
+    "presentacion": "FRASCO X 4 G",
+    "precio": {
+        "bestPrice": "$103.900",
+        "precioPorSku js-PUM": "Gramo a $25.975,00"
+    },
+    "descripcion": "protector solar isdin sunbrush mineral s",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 4 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75603-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

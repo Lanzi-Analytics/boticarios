@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/haloperidol-2mgml-solucion-oral-humax-7707288820568/p",
+    "fecha_hora_scraping": "2021-06-14 05:59:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HALOPERIDOL 2MG/ML SOLUCI\u00d3N ORAL HUMAX",
+    "nombre_imagen": "./web_scraping/data/img/HALOPERIDOL_2MGML_SOLUCI\u00d3N_ORAL_HUMAX.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$6.000",
+        "precioPorSku js-PUM": "Mililitro a $300,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HALOPERIDOL"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007220"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-sensodyne-blanqueador-extra-fresh-7896015520045/p",
+    "fecha_hora_scraping": "2021-06-14 04:05:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "crema dental sensodyne blanqueador extra fresh",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_sensodyne_blanqueador_extra_fresh.jpg",
+    "presentacion": "TUBO X 90 G",
+    "precio": {
+        "bestPrice": "$20.900",
+        "precioPorSku js-PUM": "Gramo a $232,22"
+    },
+    "descripcion": "crema dent sensodyne extrafre 90 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA NSC2008C02860"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

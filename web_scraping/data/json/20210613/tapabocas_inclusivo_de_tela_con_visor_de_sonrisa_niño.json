@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-sin-barreras-max-defense-ninos-7709206761991/p",
+    "fecha_hora_scraping": "2021-06-14 06:16:51",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "tapabocas inclusivo de tela con visor de sonrisa ni\u00f1o",
+    "nombre_imagen": "./web_scraping/data/img/tapabocas_inclusivo_de_tela_con_visor_de_sonrisa_ni\u00f1o.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.400",
+        "precioPorSku js-PUM": "Unidad a $9.400,00"
+    },
+    "descripcion": "tapabocas sin barreras max defence ni\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SARIT PLAST SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

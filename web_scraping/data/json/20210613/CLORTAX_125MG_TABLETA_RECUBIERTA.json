@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clortax-125mg-tableta-recubierta-7707182841683/p",
+    "fecha_hora_scraping": "2021-06-14 03:42:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLORTAX 12.5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CLORTAX_125MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$51.750",
+        "precioPorSku js-PUM": "Tableta a $1.725,00"
+    },
+    "descripcion": "CLORTAX 12.5MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "12,5 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORTALIDONA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018938"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

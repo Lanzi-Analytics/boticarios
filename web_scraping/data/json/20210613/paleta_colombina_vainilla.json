@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-colombina-vainilla-7702011090768/p",
+    "fecha_hora_scraping": "2021-06-14 06:58:52",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta colombina vainilla",
+    "nombre_imagen": "./web_scraping/data/img/paleta_colombina_vainilla.jpg",
+    "presentacion": "UNIDAD X 60 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $51,67"
+    },
+    "descripcion": "paleta colombina vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 60 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I39205"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

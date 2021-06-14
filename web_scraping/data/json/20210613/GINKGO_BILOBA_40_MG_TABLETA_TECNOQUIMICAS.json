@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ginkgo-biloba-40-mg-tableta-tecnoquimicas-7702057070663/p",
+    "fecha_hora_scraping": "2021-06-14 02:19:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GINKGO BILOBA 40 MG TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/GINKGO_BILOBA_40_MG_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$4.750",
+        "precioPorSku js-PUM": "Tableta a $475,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "GINKGO BILOBA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-000196-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lip-ice-protector-labial-mentolado-spf15-310742037715/p",
+    "fecha_hora_scraping": "2021-06-14 04:49:25",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "LIP ICE PROTECTOR LABIAL MENTOLADO SPF15+",
+    "nombre_imagen": "./web_scraping/data/img/LIP_ICE_PROTECTOR_LABIAL_MENTOLADO_SPF15.jpg",
+    "presentacion": "TUBO X 3,5 G",
+    "precio": {
+        "bestPrice": "$7.700",
+        "precioPorSku js-PUM": "Gramo a $2.200,00"
+    },
+    "descripcion": "lip ice protector labial mentolado spf15+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3,5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC25561-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

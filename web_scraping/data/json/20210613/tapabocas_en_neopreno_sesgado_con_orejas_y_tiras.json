@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-en-neopreno-sesgado-con-orejas-y-tiras-7707249358420/p",
+    "fecha_hora_scraping": "2021-06-14 09:24:25",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "tapabocas en neopreno sesgado con orejas y tiras",
+    "nombre_imagen": "./web_scraping/data/img/tapabocas_en_neopreno_sesgado_con_orejas_y_tiras.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$8.100",
+        "precioPorSku js-PUM": "Unidad a $8.100,00"
+    },
+    "descripcion": "tapabocas en neopreno sesgado con orejas y tiras",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KAMEX INTERNATIONAL SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gafas-proteccion-antiempanante-uv400-7709525193299/p",
+    "fecha_hora_scraping": "2021-06-14 00:48:27",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GAFAS PROTECCION ANTIEMPA\u00d1ANTE UV400",
+    "nombre_imagen": "./web_scraping/data/img/GAFAS_PROTECCION_ANTIEMPA\u00d1ANTE_UV400.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$21.500",
+        "precioPorSku js-PUM": "Unidad a $21.500,00"
+    },
+    "descripcion": "gafas proteccion antiempa\u00f1. uv400 bolx1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EURO VISION SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/meloxicam-75-mg-tableta-procaps-7703153017378/p",
+    "fecha_hora_scraping": "2021-06-14 05:07:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MELOXICAM 7.5 MG TABLETA PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/MELOXICAM_75_MG_TABLETA_PROCAPS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Tableta a $555,00"
+    },
+    "descripcion": "MELOXICAM 7.5 MG TABLETA PROCAPS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "7.5 MG"
+        ],
+        [
+            "Principio activo",
+            "MELOXICAM"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004916-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

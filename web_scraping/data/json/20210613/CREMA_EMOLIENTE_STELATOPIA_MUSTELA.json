@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-emoliente-stelatopia-mustela-3504105028947/p",
+    "fecha_hora_scraping": "2021-06-14 03:36:00",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CREMA EMOLIENTE STELATOPIA MUSTELA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_EMOLIENTE_STELATOPIA_MUSTELA.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $451,25"
+    },
+    "descripcion": "crema emoliente stelatopia mustela",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81707-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

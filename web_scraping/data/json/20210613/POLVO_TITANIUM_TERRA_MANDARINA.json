@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-titanium-terra-mandarina-7709990037319/p",
+    "fecha_hora_scraping": "2021-06-14 04:41:09",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "POLVO TITANIUM TERRA MANDARINA",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_TITANIUM_TERRA_MANDARINA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$3.950",
+        "precioPorSku js-PUM": "Unidad a $3.950,00"
+    },
+    "descripcion": "polvo titanium terra mandarina",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALIMENTOS Y BEBIDAS VALTIK SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD09I21814"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-nocturna-colsubsidio-7701009127127/p",
+    "fecha_hora_scraping": "2021-06-14 01:44:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas nocturna colsubsidio",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_nocturna_colsubsidio.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$3.450",
+        "precioPorSku js-PUM": "Mililitro a $7,29"
+    },
+    "descripcion": "toalla higienica nocturna colsub 10 un",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUSA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA-00273-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

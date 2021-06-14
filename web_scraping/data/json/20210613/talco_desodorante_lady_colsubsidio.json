@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/talco-desodorante-lady-colsubsidio-7701009017718/p",
+    "fecha_hora_scraping": "2021-06-14 04:29:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "talco desodorante lady colsubsidio",
+    "nombre_imagen": "./web_scraping/data/img/talco_desodorante_lady_colsubsidio.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "bestPrice": "$5.900",
+        "precioPorSku js-PUM": "Gramo a $39,33"
+    },
+    "descripcion": "talco desod colsubsidio lady 150 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITAL COMERCIAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSC1996CO34074"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

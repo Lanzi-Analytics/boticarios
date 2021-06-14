@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rubor-duo-vitu-avena-tono-02-ambar-7702044256568/p",
+    "fecha_hora_scraping": "2021-06-14 07:04:32",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RUBOR DUO VIT\u00da AVENA TONO 02 \u00c1MBAR",
+    "nombre_imagen": "./web_scraping/data/img/RUBOR_DUO_VIT\u00da_AVENA_TONO_02_\u00c1MBAR.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$12.800",
+        "precioPorSku js-PUM": "Gramo a $1.828,57"
+    },
+    "descripcion": "rubor duo vit\u00fa avena tono 02 \u00e1mbar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81551-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gynoflor-crema-vaginal-7707355052250/p",
+    "fecha_hora_scraping": "2021-06-14 07:01:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GYNOFLOR CREMA VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/GYNOFLOR_CREMA_VAGINAL.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$42.350",
+        "precioPorSku js-PUM": "Gramo a $1.058,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "100 MG/G 20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-014805-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

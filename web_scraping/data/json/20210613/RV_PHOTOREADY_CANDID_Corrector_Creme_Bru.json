@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-photoready-candid-corrector-creme-bru-309970001650/p",
+    "fecha_hora_scraping": "2021-06-14 06:47:56",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV PHOTOREADY CANDID Corrector Creme Bru",
+    "nombre_imagen": "./web_scraping/data/img/RV_PHOTOREADY_CANDID_Corrector_Creme_Bru.jpg",
+    "presentacion": "TUBO X 10ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $3.570,00"
+    },
+    "descripcion": "rv photoready candid corrector creme bru",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91206-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

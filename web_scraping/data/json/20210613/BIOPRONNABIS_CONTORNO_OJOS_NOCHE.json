@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biopronnabis-contorno-ojos-noche-7707232090795/p",
+    "fecha_hora_scraping": "2021-06-14 08:18:25",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BIOPRONNABIS CONTORNO OJOS NOCHE",
+    "nombre_imagen": "./web_scraping/data/img/BIOPRONNABIS_CONTORNO_OJOS_NOCHE.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$35.950",
+        "precioPorSku js-PUM": "Gramo a $1.198,33"
+    },
+    "descripcion": "biopronnabis contorno ojos noche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82713-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

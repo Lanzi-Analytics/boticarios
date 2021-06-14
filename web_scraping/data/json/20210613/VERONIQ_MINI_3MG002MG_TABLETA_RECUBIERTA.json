@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/veroniq-mini-3mg002mg-tableta-recubierta-7703153025601/p",
+    "fecha_hora_scraping": "2021-06-14 00:33:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VERONIQ MINI 3MG/0.02MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/VERONIQ_MINI_3MG002MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$23.400",
+        "precioPorSku js-PUM": "Tableta a $1.114,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "3 MG 0,02 MG"
+        ],
+        [
+            "Principio activo",
+            "DROSPIRENONA ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008442"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-panal-pequenin-extrapoteccion-et-4-x30--toallitasaloex24-7707181955152/p",
+    "fecha_hora_scraping": "2021-06-14 06:50:06",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA PA\u00d1AL PEQUE\u00d1IN EXTRAPOTECCION ET 4 X30 + TOALLITAS.ALOEX24",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PA\u00d1AL_PEQUE\u00d1IN_EXTRAPOTECCION_ET_4_X30__TOALLITASALOEX24.jpg",
+    "presentacion": "PAQUETE X 30UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.276,67"
+    },
+    "descripcion": "OFERTA PA\u00d1AL PEQUE\u00d1IN EXTRAPOTECCION ET 4 X30 + TOALLITAS.ALOEX24",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07764-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

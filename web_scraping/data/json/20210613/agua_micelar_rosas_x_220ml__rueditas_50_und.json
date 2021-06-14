@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-micelar-rosas-x-220ml--rueditas-50-und-7702026185190/p",
+    "fecha_hora_scraping": "2021-06-14 01:02:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "agua micelar rosas x 220ml + rueditas 50 und",
+    "nombre_imagen": "./web_scraping/data/img/agua_micelar_rosas_x_220ml__rueditas_50_und.jpg",
+    "presentacion": "FRASCO X 220 ML",
+    "precio": {
+        "bestPrice": "$19.650",
+        "precioPorSku js-PUM": "Mililitro a $89,32"
+    },
+    "descripcion": "agua micelar rosas x 220ml + rueditas 50 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 220 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC95838-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

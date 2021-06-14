@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atak-clav-8-mg114-mg-polvo-para-suspension-oral-7891317192198/p",
+    "fecha_hora_scraping": "2021-06-14 04:47:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ATAK CLAV 8 MG/1.14 MG POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ATAK_CLAV_8_MG114_MG_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 70 ML",
+    "precio": {
+        "bestPrice": "$60.000",
+        "precioPorSku js-PUM": "Mililitro a $857,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 70 ML"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML 11,4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA CLAVULANICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017206"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

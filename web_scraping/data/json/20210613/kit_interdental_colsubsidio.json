@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-interdental-colsubsidio-7701009134699/p",
+    "fecha_hora_scraping": "2021-06-14 07:18:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "kit interdental colsubsidio",
+    "nombre_imagen": "./web_scraping/data/img/kit_interdental_colsubsidio.jpg",
+    "presentacion": "PAQUETE X 4 UN",
+    "precio": {
+        "bestPrice": "$4.450",
+        "precioPorSku js-PUM": "Unidad a $1.112,50"
+    },
+    "descripcion": "kit interdental colsubsidio x 4 unidad",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 4 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PLACECOL SA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001316"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

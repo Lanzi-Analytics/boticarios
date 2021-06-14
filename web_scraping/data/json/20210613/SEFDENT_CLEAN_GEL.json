@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sefdent-clean-gel-4002033000077/p",
+    "fecha_hora_scraping": "2021-06-14 09:24:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "SEFDENT CLEAN GEL",
+    "nombre_imagen": "./web_scraping/data/img/SEFDENT_CLEAN_GEL.jpg",
+    "presentacion": "FRASCO X 50ML",
+    "precio": {
+        "bestPrice": "$32.650",
+        "precioPorSku js-PUM": "Mililitro a $653,00"
+    },
+    "descripcion": "sefdent clean gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AVALON PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

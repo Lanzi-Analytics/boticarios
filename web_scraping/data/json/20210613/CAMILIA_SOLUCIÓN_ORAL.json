@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/camilia-solucion-oral-7702870897652/p",
+    "fecha_hora_scraping": "2021-06-14 06:36:40",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "CAMILIA SOLUCI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/CAMILIA_SOLUCI\u00d3N_ORAL.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "$27.400",
+        "precioPorSku js-PUM": "Unidad a $2.740,00"
+    },
+    "descripcion": "CAMILIA SOLUCI\u00d3N ORAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "MH2015-0002380"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

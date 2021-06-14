@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corega-ultra-crema-adhesiva-sin-sabor-7794640171734/p",
+    "fecha_hora_scraping": "2021-06-14 05:14:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "COREGA ULTRA CREMA ADHESIVA SIN SABOR",
+    "nombre_imagen": "./web_scraping/data/img/COREGA_ULTRA_CREMA_ADHESIVA_SIN_SABOR.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$16.900",
+        "precioPorSku js-PUM": "Gramo a $845,00"
+    },
+    "descripcion": "corega ultra crema adhesiva sin sabor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-001616-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

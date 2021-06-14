@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetirax-d-5-mg15-mg-capsula-dura-7703178000980/p",
+    "fecha_hora_scraping": "2021-06-14 02:32:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CETIRAX D 5 MG/15 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/CETIRAX_D_5_MG15_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$76.500",
+        "precioPorSku js-PUM": "Capsula a $7.650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "FENILEFRINA CLORHIDRATO CETIRIZINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2007M-006246R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

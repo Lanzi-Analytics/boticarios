@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pediasure-fresa-polvo-7703186027580/p",
+    "fecha_hora_scraping": "2021-06-14 02:54:47",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PEDIASURE FRESA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/PEDIASURE_FRESA_POLVO.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$36.650",
+        "precioPorSku js-PUM": "Gramo a $91,63"
+    },
+    "descripcion": "pediasure fresa polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000539-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

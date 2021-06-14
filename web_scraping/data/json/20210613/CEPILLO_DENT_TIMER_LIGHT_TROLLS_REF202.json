@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dent-timer-light-trolls/p",
+    "fecha_hora_scraping": "2021-06-14 07:08:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dent timer light trolls ref202",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dent_timer_light_trolls_ref202.jpg",
+    "presentacion": "",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a 18850,00"
+    },
+    "descripcion": "cepillo dent timer light trolls ref202",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            ""
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            ""
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

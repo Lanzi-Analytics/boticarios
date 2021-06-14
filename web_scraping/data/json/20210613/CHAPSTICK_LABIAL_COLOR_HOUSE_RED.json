@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chapstick-labial-color-house-red-7702132001711/p",
+    "fecha_hora_scraping": "2021-06-14 08:04:08",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CHAPSTICK LABIAL COLOR HOUSE RED",
+    "nombre_imagen": "./web_scraping/data/img/CHAPSTICK_LABIAL_COLOR_HOUSE_RED.jpg",
+    "presentacion": "BARRA X 3,5 G",
+    "precio": {
+        "bestPrice": "$16.450",
+        "precioPorSku js-PUM": "Gramo a $4.700,00"
+    },
+    "descripcion": "chapstick labial color house red",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 3,5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85434-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

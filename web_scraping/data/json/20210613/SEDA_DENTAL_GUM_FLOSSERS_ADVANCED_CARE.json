@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-gum-flossers-advanced-care-70942304382/p",
+    "fecha_hora_scraping": "2021-06-14 01:07:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "SEDA DENTAL GUM FLOSSERS ADVANCED CARE",
+    "nombre_imagen": "./web_scraping/data/img/SEDA_DENTAL_GUM_FLOSSERS_ADVANCED_CARE.jpg",
+    "presentacion": "BOLSA X 90 UN",
+    "precio": {
+        "bestPrice": "$20.000",
+        "precioPorSku js-PUM": "Unidad a $222,22"
+    },
+    "descripcion": "seda dental gum flossers advanced care",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 90 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016924"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

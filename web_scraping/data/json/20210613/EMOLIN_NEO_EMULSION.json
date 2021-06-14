@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/emolin-neo-emulsion-7703281009412/p",
+    "fecha_hora_scraping": "2021-06-14 04:11:54",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "EMOLIN NEO EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/EMOLIN_NEO_EMULSION.jpg",
+    "presentacion": "FRASCO X 240 G",
+    "precio": {
+        "bestPrice": "$86.250",
+        "precioPorSku js-PUM": "Gramo a $359,38"
+    },
+    "descripcion": "emolin neo emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC105-00C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

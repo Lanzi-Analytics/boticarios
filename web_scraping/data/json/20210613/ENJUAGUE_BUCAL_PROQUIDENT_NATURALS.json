@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-proquident-naturals-7702314121435/p",
+    "fecha_hora_scraping": "2021-06-13 23:25:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "ENJUAGUE BUCAL PROQUIDENT NATURALS",
+    "nombre_imagen": "./web_scraping/data/img/ENJUAGUE_BUCAL_PROQUIDENT_NATURALS.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$12.350",
+        "precioPorSku js-PUM": "Mililitro a $24,70"
+    },
+    "descripcion": "enjuague bucal proquident naturals",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69399-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

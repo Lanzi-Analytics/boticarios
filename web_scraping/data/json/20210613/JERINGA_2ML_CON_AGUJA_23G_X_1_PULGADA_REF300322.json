@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-2ml-con-aguja-23g-x-1-pulgada-ref300322-8428235000114/p",
+    "fecha_hora_scraping": "2021-06-14 01:34:31",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA 2ML CON AGUJA 23G X 1 PULGADA REF300322",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_2ML_CON_AGUJA_23G_X_1_PULGADA_REF300322.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$221",
+        "precioPorSku js-PUM": "Unidad a $221,00"
+    },
+    "descripcion": "jeringa 2ml con aguja 23g x 1 pulgada re",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BECTON DICKINSON DE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003324-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

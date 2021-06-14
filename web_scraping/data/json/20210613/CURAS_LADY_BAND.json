@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curas-lady-band-7707228419197/p",
+    "fecha_hora_scraping": "2021-06-14 02:51:43",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "CURAS LADY BAND",
+    "nombre_imagen": "./web_scraping/data/img/CURAS_LADY_BAND.jpg",
+    "presentacion": "CAJA X 12 UN",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Unidad a $145,83"
+    },
+    "descripcion": "curas lady band",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "M P PROMEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005777"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

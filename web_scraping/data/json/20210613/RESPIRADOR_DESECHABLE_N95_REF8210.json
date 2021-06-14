@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/respirador-desechable-n95-ref8210-51111086544/p",
+    "fecha_hora_scraping": "2021-06-14 01:34:48",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "RESPIRADOR DESECHABLE N95 REF8210",
+    "nombre_imagen": "./web_scraping/data/img/RESPIRADOR_DESECHABLE_N95_REF8210.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $6.700,00"
+    },
+    "descripcion": "respirador desechable n95 ref8210",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "3M COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NO APLICA"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

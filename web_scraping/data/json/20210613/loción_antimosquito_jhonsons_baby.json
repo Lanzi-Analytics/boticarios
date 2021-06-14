@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-antimosquito-jhonsons-baby-7891010919221/p",
+    "fecha_hora_scraping": "2021-06-14 07:59:14",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "loci\u00f3n antimosquito jhonson's baby",
+    "nombre_imagen": "./web_scraping/data/img/loci\u00f3n_antimosquito_jhonsons_baby.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$24.250",
+        "precioPorSku js-PUM": "Mililitro a $121,25"
+    },
+    "descripcion": "jb baby loci\u00f3n antimosquito 200ml exp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

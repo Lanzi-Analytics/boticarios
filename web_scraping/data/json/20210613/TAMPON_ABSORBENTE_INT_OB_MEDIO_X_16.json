@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampon-absorbente-int-ob-medio-x-16-7891010245573/p",
+    "fecha_hora_scraping": "2021-06-14 09:30:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "TAMPON ABSORBENTE INT OB MEDIO X 16",
+    "nombre_imagen": "./web_scraping/data/img/TAMPON_ABSORBENTE_INT_OB_MEDIO_X_16.jpg",
+    "presentacion": "PAQUETE X 16UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $768,75"
+    },
+    "descripcion": "TAMPON ABSORBENTE INT OB MEDIO X 16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 16UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00034-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

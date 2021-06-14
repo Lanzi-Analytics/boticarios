@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/l-glutamine-6000-mg-polvo-19962797767/p",
+    "fecha_hora_scraping": "2021-06-14 07:21:26",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "L-GLUTAMINE 6000 MG POLVO",
+    "nombre_imagen": "./web_scraping/data/img/LGLUTAMINE_6000_MG_POLVO.jpg",
+    "presentacion": "FRASCO X 240 G",
+    "precio": {
+        "bestPrice": "$60.050",
+        "precioPorSku js-PUM": "Gramo a $250,21"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003879"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

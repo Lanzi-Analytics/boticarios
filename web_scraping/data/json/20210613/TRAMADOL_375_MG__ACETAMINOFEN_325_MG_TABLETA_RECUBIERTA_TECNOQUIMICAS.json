@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tramadol-375-mg--acetaminofen-325-mg-tableta-recubierta-tecnoquimicas-7702057076849/p",
+    "fecha_hora_scraping": "2021-06-14 05:09:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAMADOL 37.5 MG + ACETAMINOFEN 325 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/TRAMADOL_375_MG__ACETAMINOFEN_325_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$38.200",
+        "precioPorSku js-PUM": "Tableta a $3.820,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 37.5 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN TRAMADOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0007640-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

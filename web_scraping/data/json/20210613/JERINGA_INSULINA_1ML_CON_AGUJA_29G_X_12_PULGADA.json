@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-insulina-1ml-con-aguja-29g-x-12-pulgada-1000001051390/p",
+    "fecha_hora_scraping": "2021-06-14 00:03:08",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA INSULINA 1ML CON AGUJA 29G X 1/2 PULGADA",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_INSULINA_1ML_CON_AGUJA_29G_X_12_PULGADA.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $208,00"
+    },
+    "descripcion": "jeringa insulina 1ml con aguja 29g x 1/2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS PARA LA SALUD"
+        ],
+        [
+            "Laboratorio",
+            "NIPRO MEDICAL CORPORATION"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0008789"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

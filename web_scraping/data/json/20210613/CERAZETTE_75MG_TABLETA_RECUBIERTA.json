@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cerazette-75mg-tableta-recubierta-7707213870170/p",
+    "fecha_hora_scraping": "2021-06-14 07:04:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CERAZETTE 75MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CERAZETTE_75MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$11.700",
+        "precioPorSku js-PUM": "Comprimido a $417,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "0.075 MG"
+        ],
+        [
+            "Principio activo",
+            "DESOGESTREL"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0001047-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

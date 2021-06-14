@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prowhey-trr-polvo-vainilla-7709979366928/p",
+    "fecha_hora_scraping": "2021-06-14 09:17:22",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PROWHEY TRR POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/PROWHEY_TRR_POLVO_VAINILLA.jpg",
+    "presentacion": "LATA X 336 G",
+    "precio": {
+        "bestPrice": "$59.200",
+        "precioPorSku js-PUM": "Gramo a $176,19"
+    },
+    "descripcion": "prowhey trr polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 336 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0011559-2021"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

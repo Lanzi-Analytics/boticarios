@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chocmelos-bessos--30gr-7702011033130/p",
+    "fecha_hora_scraping": "2021-06-14 02:42:51",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "CHOCMELOS BESSOS ( 30GR)",
+    "nombre_imagen": "./web_scraping/data/img/CHOCMELOS_BESSOS__30GR.jpg",
+    "presentacion": "UNIDAD X 30 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $35,00"
+    },
+    "descripcion": "CHOCMELOS BESSOS ( 30GR)",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAL16I01200"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

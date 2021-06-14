@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-gum-flossers-professional-clean-70942303071/p",
+    "fecha_hora_scraping": "2021-06-14 07:36:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "SEDA DENTAL GUM FLOSSERS PROFESSIONAL CLEAN",
+    "nombre_imagen": "./web_scraping/data/img/SEDA_DENTAL_GUM_FLOSSERS_PROFESSIONAL_CLEAN.jpg",
+    "presentacion": "BOLSA X 90 UN",
+    "precio": {
+        "bestPrice": "$20.100",
+        "precioPorSku js-PUM": "Unidad a $223,33"
+    },
+    "descripcion": "seda dental gum flossers professional cl",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 90 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016924"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

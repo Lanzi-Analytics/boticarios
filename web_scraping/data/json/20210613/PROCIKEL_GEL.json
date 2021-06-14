@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/procikel-gel-7703281002437/p",
+    "fecha_hora_scraping": "2021-06-13 23:27:56",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "PROCIKEL GEL",
+    "nombre_imagen": "./web_scraping/data/img/PROCIKEL_GEL.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$111.500",
+        "precioPorSku js-PUM": "Gramo a $3.716,67"
+    },
+    "descripcion": "procikel gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90385-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

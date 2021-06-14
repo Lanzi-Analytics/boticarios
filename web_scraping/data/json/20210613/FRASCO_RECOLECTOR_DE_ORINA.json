@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/frasco-recolector-de-orina-7707249020013/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:59",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "FRASCO RECOLECTOR DE ORINA",
+    "nombre_imagen": "./web_scraping/data/img/FRASCO_RECOLECTOR_DE_ORINA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$200",
+        "precioPorSku js-PUM": "Unidad a $200,00"
+    },
+    "descripcion": "frasco recolector de orina",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEDICAL NISSI SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018128"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

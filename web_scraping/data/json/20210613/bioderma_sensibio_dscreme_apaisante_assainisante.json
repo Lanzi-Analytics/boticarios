@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-sensibio-dscreme-apaisante-assainisante-3401397240470/p",
+    "fecha_hora_scraping": "2021-06-14 09:34:43",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "bioderma sensibio ds+creme apaisante assainisante",
+    "nombre_imagen": "./web_scraping/data/img/bioderma_sensibio_dscreme_apaisante_assainisante.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$89.950",
+        "precioPorSku js-PUM": "Mililitro a $2.248,75"
+    },
+    "descripcion": "bioderma sensibio ds+creme apaisante assainisante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41925-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

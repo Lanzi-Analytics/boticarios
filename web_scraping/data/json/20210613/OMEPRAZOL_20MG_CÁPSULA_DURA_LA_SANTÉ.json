@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/omeprazol-20mg-capsula-dura-la-sante-7703763230242/p",
+    "fecha_hora_scraping": "2021-06-14 03:19:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OMEPRAZOL 20MG C\u00c1PSULA DURA LA SANT\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/OMEPRAZOL_20MG_C\u00c1PSULA_DURA_LA_SANT\u00c9.jpg",
+    "presentacion": "CAJA X 16 CAP",
+    "precio": {
+        "bestPrice": "$5.500",
+        "precioPorSku js-PUM": "Capsula a $343,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 16 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "OMEPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-007230-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

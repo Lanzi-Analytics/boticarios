@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desigel-mandarina-7702870072424/p",
+    "fecha_hora_scraping": "2021-06-14 01:52:22",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "DESIGEL MANDARINA",
+    "nombre_imagen": "./web_scraping/data/img/DESIGEL_MANDARINA.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $3.040,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "10000 G 5 MG"
+        ],
+        [
+            "Principio activo",
+            "COLAGENO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2017-0004060"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

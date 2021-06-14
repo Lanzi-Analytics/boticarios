@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-detodito-mega-bbq-7702189054012/p",
+    "fecha_hora_scraping": "2021-06-14 08:55:43",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas detodito mega bbq",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_detodito_mega_bbq.jpg",
+    "presentacion": "PAQUETE X 65 G",
+    "precio": {
+        "bestPrice": "$2.100",
+        "precioPorSku js-PUM": "Gramo a $32,31"
+    },
+    "descripcion": "pasabocas detodito mega bbq",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 65 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-004575-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-tampon-nosotras-aplicador-super-x-8--2-protectores-largos-x-10-7702026179366/p",
+    "fecha_hora_scraping": "2021-06-13 23:29:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "oferta tampon nosotras aplicador super x 8 + 2 protectores largos x 10",
+    "nombre_imagen": "./web_scraping/data/img/oferta_tampon_nosotras_aplicador_super_x_8__2_protectores_largos_x_10.jpg",
+    "presentacion": "CAJA X 8 UN",
+    "precio": {
+        "bestPrice": "$14.100",
+        "precioPorSku js-PUM": "Unidad a $1.762,50"
+    },
+    "descripcion": "oferta tampon nosotras aplicador super x 8 + 2 protectores largos x 10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05566-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

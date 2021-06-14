@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/l-carnitina-500-mg-capsula-blanda-814465010340/p",
+    "fecha_hora_scraping": "2021-06-14 02:58:24",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "L-CARNITINA 500 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/LCARNITINA_500_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$41.550",
+        "precioPorSku js-PUM": "Capsula a $692,50"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2012-0002255"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

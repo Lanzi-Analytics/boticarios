@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-headshoulders-men-3-en-1-7500435019484/p",
+    "fecha_hora_scraping": "2021-06-13 23:35:27",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo head & shoulders men 3 en 1",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_head__shoulders_men_3_en_1.jpg",
+    "presentacion": "BOTELLA X 180 ML",
+    "precio": {
+        "bestPrice": "$11.700",
+        "precioPorSku js-PUM": "Mililitro a $65,00"
+    },
+    "descripcion": "hs shampoo 3en1 180ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 180 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80008-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/copitos-johnsons-7702031241522/p",
+    "fecha_hora_scraping": "2021-06-14 00:09:39",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "COPITOS JOHNSONS",
+    "nombre_imagen": "./web_scraping/data/img/COPITOS_JOHNSONS.jpg",
+    "presentacion": "CAJA X 100 UND",
+    "precio": {
+        "bestPrice": "$10.850",
+        "precioPorSku js-PUM": "Unidad a $108,50"
+    },
+    "descripcion": "copitos johnsons",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UND"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005259"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

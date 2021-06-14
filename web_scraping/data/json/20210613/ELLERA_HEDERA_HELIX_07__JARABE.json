@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ellera-hedera-helix-07--jarabe-7709990363272/p",
+    "fecha_hora_scraping": "2021-06-14 06:16:35",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ELLERA HEDERA HELIX 0.7 % JARABE",
+    "nombre_imagen": "./web_scraping/data/img/ELLERA_HEDERA_HELIX_07__JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $187,92"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "0,7 % (P/V)"
+        ],
+        [
+            "Principio activo",
+            "HEDERA HELIX"
+        ],
+        [
+            "Laboratorio",
+            "ADEXA PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2012-0001893"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

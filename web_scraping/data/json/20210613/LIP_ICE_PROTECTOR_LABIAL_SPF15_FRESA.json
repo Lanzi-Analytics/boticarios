@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lip-ice-protector-labial-spf15-fresa-310742037883/p",
+    "fecha_hora_scraping": "2021-06-14 09:00:55",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "LIP ICE PROTECTOR LABIAL SPF15+ FRESA",
+    "nombre_imagen": "./web_scraping/data/img/LIP_ICE_PROTECTOR_LABIAL_SPF15_FRESA.jpg",
+    "presentacion": "TUBO X 3,5 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $2.200,00"
+    },
+    "descripcion": "lip ice protector labial spf15+ fresa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3,5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC25561-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

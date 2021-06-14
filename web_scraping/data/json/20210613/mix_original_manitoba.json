@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mix-original-manitoba-7702409012648/p",
+    "fecha_hora_scraping": "2021-06-14 05:16:59",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "mix original manitoba",
+    "nombre_imagen": "./web_scraping/data/img/mix_original_manitoba.jpg",
+    "presentacion": "PAQUETE X 50 G",
+    "precio": {
+        "PrevPrice": "Antes:$2.700",
+        "bestPrice": "$2.160",
+        "precioPorSku js-PUM": "Gramo a $43,20"
+    },
+    "descripcion": "mix original manitoba",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MANITOBA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV21I00398"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

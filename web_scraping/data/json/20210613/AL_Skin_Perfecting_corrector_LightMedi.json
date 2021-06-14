@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-skin-perfecting-corrector-lightmedi-309970101923/p",
+    "fecha_hora_scraping": "2021-06-14 05:25:01",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL Skin Perfecting corrector Light/Medi",
+    "nombre_imagen": "./web_scraping/data/img/AL_Skin_Perfecting_corrector_LightMedi.jpg",
+    "presentacion": "TUBO X 4G",
+    "precio": {
+        "bestPrice": "$39.850",
+        "precioPorSku js-PUM": "Gramo a $10.770,27"
+    },
+    "descripcion": "al skin perfecting corrector light/medi",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98214-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

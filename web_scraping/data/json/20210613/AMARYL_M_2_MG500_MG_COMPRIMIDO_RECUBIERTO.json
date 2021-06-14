@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amaryl-m-2-mg500-mg-comprimido-recubierto-8806107604798/p",
+    "fecha_hora_scraping": "2021-06-14 04:08:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMARYL M 2 MG/500 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/AMARYL_M_2_MG500_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 30 COM",
+    "precio": {
+        "bestPrice": "$29.800",
+        "precioPorSku js-PUM": "Comprimido a $993,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 COM"
+        ],
+        [
+            "Concentracion",
+            "500 MG 2 MG"
+        ],
+        [
+            "Principio activo",
+            "METFORMINA CLORHIDRATO GLIMEPIRIDA"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007466"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

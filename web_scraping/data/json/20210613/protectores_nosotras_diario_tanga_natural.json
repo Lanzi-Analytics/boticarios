@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-nosotras-diario-tanga-natural-7702027442032/p",
+    "fecha_hora_scraping": "2021-06-14 06:17:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores nosotras diario tanga natural",
+    "nombre_imagen": "./web_scraping/data/img/protectores_nosotras_diario_tanga_natural.jpg",
+    "presentacion": "CAJA X 60 UN",
+    "precio": {
+        "bestPrice": "$10.500",
+        "precioPorSku js-PUM": "Unidad a $175,00"
+    },
+    "descripcion": "protect nosot diario tanga natural x60",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7509552817348shampoo-elvive-reparacion-total-5higiene-y-cuidado-personalcuidado-del-cabellona-7509552817348/p",
+    "fecha_hora_scraping": "2021-06-14 06:40:11",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "SHAMPOO ELVIVE REPARACION TOTAL 5",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_ELVIVE_REPARACION_TOTAL_5.jpg",
+    "presentacion": "FRASCO X 680 X ML",
+    "precio": {
+        "PrevPrice": "Antes:$31.350",
+        "bestPrice": "$21.945",
+        "precioPorSku js-PUM": "Mililitro a $32,27"
+    },
+    "descripcion": "shampoo elvive reparacion total 5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 680 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79392-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

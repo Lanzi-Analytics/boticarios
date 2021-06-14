@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rifapen-1-g100-ml-solucion-topica-7707351591159/p",
+    "fecha_hora_scraping": "2021-06-14 07:01:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "RIFAPEN 1 G/100 ML SOLUCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/RIFAPEN_1_G100_ML_SOLUCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.647,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "RIFAMICINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010722-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

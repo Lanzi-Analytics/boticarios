@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/algodon-zig-zag-7702560000362/p",
-    "fecha_hora_scraping": "2021-06-13 19:10:41",
+    "url_producto": "https://www.drogueriascolsubsidio.com/algodon-zig-zag-7702560000393/p",
+    "fecha_hora_scraping": "2021-06-14 08:50:10",
     "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
     "titulo": "ALGODON ZIG-ZAG",
     "nombre_imagen": "./web_scraping/data/img/ALGODON_ZIGZAG.jpg",
-    "presentacion": "BOLSA X 25 G",
+    "presentacion": "BOLSA X 250 G",
     "precio": {
-        "bestPrice": "",
-        "precioPorSku js-PUM": "Gramo a $6,80"
+        "bestPrice": "$10.900",
+        "precioPorSku js-PUM": "Gramo a $43,60"
     },
     "descripcion": "algodon zig-zag",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "BOLSA X 25 G"
+            "BOLSA X 250 G"
         ],
         [
             "Concentracion",
@@ -29,7 +29,7 @@
         ],
         [
             "Registro Invima",
-            "2011DM-0008039"
+            "2015DM-0003372-R1"
         ],
         [
             "Color",

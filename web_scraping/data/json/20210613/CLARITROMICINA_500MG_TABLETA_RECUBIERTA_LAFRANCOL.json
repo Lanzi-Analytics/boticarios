@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/claritromicina-500mg-tableta-recubierta-lafrancol-7706569000668/p",
+    "fecha_hora_scraping": "2021-06-14 06:06:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLARITROMICINA 500MG TABLETA RECUBIERTA LAFRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/CLARITROMICINA_500MG_TABLETA_RECUBIERTA_LAFRANCOL.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$36.700",
+        "precioPorSku js-PUM": "Tableta a $3.670,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CLARITROMICINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-006314-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

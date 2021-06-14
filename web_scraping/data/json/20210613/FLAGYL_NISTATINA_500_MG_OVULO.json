@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flagyl-nistatina-500-mg-ovulo-7591044403177/p",
+    "fecha_hora_scraping": "2021-06-14 02:47:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLAGYL NISTATINA 500 MG OVULO",
+    "nombre_imagen": "./web_scraping/data/img/FLAGYL_NISTATINA_500_MG_OVULO.jpg",
+    "presentacion": "BLISTER X 5 OVU",
+    "precio": {
+        "bestPrice": "$22.800",
+        "precioPorSku js-PUM": "OVULO a $4.560,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 5 OVU"
+        ],
+        [
+            "Concentracion",
+            "100000 UI 500 MG"
+        ],
+        [
+            "Principio activo",
+            "NISTATINA METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001004-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

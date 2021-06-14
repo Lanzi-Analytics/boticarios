@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mirapex-er-30-mg-tableta-de-liberacion-prolongada-4048846003638/p",
+    "fecha_hora_scraping": "2021-06-14 03:24:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MIRAPEX ER 3.0 MG TABLETA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/MIRAPEX_ER_30_MG_TABLETA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$264.600",
+        "precioPorSku js-PUM": "Tableta a $8.820,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "3 MG"
+        ],
+        [
+            "Principio activo",
+            "PRAMIPEXOL DICLORHID HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010975-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

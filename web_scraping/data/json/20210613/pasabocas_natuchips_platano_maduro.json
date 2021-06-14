@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-natuchips-platano-maduro-7702189045751/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:54",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas natuchips platano maduro",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_natuchips_platano_maduro.jpg",
+    "presentacion": "PAQUETE X 135 G",
+    "precio": {
+        "bestPrice": "$3.850",
+        "precioPorSku js-PUM": "Gramo a $28,52"
+    },
+    "descripcion": "pasabocas natuchips platano maduro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 135 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAA21M00285"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

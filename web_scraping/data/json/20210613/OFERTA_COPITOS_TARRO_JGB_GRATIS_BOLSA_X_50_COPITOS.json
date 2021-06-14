@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-copitos-tarro-jgb-gratis-bolsa-x-50-copitos-7702560028991/p",
+    "fecha_hora_scraping": "2021-06-14 05:07:50",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA COPITOS TARRO JGB GRATIS BOLSA X 50 COPITOS",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_COPITOS_TARRO_JGB_GRATIS_BOLSA_X_50_COPITOS.jpg",
+    "presentacion": "TARRO X 150 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $84,50"
+    },
+    "descripcion": "oferta copitos tarro jgb gratis bolsa x 50 copitos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 150 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0008463"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

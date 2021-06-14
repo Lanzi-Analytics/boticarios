@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8470002609037juveses-teens-regulador-sebaceo-sesdermabellezadermocosmetica-8470002609037/p",
+    "fecha_hora_scraping": "2021-06-13 23:36:02",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "JUVESES TEENS REGULADOR SEBACEO SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/JUVESES_TEENS_REGULADOR_SEBACEO_SESDERMA.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$136.700",
+        "precioPorSku js-PUM": "Mililitro a $2.734,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC28957-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

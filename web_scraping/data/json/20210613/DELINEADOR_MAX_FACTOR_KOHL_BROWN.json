@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-max-factor-kohl-brown-50544684/p",
+    "fecha_hora_scraping": "2021-06-14 03:52:05",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR MAX FACTOR KOHL BROWN",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_MAX_FACTOR_KOHL_BROWN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $7.912,50"
+    },
+    "descripcion": "delineador max factor kohl brown",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC18724-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

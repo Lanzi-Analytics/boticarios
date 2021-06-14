@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7500435019712shampoo-head--shoulders-proteccion-caidahigiene-y-cuidado-personalcuidado-del-cabelloprocter--gamble-7500435019712/p",
+    "fecha_hora_scraping": "2021-06-14 08:20:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "SHAMPOO HEAD & SHOULDERS PROTECCI\u00d3N CAIDA",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_HEAD__SHOULDERS_PROTECCI\u00d3N_CAIDA.jpg",
+    "presentacion": "BOTELLA X 375 ML",
+    "precio": {
+        "PrevPrice": "Antes:$21.700",
+        "bestPrice": "$17.360",
+        "precioPorSku js-PUM": "Mililitro a $46,29"
+    },
+    "descripcion": "shampoo head & shoulders protecci\u00f3n caida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 375 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80812-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

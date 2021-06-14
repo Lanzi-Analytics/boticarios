@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-diabeticos-fresa-7702870051153/p",
+    "fecha_hora_scraping": "2021-06-14 07:12:26",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY DIABETICOS FRESA",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_DIABETICOS_FRESA.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$43.650",
+        "precioPorSku js-PUM": "Gramo a $109,13"
+    },
+    "descripcion": "ensoy diabeticos fresa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV10I21805"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

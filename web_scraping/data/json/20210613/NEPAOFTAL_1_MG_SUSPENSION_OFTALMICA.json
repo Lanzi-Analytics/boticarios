@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nepaoftal-1-mg-suspension-oftalmica-7702057707385/p",
+    "fecha_hora_scraping": "2021-06-14 06:14:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEPAOFTAL 1 MG SUSPENSION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/NEPAOFTAL_1_MG_SUSPENSION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$54.700",
+        "precioPorSku js-PUM": "Mililitro a $10.940,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "NEPAFENACO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016419"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

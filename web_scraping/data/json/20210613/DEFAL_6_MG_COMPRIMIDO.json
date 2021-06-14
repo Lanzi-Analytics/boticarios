@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/defal-6-mg-comprimido-8436024611038/p",
+    "fecha_hora_scraping": "2021-06-14 06:53:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEFAL 6 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/DEFAL_6_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 20 COM",
+    "precio": {
+        "bestPrice": "$16.650",
+        "precioPorSku js-PUM": "Comprimido a $832,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 COM"
+        ],
+        [
+            "Concentracion",
+            "6 MG"
+        ],
+        [
+            "Principio activo",
+            "DEFLAZACORT"
+        ],
+        [
+            "Laboratorio",
+            "B C N MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013137-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

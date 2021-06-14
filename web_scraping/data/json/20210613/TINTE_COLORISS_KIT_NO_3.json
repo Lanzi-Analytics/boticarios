@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113017939tinte-coloriss-kit-no-3higiene-y-cuidado-personalcuidado-del-cabellona-7702113017939/p",
+    "fecha_hora_scraping": "2021-06-14 02:55:43",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TINTE COLORISS KIT NO. 3",
+    "nombre_imagen": "./web_scraping/data/img/TINTE_COLORISS_KIT_NO_3.jpg",
+    "presentacion": "CAJA  X 50 X G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $209,00"
+    },
+    "descripcion": "tinte coloriss kit no. 3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA  X 50 X G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71845-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

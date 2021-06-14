@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-max-factor-colorfast-crownruby-12-7702044007931/p",
+    "fecha_hora_scraping": "2021-06-14 10:11:30",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL MAX FACTOR COLORFAST CROWNRUBY #12",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_MAX_FACTOR_COLORFAST_CROWNRUBY_12.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $5.387,50"
+    },
+    "descripcion": "labial max factor colorfast crownruby #12",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36425-97CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

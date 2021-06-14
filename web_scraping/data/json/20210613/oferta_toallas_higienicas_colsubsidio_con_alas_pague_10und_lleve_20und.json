@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallas-higienicas-colsubsidio-con-alas-pague-10und-lleve-20und-7701009019064/p",
+    "fecha_hora_scraping": "2021-06-14 07:42:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toallas higienicas colsubsidio con alas pague: 10und lleve: 20und",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallas_higienicas_colsubsidio_con_alas_pague_10und_lleve_20und.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$4.350",
+        "precioPorSku js-PUM": "Unidad a $435,00"
+    },
+    "descripcion": "oft toalla hig colsub tela alas p10 ll",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUSA LINEA INTIMA Y COSMETICA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

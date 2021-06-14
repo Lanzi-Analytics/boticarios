@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/melocam-15mg-tableta-dispersable-7702870001073/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MELOCAM 15MG TABLETA DISPERSABLE",
+    "nombre_imagen": "./web_scraping/data/img/MELOCAM_15MG_TABLETA_DISPERSABLE.jpg",
+    "presentacion": "CAJA X 10TAB",
+    "precio": {
+        "bestPrice": "$77.150",
+        "precioPorSku js-PUM": "Tableta a $7.715,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10TAB"
+        ],
+        [
+            "Concentracion",
+            "7.5 MG"
+        ],
+        [
+            "Principio activo",
+            "MELOXICAM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007264-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

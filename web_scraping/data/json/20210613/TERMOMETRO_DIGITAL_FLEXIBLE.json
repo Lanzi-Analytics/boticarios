@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/termometro-digital-flexible-7707228363506/p",
+    "fecha_hora_scraping": "2021-06-14 08:24:01",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TERMOMETRO DIGITAL FLEXIBLE",
+    "nombre_imagen": "./web_scraping/data/img/TERMOMETRO_DIGITAL_FLEXIBLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$21.450",
+        "bestPrice": "$16.087",
+        "precioPorSku js-PUM": "Unidad a $16.087"
+    },
+    "descripcion": "termometro digital flexible",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016887"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

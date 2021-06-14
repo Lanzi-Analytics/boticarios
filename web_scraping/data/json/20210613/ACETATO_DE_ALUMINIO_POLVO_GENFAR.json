@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acetato-de-aluminio-polvo-genfar-7705959012601/p",
+    "fecha_hora_scraping": "2021-06-14 08:19:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACETATO DE ALUMINIO POLVO GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/ACETATO_DE_ALUMINIO_POLVO_GENFAR.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$1.074",
+        "precioPorSku js-PUM": "Unidad a $1.074,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "51.8 MG 36.45 MG"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO SULFATO CALCIO ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0004255-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

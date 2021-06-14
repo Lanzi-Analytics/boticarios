@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-brow-pencil-lapiz-de-cejas-dark-blond-309979637010/p",
+    "fecha_hora_scraping": "2021-06-14 03:02:29",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL BROW PENCIL lapiz de cejas dark blond",
+    "nombre_imagen": "./web_scraping/data/img/AL_BROW_PENCIL_lapiz_de_cejas_dark_blond.jpg",
+    "presentacion": "LAPIZ X 0.2 G",
+    "precio": {
+        "bestPrice": "$45.250",
+        "precioPorSku js-PUM": "Gramo a $226.250,00"
+    },
+    "descripcion": "al brow pencil lapiz de cejas dark blond",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 0.2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76005-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

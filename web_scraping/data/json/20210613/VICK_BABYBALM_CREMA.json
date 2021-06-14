@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vick-babybalm-crema-75066857/p",
+    "fecha_hora_scraping": "2021-06-14 03:15:07",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "VICK BABYBALM CREMA",
+    "nombre_imagen": "./web_scraping/data/img/VICK_BABYBALM_CREMA.jpg",
+    "presentacion": "LATA X 12 G",
+    "precio": {
+        "bestPrice": "$4.950",
+        "precioPorSku js-PUM": "Gramo a $412,50"
+    },
+    "descripcion": "vick babybalm crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC16461-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

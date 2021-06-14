@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-talco-medicado-mexana-duopack-7702123008897/p",
+    "fecha_hora_scraping": "2021-06-13 23:56:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "oferta talco medicado mexana duopack",
+    "nombre_imagen": "./web_scraping/data/img/oferta_talco_medicado_mexana_duopack.jpg",
+    "presentacion": "2 TARRO X 85 G",
+    "precio": {
+        "PrevPrice": "Antes:$15.250",
+        "bestPrice": "$12.962",
+        "precioPorSku js-PUM": "Gramo a $0,00"
+    },
+    "descripcion": "oferta talco medicado mexana duopack",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "2 TARRO X 85 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2008 M-001331 R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

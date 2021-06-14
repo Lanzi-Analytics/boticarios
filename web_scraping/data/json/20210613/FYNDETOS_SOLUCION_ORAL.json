@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fyndetos-solucion-oral-7707176463518/p",
+    "fecha_hora_scraping": "2021-06-14 10:12:44",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "FYNDETOS SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/FYNDETOS_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$28.000",
+        "precioPorSku js-PUM": "Mililitro a $233,33"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FUNDACI LABORATORIO FARMACOLOGIA VE"
+        ],
+        [
+            "Registro Invima",
+            "PFM2016-0002513"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calcium-magnesium-y-zinc-capsula-30768003258/p",
+    "fecha_hora_scraping": "2021-06-14 08:56:58",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CALCIUM. MAGNESIUM Y ZINC CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/CALCIUM_MAGNESIUM_Y_ZINC_CAPSULA.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $629,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INTERNAL PERFUMERIA Y ESPECIA FARMA"
+        ],
+        [
+            "Registro Invima",
+            "SD2009-0001056"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

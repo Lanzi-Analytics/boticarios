@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-max-factor-radiant-lift-sand-60-3614226290601/p",
+    "fecha_hora_scraping": "2021-06-14 02:11:09",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE MAX FACTOR RADIANT LIFT SAND #60",
+    "nombre_imagen": "./web_scraping/data/img/BASE_MAX_FACTOR_RADIANT_LIFT_SAND_60.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.508,33"
+    },
+    "descripcion": "base max factor radiant lift sand #60",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91774-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

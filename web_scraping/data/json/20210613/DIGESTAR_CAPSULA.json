@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/digestar-capsula-7707232090238/p",
+    "fecha_hora_scraping": "2021-06-14 09:30:38",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "DIGESTAR CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/DIGESTAR_CAPSULA.jpg",
+    "presentacion": "FRASCO X 50 CAP",
+    "precio": {
+        "bestPrice": "$36.500",
+        "precioPorSku js-PUM": "Capsula a $730,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 CAP"
+        ],
+        [
+            "Concentracion",
+            "100 G"
+        ],
+        [
+            "Principio activo",
+            "SEMILLA ISPHAGULA"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2009-0001373"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

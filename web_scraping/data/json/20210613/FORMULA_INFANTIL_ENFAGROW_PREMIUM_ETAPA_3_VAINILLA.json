@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-etapa-3-vainilla-7506205811371/p",
+    "fecha_hora_scraping": "2021-06-14 04:47:28",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAGROW PREMIUM ETAPA 3 VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAGROW_PREMIUM_ETAPA_3_VAINILLA.jpg",
+    "presentacion": "LATA X 800 G",
+    "precio": {
+        "PrevPrice": "Antes:$66.350",
+        "bestPrice": "$59.715",
+        "precioPorSku js-PUM": "Gramo a $74,64"
+    },
+    "descripcion": "formula infantil enfagrow premium etapa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I20404"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

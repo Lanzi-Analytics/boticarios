@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-vitamina-e-400ui-capsula-blanda-2x1-7703153009557/p",
+    "fecha_hora_scraping": "2021-06-14 10:05:19",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA VITAMINA E 400UI C\u00c1PSULA BLANDA 2X1",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_VITAMINA_E_400UI_C\u00c1PSULA_BLANDA_2X1.jpg",
+    "presentacion": "CAJA X 100 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$34.300",
+        "bestPrice": "$27.440",
+        "precioPorSku js-PUM": "Capsula a $274,40"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 UI"
+        ],
+        [
+            "Principio activo",
+            "DL-ALFATOCOFERIL ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0002690-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

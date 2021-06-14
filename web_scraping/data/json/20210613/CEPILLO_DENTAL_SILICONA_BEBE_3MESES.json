@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702314155232proquidentcepillos-dentaleshigiene-y-cuidado-personalcepillo-dental-silicona-bebe-3mesescepillo-de-dientes-cepillos-de-dientes-cepillo-dental-7702314155232/p",
+    "fecha_hora_scraping": "2021-06-14 02:30:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL SILICONA BEBE 3+MESES",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_SILICONA_BEBE_3MESES.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$6.850",
+        "precioPorSku js-PUM": "Unidad a $6.850,00"
+    },
+    "descripcion": "cepillo dental silicona bebe 3+meses",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0006158"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

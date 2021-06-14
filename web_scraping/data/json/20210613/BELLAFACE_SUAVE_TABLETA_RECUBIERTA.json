@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bellaface-suave-tableta-recubierta-7702870071465/p",
+    "fecha_hora_scraping": "2021-06-14 06:29:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BELLAFACE SUAVE TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/BELLAFACE_SUAVE_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$13.900",
+        "precioPorSku js-PUM": "Tableta a $496,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 20 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "DIENOGEST ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0015240-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

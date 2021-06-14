@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/perio-aid-intensive-care-enjuague-bucal-8427426040625/p",
+    "fecha_hora_scraping": "2021-06-14 00:13:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "PERIO AID INTENSIVE CARE ENJUAGUE BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/PERIO_AID_INTENSIVE_CARE_ENJUAGUE_BUCAL.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$28.750",
+        "precioPorSku js-PUM": "Mililitro a $191,67"
+    },
+    "descripcion": "perio aid intensive care enjuague bucal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38497-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

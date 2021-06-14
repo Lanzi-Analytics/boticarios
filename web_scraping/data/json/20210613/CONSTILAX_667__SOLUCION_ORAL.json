@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/constilax-667--solucion-oral-7707288825327/p",
+    "fecha_hora_scraping": "2021-06-14 03:45:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CONSTILAX 66.7 % SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/CONSTILAX_667__SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$50.300",
+        "precioPorSku js-PUM": "Mililitro a $209,58"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "667 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LACTULOSA"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016378-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

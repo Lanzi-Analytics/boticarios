@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707208613492oferta-kit-dhems-serum-vitamina-c-x-2und-precio-especialbellezadermocosmeticapercos-7707208613492/p",
+    "fecha_hora_scraping": "2021-06-14 05:28:23",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "OFERTA KIT DHEMS SERUM VITAMINA C X 2UND PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_KIT_DHEMS_SERUM_VITAMINA_C_X_2UND_PRECIO_ESPECIAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $5.993,33"
+    },
+    "descripcion": "oferta kit dhems serum vitamina c x 2und precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75383-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

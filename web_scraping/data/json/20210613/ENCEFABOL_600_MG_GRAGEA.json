@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/encefabol-600-mg-gragea-7702418000254/p",
+    "fecha_hora_scraping": "2021-06-14 10:03:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ENCEFABOL 600 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/ENCEFABOL_600_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 10 GRG",
+    "precio": {
+        "bestPrice": "$124.600",
+        "precioPorSku js-PUM": "Gragea a $12.460,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 GRG"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "PIRITINOL DICLORHID HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-13463-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-gillette-clear-gel-power-rush-47400097872/p",
+    "fecha_hora_scraping": "2021-06-14 01:06:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "DESODORANTE GILLETTE CLEAR GEL POWER RUSH",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_GILLETTE_CLEAR_GEL_POWER_RUSH.jpg",
+    "presentacion": "FRASCO X 113 G",
+    "precio": {
+        "PrevPrice": "Antes:$21.900",
+        "bestPrice": "$17.520",
+        "precioPorSku js-PUM": "Gramo a $155,04"
+    },
+    "descripcion": "desod gel clear 113 g power rush",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 113 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA NSC2004CO11706"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

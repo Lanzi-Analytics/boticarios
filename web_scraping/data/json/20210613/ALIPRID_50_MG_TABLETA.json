@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aliprid-50-mg-tableta-7707321982024/p",
+    "fecha_hora_scraping": "2021-06-14 08:57:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALIPRID 50 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ALIPRID_50_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$33.850",
+        "precioPorSku js-PUM": "Tableta a $3.385,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "ALIZAPRIDA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017494"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

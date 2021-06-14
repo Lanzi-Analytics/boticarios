@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-centrum-silver--50anos-pague-100und-lleve-130und-7702132000400/p",
+    "fecha_hora_scraping": "2021-06-14 01:07:57",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA CENTRUM SILVER + 50A\u00d1OS PAGUE: 100UND LLEVE: 130UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CENTRUM_SILVER__50A\u00d1OS_PAGUE_100UND_LLEVE_130UND.jpg",
+    "presentacion": "CAJA X 130 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $649,50"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 130 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003677"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

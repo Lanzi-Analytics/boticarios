@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cera-para-ortodoncia-con-vitamina-e-y-aloe-vera-sabor-menta-70942507240/p",
+    "fecha_hora_scraping": "2021-06-14 08:04:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CERA PARA ORTODONCIA CON VITAMINA E Y ALOE VERA SABOR MENTA",
+    "nombre_imagen": "./web_scraping/data/img/CERA_PARA_ORTODONCIA_CON_VITAMINA_E_Y_ALOE_VERA_SABOR_MENTA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Unidad a $5.550,00"
+    },
+    "descripcion": "cera para ortodoncia con vitamina e y al",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007659"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

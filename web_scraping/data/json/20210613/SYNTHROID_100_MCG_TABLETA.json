@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/synthroid-100-mcg-tableta-7702870231685/p",
+    "fecha_hora_scraping": "2021-06-14 01:20:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYNTHROID 100 MCG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/SYNTHROID_100_MCG_TABLETA.jpg",
+    "presentacion": "FRASCO X 90 TAB",
+    "precio": {
+        "bestPrice": "$101.100",
+        "precioPorSku js-PUM": "Tableta a $1.123,33"
+    },
+    "descripcion": "SYNTHROID 100 MCG TABLETA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "LEVOTIROXINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0001709-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/progendo-200-mg-capsula-blanda-7707189520642/p",
+    "fecha_hora_scraping": "2021-06-14 03:03:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PROGENDO 200 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/PROGENDO_200_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "bestPrice": "$159.000",
+        "precioPorSku js-PUM": "Capsula a $7.950,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "PROGESTERONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0003195-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

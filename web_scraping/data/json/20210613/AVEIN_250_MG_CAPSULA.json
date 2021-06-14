@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/a-vein-250-mg-capsula-7709990695069/p",
+    "fecha_hora_scraping": "2021-06-14 09:27:32",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "A-VEIN 250 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/AVEIN_250_MG_CAPSULA.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $2.180,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ADEXA PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2013-0002119"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

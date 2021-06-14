@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-vital-age-serum-contorno-ojos-8430795001128/p",
+    "fecha_hora_scraping": "2021-06-14 04:08:57",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE VITAL AGE SERUM CONTORNO OJOS",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_VITAL_AGE_SERUM_CONTORNO_OJOS.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$132.950",
+        "precioPorSku js-PUM": "Mililitro a $8.863,33"
+    },
+    "descripcion": "atache vital age serum contorno ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86643-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

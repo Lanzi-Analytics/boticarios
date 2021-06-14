@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-colonia-arrurru-original-gratis-jabon-7702277134848/p",
+    "fecha_hora_scraping": "2021-06-14 02:53:29",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "oferta colonia arrurr\u00fa original gratis jab\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/oferta_colonia_arrurr\u00fa_original_gratis_jab\u00f3n.jpg",
+    "presentacion": "BOTELLA X 120 ML",
+    "precio": {
+        "bestPrice": "$16.900",
+        "precioPorSku js-PUM": "Mililitro a $140,83"
+    },
+    "descripcion": "of colonia orig arrurru grt jab 120",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

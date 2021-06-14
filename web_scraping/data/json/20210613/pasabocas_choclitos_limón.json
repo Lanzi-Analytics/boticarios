@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-choclitos-limon-7702189045799/p",
+    "fecha_hora_scraping": "2021-06-14 07:44:31",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas choclitos lim\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_choclitos_lim\u00f3n.jpg",
+    "presentacion": "PAQUETE X 230 G",
+    "precio": {
+        "bestPrice": "$4.100",
+        "precioPorSku js-PUM": "Gramo a $17,83"
+    },
+    "descripcion": "pasabocas choclitos lim\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 230 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD21M19496"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-antitranspirante-speed-stick-classic-precio-especial-7702010970719/p",
+    "fecha_hora_scraping": "2021-06-14 06:10:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "OFERTA ANTITRANSPIRANTE SPEED STICK CLASSIC PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ANTITRANSPIRANTE_SPEED_STICK_CLASSIC_PRECIO_ESPECIAL.jpg",
+    "presentacion": "2 FRASCOS X 50 G",
+    "precio": {
+        "bestPrice": "$26.300",
+        "precioPorSku js-PUM": "Gramo a $263,00"
+    },
+    "descripcion": "oferta antitranspirante speed stick classic precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "2 FRASCOS X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

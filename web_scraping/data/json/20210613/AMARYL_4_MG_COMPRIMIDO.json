@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amaryl-4-mg-comprimido-7591044006170/p",
+    "fecha_hora_scraping": "2021-06-14 10:20:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMARYL 4 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/AMARYL_4_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 15 COM",
+    "precio": {
+        "bestPrice": "$108.450",
+        "precioPorSku js-PUM": "Comprimido a $7.230,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 COM"
+        ],
+        [
+            "Concentracion",
+            "4 MG"
+        ],
+        [
+            "Principio activo",
+            "GLIMEPIRIDA"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-006659-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

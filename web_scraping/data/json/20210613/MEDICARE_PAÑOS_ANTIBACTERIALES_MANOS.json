@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/medicare-panos-antibacteriales-manos-7703252035532/p",
+    "fecha_hora_scraping": "2021-06-14 04:21:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "MEDICARE PA\u00d1OS ANTIBACTERIALES MANOS",
+    "nombre_imagen": "./web_scraping/data/img/MEDICARE_PA\u00d1OS_ANTIBACTERIALES_MANOS.jpg",
+    "presentacion": "BOLSA X 10 UN",
+    "precio": {
+        "bestPrice": "$1.050",
+        "precioPorSku js-PUM": "Unidad a $105,00"
+    },
+    "descripcion": "medicare pa\u00f1os antibacteriales manos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC61570-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

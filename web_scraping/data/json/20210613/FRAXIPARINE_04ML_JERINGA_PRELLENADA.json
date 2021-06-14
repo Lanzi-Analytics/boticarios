@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fraxiparine-04ml-jeringa-prellenada-6091403215249/p",
+    "fecha_hora_scraping": "2021-06-14 08:58:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FRAXIPARINE 0.4ML JERINGA PRELLENADA",
+    "nombre_imagen": "./web_scraping/data/img/FRAXIPARINE_04ML_JERINGA_PRELLENADA.jpg",
+    "presentacion": "JERINGA PRELLENA X 1",
+    "precio": {
+        "bestPrice": "$111.200",
+        "precioPorSku js-PUM": "Unidad a $11.120,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "JERINGA PRELLENA X 1"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "NADROPARINA CALCICA"
+        ],
+        [
+            "Laboratorio",
+            "ASPEN COLOMBIANA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-007194-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

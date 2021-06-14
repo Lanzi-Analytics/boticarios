@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ezetimiba-10-mg-tableta-genfar-7705959013578/p",
+    "fecha_hora_scraping": "2021-06-14 01:44:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EZETIMIBA 10 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/EZETIMIBA_10_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$72.850",
+        "precioPorSku js-PUM": "Tableta a $3.642,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011929-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

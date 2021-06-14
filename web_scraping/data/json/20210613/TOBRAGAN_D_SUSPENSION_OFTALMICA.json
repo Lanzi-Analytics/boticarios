@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tobragan-d-suspension-oftalmica-7707236672195/p",
+    "fecha_hora_scraping": "2021-06-14 02:57:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TOBRAGAN D SUSPENSION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/TOBRAGAN_D_SUSPENSION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$57.850",
+        "precioPorSku js-PUM": "Mililitro a $11.570,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "3 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TOBRAMICINA DEXAMETASONA"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002783-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

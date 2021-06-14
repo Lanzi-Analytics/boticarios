@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ducray-nutricerat-mascarilla-cabello-3282779178679/p",
+    "fecha_hora_scraping": "2021-06-14 07:34:59",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DUCRAY NUTRICERAT MASCARILLA CABELLO",
+    "nombre_imagen": "./web_scraping/data/img/DUCRAY_NUTRICERAT_MASCARILLA_CABELLO.jpg",
+    "presentacion": "POTE X 150 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $856,33"
+    },
+    "descripcion": "ducray nutricerat mascarilla cabello",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44142-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

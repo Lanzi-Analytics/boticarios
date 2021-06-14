@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-stayfree-normal-con-alas-7702031800682/p",
+    "fecha_hora_scraping": "2021-06-14 02:07:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas stayfree normal con alas",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_stayfree_normal_con_alas.jpg",
+    "presentacion": "PAQUETE X 12 UN",
+    "precio": {
+        "bestPrice": "$4.300",
+        "precioPorSku js-PUM": "Unidad a $358,33"
+    },
+    "descripcion": "toall stayfree alas pack 12",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 12 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-2006V-003964"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

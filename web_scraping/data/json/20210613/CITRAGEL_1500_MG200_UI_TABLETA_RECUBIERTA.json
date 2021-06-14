@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/citragel-1500-mg200-ui-tableta-recubierta-7703153024420/p",
+    "fecha_hora_scraping": "2021-06-14 02:43:08",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CITRAGEL 1500 MG/200 UI TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CITRAGEL_1500_MG200_UI_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "BLISTER X 5 TAB",
+    "precio": {
+        "bestPrice": "$4.300",
+        "precioPorSku js-PUM": "Tableta a $860,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "315 MG 200 UI"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008826"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

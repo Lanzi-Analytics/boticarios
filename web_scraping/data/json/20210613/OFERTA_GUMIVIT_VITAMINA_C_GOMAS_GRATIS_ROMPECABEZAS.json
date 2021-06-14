@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-gumivit-vitamina-c-gomas-gratis-rompecabezas-7703153039776/p",
+    "fecha_hora_scraping": "2021-06-14 10:21:14",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA GUMIVIT VITAMINA C GOMAS GRATIS ROMPECABEZAS",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_GUMIVIT_VITAMINA_C_GOMAS_GRATIS_ROMPECABEZAS.jpg",
+    "presentacion": "BOLSA X 12 SOB",
+    "precio": {
+        "bestPrice": "$13.800",
+        "precioPorSku js-PUM": "Sobre a $1.150,00"
+    },
+    "descripcion": "OFERTA GUMIVIT VITAMINA C GOMAS GRATIS ROMPECABEZAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 12 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAK16I1504"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

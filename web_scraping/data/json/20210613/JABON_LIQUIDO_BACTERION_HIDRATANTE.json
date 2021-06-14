@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113025064jabon-liquido-bacterion-hidratantehigiene-y-cuidado-personaljabones-y-gel-antibacterialna-7702113025064/p",
+    "fecha_hora_scraping": "2021-06-14 10:14:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JABON LIQUIDO BACTERION HIDRATANTE",
+    "nombre_imagen": "./web_scraping/data/img/JABON_LIQUIDO_BACTERION_HIDRATANTE.jpg",
+    "presentacion": "DOYPACK X 1000 X ML",
+    "precio": {
+        "bestPrice": "$11.650",
+        "precioPorSku js-PUM": "Mililitro a $11,65"
+    },
+    "descripcion": "jabon liquido bacterion hidratante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "DOYPACK X 1000 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82144-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

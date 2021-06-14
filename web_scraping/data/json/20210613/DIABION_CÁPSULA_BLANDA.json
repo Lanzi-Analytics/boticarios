@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diabion-capsula-blanda-7501298222462/p",
+    "fecha_hora_scraping": "2021-06-14 09:32:14",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "DIABION C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/DIABION_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$51.050",
+        "precioPorSku js-PUM": "Tableta a $1.701,67"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003349"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

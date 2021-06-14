@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-interdental-via-08-mm-fino-7630019900164/p",
+    "fecha_hora_scraping": "2021-06-14 04:22:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CEPILLO INTERDENTAL VIA 0.8 MM FINO",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_INTERDENTAL_VIA_08_MM_FINO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$16.500",
+        "precioPorSku js-PUM": "Unidad a $16.500,00"
+    },
+    "descripcion": "cepillo interdental via 0.8 mm fino",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016919"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

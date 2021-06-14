@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caramelo-halls-mini-zero-cereza-7622300986438/p",
+    "fecha_hora_scraping": "2021-06-14 01:23:20",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "CARAMELO HALLS MINI ZERO CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/CARAMELO_HALLS_MINI_ZERO_CEREZA.jpg",
+    "presentacion": "CAJA X 15 G",
+    "precio": {
+        "bestPrice": "$2.200",
+        "precioPorSku js-PUM": "Gramo a $146,67"
+    },
+    "descripcion": "caramelo halls mini zero cereza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

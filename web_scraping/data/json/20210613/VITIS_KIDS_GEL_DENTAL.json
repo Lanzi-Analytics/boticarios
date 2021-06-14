@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitis-kids-gel-dental-8427426048867/p",
+    "fecha_hora_scraping": "2021-06-14 08:43:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "VITIS KIDS GEL DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/VITIS_KIDS_GEL_DENTAL.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$19.150",
+        "precioPorSku js-PUM": "Mililitro a $383,00"
+    },
+    "descripcion": "vitis kids gel dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC31226-17PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7795368001990scandinaviaformuladosmedicamentosglaucotensil-t-solucion-oftalmicadorzolamida-clorhidrato-timolol-maleato-7795368001990/p",
+    "fecha_hora_scraping": "2021-06-14 10:31:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GLAUCOTENSIL-T SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/GLAUCOTENSILT_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$68.650",
+        "precioPorSku js-PUM": "Mililitro a $13.730,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML 5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DORZOLAMIDA CLORHIDRATO TIMOLOL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002144-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

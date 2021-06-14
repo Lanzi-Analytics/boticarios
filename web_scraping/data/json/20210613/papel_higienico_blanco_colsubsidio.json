@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/papel-higienico-blanco-colsubsidio-7701009131674/p",
+    "fecha_hora_scraping": "2021-06-14 06:45:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "papel higienico blanco colsubsidio",
+    "nombre_imagen": "./web_scraping/data/img/papel_higienico_blanco_colsubsidio.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$1.400",
+        "precioPorSku js-PUM": "Metro a $46,67"
+    },
+    "descripcion": "papel hig blanco cols 3hojas 1rollo 30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FABRICA DE BOLSAS DE PAPEL UNIBOL S"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

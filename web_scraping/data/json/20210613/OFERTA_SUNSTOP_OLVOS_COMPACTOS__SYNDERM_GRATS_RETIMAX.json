@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-sunstop-olvos-compactos--synderm-grats-retimax-7707327210428/p",
+    "fecha_hora_scraping": "2021-06-13 23:06:21",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "OFERTA SUNSTOP OLVOS COMPACTOS + SYNDERM GRATS RETIMAX",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_SUNSTOP_OLVOS_COMPACTOS__SYNDERM_GRATS_RETIMAX.jpg",
+    "presentacion": "FRASCO X 110 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.546,82"
+    },
+    "descripcion": "oferta sunstop olvos compactos + synderm grats retimax",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 110 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00054-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cordiax-40-mg-tableta-7702870072097/p",
+    "fecha_hora_scraping": "2021-06-14 04:03:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CORDIAX 40 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CORDIAX_40_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$25.350",
+        "precioPorSku js-PUM": "Tableta a $845,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "TELMISARTAN"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012129-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kuida-fluido-rutina-7709897077340/p",
+    "fecha_hora_scraping": "2021-06-14 01:50:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "KUIDA FLUIDO RUTINA",
+    "nombre_imagen": "./web_scraping/data/img/KUIDA_FLUIDO_RUTINA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$73.150",
+        "precioPorSku js-PUM": "Mililitro a $2.438,33"
+    },
+    "descripcion": "kuida fluido rutina",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KHIRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88075-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-glucerna-liquido-vainilla-pague-6und-lleve-8und-7703186032485/p",
+    "fecha_hora_scraping": "2021-06-14 08:08:43",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA GLUCERNA LIQUIDO VAINILLA PAGUE: 6UND LLEVE: 8UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_GLUCERNA_LIQUIDO_VAINILLA_PAGUE_6UND_LLEVE_8UND.jpg",
+    "presentacion": "PACK X 8 Botellas",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $32,49"
+    },
+    "descripcion": "oferta glucerna liquido vainilla pague: 6und lleve: 8und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PACK X 8 Botellas"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I182215"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

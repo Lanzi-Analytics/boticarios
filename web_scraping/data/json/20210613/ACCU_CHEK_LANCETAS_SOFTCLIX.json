@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/accu-chek-lancetas-softclix-4015630018277/p",
+    "fecha_hora_scraping": "2021-06-14 01:23:26",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "ACCU CHEK LANCETAS SOFTCLIX",
+    "nombre_imagen": "./web_scraping/data/img/ACCU_CHEK_LANCETAS_SOFTCLIX.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "PrevPrice": "Antes:$24.800",
+        "bestPrice": "$18.600",
+        "precioPorSku js-PUM": "Unidad a $744,00"
+    },
+    "descripcion": "accu chek lancetas softclix",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS LANCETAS DE GLUCOMETRIA"
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS ROCHE SA"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002843"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

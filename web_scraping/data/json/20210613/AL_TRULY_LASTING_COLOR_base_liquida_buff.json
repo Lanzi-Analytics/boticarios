@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-truly-lasting-color-base-liquida-buff-309970231026/p",
+    "fecha_hora_scraping": "2021-06-14 02:34:54",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL TRULY LASTING COLOR base liquida buff",
+    "nombre_imagen": "./web_scraping/data/img/AL_TRULY_LASTING_COLOR_base_liquida_buff.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.346,67"
+    },
+    "descripcion": "al truly lasting color base liquida buff",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2008CO27148"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

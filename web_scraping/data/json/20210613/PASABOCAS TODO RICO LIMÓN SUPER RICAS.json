@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-todo-rico-limon-super-ricas-7702152101330/p",
+    "fecha_hora_scraping": "2021-06-14 05:13:14",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "PASABOCAS TODO RICO LIM\u00d3N SUPER RICAS",
+    "nombre_imagen": "PASABOCAS TODO RICO LIM\u00d3N SUPER RICAS.jpg",
+    "presentacion": "PAQUETE X 45 G",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Gramo a $37,78"
+    },
+    "descripcion": "pasabocas todo rico lim\u00f3n super ricas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 45 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD1OI13101"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-coca-cola-con-cafe-7702535023761/p",
+    "fecha_hora_scraping": "2021-06-14 07:15:40",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa coca-cola con caf\u00e9",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_cocacola_con_caf\u00e9.jpg",
+    "presentacion": "LATA X 235 ML",
+    "precio": {
+        "bestPrice": "$2.100",
+        "precioPorSku js-PUM": "Mililitro a $8,94"
+    },
+    "descripcion": "gaseosa coca-cola con caf\u00e9",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 235 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-006785-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

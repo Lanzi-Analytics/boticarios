@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-pestanina-one-coat-get-up--grow-wate-309973378025/p",
+    "fecha_hora_scraping": "2021-06-13 23:47:44",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL PESTA\u00d1INA ONE COAT Get up & grow wate",
+    "nombre_imagen": "./web_scraping/data/img/AL_PESTA\u00d1INA_ONE_COAT_Get_up__grow_wate.jpg",
+    "presentacion": "TUBO X 6 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $8.298,39"
+    },
+    "descripcion": "al pesta\u00f1ina one coat get up & grow wate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 6 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50904-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

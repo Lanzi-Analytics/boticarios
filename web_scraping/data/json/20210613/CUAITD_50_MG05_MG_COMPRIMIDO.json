@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cuait-d-50-mg05-mg-comprimido-7703158002546/p",
+    "fecha_hora_scraping": "2021-06-14 00:29:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CUAIT-D 5.0 MG/0.5 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/CUAITD_50_MG05_MG_COMPRIMIDO.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$10.767",
+        "precioPorSku js-PUM": "Tableta a $1.076,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG 0.5 MG"
+        ],
+        [
+            "Principio activo",
+            "AMITRIPTILINA CLORHIDRATO TRIFLUOPERAZINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAGO DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-011421-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-polet-cookies-7702402054386/p",
+    "fecha_hora_scraping": "2021-06-14 00:19:02",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta polet cookies",
+    "nombre_imagen": "./web_scraping/data/img/paleta_polet_cookies.jpg",
+    "presentacion": "UNIDAD X 70 G",
+    "precio": {
+        "bestPrice": "$3.200",
+        "precioPorSku js-PUM": "Gramo a $45,71"
+    },
+    "descripcion": "paleta polet cookies",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 70 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002989-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

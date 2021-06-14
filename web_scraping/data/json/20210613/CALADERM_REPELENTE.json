@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladerm-repelente-7707210531029/p",
+    "fecha_hora_scraping": "2021-06-14 08:51:19",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADERM REPELENTE",
+    "nombre_imagen": "./web_scraping/data/img/CALADERM_REPELENTE.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "$13.950",
+        "precioPorSku js-PUM": "Sobre a $2.325,00"
+    },
+    "descripcion": "caladerm repelente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88761-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

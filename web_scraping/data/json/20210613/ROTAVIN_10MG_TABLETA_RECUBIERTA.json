@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rotavin-10mg-tableta-recubierta-8903726242575/p",
+    "fecha_hora_scraping": "2021-06-14 10:31:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROTAVIN 10MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ROTAVIN_10MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$80.450",
+        "precioPorSku js-PUM": "Tableta a $2.681,67"
+    },
+    "descripcion": "ROTAVIN 10MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "ROSUVASTATINA CALCICA"
+        ],
+        [
+            "Laboratorio",
+            "SEVEN PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019193"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

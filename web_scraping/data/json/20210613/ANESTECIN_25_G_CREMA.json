@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anestecin-25-g-crema-7704588000683/p",
+    "fecha_hora_scraping": "2021-06-14 08:28:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ANESTECIN 2.5 G CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ANESTECIN_25_G_CREMA.jpg",
+    "presentacion": "TUBO X 5 G",
+    "precio": {
+        "bestPrice": "$31.150",
+        "precioPorSku js-PUM": "Gramo a $6.230,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 5 G"
+        ],
+        [
+            "Concentracion",
+            "25 MG/G 25 MG/G"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA PRILOCAINA"
+        ],
+        [
+            "Laboratorio",
+            "ROPSOHN THERAPEUTICS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-013170-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

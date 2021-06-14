@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cepillo-dental-colgate-360-suave-2x1-7891024316207/p",
+    "fecha_hora_scraping": "2021-06-14 10:32:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "oferta cepillo dental colgate 360 suave 2x1",
+    "nombre_imagen": "./web_scraping/data/img/oferta_cepillo_dental_colgate_360_suave_2x1.jpg",
+    "presentacion": "EMPAQUE X 2 UN",
+    "precio": {
+        "bestPrice": "$18.800",
+        "precioPorSku js-PUM": "Unidad a $18.800,00"
+    },
+    "descripcion": "ofertacepillo dental colgate 360 suave 2x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

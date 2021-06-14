@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levoc-5-mg-tableta-7704039112408/p",
+    "fecha_hora_scraping": "2021-06-14 00:19:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOC 5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/LEVOC_5_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$53.400",
+        "precioPorSku js-PUM": "Tableta a $5.340,00"
+    },
+    "descripcion": "leyendaeste producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LEGRAND SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004240-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

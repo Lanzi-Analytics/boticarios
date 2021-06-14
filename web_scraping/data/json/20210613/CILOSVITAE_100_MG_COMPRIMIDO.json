@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cilosvitae-100-mg-comprimido-7804653720055/p",
+    "fecha_hora_scraping": "2021-06-14 00:18:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CILOSVITAE 100 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/CILOSVITAE_100_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$45.500",
+        "precioPorSku js-PUM": "Comprimido a $1.625,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "CILOSTAZOL"
+        ],
+        [
+            "Laboratorio",
+            "EUROPEAN PHARMA SOLUTIONS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0016298-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

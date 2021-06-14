@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tromix-200-mg5-ml-polvo-para-suspension-oral-7702870104897/p",
+    "fecha_hora_scraping": "2021-06-14 08:47:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TROMIX 200 MG/5 ML POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/TROMIX_200_MG5_ML_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$102.850",
+        "precioPorSku js-PUM": "Mililitro a $3.428,33"
+    },
+    "descripcion": "TROMIX 200 MG/5 ML POLVO PARA SUSPENSION ORAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AZITROMICINA DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-000331-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

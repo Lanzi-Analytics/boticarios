@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biolax-fibra-granulado-naranja-7702870004722/p",
+    "fecha_hora_scraping": "2021-06-14 05:48:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BIOLAX FIBRA GRANULADO NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/BIOLAX_FIBRA_GRANULADO_NARANJA.jpg",
+    "presentacion": "CAJA X 12 SOB",
+    "precio": {
+        "bestPrice": "$44.250",
+        "precioPorSku js-PUM": "Unidad a $3.687,50"
+    },
+    "descripcion": "biolax fibra granulado naranja",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "PSYLLIUM HUSK"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2018-0001880-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

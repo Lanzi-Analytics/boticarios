@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gomas-grissly-sour-acidas-72-gr-7702011124463/p",
+    "fecha_hora_scraping": "2021-06-14 08:27:06",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMAS GRISSLY SOUR ACIDAS 72 GR",
+    "nombre_imagen": "./web_scraping/data/img/GOMAS_GRISSLY_SOUR_ACIDAS_72_GR.jpg",
+    "presentacion": "UNIDAD X 72 G",
+    "precio": {
+        "bestPrice": "$2.100",
+        "precioPorSku js-PUM": "Gramo a $29,17"
+    },
+    "descripcion": "GOMAS GRISSLY SOUR ACIDAS 72 GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 72 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-002062-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

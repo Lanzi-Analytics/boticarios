@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-parches-carbon-detox-650240036088/p",
+    "fecha_hora_scraping": "2021-06-13 23:27:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "ASEPXIA PARCHES CARBON DETOX",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_PARCHES_CARBON_DETOX.jpg",
+    "presentacion": "CAJA X 12 UN",
+    "precio": {
+        "bestPrice": "$13.200",
+        "precioPorSku js-PUM": "Unidad a $1.100,00"
+    },
+    "descripcion": "asepxia parches carbon detox",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82165-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tanaken-80-mg-tableta-7702207173831/p",
+    "fecha_hora_scraping": "2021-06-14 08:52:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TANAKEN 80 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/TANAKEN_80_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$82.400",
+        "precioPorSku js-PUM": "Tableta a $5.885,71"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "80 MG"
+        ],
+        [
+            "Principio activo",
+            "GINKGO BILOBA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004748-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

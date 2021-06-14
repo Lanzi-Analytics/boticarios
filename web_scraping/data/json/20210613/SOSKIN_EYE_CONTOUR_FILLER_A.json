@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-eye-contour-filler-a-3760019121482/p",
+    "fecha_hora_scraping": "2021-06-14 06:34:26",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN EYE CONTOUR FILLER A+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_EYE_CONTOUR_FILLER_A.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$150.000",
+        "precioPorSku js-PUM": "Mililitro a $10.000,00"
+    },
+    "descripcion": "soskin eye contour filler a+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69676-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

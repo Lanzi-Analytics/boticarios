@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dexilant-30mg-capsula-de-liberacion-retardada-7501092722342/p",
+    "fecha_hora_scraping": "2021-06-14 05:18:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEXILANT 30MG CAPSULA DE LIBERACION RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/DEXILANT_30MG_CAPSULA_DE_LIBERACION_RETARDADA.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$230.200",
+        "precioPorSku js-PUM": "Capsula a $8.221,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "DEXLANSOPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "BAXALTA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014863-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

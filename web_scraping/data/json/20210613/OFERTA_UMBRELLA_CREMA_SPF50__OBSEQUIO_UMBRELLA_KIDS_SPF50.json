@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-umbrella-crema-spf50--obsequio-umbrella-kids-spf50-7703281020677/p",
+    "fecha_hora_scraping": "2021-06-14 03:04:16",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "OFERTA UMBRELLA CREMA SPF50+  +OBSEQUIO UMBRELLA KIDS SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_UMBRELLA_CREMA_SPF50__OBSEQUIO_UMBRELLA_KIDS_SPF50.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$100.250",
+        "precioPorSku js-PUM": "Unidad a $100.250,00"
+    },
+    "descripcion": "oferta umbrella crema spf50+  +obsequio umbrella kids spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52004-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

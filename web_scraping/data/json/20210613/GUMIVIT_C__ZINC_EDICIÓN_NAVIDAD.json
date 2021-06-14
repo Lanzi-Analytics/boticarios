@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gumivit-c--zinc-edicion-navidad-7703153038755/p",
+    "fecha_hora_scraping": "2021-06-14 03:31:40",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GUMIVIT C + ZINC EDICI\u00d3N NAVIDAD",
+    "nombre_imagen": "./web_scraping/data/img/GUMIVIT_C__ZINC_EDICI\u00d3N_NAVIDAD.jpg",
+    "presentacion": "CAJA X 16 UN",
+    "precio": {
+        "bestPrice": "$15.950",
+        "precioPorSku js-PUM": "Unidad a $15.950,00"
+    },
+    "descripcion": "gumivit c + zinc edici\u00f3n navidad",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 16 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAK16I3212"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

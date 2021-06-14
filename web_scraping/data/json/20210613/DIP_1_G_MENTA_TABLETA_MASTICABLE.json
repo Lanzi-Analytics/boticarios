@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dip-1-g-menta-tableta-masticable-7702418001114/p",
+    "fecha_hora_scraping": "2021-06-14 00:24:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIP 1 G MENTA TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/DIP_1_G_MENTA_TABLETA_MASTICABLE.jpg",
+    "presentacion": "BLISTER X 2 TAB",
+    "precio": {
+        "bestPrice": "$2.900",
+        "precioPorSku js-PUM": "Tableta a $1.450,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "1000 MG"
+        ],
+        [
+            "Principio activo",
+            "SUCRALFATO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002460-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

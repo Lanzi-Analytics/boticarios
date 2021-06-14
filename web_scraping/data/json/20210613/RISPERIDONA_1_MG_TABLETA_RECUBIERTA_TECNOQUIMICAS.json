@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/risperidona-1-mg-tableta-recubierta-tecnoquimicas-7702057079642/p",
+    "fecha_hora_scraping": "2021-06-14 03:51:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RISPERIDONA 1 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/RISPERIDONA_1_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$7.900",
+        "precioPorSku js-PUM": "Tableta a $395,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "RISPERIDONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0010066"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

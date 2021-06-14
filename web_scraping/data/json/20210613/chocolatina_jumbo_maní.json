@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chocolatina-jumbo-mani-7702007212402/p",
+    "fecha_hora_scraping": "2021-06-14 02:48:35",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "chocolatina jumbo man\u00ed",
+    "nombre_imagen": "./web_scraping/data/img/chocolatina_jumbo_man\u00ed.jpg",
+    "presentacion": "UNIDAD X 100 G",
+    "precio": {
+        "bestPrice": "$4.950",
+        "precioPorSku js-PUM": "Gramo a $49,50"
+    },
+    "descripcion": "chocolatina jumbo man\u00ed",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92572-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

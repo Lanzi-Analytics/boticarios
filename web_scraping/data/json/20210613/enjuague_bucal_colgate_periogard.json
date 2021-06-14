@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-colgate-periogard-7891024179925/p",
+    "fecha_hora_scraping": "2021-06-14 09:36:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "enjuague bucal colgate periogard",
+    "nombre_imagen": "./web_scraping/data/img/enjuague_bucal_colgate_periogard.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$23.550",
+        "precioPorSku js-PUM": "Mililitro a $94,20"
+    },
+    "descripcion": "enjuag buc colgate periogard",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-2007DM-0000992"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

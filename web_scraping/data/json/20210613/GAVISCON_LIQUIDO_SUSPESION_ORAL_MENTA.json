@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/gaviscon-liquido-suspesion-oral-menta-7702626205830/p",
-    "fecha_hora_scraping": "2021-06-13 18:55:24",
+    "fecha_hora_scraping": "2021-06-14 03:33:41",
     "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "GAVISCON LIQUIDO SUSPESION ORAL MENTA",
     "nombre_imagen": "./web_scraping/data/img/GAVISCON_LIQUIDO_SUSPESION_ORAL_MENTA.jpg",
     "presentacion": "FRASCO X 300 ML",
     "precio": {
-        "PrevPrice": "Antes:$44.500",
-        "bestPrice": "$35.600",
-        "precioPorSku js-PUM": "Mililitro a $118,67"
+        "bestPrice": "$44.500",
+        "precioPorSku js-PUM": "Mililitro a $148,33"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [

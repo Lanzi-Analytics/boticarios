@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metronidazol-250-mg5ml-suspension-oral-la-francol-7706569022875/p",
+    "fecha_hora_scraping": "2021-06-14 04:31:12",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METRONIDAZOL 250 MG/5ML SUSPENSION ORAL LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/METRONIDAZOL_250_MG5ML_SUSPENSION_ORAL_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$9.950",
+        "precioPorSku js-PUM": "Mililitro a $82,92"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "5 G"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016628-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

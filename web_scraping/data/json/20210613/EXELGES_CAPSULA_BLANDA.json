@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/exelges-capsula-blanda-8436043011895/p",
+    "fecha_hora_scraping": "2021-06-14 05:05:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EXELGES CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/EXELGES_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$61.250",
+        "precioPorSku js-PUM": "Capsula a $2.041,67"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004372"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

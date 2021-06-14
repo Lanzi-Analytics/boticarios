@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toalla-higienica-nosotras-plus-clasica-algodon-7702027041914/p",
+    "fecha_hora_scraping": "2021-06-14 06:15:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toalla higienica nosotras plus clasica algod\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toalla_higienica_nosotras_plus_clasica_algod\u00f3n.jpg",
+    "presentacion": "PAQUETE X 30 UN",
+    "precio": {
+        "bestPrice": "$16.450",
+        "precioPorSku js-PUM": "Unidad a $548,33"
+    },
+    "descripcion": "oferta toalla higienica nosotras plus clasica algod\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA04613-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

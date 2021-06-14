@@ -1,20 +1,20 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/benet-vainilla-polvo-7709707028753/p",
-    "fecha_hora_scraping": "2021-06-13 18:04:17",
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-vainilla-polvo-7709087022938/p",
+    "fecha_hora_scraping": "2021-06-14 08:04:37",
     "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
     "titulo": "BENET VAINILLA POLVO",
     "nombre_imagen": "./web_scraping/data/img/BENET_VAINILLA_POLVO.jpg",
-    "presentacion": "BOLSA X 250 G",
+    "presentacion": "LATA X 400 G",
     "precio": {
-        "PrevPrice": "Antes:$15.300",
-        "bestPrice": "$11.475",
-        "precioPorSku js-PUM": "Gramo a $45,90"
+        "PrevPrice": "Antes:$29.350",
+        "bestPrice": "$22.012",
+        "precioPorSku js-PUM": "Gramo a $55,03"
     },
     "descripcion": "benet vainilla polvo",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "BOLSA X 250 G"
+            "LATA X 400 G"
         ],
         [
             "Concentracion",
@@ -22,7 +22,7 @@
         ],
         [
             "Principio activo",
-            "MULTICOMPONENTES"
+            ""
         ],
         [
             "Laboratorio",

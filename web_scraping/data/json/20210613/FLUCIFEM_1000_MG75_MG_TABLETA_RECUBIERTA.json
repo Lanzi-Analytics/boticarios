@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flucifem-1000-mg75-mg-tableta-recubierta-7702207312414/p",
+    "fecha_hora_scraping": "2021-06-13 23:16:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLUCIFEM 1000 MG/75 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FLUCIFEM_1000_MG75_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 4 TAB",
+    "precio": {
+        "bestPrice": "$77.550",
+        "precioPorSku js-PUM": "Tableta a $19.387,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 G 75 MG"
+        ],
+        [
+            "Principio activo",
+            "SECNIDAZOL FLUCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012984-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

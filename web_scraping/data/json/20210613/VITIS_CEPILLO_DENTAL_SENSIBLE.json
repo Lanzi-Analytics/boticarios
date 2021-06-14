@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitis-cepillo-dental-sensible-8427426049208/p",
+    "fecha_hora_scraping": "2021-06-14 08:56:41",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "VITIS CEPILLO DENTAL SENSIBLE",
+    "nombre_imagen": "./web_scraping/data/img/VITIS_CEPILLO_DENTAL_SENSIBLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$16.400",
+        "precioPorSku js-PUM": "Unidad a $16.400,00"
+    },
+    "descripcion": "vitis cepillo dental sensible",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005759"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunface-total-crema-spf100-7707327210213/p",
+    "fecha_hora_scraping": "2021-06-14 10:26:17",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "SUNFACE TOTAL CREMA SPF100",
+    "nombre_imagen": "./web_scraping/data/img/SUNFACE_TOTAL_CREMA_SPF100.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$103.100",
+        "precioPorSku js-PUM": "Gramo a $2.062,00"
+    },
+    "descripcion": "sunface total crema spf100",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44359-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

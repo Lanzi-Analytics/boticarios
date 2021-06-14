@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aknon-gel-7704232851623/p",
+    "fecha_hora_scraping": "2021-06-14 02:28:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AKNON GEL",
+    "nombre_imagen": "./web_scraping/data/img/AKNON_GEL.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$50.350",
+        "precioPorSku js-PUM": "Mililitro a $503,50"
+    },
+    "descripcion": "aknon gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86010-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

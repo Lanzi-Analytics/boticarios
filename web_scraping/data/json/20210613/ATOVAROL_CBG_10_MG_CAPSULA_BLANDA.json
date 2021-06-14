@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atovarol-cbg-10-mg-capsula-blanda-7703153035242/p",
+    "fecha_hora_scraping": "2021-06-14 02:40:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ATOVAROL CBG 10 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ATOVAROL_CBG_10_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 60 CAP",
+    "precio": {
+        "bestPrice": "$188.800",
+        "precioPorSku js-PUM": "Capsula a $3.146,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "ATORVASTATINA"
+        ],
+        [
+            "Laboratorio",
+            "DIABETRICS HEALTHCARE SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0003111-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

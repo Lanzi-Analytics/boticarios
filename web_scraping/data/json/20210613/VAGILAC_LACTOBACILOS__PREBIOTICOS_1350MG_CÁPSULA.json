@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vagilac-lactobacilos--prebioticos-1350mg-capsula-7707350411069/p",
+    "fecha_hora_scraping": "2021-06-14 07:00:27",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "VAGILAC LACTOBACILOS + PREBIOTICOS 1350MG C\u00c1PSULA",
+    "nombre_imagen": "./web_scraping/data/img/VAGILAC_LACTOBACILOS__PREBIOTICOS_1350MG_C\u00c1PSULA.jpg",
+    "presentacion": "CAJA X 14 CAP",
+    "precio": {
+        "bestPrice": "$39.400",
+        "precioPorSku js-PUM": "Capsula a $2.814,29"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 CAP"
+        ],
+        [
+            "Concentracion",
+            "1070 MG 270 MG"
+        ],
+        [
+            "Principio activo",
+            "AGNUS CASTUS"
+        ],
+        [
+            "Laboratorio",
+            "INVERSIONES PLAMATECH LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003359"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

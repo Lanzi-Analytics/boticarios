@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-antip-n4-10-pote-7702057088552/p",
+    "fecha_hora_scraping": "2021-06-14 10:30:49",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CREMA ANTIP N.4 10% POTE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_ANTIP_N4_10_POTE.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$15.450",
+        "precioPorSku js-PUM": "Gramo a $309,00"
+    },
+    "descripcion": "crema antip n.4 10% pote x50 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2006M-0005352"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

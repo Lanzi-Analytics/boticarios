@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-antifluidos-eurocare-nino-tallas-3-5anos-7709424110991/p",
+    "fecha_hora_scraping": "2021-06-14 01:10:29",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "tapabocas antifluidos eurocare ni\u00f1o talla:s 3-5a\u00f1os",
+    "nombre_imagen": "./web_scraping/data/img/tapabocas_antifluidos_eurocare_ni\u00f1o_tallas_35a\u00f1os.jpg",
+    "presentacion": "BOLSA X 3 UN",
+    "precio": {
+        "bestPrice": "$9.600",
+        "precioPorSku js-PUM": "Unidad a $3.200,00"
+    },
+    "descripcion": "tapabocas antifluidos eurocare ni\u00f1o talla:s 3-5a\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EURO VISION SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

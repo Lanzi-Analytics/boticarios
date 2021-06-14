@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-cristal-7702090022711/p",
+    "fecha_hora_scraping": "2021-06-14 05:15:27",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "agua cristal",
+    "nombre_imagen": "./web_scraping/data/img/agua_cristal.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$1.800",
+        "precioPorSku js-PUM": "Mililitro a $3,00"
+    },
+    "descripcion": "agua cristal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

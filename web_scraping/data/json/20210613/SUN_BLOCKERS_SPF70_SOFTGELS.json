@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sun-blockers-spf70-softgels-7709118965074/p",
+    "fecha_hora_scraping": "2021-06-14 06:03:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "SUN BLOCKERS SPF70+ SOFTGELS",
+    "nombre_imagen": "./web_scraping/data/img/SUN_BLOCKERS_SPF70_SOFTGELS.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$62.400",
+        "precioPorSku js-PUM": "Capsula a $1.040,00"
+    },
+    "descripcion": "sun blockers spf70+ softgels",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85102-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

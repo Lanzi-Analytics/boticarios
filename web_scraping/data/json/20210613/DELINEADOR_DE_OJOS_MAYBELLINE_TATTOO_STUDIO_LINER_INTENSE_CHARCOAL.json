@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-de-ojos-maybelline-tattoo-studio-liner-intense-charcoal-41554563344/p",
+    "fecha_hora_scraping": "2021-06-14 03:49:11",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR DE OJOS MAYBELLINE TATTOO STUDIO LINER INTENSE CHARCOAL",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_DE_OJOS_MAYBELLINE_TATTOO_STUDIO_LINER_INTENSE_CHARCOAL.jpg",
+    "presentacion": "UNIDAD X 12 G",
+    "precio": {
+        "bestPrice": "$28.400",
+        "precioPorSku js-PUM": "Gramo a $23.666,67"
+    },
+    "descripcion": "delineador de ojos maybelline tattoo studio liner intense charcoal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93584-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-dermatoclean-limpia-facial-gel-fcox200ml-4005808583348/p",
+    "fecha_hora_scraping": "2021-06-14 01:12:11",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN DERMATOCLEAN LIMPIADOR FACIAL",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_DERMATOCLEAN_LIMPIADOR_FACIAL.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$79.000",
+        "precioPorSku js-PUM": "Mililitro a $395,00"
+    },
+    "descripcion": "eucerin dermatoclean limpia facial gel fcox200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41041-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

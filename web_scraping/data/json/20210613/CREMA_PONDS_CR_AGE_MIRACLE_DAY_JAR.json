@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-cr-age-miracle-day-jar-8999999060237/p",
+    "fecha_hora_scraping": "2021-06-14 06:13:03",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA PONDS CR AGE MIRACLE DAY JAR",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PONDS_CR_AGE_MIRACLE_DAY_JAR.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$61.450",
+        "precioPorSku js-PUM": "Gramo a $1.229,00"
+    },
+    "descripcion": "crema ponds cr age miracle day jar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81834-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

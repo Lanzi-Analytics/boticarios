@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7709837884106mundipharma-colombiaformuladosmedicamentosflutiform-250-mcg10-mcg-suspension-para-inhalacionpropionato-de-fluticasona-fumarato-de-formoterol-dihidra-7709837884106/p",
+    "fecha_hora_scraping": "2021-06-14 02:56:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLUTIFORM 250 MCG/10 MCG SUSPENSION PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/FLUTIFORM_250_MCG10_MCG_SUSPENSION_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$157.400",
+        "precioPorSku js-PUM": "Unidad a $157.400,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "250 \u00b5G/D 10 MCG"
+        ],
+        [
+            "Principio activo",
+            "PROPIONATO DE FLUTICASONA FUMARATO DE FORMOTEROL DIHIDRA"
+        ],
+        [
+            "Laboratorio",
+            "MUNDIPHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016434"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057711696metformina-500-mg--glibenclamida-5-mg-tableta-recubierta-tecnoquimicasmedicamentosformuladostecnoquimicas-7702057711696/p",
+    "fecha_hora_scraping": "2021-06-14 06:33:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METFORMINA 500 MG + GLIBENCLAMIDA 5 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/METFORMINA_500_MG__GLIBENCLAMIDA_5_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$36.300",
+        "precioPorSku js-PUM": "Tableta a $1.210,00"
+    },
+    "descripcion": "metformina 500 mg + glibenclamida 5 mg tableta recubierta tecnoquimicas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "METFORMINA CLORHIDRATO GLIBENCLAMIDA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0013204-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

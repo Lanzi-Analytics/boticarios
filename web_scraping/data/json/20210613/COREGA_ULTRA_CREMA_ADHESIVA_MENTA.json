@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corega-ultra-crema-adhesiva-menta-7794640171710/p",
+    "fecha_hora_scraping": "2021-06-14 06:40:23",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "COREGA ULTRA CREMA ADHESIVA MENTA",
+    "nombre_imagen": "./web_scraping/data/img/COREGA_ULTRA_CREMA_ADHESIVA_MENTA.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$16.750",
+        "precioPorSku js-PUM": "Gramo a $837,50"
+    },
+    "descripcion": "corega ultra crema adhesiva menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-001616-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

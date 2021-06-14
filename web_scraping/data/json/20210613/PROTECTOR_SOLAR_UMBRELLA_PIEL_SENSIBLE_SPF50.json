@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-umbrella-piel-sensible-spf50-7703281002499/p",
+    "fecha_hora_scraping": "2021-06-14 05:42:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR UMBRELLA PIEL SENSIBLE SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_UMBRELLA_PIEL_SENSIBLE_SPF50.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$105.450",
+        "precioPorSku js-PUM": "Gramo a $1.757,50"
+    },
+    "descripcion": "protector solar umbrella piel sensible s",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85460-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

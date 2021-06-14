@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/minoxidil-2--solucion-topica-tecnoquimicas-7702057074234/p",
+    "fecha_hora_scraping": "2021-06-14 04:14:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MINOXIDIL 2 % SOLUCION TOPICA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/MINOXIDIL_2__SOLUCION_TOPICA_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$25.700",
+        "precioPorSku js-PUM": "Mililitro a $428,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "2 G"
+        ],
+        [
+            "Principio activo",
+            "MINOXIDIL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-010101-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

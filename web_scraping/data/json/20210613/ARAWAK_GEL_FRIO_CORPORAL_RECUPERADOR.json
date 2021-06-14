@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-gel-frio-corporal-recuperador-7707016405791/p",
+    "fecha_hora_scraping": "2021-06-14 02:19:29",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ARAWAK GEL FRIO CORPORAL RECUPERADOR",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_GEL_FRIO_CORPORAL_RECUPERADOR.jpg",
+    "presentacion": "TUBO X 120 G",
+    "precio": {
+        "bestPrice": "$22.000",
+        "precioPorSku js-PUM": "Gramo a $183,33"
+    },
+    "descripcion": "arawak gel frio corporal recuperador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82333-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-diarios-anatomicos-colsubsido-7701009127103/p",
+    "fecha_hora_scraping": "2021-06-14 01:30:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores diarios anat\u00f3micos colsubsido",
+    "nombre_imagen": "./web_scraping/data/img/protectores_diarios_anat\u00f3micos_colsubsido.jpg",
+    "presentacion": "PAQUETE X 60 UN",
+    "precio": {
+        "bestPrice": "$4.050",
+        "precioPorSku js-PUM": "Mililitro a $8,56"
+    },
+    "descripcion": "protector diario anatomico colsubsidio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 60 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUSA LINEA INTIMA Y COSMETICA SA"
+        ],
+        [
+            "Registro Invima",
+            "2005V-004445R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

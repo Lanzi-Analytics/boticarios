@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/saforelle-locion-suave-limpiadora-7703153039219/p",
+    "fecha_hora_scraping": "2021-06-14 04:51:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SAFORELLE LOCI\u00d3N SUAVE LIMPIADORA",
+    "nombre_imagen": "./web_scraping/data/img/SAFORELLE_LOCI\u00d3N_SUAVE_LIMPIADORA.jpg",
+    "presentacion": "FRASCO X 250ML",
+    "precio": {
+        "bestPrice": "$78.000",
+        "precioPorSku js-PUM": "Mililitro a $312,00"
+    },
+    "descripcion": "saforelle loci\u00f3n suave limpiadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC67105-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

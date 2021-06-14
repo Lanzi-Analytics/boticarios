@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-biocalcium-d-polvo-efervescente-precio-especial-7702057702113/p",
+    "fecha_hora_scraping": "2021-06-14 09:35:00",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA BIOCALCIUM D POLVO EFERVESCENTE PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_BIOCALCIUM_D_POLVO_EFERVESCENTE_PRECIO_ESPECIAL.jpg",
+    "presentacion": "CAJA X 60 SOB",
+    "precio": {
+        "bestPrice": "$47.850",
+        "precioPorSku js-PUM": "Unidad a $797,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 SOB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 200 UI"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0003599-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

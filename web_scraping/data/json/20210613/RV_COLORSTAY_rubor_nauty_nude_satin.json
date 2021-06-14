@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-rubor-nauty-nude-satin-309974784061/p",
+    "fecha_hora_scraping": "2021-06-14 03:29:47",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV COLORSTAY rubor nauty nude (satin)",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_rubor_nauty_nude_satin.jpg",
+    "presentacion": "CONTENEDOR X 5G",
+    "precio": {
+        "bestPrice": "$42.750",
+        "precioPorSku js-PUM": "Gramo a $8.550,00"
+    },
+    "descripcion": "rv colorstay rubor nauty nude (satin)",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 5G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56351-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

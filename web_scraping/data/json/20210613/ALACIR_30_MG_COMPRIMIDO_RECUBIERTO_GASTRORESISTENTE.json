@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7730969304378alacir-30-mg-comprimido-recubierto-gastroresistentemedicamentosformuladosscandinavia-7730969304378/p",
+    "fecha_hora_scraping": "2021-06-14 07:13:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALACIR 30 MG COMPRIMIDO RECUBIERTO GASTRORESISTENTE",
+    "nombre_imagen": "./web_scraping/data/img/ALACIR_30_MG_COMPRIMIDO_RECUBIERTO_GASTRORESISTENTE.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$39.250",
+        "precioPorSku js-PUM": "Tableta a $1.308,33"
+    },
+    "descripcion": "ALACIR 30 MG COMPRIMIDO RECUBIERTO GASTRORESISTENTE",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "DULOXETINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012055-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

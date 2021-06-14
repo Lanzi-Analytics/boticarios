@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-neutrogena-sun-fresh-spf70-7891010591014/p",
+    "fecha_hora_scraping": "2021-06-14 01:36:04",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR NEUTROGENA SUN FRESH SPF70",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_NEUTROGENA_SUN_FRESH_SPF70.jpg",
+    "presentacion": "TUBO X 120 ML",
+    "precio": {
+        "bestPrice": "$48.150",
+        "precioPorSku js-PUM": "Mililitro a $401,25"
+    },
+    "descripcion": "protector solar neutrogena sun fresh spf",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70610-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

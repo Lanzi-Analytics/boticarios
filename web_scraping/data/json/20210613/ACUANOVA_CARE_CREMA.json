@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acuanova-care-crema-7707206270482/p",
+    "fecha_hora_scraping": "2021-06-14 08:34:28",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "ACUANOVA CARE CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ACUANOVA_CARE_CREMA.jpg",
+    "presentacion": "FRASCO X 220 G",
+    "precio": {
+        "bestPrice": "$82.250",
+        "precioPorSku js-PUM": "Gramo a $373,86"
+    },
+    "descripcion": "acuanova care crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 220 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC60269-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

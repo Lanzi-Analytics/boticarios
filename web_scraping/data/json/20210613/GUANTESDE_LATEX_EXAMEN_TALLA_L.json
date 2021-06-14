@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantesde-latex-examen-talla-l-7707228360093/p",
+    "fecha_hora_scraping": "2021-06-14 09:46:46",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTESDE LATEX EXAMEN TALLA L",
+    "nombre_imagen": "./web_scraping/data/img/GUANTESDE_LATEX_EXAMEN_TALLA_L.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "$54.350",
+        "precioPorSku js-PUM": "Unidad a $543,50"
+    },
+    "descripcion": "guantesde latex examen talla l",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0002025-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

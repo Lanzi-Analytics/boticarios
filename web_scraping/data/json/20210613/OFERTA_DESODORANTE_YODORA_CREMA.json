@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-desodorante-yodora-crema-7702057089290/p",
+    "fecha_hora_scraping": "2021-06-14 07:56:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "OFERTA DESODORANTE YODORA CREMA",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_DESODORANTE_YODORA_CREMA.jpg",
+    "presentacion": "POTE 60 G",
+    "precio": {
+        "bestPrice": "$18.950",
+        "precioPorSku js-PUM": "Gramo a $315,83"
+    },
+    "descripcion": "oferta desodorante yodora crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE 60 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

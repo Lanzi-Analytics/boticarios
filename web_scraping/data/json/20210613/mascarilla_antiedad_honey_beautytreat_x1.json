@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mascarilla-antiedad-honey-beautytreat-x1-8429979449641/p",
+    "fecha_hora_scraping": "2021-06-13 23:44:57",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "mascarilla antiedad honey beautytreat x1",
+    "nombre_imagen": "./web_scraping/data/img/mascarilla_antiedad_honey_beautytreat_x1.jpg",
+    "presentacion": "SOBRE X 1 UN",
+    "precio": {
+        "bestPrice": "$26.650",
+        "precioPorSku js-PUM": "Unidad a $26.650,00"
+    },
+    "descripcion": "mascarilla antiedad honey beautytreat x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98668-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

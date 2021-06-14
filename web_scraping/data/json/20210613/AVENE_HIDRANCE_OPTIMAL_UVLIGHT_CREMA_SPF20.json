@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-hidrance-optimal-uv-light-crema-spf20-3282779206310/p",
+    "fecha_hora_scraping": "2021-06-14 00:39:43",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE HIDRANCE OPTIMAL UV-LIGHT CREMA SPF20+",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_HIDRANCE_OPTIMAL_UVLIGHT_CREMA_SPF20.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$101.100",
+        "precioPorSku js-PUM": "Mililitro a $2.527,50"
+    },
+    "descripcion": "avene hidrance optimal uv-light crema spf20+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2009CO32968"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clindamicina-100mg--ketoconazol-400mg-ovulo-tecnoquimicas-7702057700829/p",
+    "fecha_hora_scraping": "2021-06-14 09:18:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLINDAMICINA 100MG + KETOCONAZOL 400MG \u00d3VULO TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CLINDAMICINA_100MG__KETOCONAZOL_400MG_\u00d3VULO_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CJ X 7 OVULOS",
+    "precio": {
+        "bestPrice": "$56.850",
+        "precioPorSku js-PUM": "OVULO a $8.121,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CJ X 7 OVULOS"
+        ],
+        [
+            "Concentracion",
+            "400 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "KETOCONAZOL CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018695"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

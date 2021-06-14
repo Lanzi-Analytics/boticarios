@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atrovent-0025-solucion-para-inhalacion-7703381000395/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ATROVENT 0.025% SOLUCI\u00d3N SIN INHALADOR",
+    "nombre_imagen": "./web_scraping/data/img/ATROVENT_0025_SOLUCI\u00d3N_SIN_INHALADOR.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$25.400",
+        "precioPorSku js-PUM": "Mililitro a $1.270,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "250 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "IPRATROPIO BROMURO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-000227-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/champiojo-rinse-natural-7707210531227/p",
+    "fecha_hora_scraping": "2021-06-14 09:39:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "CHAMPIOJO RINSE NATURAL",
+    "nombre_imagen": "./web_scraping/data/img/CHAMPIOJO_RINSE_NATURAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$15.100",
+        "precioPorSku js-PUM": "Tableta a $755,00"
+    },
+    "descripcion": "champiojo rinse natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC17910-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

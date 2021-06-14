@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/umbrella-kids-max-7703281001102/p",
+    "fecha_hora_scraping": "2021-06-13 23:09:14",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "UMBRELLA KIDS MAX",
+    "nombre_imagen": "./web_scraping/data/img/UMBRELLA_KIDS_MAX.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$71.750",
+        "precioPorSku js-PUM": "Gramo a $1.195,83"
+    },
+    "descripcion": "umbrella kids max",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56473-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

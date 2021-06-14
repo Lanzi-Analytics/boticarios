@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-intimo-nosotras-agua-de-rosas-x200ml-7702026184445/p",
+    "fecha_hora_scraping": "2021-06-14 04:18:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "JABON INTIMO NOSOTRAS AGUA DE ROSAS X200ML",
+    "nombre_imagen": "./web_scraping/data/img/JABON_INTIMO_NOSOTRAS_AGUA_DE_ROSAS_X200ML.jpg",
+    "presentacion": "FRASCO X 200ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $78,50"
+    },
+    "descripcion": "JABON INTIMO NOSOTRAS AGUA DE ROSAS X200ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97608-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oxy-clean-jabon-con-azufre-310742030877/p",
+    "fecha_hora_scraping": "2021-06-14 09:08:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "OXY CLEAN JAB\u00d3N CON AZUFRE",
+    "nombre_imagen": "./web_scraping/data/img/OXY_CLEAN_JAB\u00d3N_CON_AZUFRE.jpg",
+    "presentacion": "CAJA X 90G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $80,56"
+    },
+    "descripcion": "oxy clean jab\u00f3n con azufre",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 90G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC58048-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiocolsid-4-mg-tableta-7703763483037/p",
+    "fecha_hora_scraping": "2021-06-14 08:37:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIOCOLSID 4 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/TIOCOLSID_4_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$63.800",
+        "precioPorSku js-PUM": "Tableta a $3.190,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "4 MG"
+        ],
+        [
+            "Principio activo",
+            "TIOCOLCHICOSIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008887"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

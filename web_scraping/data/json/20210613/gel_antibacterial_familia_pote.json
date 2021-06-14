@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-antibacterial-familia-pote-7702026301200/p",
+    "fecha_hora_scraping": "2021-06-14 00:28:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "gel antibacterial familia pote",
+    "nombre_imagen": "./web_scraping/data/img/gel_antibacterial_familia_pote.jpg",
+    "presentacion": "FRASCO X 265 ML",
+    "precio": {
+        "bestPrice": "$9.500",
+        "precioPorSku js-PUM": "Mililitro a $35,85"
+    },
+    "descripcion": "gel antibacterial familia pote",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 265 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC35580-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

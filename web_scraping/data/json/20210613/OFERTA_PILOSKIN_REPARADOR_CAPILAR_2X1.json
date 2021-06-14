@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-piloskin-reparador-capilar-2x1-7707327210442/p",
+    "fecha_hora_scraping": "2021-06-14 03:57:17",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "OFERTA PILOSKIN REPARADOR CAPILAR 2X1",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PILOSKIN_REPARADOR_CAPILAR_2X1.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.446,67"
+    },
+    "descripcion": "oferta piloskin reparador capilar 2x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC45964-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

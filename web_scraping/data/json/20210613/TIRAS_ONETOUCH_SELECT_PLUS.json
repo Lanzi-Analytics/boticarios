@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiras-onetouch-select-plus-7702031436010/p",
+    "fecha_hora_scraping": "2021-06-14 00:56:20",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TIRAS ONETOUCH SELECT PLUS",
+    "nombre_imagen": "./web_scraping/data/img/TIRAS_ONETOUCH_SELECT_PLUS.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "PrevPrice": "Antes:$115.350",
+        "bestPrice": "$86.512",
+        "precioPorSku js-PUM": "Unidad a $1.730,24"
+    },
+    "descripcion": "tiras onetouch select plus",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPERANDO MEDICOS & QUIRURGICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015RD-0003359"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

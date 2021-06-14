@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-tampones-kotex-digitales-talla-s-7702425805774/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "oferta tampones kotex digitales talla s",
+    "nombre_imagen": "./web_scraping/data/img/oferta_tampones_kotex_digitales_talla_s.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$14.050",
+        "precioPorSku js-PUM": "Unidad a $468,33"
+    },
+    "descripcion": "tamp kot evo dig s x32 super oferta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

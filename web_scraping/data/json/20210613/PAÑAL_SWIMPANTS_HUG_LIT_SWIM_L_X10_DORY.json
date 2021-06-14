@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-swimpants-hug-lit-swim-l-x10-dory-7751493008334/p",
+    "fecha_hora_scraping": "2021-06-14 01:46:55",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1AL SWIMPANTS HUG LIT SWIM L X10 DORY",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_SWIMPANTS_HUG_LIT_SWIM_L_X10_DORY.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.750,00"
+    },
+    "descripcion": "PA\u00d1AL SWIMPANTS HUG LIT SWIM L X10 DORY",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05659-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

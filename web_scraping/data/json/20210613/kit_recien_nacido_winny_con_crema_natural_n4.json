@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-recien-nacido-winny-con-crema-natural-n4-7701021112224/p",
+    "fecha_hora_scraping": "2021-06-14 01:36:21",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "kit recien nacido winny con crema natural n\u00b04",
+    "nombre_imagen": "./web_scraping/data/img/kit_recien_nacido_winny_con_crema_natural_n4.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$31.950",
+        "precioPorSku js-PUM": "Gramo a $1.597,50"
+    },
+    "descripcion": "kit recien nacido con crema nat n\u00b04 x2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/careta-para-proteccion-spectra-lfc-retail-sas-1000002405796/p",
+    "fecha_hora_scraping": "2021-06-14 08:29:51",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "careta para proteccion spectra lfc retail sas",
+    "nombre_imagen": "./web_scraping/data/img/careta_para_proteccion_spectra_lfc_retail_sas.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$5.800",
+        "precioPorSku js-PUM": "Unidad a $5.800,00"
+    },
+    "descripcion": "careta para proteccion spectra lfc retail sas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LFC RETAIL SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

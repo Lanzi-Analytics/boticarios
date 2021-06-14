@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sultamicilina-375-mg-tableta-recubierta-tecnoquimicas-7702057075613/p",
+    "fecha_hora_scraping": "2021-06-14 03:21:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SULTAMICILINA 375 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/SULTAMICILINA_375_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$56.100",
+        "precioPorSku js-PUM": "Tableta a $5.610,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "375 MG"
+        ],
+        [
+            "Principio activo",
+            "SULTAMICILINA TOSILATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-005665-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

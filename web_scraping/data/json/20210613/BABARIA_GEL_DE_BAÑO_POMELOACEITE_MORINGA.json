@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-gel-de-bano-pomelo-aceite-moringa-8410412160049/p",
+    "fecha_hora_scraping": "2021-06-14 02:39:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "BABARIA GEL DE BA\u00d1O POMELO-ACEITE MORINGA",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_GEL_DE_BA\u00d1O_POMELOACEITE_MORINGA.jpg",
+    "presentacion": "FRASCO X 1000 ML",
+    "precio": {
+        "bestPrice": "$14.350",
+        "precioPorSku js-PUM": "Mililitro a $14,35"
+    },
+    "descripcion": "babaria gel de ba\u00f1o pomelo-aceite moringa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 1000 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91634-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

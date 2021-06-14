@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panitos-humedos-colsubsidio-7701009149235/p",
+    "fecha_hora_scraping": "2021-06-14 08:52:47",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1itos h\u00famedos colsubsidio",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1itos_h\u00famedos_colsubsidio.jpg",
+    "presentacion": "EMPAQUE X 75 UN",
+    "precio": {
+        "bestPrice": "$3.700",
+        "precioPorSku js-PUM": "Unidad a $49,33"
+    },
+    "descripcion": "toallitas h\u00famedas colsub beb\u00e9 75u",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 75 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TROPICAL DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40522-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

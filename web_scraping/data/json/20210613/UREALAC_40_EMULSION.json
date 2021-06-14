@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/urealac-40-emulsion-7707206270512/p",
+    "fecha_hora_scraping": "2021-06-14 05:10:10",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UREALAC 40 EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/UREALAC_40_EMULSION.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$58.400",
+        "precioPorSku js-PUM": "Gramo a $973,33"
+    },
+    "descripcion": "urealac 40 emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC65551-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

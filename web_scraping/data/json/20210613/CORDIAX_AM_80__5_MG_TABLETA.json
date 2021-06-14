@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cordiax-am-80--5-mg-tableta-7702870072127/p",
+    "fecha_hora_scraping": "2021-06-14 02:01:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CORDIAX AM 80 + 5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CORDIAX_AM_80__5_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$250.300",
+        "precioPorSku js-PUM": "Tableta a $8.343,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "80 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "TELMISARTAN AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013859-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-desechable-colsubdio-hombre-3hojas-7701009125642/p",
+    "fecha_hora_scraping": "2021-06-14 10:36:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar desechable colsubdio hombre 3hojas",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_desechable_colsubdio_hombre_3hojas.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$3.900",
+        "precioPorSku js-PUM": "Unidad a $1.950,00"
+    },
+    "descripcion": "maquina desech colsub hombre 3hojas 2u",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "C I GLOS TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

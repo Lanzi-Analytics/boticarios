@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-antiseptico-70-solucion-bodegas-de-mosela-7702356801548/p",
-    "fecha_hora_scraping": "2021-06-13 19:12:10",
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-antiseptico-70-solucion-bodegas-de-mosela-7702356801500/p",
+    "fecha_hora_scraping": "2021-06-14 10:25:56",
     "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|antisepticos",
     "titulo": "ALCOHOL ANTISEPTICO 70% SOLUCI\u00d3N BODEGAS DE MOSELA",
     "nombre_imagen": "./web_scraping/data/img/ALCOHOL_ANTISEPTICO_70_SOLUCI\u00d3N_BODEGAS_DE_MOSELA.jpg",
-    "presentacion": "BOTELLA X 1000 ML",
+    "presentacion": "BOTELLA X 375 ML",
     "precio": {
-        "bestPrice": "",
-        "precioPorSku js-PUM": "Mililitro a $9,75"
+        "bestPrice": "$4.550",
+        "precioPorSku js-PUM": "Mililitro a $12,13"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "BOTELLA X 1000 ML"
+            "BOTELLA X 375 ML"
         ],
         [
             "Concentracion",

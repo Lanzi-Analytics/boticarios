@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7798140258254genommacuidado-facialmedicamentoscicatricure-acqua-defense-diaantiedad-antiarrugas-crema-hidratante-cara-7798140258254/p",
+    "fecha_hora_scraping": "2021-06-14 08:54:08",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CICATRICURE CREMA FACIAL ACQUA DEFENSE 50 G",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_CREMA_FACIAL_ACQUA_DEFENSE_50_G.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$35.150",
+        "precioPorSku js-PUM": "Gramo a $703,00"
+    },
+    "descripcion": "protege tu piel del sol con fps 15. hidrata por 24hs. mantiene la piel hidratada en diferentes tipos de condiciones. previene que las part\u00edculas de contam",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86753-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

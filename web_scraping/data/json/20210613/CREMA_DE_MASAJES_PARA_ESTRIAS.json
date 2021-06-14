@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-de-masajes-para-estrias-10181040290/p",
+    "fecha_hora_scraping": "2021-06-14 01:05:51",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "CREMA DE MASAJES PARA ESTRIAS",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DE_MASAJES_PARA_ESTRIAS.jpg",
+    "presentacion": "FRASCO X 125 G",
+    "precio": {
+        "bestPrice": "$64.400",
+        "precioPorSku js-PUM": "Gramo a $515,20"
+    },
+    "descripcion": "crema de masajes para estrias",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 125 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33917-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

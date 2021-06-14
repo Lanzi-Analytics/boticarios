@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-pequenin-premium-touch-etapa-2-7702026146603/p",
+    "fecha_hora_scraping": "2021-06-14 02:28:26",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1ales peque\u00f1in premium touch etapa 2",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_peque\u00f1in_premium_touch_etapa_2.jpg",
+    "presentacion": "PAQUETE X 40 UN",
+    "precio": {
+        "bestPrice": "$30.100",
+        "precioPorSku js-PUM": "Unidad a $752,50"
+    },
+    "descripcion": "pan pequenin prem.touch et2 6x40",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 40 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

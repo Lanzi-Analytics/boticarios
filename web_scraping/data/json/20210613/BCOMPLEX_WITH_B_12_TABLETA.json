@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/b-complex-with-b-12-tableta-751273763252/p",
+    "fecha_hora_scraping": "2021-06-14 03:16:08",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "B-COMPLEX WITH B 12 TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/BCOMPLEX_WITH_B_12_TABLETA.jpg",
+    "presentacion": "CAJA X 90 CAP",
+    "precio": {
+        "bestPrice": "$31.500",
+        "precioPorSku js-PUM": "Capsula a $350,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 90 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0002163"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

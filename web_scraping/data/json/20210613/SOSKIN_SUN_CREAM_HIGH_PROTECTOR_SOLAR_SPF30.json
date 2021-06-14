@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-sun-cream-high-protector-solar-spf30-3760019121741/p",
+    "fecha_hora_scraping": "2021-06-14 05:18:46",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN SUN CREAM HIGH PROTECTOR SOLAR SPF30+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_SUN_CREAM_HIGH_PROTECTOR_SOLAR_SPF30.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$74.550",
+        "precioPorSku js-PUM": "Mililitro a $1.491,00"
+    },
+    "descripcion": "soskin sun cream high protector solar spf30+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75788-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

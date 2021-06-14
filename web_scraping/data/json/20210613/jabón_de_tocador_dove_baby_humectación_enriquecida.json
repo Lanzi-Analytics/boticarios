@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-de-tocador-dove-baby-humectacion-enriquecida-7702191662960/p",
+    "fecha_hora_scraping": "2021-06-14 00:21:42",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "jab\u00f3n de tocador dove baby humectaci\u00f3n enriquecida",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_de_tocador_dove_baby_humectaci\u00f3n_enriquecida.jpg",
+    "presentacion": "UN X 75 G",
+    "precio": {
+        "bestPrice": "$6.750",
+        "precioPorSku js-PUM": "Gramo a $30,00"
+    },
+    "descripcion": "dove baby jab hidrat enriquec 16x3x75g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UN X 75 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69882-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

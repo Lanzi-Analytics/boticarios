@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-cc-cream-spf25-7707016404831/p",
+    "fecha_hora_scraping": "2021-06-14 01:40:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK CC CREAM SPF25",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_CC_CREAM_SPF25.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$28.200",
+        "precioPorSku js-PUM": "Gramo a $940,00"
+    },
+    "descripcion": "arawak cc cream spf25",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56510-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

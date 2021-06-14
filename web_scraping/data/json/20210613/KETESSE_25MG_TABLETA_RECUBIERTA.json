@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ketesse-25mg-tableta-recubierta-7708548830976/p",
+    "fecha_hora_scraping": "2021-06-14 03:09:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KETESSE 25MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/KETESSE_25MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 20 COM",
+    "precio": {
+        "bestPrice": "$60.600",
+        "precioPorSku js-PUM": "Comprimido a $3.030,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 COM"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "DEXKETOPROFENO TROMETAMOL"
+        ],
+        [
+            "Laboratorio",
+            "A MENARINI LATIN AMERICA S L U SUCU"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0001416-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

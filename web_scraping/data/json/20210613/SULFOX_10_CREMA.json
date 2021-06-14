@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulfox-10-crema-7703319000404/p",
+    "fecha_hora_scraping": "2021-06-14 02:13:48",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "SULFOX 10% CREMA",
+    "nombre_imagen": "./web_scraping/data/img/SULFOX_10_CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.456,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "100 MG/G 100 MG/G"
+        ],
+        [
+            "Principio activo",
+            "BENZOILO PEROXIDO AZUFRE"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALDOQUIN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-012750-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

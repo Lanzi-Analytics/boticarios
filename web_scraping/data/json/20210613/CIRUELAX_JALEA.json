@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ciruelax-jalea-7803510300201/p",
+    "fecha_hora_scraping": "2021-06-14 05:19:57",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CIRUELAX JALEA",
+    "nombre_imagen": "./web_scraping/data/img/CIRUELAX_JALEA.jpg",
+    "presentacion": "FRASCO X 600 G",
+    "precio": {
+        "PrevPrice": "Antes:$60.850",
+        "bestPrice": "$42.595",
+        "precioPorSku js-PUM": "Gramo a $70,99"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 600 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2014 -0000251-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

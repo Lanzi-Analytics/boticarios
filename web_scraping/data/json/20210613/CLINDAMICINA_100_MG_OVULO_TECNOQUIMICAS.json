@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clindamicina-100-mg-ovulo-tecnoquimicas-7702057078744/p",
+    "fecha_hora_scraping": "2021-06-14 07:24:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLINDAMICINA 100 MG OVULO TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CLINDAMICINA_100_MG_OVULO_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 7 OVU",
+    "precio": {
+        "bestPrice": "$70.750",
+        "precioPorSku js-PUM": "OVULO a $10.107,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 OVU"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0008732-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

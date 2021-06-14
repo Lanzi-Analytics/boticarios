@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamin-c-500-mg-tableta-masticable-814465010302/p",
+    "fecha_hora_scraping": "2021-06-14 10:03:04",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VITAMIN C 500 MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/VITAMIN_C_500_MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "FRASCO X 100 TAB",
+    "precio": {
+        "bestPrice": "$56.750",
+        "precioPorSku js-PUM": "Tableta a $567,50"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002886"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-brisa-manzana-600ml-pet-7702535013212/p",
+    "fecha_hora_scraping": "2021-06-14 07:07:31",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "AGUA BRISA MANZANA 600ML PET",
+    "nombre_imagen": "./web_scraping/data/img/AGUA_BRISA_MANZANA_600ML_PET.jpg",
+    "presentacion": "BOTELLA X 600ML",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Mililitro a $2,83"
+    },
+    "descripcion": "AGUA BRISA MANZANA 600ML PET",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009570-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707336720772graphites-homaccord-heel-77-gotasmedicamentoshomeopaticosquideca-7707336720772/p",
+    "fecha_hora_scraping": "2021-06-14 00:55:51",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "GRAPHITES HOMACCORD HEEL 77 GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/GRAPHITES_HOMACCORD_HEEL_77_GOTAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$66.650",
+        "precioPorSku js-PUM": "Mililitro a $2.221,67"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "0.5 G 0.5 G 0.5 G"
+        ],
+        [
+            "Principio activo",
+            "GRAPHITES D10 GRAPHITES D30 GRAPHITES D200"
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2017-0000685-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

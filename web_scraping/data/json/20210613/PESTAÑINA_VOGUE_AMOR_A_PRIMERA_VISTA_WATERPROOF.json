@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-vogue-amor-a-primera-vista-waterproof-7509552840261/p",
+    "fecha_hora_scraping": "2021-06-14 07:25:43",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA VOGUE AMOR A PRIMERA VISTA WATERPROOF",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_VOGUE_AMOR_A_PRIMERA_VISTA_WATERPROOF.jpg",
+    "presentacion": "UNIDAD X 9 G",
+    "precio": {
+        "bestPrice": "$18.200",
+        "precioPorSku js-PUM": "Gramo a $2.022,22"
+    },
+    "descripcion": "pesta\u00f1ina vogue amor a primera vista waterproof",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC95303-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diovan-hct-80-mg125-mg-comprimido-recubierto-7702635123040/p",
+    "fecha_hora_scraping": "2021-06-14 07:01:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIOVAN HCT 80 MG/12.5 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/DIOVAN_HCT_80_MG125_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$31.450",
+        "precioPorSku js-PUM": "Comprimido a $1.123,21"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "80 MG 12.5 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN HIDROCLOROTIAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-011090-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

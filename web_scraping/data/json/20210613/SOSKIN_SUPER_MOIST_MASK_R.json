@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-super-moist-mask-r-3760019120409/p",
+    "fecha_hora_scraping": "2021-06-14 02:19:57",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN SUPER MOIST MASK R+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_SUPER_MOIST_MASK_R.jpg",
+    "presentacion": "TUBO X 60 ML",
+    "precio": {
+        "bestPrice": "$89.500",
+        "precioPorSku js-PUM": "Mililitro a $1.491,67"
+    },
+    "descripcion": "soskin super moist mask r+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69512-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

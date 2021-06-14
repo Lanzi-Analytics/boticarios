@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/humylub-ofteno-solucion-oftalmica-736085411423/p",
+    "fecha_hora_scraping": "2021-06-14 01:45:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HUMYLUB OFTENO SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/HUMYLUB_OFTENO_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$56.550",
+        "precioPorSku js-PUM": "Mililitro a $5.655,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "0.18 % 0.1 %"
+        ],
+        [
+            "Principio activo",
+            "SULFATO SODICO DE CONDROITINAHIALURONATO DE SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SOPHIA DE COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017104"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

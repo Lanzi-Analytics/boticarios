@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutriben-a-e-formula-infantil-etapa-1-7703546434157/p",
+    "fecha_hora_scraping": "2021-06-14 09:37:30",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NUTRIBEN A.E FORMULA INFANTIL ETAPA 1",
+    "nombre_imagen": "./web_scraping/data/img/NUTRIBEN_AE_FORMULA_INFANTIL_ETAPA_1.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$44.650",
+        "precioPorSku js-PUM": "Gramo a $111,63"
+    },
+    "descripcion": "nutriben a.e formula infantil etapa 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I14614"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

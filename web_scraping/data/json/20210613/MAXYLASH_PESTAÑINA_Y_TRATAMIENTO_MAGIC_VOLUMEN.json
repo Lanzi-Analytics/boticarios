@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maxylash-pestanina-y-tratamiento-magic-volumen-7702870102190/p",
+    "fecha_hora_scraping": "2021-06-14 00:43:26",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "MAXYLASH PESTA\u00d1INA Y TRATAMIENTO MAGIC VOLUMEN",
+    "nombre_imagen": "./web_scraping/data/img/MAXYLASH_PESTA\u00d1INA_Y_TRATAMIENTO_MAGIC_VOLUMEN.jpg",
+    "presentacion": "TUBO X 12 G",
+    "precio": {
+        "bestPrice": "$26.850",
+        "precioPorSku js-PUM": "Gramo a $2.237,50"
+    },
+    "descripcion": "maxylash pesta\u00f1ina y tratamiento magic v",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81312-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

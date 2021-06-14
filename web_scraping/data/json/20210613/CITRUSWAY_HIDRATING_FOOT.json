@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/citrusway-hidrating-foot-7707232094106/p",
+    "fecha_hora_scraping": "2021-06-13 23:18:40",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CITRUSWAY HIDRATING FOOT",
+    "nombre_imagen": "./web_scraping/data/img/CITRUSWAY_HIDRATING_FOOT.jpg",
+    "presentacion": "FRASCO X 200 G",
+    "precio": {
+        "bestPrice": "$36.150",
+        "precioPorSku js-PUM": "Gramo a $180,75"
+    },
+    "descripcion": "citrusway hidrating foot",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC60225-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

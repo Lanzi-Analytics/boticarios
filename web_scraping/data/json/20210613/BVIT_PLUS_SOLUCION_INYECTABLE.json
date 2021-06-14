@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/b-vit-plus-solucion-inyectable-7703153011390/p",
+    "fecha_hora_scraping": "2021-06-14 00:09:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "B-VIT PLUS SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/BVIT_PLUS_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$11.108",
+        "precioPorSku js-PUM": "Unidad a $11.108,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "100 MG 100 MG 1 MG"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA B6 TIAMINA CLORHIDRATO VITAMINA B12"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002159-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

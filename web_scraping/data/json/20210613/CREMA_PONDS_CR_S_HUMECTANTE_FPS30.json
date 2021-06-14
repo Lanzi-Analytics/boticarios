@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-cr-s-humectante-fps30-7506306216761/p",
+    "fecha_hora_scraping": "2021-06-14 00:29:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA PONDS CR S HUMECTANTE FPS30",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PONDS_CR_S_HUMECTANTE_FPS30.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$17.750",
+        "precioPorSku js-PUM": "Gramo a $177,50"
+    },
+    "descripcion": "crema ponds cr s humectante fps30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94354-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

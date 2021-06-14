@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-en-barra-vogue-colorissimo-cremoso-mate-uva-fuerte-7509552840568/p",
+    "fecha_hora_scraping": "2021-06-14 05:34:26",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL EN BARRA VOGUE COLORISSIMO CREMOSO MATE UVA FUERTE",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_EN_BARRA_VOGUE_COLORISSIMO_CREMOSO_MATE_UVA_FUERTE.jpg",
+    "presentacion": "UNIDAD X 4 G",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Gramo a $2.412,50"
+    },
+    "descripcion": "labial en barra vogue colorissimo cremoso mate uva fuerte",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90531-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

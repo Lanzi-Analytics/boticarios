@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/carmelub-tearsgel-1--gotas-7702057061692/p",
+    "fecha_hora_scraping": "2021-06-14 07:34:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CARMELUB TEARSGEL 1 % GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/CARMELUB_TEARSGEL_1__GOTAS.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$58.150",
+        "precioPorSku js-PUM": "Mililitro a $3.876,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CARBOXIMETILCELULOSA SODICA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0011241-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

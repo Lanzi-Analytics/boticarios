@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/actron-600-mg-capsula-blanda-7793640216339/p",
+    "fecha_hora_scraping": "2021-06-14 06:49:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACTRON 600 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ACTRON_600_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$17.350",
+        "bestPrice": "$13.880",
+        "precioPorSku js-PUM": "Capsula a $1.388,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004823-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

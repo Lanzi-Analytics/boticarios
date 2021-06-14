@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lamicol-250-mg-tableta-7703712011786/p",
+    "fecha_hora_scraping": "2021-06-14 08:09:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LAMICOL 250 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/LAMICOL_250_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$99.000",
+        "precioPorSku js-PUM": "Tableta a $7.071,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "COASPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0003628-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

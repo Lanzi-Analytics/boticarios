@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flunarizina-10-mg-tableta-genfar-7702605101221/p",
+    "fecha_hora_scraping": "2021-06-14 09:40:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLUNARIZINA 10 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/FLUNARIZINA_10_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$2.167",
+        "precioPorSku js-PUM": "Tableta a $216,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "FLUNARIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-012942-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

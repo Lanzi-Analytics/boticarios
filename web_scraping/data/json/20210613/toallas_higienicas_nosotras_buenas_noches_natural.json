@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-nosotras-buenas-noches-natural-7702027040252/p",
+    "fecha_hora_scraping": "2021-06-13 23:39:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas nosotras buenas noches natural",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_nosotras_buenas_noches_natural.jpg",
+    "presentacion": "BOLSA X 10 UN",
+    "precio": {
+        "bestPrice": "$12.400",
+        "precioPorSku js-PUM": "Unidad a $1.240,00"
+    },
+    "descripcion": "toall hig nosotr bnoches natural 10und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

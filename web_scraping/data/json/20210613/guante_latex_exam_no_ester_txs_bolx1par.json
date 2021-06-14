@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guante-latex-exam-no-ester-txs-bolx1par-7707300930244/p",
+    "fecha_hora_scraping": "2021-06-14 06:19:59",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "guante latex exam no ester t:xs bolx1par",
+    "nombre_imagen": "./web_scraping/data/img/guante_latex_exam_no_ester_txs_bolx1par.jpg",
+    "presentacion": "BOLSA X 1 Par",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.000,00"
+    },
+    "descripcion": "guante latex exam no ester t:xs bolx1par",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 Par"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INVERFARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013622"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

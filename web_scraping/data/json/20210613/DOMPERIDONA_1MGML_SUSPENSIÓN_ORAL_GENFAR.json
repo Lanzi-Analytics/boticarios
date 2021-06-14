@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/domperidona-1mgml-suspension-oral-genfar-7702605107131/p",
+    "fecha_hora_scraping": "2021-06-14 06:26:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DOMPERIDONA 1MG/ML SUSPENSI\u00d3N ORAL GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/DOMPERIDONA_1MGML_SUSPENSI\u00d3N_ORAL_GENFAR.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$36.400",
+        "precioPorSku js-PUM": "Mililitro a $606,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DOMPERIDONA"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012720-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

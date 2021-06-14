@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-periogard-x-90-7793100130243/p",
+    "fecha_hora_scraping": "2021-06-14 02:38:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE PERIOGARD X 90",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_PERIOGARD_X_90.jpg",
+    "presentacion": "UNIDAD X90ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $194,44"
+    },
+    "descripcion": "CREMA DENTAL COLGATE PERIOGARD X 90",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X90ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84034-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

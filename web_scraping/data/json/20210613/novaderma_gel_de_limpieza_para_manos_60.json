@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/novaderma-gel-de-limpieza-para-manos-60-7707206270703/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "novaderma gel de limpieza para manos 60%",
+    "nombre_imagen": "./web_scraping/data/img/novaderma_gel_de_limpieza_para_manos_60.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$12.300",
+        "precioPorSku js-PUM": "Mililitro a $49,20"
+    },
+    "descripcion": "novaderma gel de limpieza para manos 60%",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "60 %"
+        ],
+        [
+            "Principio activo",
+            "ETILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99354-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

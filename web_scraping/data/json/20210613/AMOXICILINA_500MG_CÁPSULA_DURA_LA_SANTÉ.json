@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amoxicilina-500mg-capsula-dura-la-sante-7703763070237/p",
+    "fecha_hora_scraping": "2021-06-14 05:03:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMOXICILINA 500MG C\u00c1PSULA DURA LA SANT\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/AMOXICILINA_500MG_C\u00c1PSULA_DURA_LA_SANT\u00c9.jpg",
+    "presentacion": "BLISTER X 10 CAP",
+    "precio": {
+        "bestPrice": "$4.550",
+        "precioPorSku js-PUM": "Capsula a $455,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-010611-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

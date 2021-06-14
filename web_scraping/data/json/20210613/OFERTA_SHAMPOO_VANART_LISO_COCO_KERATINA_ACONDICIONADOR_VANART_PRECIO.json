@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-shampoo-vanart-liso-coco-keratina-acondicionador-vanart-precio-650240039041/p",
+    "fecha_hora_scraping": "2021-06-14 07:04:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "OFERTA SHAMPOO VANART LISO COCO KERATINA +ACONDICIONADOR VANART PRECIO",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_SHAMPOO_VANART_LISO_COCO_KERATINA_ACONDICIONADOR_VANART_PRECIO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$23.900",
+        "precioPorSku js-PUM": "Unidad a $23.900,00"
+    },
+    "descripcion": "OFERTA SHAMPOO VANART LISO COCO KERATINA +ACONDICIONADOR VANART PRECIO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79912-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

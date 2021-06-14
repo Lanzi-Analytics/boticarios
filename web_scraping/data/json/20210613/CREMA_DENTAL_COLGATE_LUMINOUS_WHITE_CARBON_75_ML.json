@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-luminous-white-carbon-75-ml-7509546651019/p",
+    "fecha_hora_scraping": "2021-06-13 23:51:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE LUMINOUS WHITE CARBON 75 ML",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_LUMINOUS_WHITE_CARBON_75_ML.jpg",
+    "presentacion": "CAJA X 75ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $158,67"
+    },
+    "descripcion": "CREMA DENTAL COLGATE LUMINOUS WHITE CARBON 75 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 75ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92946-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

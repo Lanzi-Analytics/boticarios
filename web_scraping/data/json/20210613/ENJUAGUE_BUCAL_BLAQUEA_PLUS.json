@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-blaquea-plus-7702560033704/p",
+    "fecha_hora_scraping": "2021-06-14 05:02:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "ENJUAGUE BUCAL BLAQUEA PLUS",
+    "nombre_imagen": "./web_scraping/data/img/ENJUAGUE_BUCAL_BLAQUEA_PLUS.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$18.950",
+        "precioPorSku js-PUM": "Mililitro a $31,58"
+    },
+    "descripcion": "enjuague bucal blaquea plus jgb x600ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66533-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

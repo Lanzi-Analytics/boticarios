@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vaselina-jhonsons-original-pote-7702031260486/p",
+    "fecha_hora_scraping": "2021-06-14 04:31:45",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "vaselina jhonson's original pote",
+    "nombre_imagen": "./web_scraping/data/img/vaselina_jhonsons_original_pote.jpg",
+    "presentacion": "FRASCO X 100 G",
+    "precio": {
+        "bestPrice": "$16.750",
+        "precioPorSku js-PUM": "Gramo a $167,50"
+    },
+    "descripcion": "vaselina johnson original pote 100 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

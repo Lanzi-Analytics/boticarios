@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ureaderm-10--crema-7703332003604/p",
+    "fecha_hora_scraping": "2021-06-14 07:02:32",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UREADERM 10 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/UREADERM_10__CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$67.050",
+        "precioPorSku js-PUM": "Gramo a $1.117,50"
+    },
+    "descripcion": "ureaderm 10 % crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC35115-96CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

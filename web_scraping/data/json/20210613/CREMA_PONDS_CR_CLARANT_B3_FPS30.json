@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-cr-clarant-b3-fps30-7506306216778/p",
+    "fecha_hora_scraping": "2021-06-14 06:13:54",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA PONDS CR CLARANT B3 FPS30",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PONDS_CR_CLARANT_B3_FPS30.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$22.900",
+        "precioPorSku js-PUM": "Gramo a $229,00"
+    },
+    "descripcion": "crema ponds cr clarant b3 fps30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94355-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

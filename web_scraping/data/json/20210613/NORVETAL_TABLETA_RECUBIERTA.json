@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/norvetal-tableta-recubierta-7707189520581/p",
+    "fecha_hora_scraping": "2021-06-14 06:45:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NORVETAL TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/NORVETAL_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Tableta a $264,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "0.15 MG 0.03 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0004415-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

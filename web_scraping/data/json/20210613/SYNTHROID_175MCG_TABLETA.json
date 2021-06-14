@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/synthroid-175mcg-tableta-7702870699522/p",
+    "fecha_hora_scraping": "2021-06-14 10:24:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYNTHROID 175MCG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/SYNTHROID_175MCG_TABLETA.jpg",
+    "presentacion": "FRASCO X 90 TAB",
+    "precio": {
+        "bestPrice": "$153.200",
+        "precioPorSku js-PUM": "Tableta a $1.702,22"
+    },
+    "descripcion": "SYNTHROID 175MCG TABLETA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 TAB"
+        ],
+        [
+            "Concentracion",
+            "175 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "LEVOTIROXINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012787-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

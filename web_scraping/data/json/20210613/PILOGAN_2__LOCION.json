@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pilogan-2--locion-7703258113128/p",
+    "fecha_hora_scraping": "2021-06-13 23:37:19",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "PILOGAN 2 % LOCION",
+    "nombre_imagen": "./web_scraping/data/img/PILOGAN_2__LOCION.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$53.000",
+        "precioPorSku js-PUM": "Mililitro a $883,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MINOXIDIL"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008928"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-pestanina-one-coat-get-up--grow-cafe-309972816030/p",
+    "fecha_hora_scraping": "2021-06-14 02:41:52",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL PESTA\u00d1INA ONE COAT Get up & grow cafe",
+    "nombre_imagen": "./web_scraping/data/img/AL_PESTA\u00d1INA_ONE_COAT_Get_up__grow_cafe.jpg",
+    "presentacion": "TUBO X 6 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $8.298,39"
+    },
+    "descripcion": "al pesta\u00f1ina one coat get up & grow cafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 6 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40778-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

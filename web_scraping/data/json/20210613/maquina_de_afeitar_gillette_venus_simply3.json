@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-gillette-venus3-rosada-7702018072392/p",
+    "fecha_hora_scraping": "2021-06-14 10:07:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar gillette venus simply3",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_gillette_venus_simply3.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$17.050",
+        "precioPorSku js-PUM": "Unidad a $8.525,00"
+    },
+    "descripcion": "maquina desechable venus rosa x 2uni",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

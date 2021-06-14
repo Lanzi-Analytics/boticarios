@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7704232001707euroetikaformuladosmedicamentosmisure-15--gelsodio-pentosan-polisulfato-7704232001707/p",
+    "fecha_hora_scraping": "2021-06-14 09:15:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MISURE 1.5 % GEL",
+    "nombre_imagen": "./web_scraping/data/img/MISURE_15__GEL.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$59.200",
+        "precioPorSku js-PUM": "Gramo a $1.480,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "1,5 G"
+        ],
+        [
+            "Principio activo",
+            "SODIO PENTOSAN POLISULFATO"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016413"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

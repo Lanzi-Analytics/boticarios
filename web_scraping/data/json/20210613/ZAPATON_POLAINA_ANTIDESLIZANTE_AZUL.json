@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zapaton-polaina-antideslizante-azul-7707228360666/p",
+    "fecha_hora_scraping": "2021-06-14 08:44:06",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "ZAPATON POLAINA ANTIDESLIZANTE AZUL",
+    "nombre_imagen": "./web_scraping/data/img/ZAPATON_POLAINA_ANTIDESLIZANTE_AZUL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Unidad a $1.700,00"
+    },
+    "descripcion": "zapaton polaina antideslizante azul",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

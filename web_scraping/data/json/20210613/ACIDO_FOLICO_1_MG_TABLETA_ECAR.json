@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acido-folico-1-mg-tableta-ecar-7702184010013/p",
+    "fecha_hora_scraping": "2021-06-14 00:50:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACIDO FOLICO 1 MG TABLETA ECAR",
+    "nombre_imagen": "./web_scraping/data/img/ACIDO_FOLICO_1_MG_TABLETA_ECAR.jpg",
+    "presentacion": "FRASCO X 100 TAB",
+    "precio": {
+        "bestPrice": "$9.050",
+        "precioPorSku js-PUM": "Tableta a $90,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "FOLICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-011236-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

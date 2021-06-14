@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mega-cranberry-capsula-blanda-751273774869/p",
+    "fecha_hora_scraping": "2021-06-14 07:38:23",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "MEGA CRANBERRY CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/MEGA_CRANBERRY_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$55.200",
+        "precioPorSku js-PUM": "Capsula a $920,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MELATONINA"
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002992"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-moto-natural-80g-7702189055903/p",
+    "fecha_hora_scraping": "2021-06-14 05:35:39",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "MANI MOTO NATURAL 80G",
+    "nombre_imagen": "./web_scraping/data/img/MANI_MOTO_NATURAL_80G.jpg",
+    "presentacion": "PAQUETE  X 80 G",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Gramo a $21,25"
+    },
+    "descripcion": "MANI MOTO NATURAL 80G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE  X 80 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSA0055759"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

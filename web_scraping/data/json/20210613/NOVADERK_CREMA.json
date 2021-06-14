@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/novader-k-crema-7707206276637/p",
+    "fecha_hora_scraping": "2021-06-14 02:34:59",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "NOVADER-K CREMA",
+    "nombre_imagen": "./web_scraping/data/img/NOVADERK_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$114.300",
+        "precioPorSku js-PUM": "Gramo a $3.810,00"
+    },
+    "descripcion": "novader-k crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC46240-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

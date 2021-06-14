@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/uro-vaxom-6-mg-capsula-dura-7704403005909/p",
+    "fecha_hora_scraping": "2021-06-14 01:20:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "URO-VAXOM 6 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/UROVAXOM_6_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$214.600",
+        "precioPorSku js-PUM": "Capsula a $7.153,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "6 MG"
+        ],
+        [
+            "Principio activo",
+            "E COLI"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-004921-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

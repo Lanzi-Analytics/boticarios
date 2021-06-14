@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-vitu-calendula-tono-02-avellana-fps-15-7702044259057/p",
+    "fecha_hora_scraping": "2021-06-13 23:17:06",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO VITU CALENDULA TONO 02 AVELLANA FPS 15",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_VITU_CALENDULA_TONO_02_AVELLANA_FPS_15.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.850",
+        "precioPorSku js-PUM": "Gramo a $737,50"
+    },
+    "descripcion": "polvo vitu calendula tono 02 avellana fps 15",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90893-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

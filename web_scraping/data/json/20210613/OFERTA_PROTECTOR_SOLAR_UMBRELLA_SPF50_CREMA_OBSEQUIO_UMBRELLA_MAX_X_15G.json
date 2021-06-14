@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-protector-solar-umbrella-spf50-crema-obsequio-umbrella-max-x-15g-7703281003502/p",
+    "fecha_hora_scraping": "2021-06-14 08:33:43",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "OFERTA PROTECTOR SOLAR UMBRELLA SPF50 CREMA OBSEQUIO UMBRELLA MAX X 15G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PROTECTOR_SOLAR_UMBRELLA_SPF50_CREMA_OBSEQUIO_UMBRELLA_MAX_X_15G.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$115.950",
+        "precioPorSku js-PUM": "Gramo a $1.932,50"
+    },
+    "descripcion": "oferta protector solar umbrella spf50 cr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52004-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-colsubsidio-ortodontico-7701009012386/p",
+    "fecha_hora_scraping": "2021-06-14 04:48:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "cepillo dental colsubsidio ortodontico",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_colsubsidio_ortodontico.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$3.500",
+        "precioPorSku js-PUM": "Unidad a $3.500,00"
+    },
+    "descripcion": "cepillo dent colsubsidio ortodontico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PLACECOL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/procicar-nf-crema-7703281000679/p",
+    "fecha_hora_scraping": "2021-06-14 07:44:25",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "PROCICAR NF CREMA",
+    "nombre_imagen": "./web_scraping/data/img/PROCICAR_NF_CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$37.500",
+        "precioPorSku js-PUM": "Gramo a $625,00"
+    },
+    "descripcion": "procicar nf crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "BISACODILO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC43437-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

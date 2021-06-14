@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallas-higienicas-nosotras-ult-invisible-rapisec-precio-especial-7702027416453/p",
+    "fecha_hora_scraping": "2021-06-14 03:23:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toallas higienicas nosotras ult invisible rapisec precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallas_higienicas_nosotras_ult_invisible_rapisec_precio_especial.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$11.950",
+        "precioPorSku js-PUM": "Unidad a $597,50"
+    },
+    "descripcion": "of hig nosot ult inv rapisec aj x10 2x",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA 20005V-003127"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

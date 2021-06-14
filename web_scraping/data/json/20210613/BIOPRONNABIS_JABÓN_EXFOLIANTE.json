@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biopronnabis-jabon-exfoliante-7707232092089/p",
+    "fecha_hora_scraping": "2021-06-14 10:36:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "BIOPRONNABIS JAB\u00d3N EXFOLIANTE",
+    "nombre_imagen": "./web_scraping/data/img/BIOPRONNABIS_JAB\u00d3N_EXFOLIANTE.jpg",
+    "presentacion": "UNIDAD X 90G",
+    "precio": {
+        "bestPrice": "$10.250",
+        "precioPorSku js-PUM": "Gramo a $113,89"
+    },
+    "descripcion": "biopronnabis jab\u00f3n exfoliante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 90G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75772-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

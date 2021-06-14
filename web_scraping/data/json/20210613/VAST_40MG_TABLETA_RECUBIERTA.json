@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vast-40mg-tableta-recubierta-7891317149994/p",
+    "fecha_hora_scraping": "2021-06-14 02:12:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VAST 40MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/VAST_40MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$76.100",
+        "precioPorSku js-PUM": "Tableta a $2.536,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "ATORVASTATINA CALCIO"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0014824"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-dental-ninos-happy-dent-7709990613186/p",
+    "fecha_hora_scraping": "2021-06-14 03:03:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "GEL DENTAL NI\u00d1OS HAPPY DENT",
+    "nombre_imagen": "./web_scraping/data/img/GEL_DENTAL_NI\u00d1OS_HAPPY_DENT.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$19.000",
+        "precioPorSku js-PUM": "Mililitro a $1.266,67"
+    },
+    "descripcion": "gel dental ni\u00f1os happy dent",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PF FARMACEUTICA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70122-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

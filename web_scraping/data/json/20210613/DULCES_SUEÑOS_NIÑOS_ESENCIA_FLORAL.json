@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dulces-suenos-ninos-esencia-floral-7708959163496/p",
+    "fecha_hora_scraping": "2021-06-13 23:27:02",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "DULCES SUE\u00d1OS NI\u00d1OS ESENCIA FLORAL",
+    "nombre_imagen": "./web_scraping/data/img/DULCES_SUE\u00d1OS_NI\u00d1OS_ESENCIA_FLORAL.jpg",
+    "presentacion": "BOLSA X 2 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $20.800,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODIME NATU BIOENERG SIU TUTUAVA I"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

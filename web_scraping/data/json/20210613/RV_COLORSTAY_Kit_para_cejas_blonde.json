@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-kit-para-cejas-blonde-309975074055/p",
+    "fecha_hora_scraping": "2021-06-14 07:43:51",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV COLORSTAY Kit para cejas blonde",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_Kit_para_cejas_blonde.jpg",
+    "presentacion": "CONTENEDOR X 7 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $41.450,00"
+    },
+    "descripcion": "rv colorstay kit para cejas blonde",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 7 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84734-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

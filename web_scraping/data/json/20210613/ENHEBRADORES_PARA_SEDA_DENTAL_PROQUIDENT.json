@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enhebradores-para-seda-dental-proquident-7702314160243/p",
+    "fecha_hora_scraping": "2021-06-14 09:31:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "ENHEBRADORES PARA SEDA DENTAL PROQUIDENT",
+    "nombre_imagen": "./web_scraping/data/img/ENHEBRADORES_PARA_SEDA_DENTAL_PROQUIDENT.jpg",
+    "presentacion": "BOLSA X 24 UN",
+    "precio": {
+        "bestPrice": "$8.100",
+        "precioPorSku js-PUM": "Unidad a $337,50"
+    },
+    "descripcion": "enhebradores para seda dental proquident",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 24 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

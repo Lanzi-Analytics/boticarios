@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fexu-d-3015mg5ml-suspension-7702870920022/p",
+    "fecha_hora_scraping": "2021-06-14 07:39:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEXU D 30/15MG/5ML SUSPENSI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/FEXU_D_3015MG5ML_SUSPENSI\u00d3N.jpg",
+    "presentacion": "FRASCO X 90 ML",
+    "precio": {
+        "bestPrice": "$66.300",
+        "precioPorSku js-PUM": "Mililitro a $736,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 ML"
+        ],
+        [
+            "Concentracion",
+            "6 MG/ML 3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "FEXOFENADINA CLORHIDRATO FENILEFRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019179"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

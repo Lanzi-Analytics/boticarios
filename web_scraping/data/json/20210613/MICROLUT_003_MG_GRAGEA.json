@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/microlut-003-mg-gragea-7703331710381/p",
+    "fecha_hora_scraping": "2021-06-14 03:54:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MICROLUT 0.03 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/MICROLUT_003_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 35 TAB",
+    "precio": {
+        "bestPrice": "$32.700",
+        "precioPorSku js-PUM": "Tableta a $934,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 35 TAB"
+        ],
+        [
+            "Concentracion",
+            "0.03 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-14015-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

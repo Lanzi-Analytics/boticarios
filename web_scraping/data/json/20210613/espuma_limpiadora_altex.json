@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/espuma-limpiadora-altex-7702057107475/p",
+    "fecha_hora_scraping": "2021-06-14 09:53:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "espuma limpiadora altex",
+    "nombre_imagen": "./web_scraping/data/img/espuma_limpiadora_altex.jpg",
+    "presentacion": "ENVASE X 150 ML",
+    "precio": {
+        "bestPrice": "$27.350",
+        "precioPorSku js-PUM": "Gramo a $273,50"
+    },
+    "descripcion": "altex espuma limpiadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52321-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

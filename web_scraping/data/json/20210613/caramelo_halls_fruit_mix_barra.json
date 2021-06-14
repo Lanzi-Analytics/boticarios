@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caramelo-halls-fruit-mix-barra-7622210427199/p",
+    "fecha_hora_scraping": "2021-06-14 00:50:16",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "caramelo halls fruit mix barra",
+    "nombre_imagen": "./web_scraping/data/img/caramelo_halls_fruit_mix_barra.jpg",
+    "presentacion": "BARRA X 9 UN",
+    "precio": {
+        "bestPrice": "$1.450",
+        "precioPorSku js-PUM": "Gramo a $58,00"
+    },
+    "descripcion": "caramelo halls fruit mix barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 9 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I171514"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-cerma-facial-noche-anti-pigment-4005900559517/p",
+    "fecha_hora_scraping": "2021-06-14 00:52:07",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN CERMA FACIAL NOCHE ANTI-PIGMENT",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_CERMA_FACIAL_NOCHE_ANTIPIGMENT.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$141.550",
+        "precioPorSku js-PUM": "Mililitro a $2.831,00"
+    },
+    "descripcion": "eucerin cerma facial noche anti-pigment",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87495-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

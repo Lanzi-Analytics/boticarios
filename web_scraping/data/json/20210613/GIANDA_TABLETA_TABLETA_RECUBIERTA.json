@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gianda-tableta-tableta-recubierta-7861073903918/p",
+    "fecha_hora_scraping": "2021-06-14 03:19:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GIANDA TABLETA TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/GIANDA_TABLETA_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$72.450",
+        "precioPorSku js-PUM": "Tableta a $3.450,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0,03 MG"
+        ],
+        [
+            "Principio activo",
+            "DIENOGEST ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009887-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

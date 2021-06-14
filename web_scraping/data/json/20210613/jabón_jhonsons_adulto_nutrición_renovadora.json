@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-jhonsons-adulto-nutricion-renovadora-7702031685036/p",
+    "fecha_hora_scraping": "2021-06-14 02:33:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "jab\u00f3n jhonson's adulto nutrici\u00f3n renovadora",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_jhonsons_adulto_nutrici\u00f3n_renovadora.jpg",
+    "presentacion": "BARRA X 125 G",
+    "precio": {
+        "bestPrice": "$6.000",
+        "precioPorSku js-PUM": "Gramo a $16,00"
+    },
+    "descripcion": "jabon adulto nut renovadora 3und 125g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 125 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64934-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

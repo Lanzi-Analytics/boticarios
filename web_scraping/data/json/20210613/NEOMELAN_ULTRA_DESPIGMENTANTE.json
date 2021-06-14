@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neomelan-ultra-despigmentante-7707206270628/p",
+    "fecha_hora_scraping": "2021-06-13 23:43:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "NEOMELAN ULTRA DESPIGMENTANTE",
+    "nombre_imagen": "./web_scraping/data/img/NEOMELAN_ULTRA_DESPIGMENTANTE.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$108.900",
+        "precioPorSku js-PUM": "Gramo a $3.630,00"
+    },
+    "descripcion": "neomelan ultra despigmentante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83259-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gomas-grissly-snack-huellitas-55-gr-7702011125224/p",
+    "fecha_hora_scraping": "2021-06-14 06:45:59",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMAS GRISSLY SNACK HUELLITAS 55 GR",
+    "nombre_imagen": "./web_scraping/data/img/GOMAS_GRISSLY_SNACK_HUELLITAS_55_GR.jpg",
+    "presentacion": "UNIDAD X 55 G",
+    "precio": {
+        "bestPrice": "$1.500",
+        "precioPorSku js-PUM": "Gramo a $27,27"
+    },
+    "descripcion": "GOMAS GRISSLY SNACK HUELLITAS 55 GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 55 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000498-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

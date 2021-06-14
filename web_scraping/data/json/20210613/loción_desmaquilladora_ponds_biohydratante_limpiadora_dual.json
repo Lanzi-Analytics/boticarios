@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-desmaquilladora-ponds-biohydratante-limpiadora-dual-7501056330378/p",
+    "fecha_hora_scraping": "2021-06-13 23:09:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "loci\u00f3n desmaquilladora ponds biohydratante limpiadora dual",
+    "nombre_imagen": "./web_scraping/data/img/loci\u00f3n_desmaquilladora_ponds_biohydratante_limpiadora_dual.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$31.300",
+        "precioPorSku js-PUM": "Gramo a $156,50"
+    },
+    "descripcion": "ponds loc biohydratante dual x200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

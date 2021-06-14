@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enalapril-5-mg-tableta-tecnoquimicas-7702057072629/p",
+    "fecha_hora_scraping": "2021-06-14 08:18:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ENALAPRIL 5 MG TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/ENALAPRIL_5_MG_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$2.070",
+        "precioPorSku js-PUM": "Tableta a $207,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "ENALAPRIL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-011529-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

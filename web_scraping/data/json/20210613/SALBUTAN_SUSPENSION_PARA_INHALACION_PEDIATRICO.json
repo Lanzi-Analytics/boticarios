@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/salbutan-suspension-para-inhalacion-pediatrico-7707172686270/p",
+    "fecha_hora_scraping": "2021-06-14 05:53:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SALBUTAN SUSPENSION PARA INHALACION PEDIATRICO",
+    "nombre_imagen": "./web_scraping/data/img/SALBUTAN_SUSPENSION_PARA_INHALACION_PEDIATRICO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$19.700",
+        "precioPorSku js-PUM": "Unidad a $19.700,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "100 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "SALBUTAMOL SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0004811-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

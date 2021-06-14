@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nofertyl-50-mg5-mg-solucion-inyectable-7702870002636/p",
+    "fecha_hora_scraping": "2021-06-14 05:39:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NOFERTYL 50 MG/5 MG SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/NOFERTYL_50_MG5_MG_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.400",
+        "precioPorSku js-PUM": "Unidad a $8.400,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "NORETISTERONA ENANTATO ESTRADIOL VALERATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0003611-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

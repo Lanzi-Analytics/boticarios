@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-pediatrico-nina-7707228411078/p",
+    "fecha_hora_scraping": "2021-06-14 10:07:34",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "TAPABOCAS PEDIATRICO NI\u00d1A",
+    "nombre_imagen": "./web_scraping/data/img/TAPABOCAS_PEDIATRICO_NI\u00d1A.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $270,00"
+    },
+    "descripcion": "tapabocas pediatrico ni\u00f1a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "M P PROMEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0009746"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/neilmed-nasa-mist-spray-nasal-705928050754/p",
-    "fecha_hora_scraping": "2021-06-13 18:57:53",
+    "url_producto": "https://www.drogueriascolsubsidio.com/neilmed-nasa-mist-spray-nasal-705928071254/p",
+    "fecha_hora_scraping": "2021-06-14 07:46:25",
     "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|descongestionantes",
     "titulo": "NEILMED NASA MIST SPRAY NASAL",
     "nombre_imagen": "./web_scraping/data/img/NEILMED_NASA_MIST_SPRAY_NASAL.jpg",
-    "presentacion": "FRASCO X 75 ML",
+    "presentacion": "FRASCO X 125 ML",
     "precio": {
-        "bestPrice": "$54.450",
-        "precioPorSku js-PUM": "Mililitro a $726,00"
+        "bestPrice": "$58.250",
+        "precioPorSku js-PUM": "Mililitro a $466,00"
     },
     "descripcion": "neilmed nasa mist spray nasal",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "FRASCO X 75 ML"
+            "FRASCO X 125 ML"
         ],
         [
             "Concentracion",

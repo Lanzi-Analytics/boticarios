@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-de-bano-stelatopia-mustela-3504105028961/p",
+    "fecha_hora_scraping": "2021-06-14 02:58:19",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "ACEITE DE BA\u00d1O STELATOPIA MUSTELA",
+    "nombre_imagen": "./web_scraping/data/img/ACEITE_DE_BA\u00d1O_STELATOPIA_MUSTELA.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $378,00"
+    },
+    "descripcion": "aceite de ba\u00f1o stelatopia mustela",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 400 PROPILENGLICOL"
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81709-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

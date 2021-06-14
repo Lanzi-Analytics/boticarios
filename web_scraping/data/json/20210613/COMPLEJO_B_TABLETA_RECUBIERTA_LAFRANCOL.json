@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/complejo-b-tableta-recubierta-lafrancol-7706569022882/p",
+    "fecha_hora_scraping": "2021-06-14 06:35:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COMPLEJO B TABLETA RECUBIERTA LAFRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/COMPLEJO_B_TABLETA_RECUBIERTA_LAFRANCOL.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$1.436",
+        "precioPorSku js-PUM": "Tableta a $143,60"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG 10 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "NICOTINA MIDARIBOFLAVINATIAMINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016629"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

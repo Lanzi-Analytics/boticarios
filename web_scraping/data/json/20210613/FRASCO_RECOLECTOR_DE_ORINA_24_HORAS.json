@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/frasco-recolector-de-orina-24-horas-7707249020044/p",
+    "fecha_hora_scraping": "2021-06-14 05:11:01",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "FRASCO RECOLECTOR DE ORINA 24 HORAS",
+    "nombre_imagen": "./web_scraping/data/img/FRASCO_RECOLECTOR_DE_ORINA_24_HORAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$5.600",
+        "precioPorSku js-PUM": "Unidad a $5.600,00"
+    },
+    "descripcion": "frasco recolector de orina 24 horas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEDICAL NISSI SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018128"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

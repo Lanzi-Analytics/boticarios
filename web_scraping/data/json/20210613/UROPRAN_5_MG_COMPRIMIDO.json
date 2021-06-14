@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/uropran-5-mg-comprimido-7702057013813/p",
+    "fecha_hora_scraping": "2021-06-14 01:25:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "UROPRAN 5 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/UROPRAN_5_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 20 COM",
+    "precio": {
+        "bestPrice": "$46.050",
+        "precioPorSku js-PUM": "Comprimido a $2.302,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 COM"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "OXIBUTININA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001717-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

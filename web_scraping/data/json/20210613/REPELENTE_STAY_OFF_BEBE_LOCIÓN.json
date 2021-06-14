@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-stay-off-bebe-locion-7706800002895/p",
+    "fecha_hora_scraping": "2021-06-14 04:20:23",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "REPELENTE STAY OFF BEBE LOCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/REPELENTE_STAY_OFF_BEBE_LOCI\u00d3N.jpg",
+    "presentacion": "ENVASE X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $148,25"
+    },
+    "descripcion": "REPELENTE STAY OFF BEBE LOCI\u00d3N",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

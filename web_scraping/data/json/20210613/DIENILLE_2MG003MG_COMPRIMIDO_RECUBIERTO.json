@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8437009433584dienille-2mg003mg-comprimido-recubiertoformuladosexeltis-8437009433584/p",
+    "fecha_hora_scraping": "2021-06-14 04:17:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIENILLE 2MG/0.03MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/DIENILLE_2MG003MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 21TAB",
+    "precio": {
+        "bestPrice": "$14.350",
+        "precioPorSku js-PUM": "Comprimido a $683,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0,03 MG"
+        ],
+        [
+            "Principio activo",
+            "DIENOGEST ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017267"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oticaina-forte-solucion-otica-7702195204692/p",
+    "fecha_hora_scraping": "2021-06-14 05:14:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OTICAINA FORTE SOLUCION OTICA",
+    "nombre_imagen": "./web_scraping/data/img/OTICAINA_FORTE_SOLUCION_OTICA.jpg",
+    "presentacion": "FRASCO X 8 ML",
+    "precio": {
+        "bestPrice": "$17.650",
+        "precioPorSku js-PUM": "Mililitro a $2.206,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 8 ML"
+        ],
+        [
+            "Concentracion",
+            "10000 UI 40 MG 3.75 MG"
+        ],
+        [
+            "Principio activo",
+            "FENILBUTIRATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016155"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

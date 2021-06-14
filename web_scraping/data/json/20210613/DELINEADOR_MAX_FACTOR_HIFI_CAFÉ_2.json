@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-max-factor-hi-fi-cafe-2-7702044010177/p",
+    "fecha_hora_scraping": "2021-06-14 05:46:59",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR MAX FACTOR HI-FI CAF\u00c9 #2",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_MAX_FACTOR_HIFI_CAF\u00c9_2.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $6.856,39"
+    },
+    "descripcion": "delineador max factor hi-fi caf\u00e9 #2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC2079-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

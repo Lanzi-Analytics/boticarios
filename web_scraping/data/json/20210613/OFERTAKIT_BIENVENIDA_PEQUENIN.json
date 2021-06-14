@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-kit-bienvenida-pequenin-7702026190262/p",
+    "fecha_hora_scraping": "2021-06-14 04:32:24",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA-KIT BIENVENIDA PEQUENIN",
+    "nombre_imagen": "./web_scraping/data/img/OFERTAKIT_BIENVENIDA_PEQUENIN.jpg",
+    "presentacion": "PAQUETE X 1UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $35.900,00"
+    },
+    "descripcion": "OFERTA-KIT BIENVENIDA PEQUENIN",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA09153-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/galvus-50mg-tableta-7702635716853/p",
+    "fecha_hora_scraping": "2021-06-14 06:57:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GALVUS 50MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/GALVUS_50MG_TABLETA.jpg",
+    "presentacion": "CAJA X 56 TAB",
+    "precio": {
+        "bestPrice": "$90.800",
+        "precioPorSku js-PUM": "Unidad a $1.621,43"
+    },
+    "descripcion": "GALVUS 50MG TABLETA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 56 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "VILDAGLIPTINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008064"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

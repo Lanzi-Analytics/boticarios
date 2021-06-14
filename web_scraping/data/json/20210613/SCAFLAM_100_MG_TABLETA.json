@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/scaflam-100-mg-tableta-7706127000048/p",
+    "fecha_hora_scraping": "2021-06-14 03:56:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SCAFLAM 100 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/SCAFLAM_100_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$93.250",
+        "precioPorSku js-PUM": "Tableta a $7.770,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "NIMESULIDA"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-013354-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

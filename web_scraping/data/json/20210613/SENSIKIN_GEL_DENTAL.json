@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sensikin-gel-dental-8470001892904/p",
+    "fecha_hora_scraping": "2021-06-14 04:12:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "SENSIKIN GEL DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/SENSIKIN_GEL_DENTAL.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$30.100",
+        "precioPorSku js-PUM": "Gramo a $2.006,67"
+    },
+    "descripcion": "sensikin gel dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCLIN PHARMA S.A."
+        ],
+        [
+            "Registro Invima",
+            "NSOC84619-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

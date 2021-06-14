@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-pequenin-extraproteccion-et4-7707181150526/p",
+    "fecha_hora_scraping": "2021-06-14 03:47:07",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1al peque\u00f1in extraproteccion et4",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1al_peque\u00f1in_extraproteccion_et4.jpg",
+    "presentacion": "PAQUETE X 50 UN",
+    "precio": {
+        "bestPrice": "$43.200",
+        "precioPorSku js-PUM": "Unidad a $864,00"
+    },
+    "descripcion": "pa\u00f1al peque\u00f1in extraproteccion et4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07764-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

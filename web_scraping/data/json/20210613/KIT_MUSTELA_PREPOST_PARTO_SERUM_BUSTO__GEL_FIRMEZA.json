@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-mustela-pre-post-parto-serum-busto--gel-firmeza-7709306253006/p",
+    "fecha_hora_scraping": "2021-06-14 07:18:22",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "KIT MUSTELA PRE-POST PARTO SERUM BUSTO + GEL FIRMEZA",
+    "nombre_imagen": "./web_scraping/data/img/KIT_MUSTELA_PREPOST_PARTO_SERUM_BUSTO__GEL_FIRMEZA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $141.900,00"
+    },
+    "descripcion": "kit mustela pre-post parto serum busto + gel firmeza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68302-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

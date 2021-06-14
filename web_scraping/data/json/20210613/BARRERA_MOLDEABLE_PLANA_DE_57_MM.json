@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/barrera-moldeable-plana-de-57-mm-768455108794/p",
+    "fecha_hora_scraping": "2021-06-14 07:34:25",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BARRERA MOLDEABLE PLANA DE 57 MM",
+    "nombre_imagen": "./web_scraping/data/img/BARRERA_MOLDEABLE_PLANA_DE_57_MM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $31.960,00"
+    },
+    "descripcion": "barrera moldeable plana de 57 mm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002059"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

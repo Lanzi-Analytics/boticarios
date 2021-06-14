@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hydraskin-serum-antiage-crema-7707222420458/p",
+    "fecha_hora_scraping": "2021-06-14 08:20:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "HYDRASKIN SERUM ANTIAGE CREMA",
+    "nombre_imagen": "./web_scraping/data/img/HYDRASKIN_SERUM_ANTIAGE_CREMA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$104.100",
+        "precioPorSku js-PUM": "Mililitro a $3.470,00"
+    },
+    "descripcion": "hydraskin serum antiage crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70507-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

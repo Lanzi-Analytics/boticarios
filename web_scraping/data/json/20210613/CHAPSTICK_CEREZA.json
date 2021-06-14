@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/36600813719pfizercuidado-facialmedicamentoschapstick-cereza-36600813719/p",
+    "fecha_hora_scraping": "2021-06-14 08:25:34",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CHAPSTICK CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/CHAPSTICK_CEREZA.jpg",
+    "presentacion": "TUBO X 4,2 G",
+    "precio": {
+        "bestPrice": "$11.900",
+        "precioPorSku js-PUM": "Gramo a $2.833,33"
+    },
+    "descripcion": "chapstick cereza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4,2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44000-99CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

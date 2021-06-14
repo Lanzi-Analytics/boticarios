@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/aflux-jarabe-listo-7702057010218/p",
-    "fecha_hora_scraping": "2021-06-13 18:17:05",
+    "url_producto": "https://www.drogueriascolsubsidio.com/aflux-jarabe-listo-7702057010201/p",
+    "fecha_hora_scraping": "2021-06-14 09:09:11",
     "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|tos",
     "titulo": "AFLUX JARABE LISTO",
     "nombre_imagen": "./web_scraping/data/img/AFLUX_JARABE_LISTO.jpg",
-    "presentacion": "FRASCO X 150 ML",
+    "presentacion": "FRASCO X 75 ML",
     "precio": {
-        "bestPrice": "$36.500",
-        "precioPorSku js-PUM": "Mililitro a $243,33"
+        "bestPrice": "$23.650",
+        "precioPorSku js-PUM": "Mililitro a $315,33"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "FRASCO X 150 ML"
+            "FRASCO X 75 ML"
         ],
         [
             "Concentracion",

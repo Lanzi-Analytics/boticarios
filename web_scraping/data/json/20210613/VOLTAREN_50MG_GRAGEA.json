@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/voltaren-50mg-gragea-7702635122029/p",
+    "fecha_hora_scraping": "2021-06-14 07:24:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VOLTAREN 50MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/VOLTAREN_50MG_GRAGEA.jpg",
+    "presentacion": "BLISTER X 10 GRG",
+    "precio": {
+        "bestPrice": "$24.300",
+        "precioPorSku js-PUM": "Gragea a $2.430,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 GRG"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-011179-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

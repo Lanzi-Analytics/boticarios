@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glicolic-10-crema-7705849004013/p",
+    "fecha_hora_scraping": "2021-06-14 03:00:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "GLICOLIC 10% CREMA",
+    "nombre_imagen": "./web_scraping/data/img/GLICOLIC_10_CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$112.200",
+        "precioPorSku js-PUM": "Gramo a $1.870,00"
+    },
+    "descripcion": "glicolic 10% crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC9679-94CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

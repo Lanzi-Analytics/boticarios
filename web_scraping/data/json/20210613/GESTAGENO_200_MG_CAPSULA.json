@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gestageno-200-mg-capsula-8437009433546/p",
+    "fecha_hora_scraping": "2021-06-13 23:29:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GESTAGENO 200 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/GESTAGENO_200_MG_CAPSULA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$135.300",
+        "precioPorSku js-PUM": "Capsula a $4.510,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "PROGESTERONA"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016686"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-tio-nacho-aclarante-650240011832/p",
+    "fecha_hora_scraping": "2021-06-14 09:46:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TIO NACHO SHAMPOO ACLARANTE 415 ML",
+    "nombre_imagen": "./web_scraping/data/img/TIO_NACHO_SHAMPOO_ACLARANTE_415_ML.jpg",
+    "presentacion": "FRASCO X 415 ML",
+    "precio": {
+        "bestPrice": "$24.300",
+        "precioPorSku js-PUM": "Mililitro a $58,55"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 415 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79877-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707336720376china-homaccord-heel-37-gotasmedicamentoshomeopaticosquideca-7707336720376/p",
+    "fecha_hora_scraping": "2021-06-14 03:39:23",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "CHINA HOMACCORD HEEL 37 GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/CHINA_HOMACCORD_HEEL_37_GOTAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$71.050",
+        "precioPorSku js-PUM": "Mililitro a $2.368,33"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "0.6 G 0.6 G 0.4 G"
+        ],
+        [
+            "Principio activo",
+            "CHINA D2 CHINA D10 SEPIA OFFICINALIS D6"
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2019-0000729-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

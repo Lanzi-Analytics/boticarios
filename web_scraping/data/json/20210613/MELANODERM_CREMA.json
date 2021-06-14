@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/melanoderm-crema-7592307000157/p",
+    "fecha_hora_scraping": "2021-06-13 23:38:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "MELANODERM CREMA",
+    "nombre_imagen": "./web_scraping/data/img/MELANODERM_CREMA.jpg",
+    "presentacion": "TUBO X 120 G",
+    "precio": {
+        "bestPrice": "$96.400",
+        "precioPorSku js-PUM": "Gramo a $803,33"
+    },
+    "descripcion": "melanoderm crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38416-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

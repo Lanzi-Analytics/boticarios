@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zetia-10-mg-tableta-7702502021271/p",
+    "fecha_hora_scraping": "2021-06-14 03:31:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZETIA 10 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ZETIA_10_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$113.000",
+        "precioPorSku js-PUM": "Tableta a $3.766,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002492-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

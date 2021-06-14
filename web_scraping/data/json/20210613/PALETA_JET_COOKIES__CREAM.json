@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-jet-cookies--cream-7702402054331/p",
+    "fecha_hora_scraping": "2021-06-14 10:26:42",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "PALETA JET COOKIES & CREAM",
+    "nombre_imagen": "./web_scraping/data/img/PALETA_JET_COOKIES__CREAM.jpg",
+    "presentacion": "UNIDAD X 62 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $41,94"
+    },
+    "descripcion": "paleta jet cookies & cream",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 62 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I33104"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

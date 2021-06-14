@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/marnys-junior-jarabe-8410885080851/p",
+    "fecha_hora_scraping": "2021-06-14 10:21:48",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "MARNYS JUNIOR JARABE",
+    "nombre_imagen": "./web_scraping/data/img/MARNYS_JUNIOR_JARABE.jpg",
+    "presentacion": "CAJA X 10 FRASCO",
+    "precio": {
+        "bestPrice": "$58.300",
+        "precioPorSku js-PUM": "Unidad a $5.830,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 FRASCO"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLVENFAR SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2009-0000959"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-depilatoria-corporal-veet-piel-normal-7702626214214/p",
+    "fecha_hora_scraping": "2021-06-14 01:26:11",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "CREMA DEPILATORIA CORPORAL VEET PIEL NORMAL",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DEPILATORIA_CORPORAL_VEET_PIEL_NORMAL.jpg",
+    "presentacion": "2 TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$21.900",
+        "precioPorSku js-PUM": "Mililitro a $109,50"
+    },
+    "descripcion": "crema depilatoria corporal veet piel normal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "2 TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69268-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

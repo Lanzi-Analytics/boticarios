@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113034783laca-kleer-lac-laca-fuerte-pump-sprayhigiene-y-cuidado-personalcuidado-del-cabellona-7702113034783/p",
+    "fecha_hora_scraping": "2021-06-14 10:36:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "LACA KLEER LAC LACA FUERTE PUMP SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/LACA_KLEER_LAC_LACA_FUERTE_PUMP_SPRAY.jpg",
+    "presentacion": "FRASCO X 120 X ML",
+    "precio": {
+        "bestPrice": "$13.250",
+        "precioPorSku js-PUM": "Mililitro a $110,42"
+    },
+    "descripcion": "laca kleer lac laca fuerte pump spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC09041-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

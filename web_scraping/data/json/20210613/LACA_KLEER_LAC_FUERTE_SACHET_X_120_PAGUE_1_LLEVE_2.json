@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113006810laca-kleer-lac-fuerte-sachet-x-120-pague-1-lleve-2higiene-y-cuidado-personalcuidado-del-cabellona-7702113006810/p",
+    "fecha_hora_scraping": "2021-06-14 10:16:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "LACA KLEER LAC FUERTE SACHET X 120 PAGUE 1 LLEVE 2",
+    "nombre_imagen": "./web_scraping/data/img/LACA_KLEER_LAC_FUERTE_SACHET_X_120_PAGUE_1_LLEVE_2.jpg",
+    "presentacion": "SACHET  X 120 X ML",
+    "precio": {
+        "bestPrice": "$9.600",
+        "precioPorSku js-PUM": "Mililitro a $80,00"
+    },
+    "descripcion": "laca kleer lac fuerte sachet x 120 pague 1 lleve 2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SACHET  X 120 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC09041-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

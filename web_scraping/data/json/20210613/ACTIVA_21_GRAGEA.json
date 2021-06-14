@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/activa-21-gragea-7707274721053/p",
+    "fecha_hora_scraping": "2021-06-14 05:46:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACTIVA 21 GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/ACTIVA_21_GRAGEA.jpg",
+    "presentacion": "CAJA X 21 GRG",
+    "precio": {
+        "bestPrice": "$6.850",
+        "precioPorSku js-PUM": "Gragea a $326,19"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 GRG"
+        ],
+        [
+            "Concentracion",
+            "0.15 MG 0.03 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "B C N MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008403"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

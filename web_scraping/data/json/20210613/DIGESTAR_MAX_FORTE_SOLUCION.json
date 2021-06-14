@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/digestar-max-forte-solucion-7707232096483/p",
+    "fecha_hora_scraping": "2021-06-14 09:17:10",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "DIGESTAR MAX FORTE SOLUCION",
+    "nombre_imagen": "./web_scraping/data/img/DIGESTAR_MAX_FORTE_SOLUCION.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$19.300",
+        "precioPorSku js-PUM": "Mililitro a $80,42"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML 60 MG/ML 20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CASCARA SAGRADA BOLDO RUIBARDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-0001850"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

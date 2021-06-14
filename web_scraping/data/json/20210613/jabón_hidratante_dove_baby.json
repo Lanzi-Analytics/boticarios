@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-hidratante-dove-baby-7891150026025/p",
+    "fecha_hora_scraping": "2021-06-14 05:33:41",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "jab\u00f3n hidratante dove baby",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_hidratante_dove_baby.jpg",
+    "presentacion": "EMPAQUE X 75 G",
+    "precio": {
+        "bestPrice": "$2.500",
+        "precioPorSku js-PUM": "Gramo a $33,33"
+    },
+    "descripcion": "dove baby jab hidrat enriq x75g exp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 75 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69882-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

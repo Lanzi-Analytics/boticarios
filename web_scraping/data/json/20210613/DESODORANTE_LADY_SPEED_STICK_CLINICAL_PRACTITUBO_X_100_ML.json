@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-lady-speed-stick-clinical-practitubo-x-100-ml-7509546668673/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:23",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "DESODORANTE LADY SPEED STICK CLINICAL PRACTITUBO X 100 ML",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_LADY_SPEED_STICK_CLINICAL_PRACTITUBO_X_100_ML.jpg",
+    "presentacion": "TUBO X 100ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $103,00"
+    },
+    "descripcion": "DESODORANTE LADY SPEED STICK CLINICAL PRACTITUBO X 100 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72637-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

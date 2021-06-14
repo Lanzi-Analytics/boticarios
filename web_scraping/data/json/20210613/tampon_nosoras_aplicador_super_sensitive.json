@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampon-nosoras-aplicador-super-sensitive-7702026181079/p",
+    "fecha_hora_scraping": "2021-06-13 23:32:23",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "tampon nosoras aplicador super sensitive",
+    "nombre_imagen": "./web_scraping/data/img/tampon_nosoras_aplicador_super_sensitive.jpg",
+    "presentacion": "CAJA X 8 UN",
+    "precio": {
+        "bestPrice": "$14.100",
+        "precioPorSku js-PUM": "Unidad a $1.762,50"
+    },
+    "descripcion": "tampon nosoras aplicador super sensitive",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07675-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

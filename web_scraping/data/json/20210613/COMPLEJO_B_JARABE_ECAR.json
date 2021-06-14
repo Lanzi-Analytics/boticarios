@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/complejo-b-jarabe-ecar-7702184020098/p",
+    "fecha_hora_scraping": "2021-06-14 06:39:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COMPLEJO B JARABE ECAR",
+    "nombre_imagen": "./web_scraping/data/img/COMPLEJO_B_JARABE_ECAR.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Mililitro a $80,42"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "4 MG/ML 2 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "NICOTINAMIDA PIRIDOXINA CLORHIDRATO TIAMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-002114-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

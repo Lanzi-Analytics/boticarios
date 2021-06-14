@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/thermal-spring-water-3433422404397/p",
+    "fecha_hora_scraping": "2021-06-14 01:56:42",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "LA ROCHE POSAY AGUA TERMAL",
+    "nombre_imagen": "./web_scraping/data/img/LA_ROCHE_POSAY_AGUA_TERMAL.jpg",
+    "presentacion": "LATA X 150 ML",
+    "precio": {
+        "bestPrice": "$56.500",
+        "precioPorSku js-PUM": "Mililitro a $376,67"
+    },
+    "descripcion": "thermal spring water",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44036-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

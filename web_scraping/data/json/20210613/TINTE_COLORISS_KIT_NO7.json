@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113018035tinte-coloriss-kit-no7higiene-y-cuidado-personalcuidado-del-cabellona-7702113018035/p",
+    "fecha_hora_scraping": "2021-06-14 03:16:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TINTE COLORISS KIT NO.7",
+    "nombre_imagen": "./web_scraping/data/img/TINTE_COLORISS_KIT_NO7.jpg",
+    "presentacion": "CAJA  X 50 X G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $209,00"
+    },
+    "descripcion": "tinte coloriss kit no.7",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA  X 50 X G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC23815-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

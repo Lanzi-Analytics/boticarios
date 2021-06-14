@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-micelar-rosas-pomys-x400-ml-7702026186487/p",
+    "fecha_hora_scraping": "2021-06-14 04:30:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "AGUA MICELAR ROSAS POMYS X400 ML",
+    "nombre_imagen": "./web_scraping/data/img/AGUA_MICELAR_ROSAS_POMYS_X400_ML.jpg",
+    "presentacion": "FRASCO X 400ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $61,25"
+    },
+    "descripcion": "AGUA MICELAR ROSAS POMYS X400 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC95838-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

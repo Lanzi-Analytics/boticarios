@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acuanova-soft-emulsion-7707206270215/p",
+    "fecha_hora_scraping": "2021-06-14 06:20:45",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ACUANOVA SOFT EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/ACUANOVA_SOFT_EMULSION.jpg",
+    "presentacion": "FRASCO X 220 G",
+    "precio": {
+        "bestPrice": "$74.400",
+        "precioPorSku js-PUM": "Gramo a $338,18"
+    },
+    "descripcion": "acuanova soft emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 220 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC22779-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

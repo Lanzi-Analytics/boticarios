@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retiderm-contorno-ojos-7707222420236/p",
+    "fecha_hora_scraping": "2021-06-14 03:58:26",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RETIDERM CONTORNO OJOS",
+    "nombre_imagen": "./web_scraping/data/img/RETIDERM_CONTORNO_OJOS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$93.100",
+        "precioPorSku js-PUM": "Mililitro a $3.103,33"
+    },
+    "descripcion": "retiderm contorno ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC10411-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

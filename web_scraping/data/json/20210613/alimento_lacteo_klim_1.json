@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alimento-lacteo-klim-1-7702024025733/p",
+    "fecha_hora_scraping": "2021-06-14 07:25:49",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "alimento lacteo klim 1+",
+    "nombre_imagen": "./web_scraping/data/img/alimento_lacteo_klim_1.jpg",
+    "presentacion": "BOLSA X 500 G",
+    "precio": {
+        "bestPrice": "$15.550",
+        "precioPorSku js-PUM": "Gramo a $31,10"
+    },
+    "descripcion": "alimento lacteo klim 1+ bolsa 500g.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 500 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAV02I15102"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

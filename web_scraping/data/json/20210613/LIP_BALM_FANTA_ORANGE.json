@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lip-balm-fanta-orange-50051275131/p",
+    "fecha_hora_scraping": "2021-06-14 05:34:49",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "LIP BALM FANTA ORANGE",
+    "nombre_imagen": "./web_scraping/data/img/LIP_BALM_FANTA_ORANGE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$15.100",
+        "precioPorSku js-PUM": "Gramo a $3.775,00"
+    },
+    "descripcion": "lip balm fanta orange",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARBELCOR SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90131-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

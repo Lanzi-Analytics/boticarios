@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/activador-diario-esencia-floral-sensuality-7709843315625/p",
+    "fecha_hora_scraping": "2021-06-14 02:30:08",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ACTIVADOR DIARIO ESENCIA FLORAL SENSUALITY",
+    "nombre_imagen": "./web_scraping/data/img/ACTIVADOR_DIARIO_ESENCIA_FLORAL_SENSUALITY.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$11.000",
+        "precioPorSku js-PUM": "Mililitro a $2.200,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico.  no exceder su consumo leer.  indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODIME NATU BIOENERG SIU TUTUAVA I"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

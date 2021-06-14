@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-oral-b-superfloss-7800005064020/p",
+    "fecha_hora_scraping": "2021-06-14 05:02:54",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "hilo dental oral-b super floss",
+    "nombre_imagen": "./web_scraping/data/img/hilo_dental_oralb_super_floss.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "bestPrice": "$15.200",
+        "precioPorSku js-PUM": "Unidad a $15.200,00"
+    },
+    "descripcion": "seda dental oral-b superfloss",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

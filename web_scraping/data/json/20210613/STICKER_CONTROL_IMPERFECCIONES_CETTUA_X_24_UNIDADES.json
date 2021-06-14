@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sticker-control-de-imperfecciones-8809033594270/p",
+    "fecha_hora_scraping": "2021-06-14 00:15:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "STICKER CONTROL IMPERFECCIONES CETTUA X 24 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/STICKER_CONTROL_IMPERFECCIONES_CETTUA_X_24_UNIDADES.jpg",
+    "presentacion": "EMPAQUE X 24 UN",
+    "precio": {
+        "bestPrice": "$8.400",
+        "precioPorSku js-PUM": "Unidad a $350,00"
+    },
+    "descripcion": "STICKER CONTROL IMPERFECCIONES CETTUA X 24 UNIDADES",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 24 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COBICO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76729-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

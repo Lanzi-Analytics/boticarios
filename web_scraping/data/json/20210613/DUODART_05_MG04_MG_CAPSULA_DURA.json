@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/duodart-05-mg04-mg-capsula-dura-7707172689684/p",
+    "fecha_hora_scraping": "2021-06-14 02:52:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DUODART 0.5 MG/0.4 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/DUODART_05_MG04_MG_CAPSULA_DURA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$124.650",
+        "precioPorSku js-PUM": "Tableta a $4.155,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG 0,4 MG"
+        ],
+        [
+            "Principio activo",
+            "DUTASTERIDE TAMSULOSINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011533-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

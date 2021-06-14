@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bonaven-avena-barra-limpiadora-7703333007601/p",
+    "fecha_hora_scraping": "2021-06-14 00:08:28",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "BONAVEN AVENA BARRA LIMPIADORA",
+    "nombre_imagen": "./web_scraping/data/img/BONAVEN_AVENA_BARRA_LIMPIADORA.jpg",
+    "presentacion": "BARRA X 120 G",
+    "precio": {
+        "bestPrice": "$47.450",
+        "precioPorSku js-PUM": "Gramo a $395,42"
+    },
+    "descripcion": "bonaven avena barra limpiadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC7759-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/algimide-f-325-mg30-mg-tableta-7707355053721/p",
+    "fecha_hora_scraping": "2021-06-14 00:38:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALGIMIDE F 325 MG/30 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ALGIMIDE_F_325_MG30_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$66.700",
+        "precioPorSku js-PUM": "Tableta a $2.223,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 30 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN CODEINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-007352-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

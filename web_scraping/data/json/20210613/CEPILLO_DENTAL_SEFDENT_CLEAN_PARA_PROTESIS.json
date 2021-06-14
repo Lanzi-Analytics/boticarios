@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-sefdent-clean-para-protesis-8901117192829/p",
+    "fecha_hora_scraping": "2021-06-14 01:15:54",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CEPILLO DENTAL SEFDENT CLEAN PARA PROTESIS",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_SEFDENT_CLEAN_PARA_PROTESIS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$18.250",
+        "precioPorSku js-PUM": "Unidad a $18.250,00"
+    },
+    "descripcion": "cepillo dental sefdent clean para protes",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AVALON PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

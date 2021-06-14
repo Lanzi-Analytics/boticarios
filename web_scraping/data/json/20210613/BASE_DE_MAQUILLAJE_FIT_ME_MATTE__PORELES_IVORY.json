@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-de-maquillaje-fit-me-matte--poreles-ivory-41554433432/p",
+    "fecha_hora_scraping": "2021-06-14 00:47:49",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE DE MAQUILLAJE FIT ME MATTE & PORELES IVORY",
+    "nombre_imagen": "./web_scraping/data/img/BASE_DE_MAQUILLAJE_FIT_ME_MATTE__PORELES_IVORY.jpg",
+    "presentacion": "UNIDAD X 30 ML",
+    "precio": {
+        "bestPrice": "$34.100",
+        "precioPorSku js-PUM": "Mililitro a $1.136,67"
+    },
+    "descripcion": "base de maquillaje fit me matte & poreles ivory",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72667-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biore-bandas-limpieza-profunda-con-carbon-natural-19100219205/p",
+    "fecha_hora_scraping": "2021-06-14 02:48:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "BIORE BANDAS LIMPIEZA PROFUNDA CON CARB\u00d3N NATURAL",
+    "nombre_imagen": "./web_scraping/data/img/BIORE_BANDAS_LIMPIEZA_PROFUNDA_CON_CARB\u00d3N_NATURAL.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$24.950",
+        "precioPorSku js-PUM": "Unidad a $4.158,33"
+    },
+    "descripcion": "biore bandas limpieza profunda con carb\u00f3n natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83489-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

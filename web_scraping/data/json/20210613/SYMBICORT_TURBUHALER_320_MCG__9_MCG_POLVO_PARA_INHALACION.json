@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/symbicort-turbuhaler-320-mcg--9-mcg-polvo-para-inhalacion-7321831612198/p",
+    "fecha_hora_scraping": "2021-06-14 00:47:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYMBICORT TURBUHALER 320 MCG / 9 MCG POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/SYMBICORT_TURBUHALER_320_MCG__9_MCG_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$102.400",
+        "precioPorSku js-PUM": "Unidad a $102.400,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "320 \u00b5G/D 9 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "BUDESONIDA FORMOTEROL FUMARATO"
+        ],
+        [
+            "Laboratorio",
+            "ASTRAZENECA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003505-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

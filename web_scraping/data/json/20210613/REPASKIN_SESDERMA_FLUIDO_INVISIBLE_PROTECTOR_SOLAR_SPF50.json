@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979435026repaskin-sesderma-fluido-invisible-protector-solar-spf50bellezadermocosmetica-8429979435026/p",
+    "fecha_hora_scraping": "2021-06-14 01:12:50",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "REPASKIN SESDERMA FLUIDO INVISIBLE PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/REPASKIN_SESDERMA_FLUIDO_INVISIBLE_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "PrevPrice": "Antes:$106.400",
+        "bestPrice": "$90.440",
+        "precioPorSku js-PUM": "Mililitro a $1.808,80"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91739-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

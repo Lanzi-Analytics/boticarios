@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-crema-corporal-intensiva-ph5-4005800178573/p",
+    "fecha_hora_scraping": "2021-06-14 02:46:45",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN CREMA CORPORAL INTENSIVA PH5",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_CREMA_CORPORAL_INTENSIVA_PH5.jpg",
+    "presentacion": "POTE X 450 ML",
+    "precio": {
+        "bestPrice": "$95.600",
+        "precioPorSku js-PUM": "Mililitro a $212,44"
+    },
+    "descripcion": "eucerin crema corporal intensiva ph5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 450 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MESALAZINA"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80822-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

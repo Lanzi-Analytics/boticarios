@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/energizante-spartan-energy-380ml-7702354947156/p",
+    "fecha_hora_scraping": "2021-06-14 02:46:06",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "ENERGIZANTE SPARTAN ENERGY 380ML",
+    "nombre_imagen": "./web_scraping/data/img/ENERGIZANTE_SPARTAN_ENERGY_380ML.jpg",
+    "presentacion": "BOTELLA X 380 ML",
+    "precio": {
+        "bestPrice": "$2.050",
+        "precioPorSku js-PUM": "Mililitro a $5,39"
+    },
+    "descripcion": "ENERGIZANTE SPARTAN ENERGY 380ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 380 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007381-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

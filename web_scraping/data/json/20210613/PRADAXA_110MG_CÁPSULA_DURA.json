@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pradaxa-110mg-capsula-dura-4048846001498/p",
+    "fecha_hora_scraping": "2021-06-14 00:34:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRADAXA 110MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/PRADAXA_110MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$91.700",
+        "precioPorSku js-PUM": "Capsula a $3.056,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "110 MG"
+        ],
+        [
+            "Principio activo",
+            "DABIGATRAN ETEXILATO MESILATO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008446"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

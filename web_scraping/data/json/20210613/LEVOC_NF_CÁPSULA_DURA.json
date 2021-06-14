@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levoc-nf-capsula-dura-7704039113481/p",
+    "fecha_hora_scraping": "2021-06-14 06:19:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOC NF C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/LEVOC_NF_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$58.650",
+        "precioPorSku js-PUM": "Capsula a $5.865,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "15 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "FENILEFRINA CLORHIDRATO LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LEGRAND SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010497-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-sensodyne-repara-y-protege-blanqueador-7794640170720/p",
+    "fecha_hora_scraping": "2021-06-14 04:52:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "crema dental sensodyne repara y protege blanqueador",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_sensodyne_repara_y_protege_blanqueador.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$25.700",
+        "precioPorSku js-PUM": "Gramo a $257,00"
+    },
+    "descripcion": "crema dental sensodyne repara y protege blanqueador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOCS1526-12C0"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

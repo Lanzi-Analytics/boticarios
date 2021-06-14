@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cono-bocatto-jumbo-7702402053945/p",
+    "fecha_hora_scraping": "2021-06-14 00:11:33",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "CONO BOCATTO JUMBO",
+    "nombre_imagen": "./web_scraping/data/img/CONO_BOCATTO_JUMBO.jpg",
+    "presentacion": "UNIDAD X 85 G",
+    "precio": {
+        "bestPrice": "$3.200",
+        "precioPorSku js-PUM": "Gramo a $37,65"
+    },
+    "descripcion": "cono bocatto jumbo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 85 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I29903"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

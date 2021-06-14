@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/encefabol-200-mg-gragea-7702418003613/p",
+    "fecha_hora_scraping": "2021-06-14 03:54:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ENCEFABOL 200 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/ENCEFABOL_200_MG_GRAGEA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$121.150",
+        "precioPorSku js-PUM": "Tableta a $4.038,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "PIRITINOL DICLORHID HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005163-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

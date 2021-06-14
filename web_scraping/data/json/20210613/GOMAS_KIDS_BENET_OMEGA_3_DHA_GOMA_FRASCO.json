@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gomas-kids-benet-omega-3-dha-goma-frasco-7709087022914/p",
+    "fecha_hora_scraping": "2021-06-13 23:26:07",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GOMAS KIDS BENET OMEGA 3 DHA GOMA FRASCO",
+    "nombre_imagen": "./web_scraping/data/img/GOMAS_KIDS_BENET_OMEGA_3_DHA_GOMA_FRASCO.jpg",
+    "presentacion": "FRASCO X 48 UN",
+    "precio": {
+        "bestPrice": "$27.300",
+        "precioPorSku js-PUM": "Gramo a $227,50"
+    },
+    "descripcion": "gomas kids benet omega 3 dha goma frasco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 48 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007718-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

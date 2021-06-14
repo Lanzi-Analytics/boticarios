@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-lubricado-7702132002671/p",
-    "fecha_hora_scraping": "2021-06-13 19:19:58",
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-lubricado-7702132002688/p",
+    "fecha_hora_scraping": "2021-06-14 06:48:13",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
     "titulo": "CONDON TODAY LUBRICADO",
     "nombre_imagen": "./web_scraping/data/img/CONDON_TODAY_LUBRICADO.jpg",
-    "presentacion": "CAJA X 6 UN",
+    "presentacion": "CAJA X 3 UN",
     "precio": {
-        "bestPrice": "$18.500",
-        "precioPorSku js-PUM": "Unidad a $3.083,33"
+        "bestPrice": "$10.550",
+        "precioPorSku js-PUM": "Unidad a $3.516,67"
     },
     "descripcion": "condon today lubricado",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 6 UN"
+            "CAJA X 3 UN"
         ],
         [
             "Concentracion",

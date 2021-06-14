@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-johnsons-almendra-avena-7702031407423/p",
+    "fecha_hora_scraping": "2021-06-14 09:53:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "OFERTA JAB\u00d3N JOHNSON'S ALMENDRA-AVENA",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_JAB\u00d3N_JOHNSONS_ALMENDRAAVENA.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "bestPrice": "$5.900",
+        "precioPorSku js-PUM": "Gramo a $17,88"
+    },
+    "descripcion": "oferta jab\u00f3n johnson's almendra-avena",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC28697-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

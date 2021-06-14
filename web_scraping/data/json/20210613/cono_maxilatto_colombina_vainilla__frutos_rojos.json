@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cono-maxilatto-colombina-vainilla--frutos-rojos-7702011091659/p",
+    "fecha_hora_scraping": "2021-06-14 09:50:53",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "cono maxilatto colombina vainilla & frutos rojos",
+    "nombre_imagen": "./web_scraping/data/img/cono_maxilatto_colombina_vainilla__frutos_rojos.jpg",
+    "presentacion": "UNIDAD X 88 G",
+    "precio": {
+        "bestPrice": "$3.550",
+        "precioPorSku js-PUM": "Gramo a $40,34"
+    },
+    "descripcion": "cono maxilatto colombina vainilla & frutos rojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 88 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAV02M09593"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

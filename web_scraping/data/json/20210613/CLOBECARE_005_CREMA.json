@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clobecare-005-crema-7709990802351/p",
+    "fecha_hora_scraping": "2021-06-14 10:10:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLOBECARE 0.05% CREMA",
+    "nombre_imagen": "./web_scraping/data/img/CLOBECARE_005_CREMA.jpg",
+    "presentacion": "TARRO X 40 G",
+    "precio": {
+        "bestPrice": "$17.600",
+        "precioPorSku js-PUM": "Gramo a $440,00"
+    },
+    "descripcion": "CLOBECARE 0.05% CREMA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOBETASOL PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0015353-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

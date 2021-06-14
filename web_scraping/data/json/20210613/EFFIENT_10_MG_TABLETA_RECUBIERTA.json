@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/effient-10-mg-tableta-recubierta-7594002622191/p",
+    "fecha_hora_scraping": "2021-06-14 09:00:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EFFIENT 10 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/EFFIENT_10_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$190.300",
+        "precioPorSku js-PUM": "Tableta a $6.796,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "PRASUGREL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010321"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

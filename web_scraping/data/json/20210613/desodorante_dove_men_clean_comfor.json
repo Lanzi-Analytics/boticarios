@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-dove-men-clean-comfor-75031060/p",
+    "fecha_hora_scraping": "2021-06-14 04:46:49",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante dove men clean comfor",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_dove_men_clean_comfor.jpg",
+    "presentacion": "BARRA X 50 ML",
+    "precio": {
+        "bestPrice": "$17.350",
+        "precioPorSku js-PUM": "Gramo a $347,00"
+    },
+    "descripcion": "desod dove men barra 50 g clean comfor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC44576-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

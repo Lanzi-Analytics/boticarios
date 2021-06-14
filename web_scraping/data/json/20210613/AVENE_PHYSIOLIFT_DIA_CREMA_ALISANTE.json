@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-physiolift-dia-crema-alisante-3282770049312/p",
+    "fecha_hora_scraping": "2021-06-14 07:13:27",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE PHYSIOLIFT DIA CREMA ALISANTE",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_PHYSIOLIFT_DIA_CREMA_ALISANTE.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$190.600",
+        "precioPorSku js-PUM": "Mililitro a $6.353,33"
+    },
+    "descripcion": "avene physiolift dia crema alisante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LACTULOSA"
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70466-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

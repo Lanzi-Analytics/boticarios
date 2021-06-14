@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/relestat-05-mg-solucion-oftalmica-7707236670177/p",
+    "fecha_hora_scraping": "2021-06-14 08:52:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RELESTAT 0.5 MG SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/RELESTAT_05_MG_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$108.700",
+        "precioPorSku js-PUM": "Mililitro a $21.740,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "EPINASTINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005908-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

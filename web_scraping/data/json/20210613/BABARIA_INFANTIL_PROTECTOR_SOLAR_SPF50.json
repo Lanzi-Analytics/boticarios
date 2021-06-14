@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-infantil-protector-solar-spf50-8410412000536/p",
+    "fecha_hora_scraping": "2021-06-14 04:47:06",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "BABARIA INFANTIL PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_INFANTIL_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$19.550",
+        "precioPorSku js-PUM": "Mililitro a $97,75"
+    },
+    "descripcion": "babaria infantil protector solar spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC48904-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

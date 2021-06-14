@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-reutilizable-eurocare-7709832806073/p",
+    "fecha_hora_scraping": "2021-06-14 08:01:19",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "tapabocas reutilizable eurocare",
+    "nombre_imagen": "./web_scraping/data/img/tapabocas_reutilizable_eurocare.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "bestPrice": "$9.600",
+        "precioPorSku js-PUM": "Unidad a $3.200,00"
+    },
+    "descripcion": "tapabocas reutilizable eurocare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EURO VISION SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

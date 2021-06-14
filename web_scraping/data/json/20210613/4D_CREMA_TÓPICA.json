@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/4d-crema-topica-7707208110472/p",
+    "fecha_hora_scraping": "2021-06-14 07:07:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "4D CREMA T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/4D_CREMA_T\u00d3PICA.jpg",
+    "presentacion": "TUBO X 3 G",
+    "precio": {
+        "bestPrice": "$101.750",
+        "precioPorSku js-PUM": "Gramo a $33.916,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3 G"
+        ],
+        [
+            "Concentracion",
+            "40 MG/G 1 MG/G 0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "HIDROQUINONA MOMETASONA FUORATO RETINOICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011455-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fybofort-psyllium-fibra-polvo-7707232094212/p",
+    "fecha_hora_scraping": "2021-06-13 23:38:48",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "FYBOFORT PSYLLIUM FIBRA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/FYBOFORT_PSYLLIUM_FIBRA_POLVO.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $129,13"
+    },
+    "descripcion": "fybofort psyllium fibra polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "PSYLLIUM POLVO"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000122-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

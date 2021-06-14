@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-platillo-arequipe-7702402054263/p",
+    "fecha_hora_scraping": "2021-06-14 03:21:05",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado platillo arequipe",
+    "nombre_imagen": "./web_scraping/data/img/helado_platillo_arequipe.jpg",
+    "presentacion": "UNIDAD X 65 G",
+    "precio": {
+        "bestPrice": "$1.600",
+        "precioPorSku js-PUM": "Gramo a $24,62"
+    },
+    "descripcion": "helado platillo arequipe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 65 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I31804"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

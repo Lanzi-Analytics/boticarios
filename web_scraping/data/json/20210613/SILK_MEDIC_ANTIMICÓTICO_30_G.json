@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/silk-medic-1--gel-topico-650240030581/p",
+    "fecha_hora_scraping": "2021-06-14 03:28:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SILK MEDIC ANTIMIC\u00d3TICO 30 G",
+    "nombre_imagen": "./web_scraping/data/img/SILK_MEDIC_ANTIMIC\u00d3TICO_30_G.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$21.650",
+        "precioPorSku js-PUM": "Gramo a $721,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0015186-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

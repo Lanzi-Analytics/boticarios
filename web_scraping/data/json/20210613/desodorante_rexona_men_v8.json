@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-rexona-men-v8-7702006914963/p",
+    "fecha_hora_scraping": "2021-06-14 01:34:43",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante rexona men v8",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_rexona_men_v8.jpg",
+    "presentacion": "UN X 50 G",
+    "precio": {
+        "bestPrice": "$28.050",
+        "precioPorSku js-PUM": "Gramo a $280,50"
+    },
+    "descripcion": "desodorante rexona v8 barra antitranspirante x 2 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UN X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2006CO21978"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

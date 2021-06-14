@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidrasec-10mggranulado-para-solucion-oral-8433042001513/p",
+    "fecha_hora_scraping": "2021-06-14 05:15:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIDRASEC 10MG\u00a0GRANULADO PARA SOLUCI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/HIDRASEC_10MGGRANULADO_PARA_SOLUCI\u00d3N_ORAL.jpg",
+    "presentacion": "CAJA X 18SOB",
+    "precio": {
+        "bestPrice": "$57.550",
+        "precioPorSku js-PUM": "Sobre a $3.197,22"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 18SOB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "RACECADOTRILO"
+        ],
+        [
+            "Laboratorio",
+            "BIOTOSCANA FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013880"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

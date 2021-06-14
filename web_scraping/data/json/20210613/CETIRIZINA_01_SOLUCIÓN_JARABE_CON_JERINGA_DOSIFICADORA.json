@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetirizina-01-solucion-jarabe-con-jeringa-dosificadora-7702057712013/p",
+    "fecha_hora_scraping": "2021-06-14 01:45:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CETIRIZINA 0.1% SOLUCI\u00d3N JARABE CON JERINGA DOSIFICADORA",
+    "nombre_imagen": "./web_scraping/data/img/CETIRIZINA_01_SOLUCI\u00d3N_JARABE_CON_JERINGA_DOSIFICADORA.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$22.750",
+        "precioPorSku js-PUM": "Mililitro a $379,17"
+    },
+    "descripcion": "cetirizina 0.1% soluci\u00f3n jarabe con jeringa dosificadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0009052"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

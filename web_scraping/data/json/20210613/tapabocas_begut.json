@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-begut-1000002384114/p",
+    "fecha_hora_scraping": "2021-06-14 09:06:00",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "tapabocas begut",
+    "nombre_imagen": "./web_scraping/data/img/tapabocas_begut.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$350",
+        "precioPorSku js-PUM": "Unidad a $350,00"
+    },
+    "descripcion": "tapabocas begut",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SEVENPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0006551"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

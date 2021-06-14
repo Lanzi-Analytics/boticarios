@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prebb-1010mg-tableta-de-liberacion-retardada-7707350413018/p",
+    "fecha_hora_scraping": "2021-06-14 01:34:25",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PREBB 10/10MG TABLETA DE LIBERACI\u00d3N RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/PREBB_1010MG_TABLETA_DE_LIBERACI\u00d3N_RETARDADA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $1.256,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "DOXILAMINA SUCCINATO PIRIDOXINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "INVERSIONES PLAMATECH LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018435"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

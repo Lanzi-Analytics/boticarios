@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crispeta-caserita-ramo-cheddar-blanco-7702914595155/p",
+    "fecha_hora_scraping": "2021-06-14 08:53:56",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "crispeta caserita ramo cheddar blanco",
+    "nombre_imagen": "./web_scraping/data/img/crispeta_caserita_ramo_cheddar_blanco.jpg",
+    "presentacion": "PAQUETE X 22 G",
+    "precio": {
+        "bestPrice": "$1.600",
+        "precioPorSku js-PUM": "Gramo a $72,73"
+    },
+    "descripcion": "crispeta caserita ramo cheddar blanco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 22 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS RAMO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAV13I19313"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

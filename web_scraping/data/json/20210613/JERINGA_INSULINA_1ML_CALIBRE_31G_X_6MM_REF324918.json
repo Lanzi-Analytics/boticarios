@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-insulina-1ml-calibre-31g-x-6mm-ref324918-382904918019/p",
+    "fecha_hora_scraping": "2021-06-14 08:23:50",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA INSULINA 1ML CALIBRE 31G X 6MM REF324918",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_INSULINA_1ML_CALIBRE_31G_X_6MM_REF324918.jpg",
+    "presentacion": "BOLSA X 10 UN",
+    "precio": {
+        "bestPrice": "$4.100",
+        "precioPorSku js-PUM": "Unidad a $410,00"
+    },
+    "descripcion": "jeringa insulina 1ml calibre 31g x 6mm r",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS PARA LA SALUD"
+        ],
+        [
+            "Laboratorio",
+            "BECTON DICKINSON DE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0001046-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

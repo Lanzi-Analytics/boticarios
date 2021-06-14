@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/equilid-200-mg-tableta-7706263006171/p",
+    "fecha_hora_scraping": "2021-06-14 03:22:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EQUILID 200 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/EQUILID_200_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$101.350",
+        "precioPorSku js-PUM": "Tableta a $5.067,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "SULPIRIDA"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-005818-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

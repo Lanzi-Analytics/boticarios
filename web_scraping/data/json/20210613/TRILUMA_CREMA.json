@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tri-luma-crema-3499320002448/p",
+    "fecha_hora_scraping": "2021-06-14 09:19:10",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "TRI-LUMA CREMA",
+    "nombre_imagen": "./web_scraping/data/img/TRILUMA_CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$152.950",
+        "precioPorSku js-PUM": "Gramo a $10.196,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "40 MG/G 500 \u00b5G/G 100 \u00b5G/G"
+        ],
+        [
+            "Principio activo",
+            "HIDROQUINONA TRETINOINA FLUOCINOLONA ACETONIDA"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0001905-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

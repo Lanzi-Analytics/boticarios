@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/keflex-250-mg5-ml-suspension-oral-7592229002680/p",
+    "fecha_hora_scraping": "2021-06-14 00:46:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KEFLEX 250 MG/5 ML SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/KEFLEX_250_MG5_ML_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$84.850",
+        "precioPorSku js-PUM": "Mililitro a $848,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CEFALEXINA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-004453-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

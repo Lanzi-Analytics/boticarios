@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/imigran-fdt-50-mg-tableta-recubierta-5900008027519/p",
+    "fecha_hora_scraping": "2021-06-14 07:20:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IMIGRAN FDT 50 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/IMIGRAN_FDT_50_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$66.400",
+        "precioPorSku js-PUM": "Tableta a $33.200,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "SUMATRIPTAN SUCCINATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003999-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

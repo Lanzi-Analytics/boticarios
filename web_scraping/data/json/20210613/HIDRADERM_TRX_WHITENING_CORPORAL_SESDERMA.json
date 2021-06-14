@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979437488hidraderm-trx-whitening-corporal-sesdermabellezadermocosmetica-8429979437488/p",
+    "fecha_hora_scraping": "2021-06-14 06:08:53",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "HIDRADERM TRX WHITENING CORPORAL SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/HIDRADERM_TRX_WHITENING_CORPORAL_SESDERMA.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$114.900",
+        "precioPorSku js-PUM": "Mililitro a $287,25"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88487-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ampicilina-1g--sulbactam-05g-polvo-para-solucion-inyectable-vitalis-7709526459806/p",
+    "fecha_hora_scraping": "2021-06-14 09:58:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMPICILINA 1G + SULBACTAM 0.5G POLVO PARA SOLUCI\u00d3N INYECTABLE VITALIS",
+    "nombre_imagen": "./web_scraping/data/img/AMPICILINA_1G__SULBACTAM_05G_POLVO_PARA_SOLUCI\u00d3N_INYECTABLE_VITALIS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$6.400",
+        "precioPorSku js-PUM": "Unidad a $6.400,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "1 G 0,5 G"
+        ],
+        [
+            "Principio activo",
+            "AMPICILINA SODIO SULBACTAM SODIO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2020M-010590-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

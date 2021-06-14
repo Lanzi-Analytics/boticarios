@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lactacid-probiotico-delicata-jabon-7891058018634/p",
+    "fecha_hora_scraping": "2021-06-13 23:28:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "LACTACID PROBIOTICO DELICATA JABON",
+    "nombre_imagen": "./web_scraping/data/img/LACTACID_PROBIOTICO_DELICATA_JABON.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$26.200",
+        "precioPorSku js-PUM": "Mililitro a $131,00"
+    },
+    "descripcion": "lactacid probiotico delicata jabon",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01016-13EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

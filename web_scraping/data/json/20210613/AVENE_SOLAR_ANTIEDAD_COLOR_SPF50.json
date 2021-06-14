@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/3282770203165avene-solar-antiedad-color-spf50bellezadermocosmeticapercos-3282770203165/p",
+    "fecha_hora_scraping": "2021-06-14 00:46:27",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE SOLAR ANTIEDAD COLOR SPF50",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_SOLAR_ANTIEDAD_COLOR_SPF50.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$109.600",
+        "precioPorSku js-PUM": "Mililitro a $2.192,00"
+    },
+    "descripcion": "avene solar antiedad color spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98269-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

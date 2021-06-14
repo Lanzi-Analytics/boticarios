@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/champu-mustela-mousse-recien-nacido-3504105028589/p",
+    "fecha_hora_scraping": "2021-06-14 08:48:55",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CHAMPU MUSTELA MOUSSE RECIEN NACIDO",
+    "nombre_imagen": "./web_scraping/data/img/CHAMPU_MUSTELA_MOUSSE_RECIEN_NACIDO.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $387,00"
+    },
+    "descripcion": "champu mustela mousse recien nacido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55528-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-loreal-paris-true-match-super-blendable-c5-classic-beige-71249033579/p",
+    "fecha_hora_scraping": "2021-06-14 03:35:54",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO L'OR\u00c9AL PARIS TRUE MATCH SUPER BLENDABLE C5 CLASSIC BEIGE",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_LOR\u00c9AL_PARIS_TRUE_MATCH_SUPER_BLENDABLE_C5_CLASSIC_BEIGE.jpg",
+    "presentacion": "UNIDAD X 9.5 G",
+    "precio": {
+        "bestPrice": "$52.050",
+        "precioPorSku js-PUM": "Gramo a $5.478,95"
+    },
+    "descripcion": "polvo l'or\u00e9al paris true match super blendable c5 classic beige",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9.5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC27578-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

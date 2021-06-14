@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-papas-margarita-natural-7702189053787/p",
+    "fecha_hora_scraping": "2021-06-14 08:47:40",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas papas margarita natural",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_papas_margarita_natural.jpg",
+    "presentacion": "PAQUETE X 105 G",
+    "precio": {
+        "bestPrice": "$3.650",
+        "precioPorSku js-PUM": "Gramo a $34,76"
+    },
+    "descripcion": "pasabocas papas margarita natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 105 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD08I29702"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

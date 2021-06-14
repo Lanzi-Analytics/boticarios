@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/efal-limpiador-liquido-facial-ph6-7707355050737/p",
+    "fecha_hora_scraping": "2021-06-14 04:39:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "EFAL LIMPIADOR LIQUIDO FACIAL PH6",
+    "nombre_imagen": "./web_scraping/data/img/EFAL_LIMPIADOR_LIQUIDO_FACIAL_PH6.jpg",
+    "presentacion": "FRASCO X 270 G",
+    "precio": {
+        "bestPrice": "$79.750",
+        "precioPorSku js-PUM": "Gramo a $295,37"
+    },
+    "descripcion": "efal limpiador liquido facial ph6",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 270 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13277-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

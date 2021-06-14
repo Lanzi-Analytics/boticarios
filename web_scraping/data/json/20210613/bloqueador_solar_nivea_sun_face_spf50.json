@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bloqueador-solar-nivea-sun-face-spf50-4005808239603/p",
+    "fecha_hora_scraping": "2021-06-14 09:11:38",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "bloqueador solar nivea sun face spf50+",
+    "nombre_imagen": "./web_scraping/data/img/bloqueador_solar_nivea_sun_face_spf50.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$24.150",
+        "precioPorSku js-PUM": "Mililitro a $483,00"
+    },
+    "descripcion": "bloquead nivea sun 50 ml face feel fps",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC65014-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

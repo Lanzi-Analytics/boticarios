@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-content-ultra-paquete-x-100-7701021117441/p",
+    "fecha_hora_scraping": "2021-06-14 05:26:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "TOALLITAS CONTENT ULTRA PAQUETE X 100",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_CONTENT_ULTRA_PAQUETE_X_100.jpg",
+    "presentacion": "PAQUETE X 100UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $145,00"
+    },
+    "descripcion": "TOALLITAS CONTENT ULTRA PAQUETE X 100",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 100UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97831-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

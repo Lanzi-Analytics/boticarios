@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-tena-mujer-maxi-7702027470424/p",
+    "fecha_hora_scraping": "2021-06-14 04:00:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "TOALLA HIGI\u00c9NICA TENA DISCREET MAXI 10 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/TOALLA_HIGI\u00c9NICA_TENA_DISCREET_MAXI_10_UNIDADES.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$11.600",
+        "precioPorSku js-PUM": "Unidad a $1.160,00"
+    },
+    "descripcion": "TOALLA HIGI\u00c9NICA TENA DISCREET MAXI",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

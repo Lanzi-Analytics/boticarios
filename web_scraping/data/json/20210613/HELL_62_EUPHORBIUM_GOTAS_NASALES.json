@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hell-62-euphorbium-gotas-nasales-7707336720628/p",
+    "fecha_hora_scraping": "2021-06-14 00:04:56",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "HELL 62 EUPHORBIUM GOTAS NASALES",
+    "nombre_imagen": "./web_scraping/data/img/HELL_62_EUPHORBIUM_GOTAS_NASALES.jpg",
+    "presentacion": "FRASCO X 20ML",
+    "precio": {
+        "bestPrice": "$78.900",
+        "precioPorSku js-PUM": "Mililitro a $3.945,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2019-0000784-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

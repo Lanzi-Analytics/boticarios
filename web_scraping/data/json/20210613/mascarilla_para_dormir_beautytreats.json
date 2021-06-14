@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mascarilla-para-dormir-beautytreats-8429979449535/p",
+    "fecha_hora_scraping": "2021-06-14 05:51:13",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "mascarilla para dormir beautytreats",
+    "nombre_imagen": "./web_scraping/data/img/mascarilla_para_dormir_beautytreats.jpg",
+    "presentacion": "SOBRE X 1 UN",
+    "precio": {
+        "bestPrice": "$26.650",
+        "precioPorSku js-PUM": "Unidad a $26.650,00"
+    },
+    "descripcion": "mascarilla para dormir beautytreats",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94538-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neutrogena-gel-facial-hydro-boost-spf25-7891010887742/p",
+    "fecha_hora_scraping": "2021-06-14 10:14:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEUTROGENA GEL FACIAL HYDRO BOOST SPF25",
+    "nombre_imagen": "./web_scraping/data/img/NEUTROGENA_GEL_FACIAL_HYDRO_BOOST_SPF25.jpg",
+    "presentacion": "TUBO X 55 G",
+    "precio": {
+        "bestPrice": "$43.800",
+        "precioPorSku js-PUM": "Gramo a $796,36"
+    },
+    "descripcion": "neutrogena gel facial hydro boost spf25",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 55 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76657-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

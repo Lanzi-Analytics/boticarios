@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-ensure-advance-850g-vainilla-gratis3-botellas-x237-vainilla-7703186032904/p",
+    "fecha_hora_scraping": "2021-06-14 04:52:29",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA ENSURE ADVANCE 850G VAINILLA GRATIS:3 BOTELLAS X237 VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ENSURE_ADVANCE_850G_VAINILLA_GRATIS3_BOTELLAS_X237_VAINILLA.jpg",
+    "presentacion": "TARRO X 850 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $113,18"
+    },
+    "descripcion": "oferta ensure advance 850g vainilla gratis:3 botellas x237 vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 850 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004359-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

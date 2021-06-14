@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arcolane-2--shampoo-7798007730534/p",
+    "fecha_hora_scraping": "2021-06-14 00:30:55",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ARCOLANE 2 % SHAMPOO",
+    "nombre_imagen": "./web_scraping/data/img/ARCOLANE_2__SHAMPOO.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$83.950",
+        "precioPorSku js-PUM": "Mililitro a $839,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "KETOCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-011825-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

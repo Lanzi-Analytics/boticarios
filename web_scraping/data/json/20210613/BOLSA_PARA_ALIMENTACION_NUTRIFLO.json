@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bolsa-para-alimentacion-nutriflo-7707141301494/p",
+    "fecha_hora_scraping": "2021-06-14 04:24:34",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BOLSA PARA ALIMENTACION NUTRIFLO",
+    "nombre_imagen": "./web_scraping/data/img/BOLSA_PARA_ALIMENTACION_NUTRIFLO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$24.270",
+        "precioPorSku js-PUM": "Mililitro a $16,18"
+    },
+    "descripcion": "bolsa para alimentacion nutriflo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAXTER SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0000795-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

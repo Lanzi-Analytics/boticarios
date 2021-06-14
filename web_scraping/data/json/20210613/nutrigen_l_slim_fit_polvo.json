@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrigen-l-slim-fit-polvo-7709969236941/p",
+    "fecha_hora_scraping": "2021-06-14 09:10:54",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "nutrigen l slim fit polvo",
+    "nombre_imagen": "./web_scraping/data/img/nutrigen_l_slim_fit_polvo.jpg",
+    "presentacion": "FRASCO X 700 G",
+    "precio": {
+        "bestPrice": "$40.000",
+        "precioPorSku js-PUM": "Gramo a $57,14"
+    },
+    "descripcion": "nutrigen l slim fit polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 700 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NATURLAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD05I26115"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

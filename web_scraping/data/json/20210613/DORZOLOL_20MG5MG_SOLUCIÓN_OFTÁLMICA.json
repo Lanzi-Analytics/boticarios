@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dorzolol-20mg5mg-solucion-oftalmica-7702057077310/p",
+    "fecha_hora_scraping": "2021-06-14 02:21:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DORZOLOL 20MG/5MG SOLUCI\u00d3N OFT\u00c1LMICA",
+    "nombre_imagen": "./web_scraping/data/img/DORZOLOL_20MG5MG_SOLUCI\u00d3N_OFT\u00c1LMICA.jpg",
+    "presentacion": "FRASCO X 5ML",
+    "precio": {
+        "bestPrice": "$99.350",
+        "precioPorSku js-PUM": "Mililitro a $19.870,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML 5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DORZOLAMIDA CLORHIDRATO TIMOLOL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008331"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/complex-zinc-f-capsula-7709990514995/p",
+    "fecha_hora_scraping": "2021-06-14 01:34:02",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "complex zinc-f capsula",
+    "nombre_imagen": "./web_scraping/data/img/complex_zincf_capsula.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $876,67"
+    },
+    "descripcion": "complex zinc-f capsula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "GLOBAL MARKET ALLIANCE SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0001956"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

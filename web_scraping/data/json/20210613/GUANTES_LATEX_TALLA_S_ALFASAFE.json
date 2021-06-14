@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-latex-talla-s-alfasafe-7707228369140/p",
+    "fecha_hora_scraping": "2021-06-14 07:47:07",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES LATEX TALLA S ALFASAFE",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_LATEX_TALLA_S_ALFASAFE.jpg",
+    "presentacion": "CAJA X 24 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $564,58"
+    },
+    "descripcion": "guantes latex talla s alfasafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 24 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0002025-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

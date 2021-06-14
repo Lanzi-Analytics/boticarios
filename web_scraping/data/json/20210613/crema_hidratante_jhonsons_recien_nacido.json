@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-hidratante-jhonsons-recien-nacido-7702031338772/p",
+    "fecha_hora_scraping": "2021-06-14 09:37:08",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "crema hidratante jhonson's recien nacido",
+    "nombre_imagen": "./web_scraping/data/img/crema_hidratante_jhonsons_recien_nacido.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$11.950",
+        "precioPorSku js-PUM": "Mililitro a $59,75"
+    },
+    "descripcion": "jbaby gel crema hid recien nacidox200m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA01396-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

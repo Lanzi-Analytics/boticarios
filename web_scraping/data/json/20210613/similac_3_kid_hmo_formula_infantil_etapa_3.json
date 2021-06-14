@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/similac-3-kid-hmo-formula-infantil-etapa-3-5099864011210/p",
+    "fecha_hora_scraping": "2021-06-13 23:14:48",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "similac 3 kid hmo formula infantil etapa 3",
+    "nombre_imagen": "./web_scraping/data/img/similac_3_kid_hmo_formula_infantil_etapa_3.jpg",
+    "presentacion": "LATA X 1800 G",
+    "precio": {
+        "bestPrice": "$104.050",
+        "precioPorSku js-PUM": "Gramo a $57,81"
+    },
+    "descripcion": "similac 3 kid hmo formula infantil etapa 3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 1800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002860-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

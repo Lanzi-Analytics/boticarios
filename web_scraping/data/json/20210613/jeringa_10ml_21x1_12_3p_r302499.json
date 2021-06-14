@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-10ml-21x1-12-3p-r302499-7501073024991/p",
+    "fecha_hora_scraping": "2021-06-14 06:17:21",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "jeringa 10ml 21x1 1/2 3p r302499",
+    "nombre_imagen": "./web_scraping/data/img/jeringa_10ml_21x1_12_3p_r302499.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$553",
+        "precioPorSku js-PUM": "Unidad a $553,00"
+    },
+    "descripcion": "jeringa 10ml con aguja 21g x 1 1/2 pulga",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO DIETILAMINA"
+        ],
+        [
+            "Laboratorio",
+            "BECTON DICKINSON DE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003325-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/exfoliante-facial-con-azucar-y-albaricoque-beautytreat-8429979449511/p",
+    "fecha_hora_scraping": "2021-06-14 10:30:19",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "exfoliante facial con azucar y albaricoque beautytreat",
+    "nombre_imagen": "./web_scraping/data/img/exfoliante_facial_con_azucar_y_albaricoque_beautytreat.jpg",
+    "presentacion": "SOBRE X 1 UN",
+    "precio": {
+        "bestPrice": "$26.650",
+        "precioPorSku js-PUM": "Unidad a $26.650,00"
+    },
+    "descripcion": "exfoliante facial con azucar y albaricoque beautytreat",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94533-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

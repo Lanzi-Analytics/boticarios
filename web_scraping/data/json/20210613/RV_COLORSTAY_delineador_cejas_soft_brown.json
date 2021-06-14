@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-delineador-cejas-soft-brown-309977643020/p",
+    "fecha_hora_scraping": "2021-06-14 01:04:14",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV COLORSTAY delineador cejas soft brown",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_delineador_cejas_soft_brown.jpg",
+    "presentacion": "LAPIZ X 0.3 G",
+    "precio": {
+        "bestPrice": "$42.050",
+        "precioPorSku js-PUM": "Gramo a $120.142,86"
+    },
+    "descripcion": "rv colorstay delineador cejas soft brown",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 0.3 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76756-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

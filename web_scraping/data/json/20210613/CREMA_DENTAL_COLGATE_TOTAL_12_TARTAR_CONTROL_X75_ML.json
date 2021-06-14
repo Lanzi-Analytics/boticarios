@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-total-12-tartar-control-x75-ml-7509546653532/p",
+    "fecha_hora_scraping": "2021-06-14 02:53:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE TOTAL 12 TARTAR CONTROL X75 ML",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_TOTAL_12_TARTAR_CONTROL_X75_ML.jpg",
+    "presentacion": "UNIDAD X75ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $132,00"
+    },
+    "descripcion": "CREMA DENTAL COLGATE TOTAL 12 TARTAR CONTROL X75 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X75ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97690-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

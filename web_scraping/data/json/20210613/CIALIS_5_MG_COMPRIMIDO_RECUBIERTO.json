@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cialis-5-mg-comprimido-recubierto-7756597000024/p",
+    "fecha_hora_scraping": "2021-06-14 09:22:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CIALIS 5 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/CIALIS_5_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$270.200",
+        "precioPorSku js-PUM": "Tableta a $9.650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "TADALAFILO"
+        ],
+        [
+            "Laboratorio",
+            "ELI LILLY INTERAMERICANA INC"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0010165"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

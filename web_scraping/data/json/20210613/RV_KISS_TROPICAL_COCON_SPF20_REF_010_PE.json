@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-kiss-tropical-cocon-spf20-ref-010-pe-309971879104/p",
+    "fecha_hora_scraping": "2021-06-14 02:47:07",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV KISS TROPICAL COCON SPF20 REF 010 PE",
+    "nombre_imagen": "./web_scraping/data/img/RV_KISS_TROPICAL_COCON_SPF20_REF_010_PE.jpg",
+    "presentacion": "TUBO X 3G",
+    "precio": {
+        "bestPrice": "$10.700",
+        "precioPorSku js-PUM": "Gramo a $4.115,38"
+    },
+    "descripcion": "balsamo labial revlon kiss coconut ref01",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76757-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

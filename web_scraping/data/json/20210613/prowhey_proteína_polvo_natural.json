@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prowhey-proteina-polvo-natural-7709745585171/p",
+    "fecha_hora_scraping": "2021-06-13 23:18:18",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "prowhey prote\u00edna polvo natural",
+    "nombre_imagen": "./web_scraping/data/img/prowhey_prote\u00edna_polvo_natural.jpg",
+    "presentacion": "LATA X 275 G",
+    "precio": {
+        "bestPrice": "$87.200",
+        "precioPorSku js-PUM": "Gramo a $317,09"
+    },
+    "descripcion": "prowhey prote\u00edna polvo natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 275 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD19I41212"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

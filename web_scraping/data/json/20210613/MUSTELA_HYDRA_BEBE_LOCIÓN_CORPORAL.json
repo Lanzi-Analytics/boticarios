@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mustela-hydra-bebe-locion-corporal-3504105028510/p",
+    "fecha_hora_scraping": "2021-06-14 09:25:09",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "MUSTELA HYDRA BEBE LOCI\u00d3N CORPORAL",
+    "nombre_imagen": "./web_scraping/data/img/MUSTELA_HYDRA_BEBE_LOCI\u00d3N_CORPORAL.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $236,00"
+    },
+    "descripcion": "mustela hydra bebe loci\u00f3n corporal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC74237-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

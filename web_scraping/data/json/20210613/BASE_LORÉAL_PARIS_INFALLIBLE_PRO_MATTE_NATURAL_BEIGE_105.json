@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-loreal-paris-infallible-pro-matte-natural-beige-105-71249293041/p",
+    "fecha_hora_scraping": "2021-06-14 00:28:53",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE L'OR\u00c9AL PARIS INFALLIBLE PRO MATTE NATURAL BEIGE 105",
+    "nombre_imagen": "./web_scraping/data/img/BASE_LOR\u00c9AL_PARIS_INFALLIBLE_PRO_MATTE_NATURAL_BEIGE_105.jpg",
+    "presentacion": "UNIDAD X 30 ML",
+    "precio": {
+        "bestPrice": "$67.900",
+        "precioPorSku js-PUM": "Mililitro a $2.263,33"
+    },
+    "descripcion": "base l'or\u00e9al paris infallible pro matte natural beige 105",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68274-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

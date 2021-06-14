@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-vitybell-capsula-blanda-gratis-porta-carteras-7703153037130/p",
+    "fecha_hora_scraping": "2021-06-14 10:24:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA VITYBELL CAPSULA BLANDA GRATIS PORTA CARTERAS",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_VITYBELL_CAPSULA_BLANDA_GRATIS_PORTA_CARTERAS.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $2.823,33"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003154"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

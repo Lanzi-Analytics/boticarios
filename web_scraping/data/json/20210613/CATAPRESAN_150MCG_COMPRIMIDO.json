@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/catapresan-150mcg-comprimido-7703381001149/p",
+    "fecha_hora_scraping": "2021-06-14 02:26:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CATAPRESAN 150MCG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/CATAPRESAN_150MCG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$47.350",
+        "precioPorSku js-PUM": "Tableta a $2.367,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "150 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "CLONIDINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0013703-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

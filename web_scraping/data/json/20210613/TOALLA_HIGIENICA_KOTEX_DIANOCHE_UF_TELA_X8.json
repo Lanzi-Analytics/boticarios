@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toalla-higienica-kotex-dia-noche-uf-tela-x8-7702425807648/p",
+    "fecha_hora_scraping": "2021-06-14 08:39:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "TOALLA HIGIENICA KOTEX DIA-NOCHE UF TELA X8",
+    "nombre_imagen": "./web_scraping/data/img/TOALLA_HIGIENICA_KOTEX_DIANOCHE_UF_TELA_X8.jpg",
+    "presentacion": "PAQUETE  X 8  UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $737,50"
+    },
+    "descripcion": "TOALLA HIGIENICA KOTEX DIA-NOCHE UF TELA X8",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE  X 8  UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

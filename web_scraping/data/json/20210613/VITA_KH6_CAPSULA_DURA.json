@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703234100975biochemvitaminasnutricion-y-vida-saludablevita-kh6-capsula-duramulticomponentes-7703234100975/p",
+    "fecha_hora_scraping": "2021-06-13 23:33:01",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITA KH6 CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/VITA_KH6_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 40 CAP",
+    "precio": {
+        "bestPrice": "$33.100",
+        "precioPorSku js-PUM": "Capsula a $827,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 40 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2008M-011658R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

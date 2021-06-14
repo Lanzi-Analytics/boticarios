@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sibet-25-mcg250-mcg-suspension-para-inhalacion-8904091144730/p",
+    "fecha_hora_scraping": "2021-06-14 02:53:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SIBET 25 MCG/250 MCG SUSPENSION PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/SIBET_25_MCG250_MCG_SUSPENSION_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$90.150",
+        "precioPorSku js-PUM": "Unidad a $90.150,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "250 \u00b5G/D 25 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "FLUTICASONA PROPIONATO SALMETEROL HIDROXINAFTOATO"
+        ],
+        [
+            "Laboratorio",
+            "GLENMARK PHARMACEUTICALS COLOM SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017784"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

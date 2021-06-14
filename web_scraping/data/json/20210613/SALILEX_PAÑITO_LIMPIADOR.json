@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/salilex-panito-limpiador-7703281003939/p",
+    "fecha_hora_scraping": "2021-06-14 01:41:14",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "SALILEX PA\u00d1ITO LIMPIADOR",
+    "nombre_imagen": "./web_scraping/data/img/SALILEX_PA\u00d1ITO_LIMPIADOR.jpg",
+    "presentacion": "POTE X 30 UN",
+    "precio": {
+        "bestPrice": "$54.200",
+        "precioPorSku js-PUM": "Unidad a $1.806,67"
+    },
+    "descripcion": "salilex pa\u00f1ito limpiador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC07736-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

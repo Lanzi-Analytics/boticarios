@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-pequenin-extraproteccion-etapa-3-7707181105953/p",
+    "fecha_hora_scraping": "2021-06-14 08:02:09",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1ALES PEQUE\u00d1IN EXTRAPROTECCI\u00d3N ETAPA 3",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_PEQUE\u00d1IN_EXTRAPROTECCI\u00d3N_ETAPA_3.jpg",
+    "presentacion": "EMPAQUE X 30 UN",
+    "precio": {
+        "bestPrice": "$22.750",
+        "precioPorSku js-PUM": "Unidad a $758,33"
+    },
+    "descripcion": "pa\u00f1al peq\u00f1in extraprote etp 3g 30und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

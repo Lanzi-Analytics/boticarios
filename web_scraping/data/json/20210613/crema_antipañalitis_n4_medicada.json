@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-antipanalitis-n4-medicada-7702057104603/p",
+    "fecha_hora_scraping": "2021-06-14 03:55:42",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "crema antipa\u00f1alitis n.4 medicada",
+    "nombre_imagen": "./web_scraping/data/img/crema_antipa\u00f1alitis_n4_medicada.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$19.200",
+        "precioPorSku js-PUM": "Gramo a $320,00"
+    },
+    "descripcion": "crema antinalitis n.4 medica tubo 60 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-a-crema-antiarrugas-3760019121475/p",
+    "fecha_hora_scraping": "2021-06-14 07:25:54",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN A+ CREMA ANTIARRUGAS",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_A_CREMA_ANTIARRUGAS.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$177.300",
+        "precioPorSku js-PUM": "Mililitro a $3.546,00"
+    },
+    "descripcion": "soskin a+ crema antiarrugas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69494-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

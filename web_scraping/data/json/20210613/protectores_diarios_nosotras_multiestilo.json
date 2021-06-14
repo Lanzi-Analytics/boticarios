@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-diarios-nosotras-multiestilo-7702027444685/p",
+    "fecha_hora_scraping": "2021-06-14 04:31:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores diarios nosotras multiestilo",
+    "nombre_imagen": "./web_scraping/data/img/protectores_diarios_nosotras_multiestilo.jpg",
+    "presentacion": "EMPAQUE X 15 UN",
+    "precio": {
+        "bestPrice": "$2.850",
+        "precioPorSku js-PUM": "Unidad a $190,00"
+    },
+    "descripcion": "protect diario nosotras multiestilo x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 15 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOA01772-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

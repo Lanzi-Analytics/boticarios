@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-toallas-desmaquilladoras-de-agua-micelar-8410412021081/p",
+    "fecha_hora_scraping": "2021-06-14 01:46:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "BABARIA TOALLAS DESMAQUILLADORAS DE AGUA MICELAR",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_TOALLAS_DESMAQUILLADORAS_DE_AGUA_MICELAR.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$11.600",
+        "precioPorSku js-PUM": "Unidad a $580,00"
+    },
+    "descripcion": "babaria toallas desmaquilladoras de agua micelar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75057-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

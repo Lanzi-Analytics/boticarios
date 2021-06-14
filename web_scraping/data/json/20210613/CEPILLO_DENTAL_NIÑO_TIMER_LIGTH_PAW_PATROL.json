@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-nino-timer-ligth-paw-patrol-70942003315/p",
+    "fecha_hora_scraping": "2021-06-13 23:49:38",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL NI\u00d1O TIMER LIGTH PAW PATROL",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_NI\u00d1O_TIMER_LIGTH_PAW_PATROL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$17.000",
+        "precioPorSku js-PUM": "Unidad a $17.000,00"
+    },
+    "descripcion": "cepillo dental ni\u00f1o timer ligth paw patr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

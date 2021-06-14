@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/f-yogurt-finesse-natural-con-cereal-170g-7702001155293/p",
+    "fecha_hora_scraping": "2021-06-14 08:37:41",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "F-YOGURT FINESSE NATURAL CON CEREAL 170G",
+    "nombre_imagen": "./web_scraping/data/img/FYOGURT_FINESSE_NATURAL_CON_CEREAL_170G.jpg",
+    "presentacion": "VASO X 170 GR",
+    "precio": {
+        "bestPrice": "$3.400",
+        "precioPorSku js-PUM": "Gramo a $20,00"
+    },
+    "descripcion": "F-YOGURT FINESSE NATURAL CON CEREAL 170G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "VASO X 170 GR"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALPINA PRODUCTOS ALIMENTICIOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009967-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

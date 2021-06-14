@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ropa-inteior-adulto-plenitud-act-plus-lxl-x16-nuevo-7896007547203/p",
+    "fecha_hora_scraping": "2021-06-14 04:05:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "ROPA INTEIOR ADULTO PLENITUD ACT PLUS L/XL X16 NUEVO",
+    "nombre_imagen": "./web_scraping/data/img/ROPA_INTEIOR_ADULTO_PLENITUD_ACT_PLUS_LXL_X16_NUEVO.jpg",
+    "presentacion": "PAQUETE X 16 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.850,00"
+    },
+    "descripcion": "ROPA INTEIOR ADULTO PLENITUD ACT PLUS L/XL X16 NUEVO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 16 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA03816-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

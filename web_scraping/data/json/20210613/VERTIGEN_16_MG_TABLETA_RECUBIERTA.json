@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vertigen-16-mg-tableta-recubierta-7703153019488/p",
+    "fecha_hora_scraping": "2021-06-14 03:12:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VERTIGEN 16 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/VERTIGEN_16_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$116.450",
+        "precioPorSku js-PUM": "Tableta a $5.545,24"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "16 MG"
+        ],
+        [
+            "Principio activo",
+            "BETAHISTINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0006502-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

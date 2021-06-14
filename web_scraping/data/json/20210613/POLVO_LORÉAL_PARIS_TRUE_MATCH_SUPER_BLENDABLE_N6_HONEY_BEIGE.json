@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-loreal-paris-true-match-super-blendable-n6-honey-beige-71249033197/p",
+    "fecha_hora_scraping": "2021-06-14 01:01:04",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO L'OR\u00c9AL PARIS TRUE MATCH SUPER BLENDABLE N6 HONEY BEIGE",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_LOR\u00c9AL_PARIS_TRUE_MATCH_SUPER_BLENDABLE_N6_HONEY_BEIGE.jpg",
+    "presentacion": "UNIDAD X 9.5 G",
+    "precio": {
+        "bestPrice": "$52.050",
+        "precioPorSku js-PUM": "Gramo a $5.478,95"
+    },
+    "descripcion": "polvo l'or\u00e9al paris true match super blendable n6 honey beige",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9.5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC27578-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

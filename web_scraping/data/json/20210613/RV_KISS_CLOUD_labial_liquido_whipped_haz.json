@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-kiss-cloud-labial-liquido-whipped-haz-309970073022/p",
+    "fecha_hora_scraping": "2021-06-14 08:42:43",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV KISS CLOUD labial liquido whipped haz",
+    "nombre_imagen": "./web_scraping/data/img/RV_KISS_CLOUD_labial_liquido_whipped_haz.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$39.700",
+        "precioPorSku js-PUM": "Mililitro a $7.940,00"
+    },
+    "descripcion": "rv kiss cloud labial liquido whipped haz",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94738-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

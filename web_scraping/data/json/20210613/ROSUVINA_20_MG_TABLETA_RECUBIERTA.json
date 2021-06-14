@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rosuvina-20-mg-tableta-recubierta-7704039127518/p",
+    "fecha_hora_scraping": "2021-06-14 10:35:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROSUVINA 20 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ROSUVINA_20_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$57.750",
+        "precioPorSku js-PUM": "Tableta a $2.062,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ROSUVASTATINA CALCICA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LEGRAND SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013399-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

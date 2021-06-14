@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-tena-slip-ultra-xl-x-21-7702027477713/p",
+    "fecha_hora_scraping": "2021-06-14 02:26:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1AL TENA SLIP ULTRA XL X 21",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_TENA_SLIP_ULTRA_XL_X_21.jpg",
+    "presentacion": "PAQUETE X 1UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $84.900,00"
+    },
+    "descripcion": "PA\u00d1AL TENA SLIP ULTRA XL X 21",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA08382-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

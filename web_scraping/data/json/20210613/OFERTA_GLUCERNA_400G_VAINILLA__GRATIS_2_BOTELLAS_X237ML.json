@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-glucerna-400g-vainilla--gratis-2-botellas-x237ml-7703186032911/p",
+    "fecha_hora_scraping": "2021-06-13 23:20:27",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA GLUCERNA 400G VAINILLA  GRATIS 2 BOTELLAS X237ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_GLUCERNA_400G_VAINILLA__GRATIS_2_BOTELLAS_X237ML.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $119,63"
+    },
+    "descripcion": "oferta glucerna 400g vainilla  gratis 2 botellas x237ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001023-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

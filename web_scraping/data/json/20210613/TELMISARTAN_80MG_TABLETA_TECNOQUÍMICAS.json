@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/telmisartan-80mg-tableta-tecnoquimicas-7702057707040/p",
+    "fecha_hora_scraping": "2021-06-14 00:36:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TELMISARTAN 80MG TABLETA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/TELMISARTAN_80MG_TABLETA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$22.650",
+        "precioPorSku js-PUM": "Tableta a $755,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "80 MG"
+        ],
+        [
+            "Principio activo",
+            "TELMISARTAN"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015839"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

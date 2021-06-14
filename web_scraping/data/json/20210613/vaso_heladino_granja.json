@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vaso-heladino-granja-7702402054201/p",
+    "fecha_hora_scraping": "2021-06-14 00:38:59",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "vaso heladino granja",
+    "nombre_imagen": "./web_scraping/data/img/vaso_heladino_granja.jpg",
+    "presentacion": "VASO X 50 G",
+    "precio": {
+        "bestPrice": "$2.300",
+        "precioPorSku js-PUM": "Gramo a $46,00"
+    },
+    "descripcion": "vaso heladino granja",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "VASO X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001572-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

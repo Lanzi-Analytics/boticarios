@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrigen-l-nutri-sure-polvo-vainilla-7709723339598/p",
+    "fecha_hora_scraping": "2021-06-14 08:04:19",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "nutrigen l nutri-sure polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/nutrigen_l_nutrisure_polvo_vainilla.jpg",
+    "presentacion": "TARRO X 700 G",
+    "precio": {
+        "bestPrice": "$40.000",
+        "precioPorSku js-PUM": "Gramo a $40.000,00"
+    },
+    "descripcion": "nutrigen l nutri-sure polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 700 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NATURLAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003082-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

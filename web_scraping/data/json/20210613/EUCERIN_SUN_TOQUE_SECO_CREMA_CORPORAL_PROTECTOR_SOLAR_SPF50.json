@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-sun-toque-seco-crema-corporal-protector-solar-spf50-4005805286501/p",
+    "fecha_hora_scraping": "2021-06-14 05:04:18",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN SUN TOQUE SECO CREMA CORPORAL PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_SUN_TOQUE_SECO_CREMA_CORPORAL_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "TARRO X 200 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $651,75"
+    },
+    "descripcion": "EUCERIN SUN TOQUE SECO CREMA CORPORAL PROTECTOR SOLAR SPF50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97061-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

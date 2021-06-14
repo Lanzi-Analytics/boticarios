@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-hyaluron-filler---elasticity-3d-serum-4005800269776/p",
+    "fecha_hora_scraping": "2021-06-13 23:42:51",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN HYALURON FILLER - ELASTICITY 3D SERUM",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_HYALURON_FILLER__ELASTICITY_3D_SERUM.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $6.185,00"
+    },
+    "descripcion": "EUCERIN HYALURON FILLER - ELASTICITY 3D SERUM",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01135-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

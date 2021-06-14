@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/virex-400-mg-tableta-7703258113050/p",
+    "fecha_hora_scraping": "2021-06-14 03:14:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VIREX 400 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/VIREX_400_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 35 TAB",
+    "precio": {
+        "bestPrice": "$150.100",
+        "precioPorSku js-PUM": "Tableta a $4.288,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 35 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "ACICLOVIR"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004917-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

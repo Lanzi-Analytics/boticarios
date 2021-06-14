@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/scandishake-mix-vainilla-polvo-5016533633481/p",
+    "fecha_hora_scraping": "2021-06-13 23:29:24",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "SCANDISHAKE MIX VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/SCANDISHAKE_MIX_VAINILLA_POLVO.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $34.808,33"
+    },
+    "descripcion": "scandishake mix vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LAMOTRIGINA"
+        ],
+        [
+            "Laboratorio",
+            "DANONE BABY NUTRITION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000844-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

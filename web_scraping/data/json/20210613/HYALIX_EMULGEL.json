@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hyalix-emulgel-7703332003680/p",
+    "fecha_hora_scraping": "2021-06-14 02:27:58",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "HYALIX EMULGEL",
+    "nombre_imagen": "./web_scraping/data/img/HYALIX_EMULGEL.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$95.300",
+        "precioPorSku js-PUM": "Gramo a $1.588,33"
+    },
+    "descripcion": "hyalix emulgel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC7614-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

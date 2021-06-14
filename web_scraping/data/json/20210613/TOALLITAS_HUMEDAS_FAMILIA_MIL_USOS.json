@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-familia-mil-usos-7702026311025/p",
+    "fecha_hora_scraping": "2021-06-14 09:31:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "TOALLITAS HUMEDAS FAMILIA MIL USOS",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_HUMEDAS_FAMILIA_MIL_USOS.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$2.400",
+        "precioPorSku js-PUM": "Unidad a $240,00"
+    },
+    "descripcion": "toallitas humedas familia mil usos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92811-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

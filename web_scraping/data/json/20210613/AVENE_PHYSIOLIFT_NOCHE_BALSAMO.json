@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-physiolift-noche-balsamo-3282770049350/p",
+    "fecha_hora_scraping": "2021-06-14 07:21:15",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE PHYSIOLIFT NOCHE BALSAMO",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_PHYSIOLIFT_NOCHE_BALSAMO.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$190.250",
+        "precioPorSku js-PUM": "Mililitro a $6.341,67"
+    },
+    "descripcion": "avene physiolift noche balsamo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70467-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

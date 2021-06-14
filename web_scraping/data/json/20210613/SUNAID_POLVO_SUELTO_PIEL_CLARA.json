@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunaid-polvo-suelto-piel-clara-7707206270284/p",
+    "fecha_hora_scraping": "2021-06-14 05:54:23",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "SUNAID POLVO SUELTO PIEL CLARA",
+    "nombre_imagen": "./web_scraping/data/img/SUNAID_POLVO_SUELTO_PIEL_CLARA.jpg",
+    "presentacion": "CAJA X 35 G",
+    "precio": {
+        "bestPrice": "$73.250",
+        "precioPorSku js-PUM": "Gramo a $2.092,86"
+    },
+    "descripcion": "sunaid polvo suelto piel clara",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 35 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC30514-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/celestone-4-mgml-solucion-inyectable-7702502210309/p",
+    "fecha_hora_scraping": "2021-06-14 02:39:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CELESTONE 4 MG/ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/CELESTONE_4_MGML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$22.050",
+        "precioPorSku js-PUM": "Unidad a $22.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BETAMETASONA FOSFATO DISODIO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-006028-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

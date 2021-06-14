@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707228361038alfa-tradingaccesorios-medicosequipos-de-cuidado-en-casabaja-lengua-en-madera-no-esteril-7707228361038/p",
+    "fecha_hora_scraping": "2021-06-14 03:12:52",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BAJA LENGUA EN MADERA NO ESTERIL",
+    "nombre_imagen": "./web_scraping/data/img/BAJA_LENGUA_EN_MADERA_NO_ESTERIL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.850",
+        "precioPorSku js-PUM": "Unidad a $1.850,00"
+    },
+    "descripcion": "baja lengua en madera no esteril",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

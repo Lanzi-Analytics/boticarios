@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/olmetec-hct-20-mg125-mg-tableta-recubierta-7702134335821/p",
+    "fecha_hora_scraping": "2021-06-14 05:44:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OLMETEC HCT 20 MG/12.5 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/OLMETEC_HCT_20_MG125_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$160.600",
+        "precioPorSku js-PUM": "Tableta a $5.353,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG 12.5 MG"
+        ],
+        [
+            "Principio activo",
+            "OLMESARTAN MEDOXOMILO HIDROCLOROTIAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004689-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

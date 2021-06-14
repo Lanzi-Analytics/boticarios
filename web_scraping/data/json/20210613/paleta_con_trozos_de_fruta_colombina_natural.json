@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-con-trozos-de-fruta-colombina-natural-7702011092618/p",
+    "fecha_hora_scraping": "2021-06-14 02:11:26",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta con trozos de fruta colombina natural",
+    "nombre_imagen": "./web_scraping/data/img/paleta_con_trozos_de_fruta_colombina_natural.jpg",
+    "presentacion": "UNIDAD X 70 G",
+    "precio": {
+        "bestPrice": "$2.650",
+        "precioPorSku js-PUM": "Gramo a $37,86"
+    },
+    "descripcion": "paleta con trozos de fruta colombina natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 70 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD09M00685"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-menta--pqd-7702314502494/p",
+    "fecha_hora_scraping": "2021-06-14 08:15:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental menta  pqd",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_menta__pqd.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$4.150",
+        "precioPorSku js-PUM": "Mililitro a $55,33"
+    },
+    "descripcion": "crema dental menta  pqd",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC49049-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

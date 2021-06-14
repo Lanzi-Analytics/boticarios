@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-ensoy-ninos-defense-polvo-gratis-tarro-x-400g-vainilla-7702870053508/p",
+    "fecha_hora_scraping": "2021-06-14 07:35:43",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA ENSOY NI\u00d1OS DEFENSE POLVO GRATIS TARRO X 400G VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ENSOY_NI\u00d1OS_DEFENSE_POLVO_GRATIS_TARRO_X_400G_VAINILLA.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$39.100",
+        "precioPorSku js-PUM": "Gramo a $97,75"
+    },
+    "descripcion": "oferta ensoy ni\u00f1os defense polvo gratis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV16I71314"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

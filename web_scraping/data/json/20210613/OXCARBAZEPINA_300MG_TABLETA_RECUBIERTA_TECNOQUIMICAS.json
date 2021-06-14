@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oxcarbazepina-300mg-tableta-recubierta-tecnoquimicas-7702057712372/p",
+    "fecha_hora_scraping": "2021-06-14 03:02:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OXCARBAZEPINA 300MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/OXCARBAZEPINA_300MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$18.725",
+        "precioPorSku js-PUM": "Tableta a $624,17"
+    },
+    "descripcion": "OXCARBAZEPINA 300MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "OXCARBAZEPINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005780-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

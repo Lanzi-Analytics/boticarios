@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nadixa-10--crema-8433042002688/p",
+    "fecha_hora_scraping": "2021-06-14 07:58:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NADIXA 1.0 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/NADIXA_10__CREMA.jpg",
+    "presentacion": "TUBO X 25 G",
+    "precio": {
+        "bestPrice": "$74.150",
+        "precioPorSku js-PUM": "Gramo a $2.966,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 25 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "NADIFLOXACINA"
+        ],
+        [
+            "Laboratorio",
+            "PHARMAPRIX COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-13656-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

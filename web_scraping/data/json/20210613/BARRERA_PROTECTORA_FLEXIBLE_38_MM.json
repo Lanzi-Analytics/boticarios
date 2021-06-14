@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/barrera-protectora-flexible-38-mm-768455064762/p",
+    "fecha_hora_scraping": "2021-06-14 04:37:33",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BARRERA PROTECTORA FLEXIBLE 38 MM",
+    "nombre_imagen": "./web_scraping/data/img/BARRERA_PROTECTORA_FLEXIBLE_38_MM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $31.350,00"
+    },
+    "descripcion": "barrera protectora flexible 38 mm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0000028-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

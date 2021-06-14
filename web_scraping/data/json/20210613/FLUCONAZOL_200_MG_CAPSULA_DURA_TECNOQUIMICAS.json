@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fluconazol-200-mg-capsula-dura-tecnoquimicas-7702057077402/p",
+    "fecha_hora_scraping": "2021-06-14 04:08:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLUCONAZOL 200 MG CAPSULA DURA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/FLUCONAZOL_200_MG_CAPSULA_DURA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 4 CAP",
+    "precio": {
+        "bestPrice": "$11.100",
+        "precioPorSku js-PUM": "Capsula a $2.775,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "FLUCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-013161-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

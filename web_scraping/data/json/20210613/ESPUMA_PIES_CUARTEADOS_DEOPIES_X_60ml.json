@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/espuma-pies-cuarteados-deopies-x-60ml-7702113039986/p",
+    "fecha_hora_scraping": "2021-06-14 00:53:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "ESPUMA PIES CUARTEADOS DEOPIES X 60ml",
+    "nombre_imagen": "./web_scraping/data/img/ESPUMA_PIES_CUARTEADOS_DEOPIES_X_60ml.jpg",
+    "presentacion": "UNIDAD X60ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $265,00"
+    },
+    "descripcion": "ESPUMA PIES CUARTEADOS DEOPIES X 60ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X60ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71024-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

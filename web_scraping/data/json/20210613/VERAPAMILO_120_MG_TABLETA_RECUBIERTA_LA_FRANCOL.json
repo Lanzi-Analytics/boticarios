@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7706569000309lafrancolformuladosmedicamentosverapamilo-120-mg-tableta-recubierta-la-francolverapamilo-clorhidrato-7706569000309/p",
+    "fecha_hora_scraping": "2021-06-14 04:10:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VERAPAMILO 120 MG TABLETA RECUBIERTA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/VERAPAMILO_120_MG_TABLETA_RECUBIERTA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$7.800",
+        "precioPorSku js-PUM": "Tableta a $260,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "120 MG"
+        ],
+        [
+            "Principio activo",
+            "VERAPAMILO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0003019-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

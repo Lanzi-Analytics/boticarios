@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retimax-capsula-blanda-7707327210312/p",
+    "fecha_hora_scraping": "2021-06-14 02:56:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RETIMAX CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/RETIMAX_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 45 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $2.576,67"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 45 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002783"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

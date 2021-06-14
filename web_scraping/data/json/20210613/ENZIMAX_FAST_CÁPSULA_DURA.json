@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enzimax-fast-capsula-dura-751273778584/p",
+    "fecha_hora_scraping": "2021-06-14 01:47:16",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ENZIMAX FAST C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/ENZIMAX_FAST_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 60 CAP",
+    "precio": {
+        "bestPrice": "$58.800",
+        "precioPorSku js-PUM": "Capsula a $980,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003438"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

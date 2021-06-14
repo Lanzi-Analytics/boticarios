@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterex-plus-pague5-lleve6-vainilla-7707190471759/p",
+    "fecha_hora_scraping": "2021-06-14 00:35:14",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "enterex plus pague:5 lleve:6 vainilla",
+    "nombre_imagen": "./web_scraping/data/img/enterex_plus_pague5_lleve6_vainilla.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$48.200",
+        "precioPorSku js-PUM": "Mililitro a $40,68"
+    },
+    "descripcion": "enterex plus pague:5 lleve:6 vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "AMAREY NOVA MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000811-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

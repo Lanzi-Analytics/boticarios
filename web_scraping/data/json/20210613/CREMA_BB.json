@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-bb-7702314501886/p",
+    "fecha_hora_scraping": "2021-06-14 09:03:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA BB",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_BB.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$12.800",
+        "precioPorSku js-PUM": "Mililitro a $170,67"
+    },
+    "descripcion": "crema bb",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50084-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

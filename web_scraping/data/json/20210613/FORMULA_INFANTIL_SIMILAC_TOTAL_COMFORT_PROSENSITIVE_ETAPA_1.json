@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-similac-total-comfort-prosensitive-etapa-1-8427030006307/p",
+    "fecha_hora_scraping": "2021-06-14 05:04:57",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL SIMILAC TOTAL COMFORT PROSENSITIVE ETAPA 1",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_SIMILAC_TOTAL_COMFORT_PROSENSITIVE_ETAPA_1.jpg",
+    "presentacion": "LATA X 360 G",
+    "precio": {
+        "bestPrice": "$45.950",
+        "precioPorSku js-PUM": "Gramo a $127,64"
+    },
+    "descripcion": "formula infantil similac total comfort p",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 360 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003443-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

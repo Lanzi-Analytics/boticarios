@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/valsarvitae-160mg-tableta-recubierta-7756281000163/p",
+    "fecha_hora_scraping": "2021-06-14 10:24:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VALSARVITAE 160MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/VALSARVITAE_160MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$32.150",
+        "precioPorSku js-PUM": "Comprimido a $1.148,21"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN"
+        ],
+        [
+            "Laboratorio",
+            "EUROPEAN PHARMA SOLUTIONS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017163"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

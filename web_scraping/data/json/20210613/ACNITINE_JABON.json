@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acnitine-jabon-7707331332307/p",
+    "fecha_hora_scraping": "2021-06-14 00:47:44",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ACNITINE JABON",
+    "nombre_imagen": "./web_scraping/data/img/ACNITINE_JABON.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "bestPrice": "$27.000",
+        "precioPorSku js-PUM": "Gramo a $225,00"
+    },
+    "descripcion": "acnitine jabon",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INVESTIGACION DESARRO FARMOQUIMICO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC43079-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

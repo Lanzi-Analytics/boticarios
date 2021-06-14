@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-stayfree-ultradelgada-7702031414889/p",
+    "fecha_hora_scraping": "2021-06-14 07:55:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas stayfree ultradelgada",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_stayfree_ultradelgada.jpg",
+    "presentacion": "CAJA X 12 UN",
+    "precio": {
+        "bestPrice": "$4.050",
+        "precioPorSku js-PUM": "Unidad a $337,50"
+    },
+    "descripcion": "toallas higienicas stayfree ultradelgada",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA01396-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

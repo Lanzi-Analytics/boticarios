@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sirdalud-2-mg-comprimido-7896261014763/p",
+    "fecha_hora_scraping": "2021-06-13 23:43:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SIRDALUD 2 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/SIRDALUD_2_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 15 COM",
+    "precio": {
+        "bestPrice": "$42.450",
+        "precioPorSku js-PUM": "Unidad a $2.830,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 COM"
+        ],
+        [
+            "Concentracion",
+            "2 MG"
+        ],
+        [
+            "Principio activo",
+            "TIZANIDINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-008924-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

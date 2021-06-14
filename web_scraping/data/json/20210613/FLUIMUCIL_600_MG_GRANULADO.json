@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fluimucil-600-mg-granulado-7703445030153/p",
+    "fecha_hora_scraping": "2021-06-14 08:11:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLUIMUCIL 600 MG GRANULADO",
+    "nombre_imagen": "./web_scraping/data/img/FLUIMUCIL_600_MG_GRANULADO.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$2.403",
+        "precioPorSku js-PUM": "Unidad a $2.403,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "N-ACETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002827-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

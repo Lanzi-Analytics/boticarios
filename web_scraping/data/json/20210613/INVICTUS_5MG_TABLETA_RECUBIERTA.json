@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/invictus-5mg-tableta-recubierta-7795345122083/p",
+    "fecha_hora_scraping": "2021-06-14 02:13:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "INVICTUS 5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/INVICTUS_5MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$35.900",
+        "bestPrice": "$26.925",
+        "precioPorSku js-PUM": "Tableta a $897,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "TADALAFILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018537"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

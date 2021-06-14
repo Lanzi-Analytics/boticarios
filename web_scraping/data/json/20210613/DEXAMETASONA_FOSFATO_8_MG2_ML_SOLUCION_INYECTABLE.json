@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dexametasona-fosfato-8-mg2-ml-solucion-inyectable-7702605105595/p",
+    "fecha_hora_scraping": "2021-06-14 08:49:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEXAMETASONA FOSFATO 8 MG/2 ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/DEXAMETASONA_FOSFATO_8_MG2_ML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$3.040",
+        "precioPorSku js-PUM": "Unidad a $3.040,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "0.4 %"
+        ],
+        [
+            "Principio activo",
+            "DEXAMETASONA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017301"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

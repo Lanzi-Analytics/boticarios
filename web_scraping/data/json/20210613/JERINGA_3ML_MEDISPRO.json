@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-3ml-medispro-7707270361215/p",
+    "fecha_hora_scraping": "2021-06-14 05:13:02",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA 3ML MEDISPRO",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_3ML_MEDISPRO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$200",
+        "bestPrice": "$180",
+        "precioPorSku js-PUM": "Unidad a $180"
+    },
+    "descripcion": "jeringa 3ml medispro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROTEX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0020742"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

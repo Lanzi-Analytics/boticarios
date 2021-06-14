@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cefalexina-500-mg-capsula-decubierta-dura-tecnoquimicas-7702057285678/p",
+    "fecha_hora_scraping": "2021-06-14 02:01:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CEFALEXINA 500 MG CAPSULA DECUBIERTA DURA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CEFALEXINA_500_MG_CAPSULA_DECUBIERTA_DURA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$7.700",
+        "precioPorSku js-PUM": "Capsula a $770,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CEFALEXINA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-000948-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

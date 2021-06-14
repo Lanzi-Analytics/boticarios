@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/femelin-25-mg5-mg-ampolleta-suspension-inyectable-7702870004814/p",
+    "fecha_hora_scraping": "2021-06-14 04:04:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEMELIN 25 MG/5 MG AMPOLLETA SUSPENSION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/FEMELIN_25_MG5_MG_AMPOLLETA_SUSPENSION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$22.300",
+        "precioPorSku js-PUM": "Unidad a $22.300,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MEDROXIPROGESTERONA ACETATO ESTRADIOL CIPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010797-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

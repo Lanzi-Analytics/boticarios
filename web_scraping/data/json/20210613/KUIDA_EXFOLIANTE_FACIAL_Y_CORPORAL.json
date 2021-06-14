@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kuida-exfoliante-facial-y-corporal-7709897077357/p",
+    "fecha_hora_scraping": "2021-06-13 23:36:20",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "KUIDA EXFOLIANTE FACIAL Y CORPORAL",
+    "nombre_imagen": "./web_scraping/data/img/KUIDA_EXFOLIANTE_FACIAL_Y_CORPORAL.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$36.950",
+        "precioPorSku js-PUM": "Mililitro a $246,33"
+    },
+    "descripcion": "kuida exfoliante facial y corporal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KHIRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87286-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/emblicare-plus-crema-7707173600565/p",
+    "fecha_hora_scraping": "2021-06-14 02:05:06",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "EMBLICARE PLUS CREMA",
+    "nombre_imagen": "./web_scraping/data/img/EMBLICARE_PLUS_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$126.000",
+        "precioPorSku js-PUM": "Gramo a $4.200,00"
+    },
+    "descripcion": "emblicare plus crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC08826-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

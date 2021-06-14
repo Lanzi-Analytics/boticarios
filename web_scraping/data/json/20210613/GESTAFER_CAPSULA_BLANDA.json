@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gestafer-capsula-blanda-7707355055589/p",
+    "fecha_hora_scraping": "2021-06-14 08:44:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GESTAFER CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/GESTAFER_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$74.950",
+        "precioPorSku js-PUM": "Capsula a $2.498,33"
+    },
+    "descripcion": "GESTAFER CAPSULA BLANDA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "30 MG 1 MG"
+        ],
+        [
+            "Principio activo",
+            "HIERRO BISGLICINATO FOLICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0002359-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

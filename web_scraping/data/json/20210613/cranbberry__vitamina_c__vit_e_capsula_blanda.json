@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cranbberry--vitamina-c--vit-e-capsula-blanda-7708896366462/p",
+    "fecha_hora_scraping": "2021-06-14 08:40:10",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "cranbberry + vitamina c + vit e capsula blanda",
+    "nombre_imagen": "./web_scraping/data/img/cranbberry__vitamina_c__vit_e_capsula_blanda.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "bestPrice": "$25.350",
+        "precioPorSku js-PUM": "Capsula a $845,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SEA & OIL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003603"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

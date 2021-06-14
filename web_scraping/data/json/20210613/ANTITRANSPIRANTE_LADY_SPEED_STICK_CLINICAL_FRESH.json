@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7509546066196higiene-y-cuidado-personaldesodorantesna-7509546066196/p",
+    "fecha_hora_scraping": "2021-06-14 07:01:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "ANTITRANSPIRANTE LADY SPEED STICK CLINICAL FRESH",
+    "nombre_imagen": "./web_scraping/data/img/ANTITRANSPIRANTE_LADY_SPEED_STICK_CLINICAL_FRESH.jpg",
+    "presentacion": "BARRA X 45 G",
+    "precio": {
+        "bestPrice": "$19.150",
+        "precioPorSku js-PUM": "Gramo a $425,56"
+    },
+    "descripcion": "desodorante leidy speed stick clinical complet fresh",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 45 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68607-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

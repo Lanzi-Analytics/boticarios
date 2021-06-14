@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-panos-humedos-aloe-lleve-70und-7702026314415/p",
+    "fecha_hora_scraping": "2021-06-14 08:58:40",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA PA\u00d1OS HUMEDOS ALOE LLEVE: 70UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PA\u00d1OS_HUMEDOS_ALOE_LLEVE_70UND.jpg",
+    "presentacion": "PAQUETE X 70 UN",
+    "precio": {
+        "bestPrice": "$7.200",
+        "precioPorSku js-PUM": "Unidad a $102,86"
+    },
+    "descripcion": "oferta pa\u00f1os humedos aloe lleve: 70und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 70 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA V002150R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

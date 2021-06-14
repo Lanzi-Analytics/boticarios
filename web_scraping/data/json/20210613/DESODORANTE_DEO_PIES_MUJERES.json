@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-deo-pies-mujeres-7702113014365/p",
+    "fecha_hora_scraping": "2021-06-14 00:18:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "DESODORANTE DEO PIES MUJERES",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_DEO_PIES_MUJERES.jpg",
+    "presentacion": "BOTELLA X 260 ML",
+    "precio": {
+        "bestPrice": "$18.650",
+        "precioPorSku js-PUM": "Mililitro a $71,73"
+    },
+    "descripcion": "desod spray deopies 260 ml mujeres",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 260 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

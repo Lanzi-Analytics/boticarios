@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/banda-nariz-8809496770327/p",
+    "fecha_hora_scraping": "2021-06-14 08:24:59",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "2 PASOS BANDA NARIZ CETTUA X 3 PARES",
+    "nombre_imagen": "./web_scraping/data/img/2_PASOS_BANDA_NARIZ_CETTUA_X_3_PARES.jpg",
+    "presentacion": "EMPAQUE X 3 PARES",
+    "precio": {
+        "bestPrice": "$17.400",
+        "precioPorSku js-PUM": "Parche a $5.800,00"
+    },
+    "descripcion": "2 PASOS BANDA NARIZ CETTUA X 3 PARES",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 3 PARES"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COBICO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76725-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

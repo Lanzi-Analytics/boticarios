@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-sensodyne-repara-y-protege-7794640170133/p",
+    "fecha_hora_scraping": "2021-06-14 05:41:38",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CREMA DENTAL SENSODYNE REPARA Y PROTEGE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_SENSODYNE_REPARA_Y_PROTEGE.jpg",
+    "presentacion": "TUBO X 100 GR",
+    "precio": {
+        "bestPrice": "$24.750",
+        "precioPorSku js-PUM": "Gramo a $247,50"
+    },
+    "descripcion": "crema dental sensodyne repara y protege",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 GR"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50131-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

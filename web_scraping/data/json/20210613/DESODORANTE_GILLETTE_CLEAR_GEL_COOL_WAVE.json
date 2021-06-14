@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/47400097728desodorante-gillette-clear-gel-cool-wavehigiene-y-cuidado-personaldesodorantesprocter--gamble-47400097728/p",
+    "fecha_hora_scraping": "2021-06-14 01:40:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "DESODORANTE GILLETTE CLEAR GEL COOL WAVE",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_GILLETTE_CLEAR_GEL_COOL_WAVE.jpg",
+    "presentacion": "FRASCO X 113 G",
+    "precio": {
+        "PrevPrice": "Antes:$20.100",
+        "bestPrice": "$16.080",
+        "precioPorSku js-PUM": "Gramo a $142,30"
+    },
+    "descripcion": "desodorante gillette clear gel cool wave",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 113 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA NSC2004CO11706"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

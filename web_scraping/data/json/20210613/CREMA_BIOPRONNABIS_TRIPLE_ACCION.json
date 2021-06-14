@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-biopronnabis-triple-accion-7707232090801/p",
+    "fecha_hora_scraping": "2021-06-14 06:12:41",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CREMA BIOPRONNABIS TRIPLE ACCION",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_BIOPRONNABIS_TRIPLE_ACCION.jpg",
+    "presentacion": "POTE X 55 G",
+    "precio": {
+        "bestPrice": "$20.800",
+        "precioPorSku js-PUM": "Gramo a $378,18"
+    },
+    "descripcion": "crema biopronnabis triple accion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 55 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82722-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-luminous-white-brilliant-7509546054650/p",
+    "fecha_hora_scraping": "2021-06-13 23:59:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental colgate luminous white brilliant",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_colgate_luminous_white_brilliant.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "PrevPrice": "Antes:$11.850",
+        "bestPrice": "$8.295",
+        "precioPorSku js-PUM": "Mililitro a $110,60"
+    },
+    "descripcion": "cd clgte lumns wht 75ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC44215-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

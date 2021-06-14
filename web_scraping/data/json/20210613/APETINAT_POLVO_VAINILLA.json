@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/apetinat-polvo-vainilla-7707016404893/p",
+    "fecha_hora_scraping": "2021-06-14 02:39:33",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "APETINAT POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/APETINAT_POLVO_VAINILLA.jpg",
+    "presentacion": "FRASCO X 300 G",
+    "precio": {
+        "bestPrice": "$22.250",
+        "precioPorSku js-PUM": "Gramo a $74,17"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 G"
+        ],
+        [
+            "Concentracion",
+            "3 G"
+        ],
+        [
+            "Principio activo",
+            "ARTEMISIA ABSINTHIUM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2012-0002011"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

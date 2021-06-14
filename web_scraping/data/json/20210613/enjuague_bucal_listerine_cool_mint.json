@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-listerine-cool-mint-7702035432339/p",
+    "fecha_hora_scraping": "2021-06-14 04:55:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "enjuague bucal listerine cool mint",
+    "nombre_imagen": "./web_scraping/data/img/enjuague_bucal_listerine_cool_mint.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "PrevPrice": "Antes:$15.250",
+        "bestPrice": "$12.962",
+        "precioPorSku js-PUM": "Mililitro a $25,92"
+    },
+    "descripcion": "enjuag bucal listerine 500 ml cool min",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

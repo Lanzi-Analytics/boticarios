@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kazide-200mg-tableta-dispersable-7702870002780/p",
+    "fecha_hora_scraping": "2021-06-14 02:31:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KAZIDE 200MG TABLETA DISPERSABLE",
+    "nombre_imagen": "./web_scraping/data/img/KAZIDE_200MG_TABLETA_DISPERSABLE.jpg",
+    "presentacion": "CAJA X 6 TAB",
+    "precio": {
+        "bestPrice": "$65.150",
+        "precioPorSku js-PUM": "Tableta a $10.858,33"
+    },
+    "descripcion": "KAZIDE 200MG TABLETA DISPERSABLE",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "NITAZOXANIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0008733-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

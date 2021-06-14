@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/naproxeno-sodico-275-mg-tableta-tecnoquimicas-7702057610906/p",
+    "fecha_hora_scraping": "2021-06-14 04:56:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NAPROXENO SODICO 275 MG TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/NAPROXENO_SODICO_275_MG_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$5.200",
+        "precioPorSku js-PUM": "Tableta a $520,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "275 MG"
+        ],
+        [
+            "Principio activo",
+            "NAPROXENO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-012687-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

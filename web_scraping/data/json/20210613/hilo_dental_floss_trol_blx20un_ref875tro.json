@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hilo-dental-floss-trol/p",
+    "fecha_hora_scraping": "2021-06-14 07:36:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "hilo dental floss trol blx20un ref875tro",
+    "nombre_imagen": "./web_scraping/data/img/hilo_dental_floss_trol_blx20un_ref875tro.jpg",
+    "presentacion": "",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a 400,00"
+    },
+    "descripcion": "hilo dental floss trol blx20un ref875tro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            ""
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            ""
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

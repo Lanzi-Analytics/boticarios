@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cepillo-dental-oral-b-prosalud-indicador-2x1-7501086453955/p",
+    "fecha_hora_scraping": "2021-06-14 07:54:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental oral-b pro-salud indicator",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_oralb_prosalud_indicator.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "PrevPrice": "Antes:$9.200",
+        "bestPrice": "$7.360",
+        "precioPorSku js-PUM": "Unidad a $3.680,00"
+    },
+    "descripcion": "of cep dent oral-b prosalud indic 2x",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

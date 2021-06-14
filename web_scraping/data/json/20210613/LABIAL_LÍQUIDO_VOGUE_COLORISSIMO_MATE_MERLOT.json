@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-liquido-vogue-colorissimo-mate-merlot-7509552840766/p",
+    "fecha_hora_scraping": "2021-06-14 08:42:36",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL L\u00cdQUIDO VOGUE COLORISSIMO MATE MERLOT",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_L\u00cdQUIDO_VOGUE_COLORISSIMO_MATE_MERLOT.jpg",
+    "presentacion": "UNIDAD X 5 ML",
+    "precio": {
+        "bestPrice": "$9.800",
+        "precioPorSku js-PUM": "Mililitro a $1.960,00"
+    },
+    "descripcion": "labial l\u00edquido vogue colorissimo mate merlot",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73451-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

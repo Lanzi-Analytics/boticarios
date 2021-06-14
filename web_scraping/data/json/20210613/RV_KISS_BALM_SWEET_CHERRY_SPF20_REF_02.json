@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-kiss-balm-sweet-cherry-spf20-ref-02-309971879258/p",
+    "fecha_hora_scraping": "2021-06-13 23:49:13",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV KISS BALM SWEET CHERRY SPF20 REF 02",
+    "nombre_imagen": "./web_scraping/data/img/RV_KISS_BALM_SWEET_CHERRY_SPF20_REF_02.jpg",
+    "presentacion": "TUBO X 3G",
+    "precio": {
+        "bestPrice": "$10.550",
+        "precioPorSku js-PUM": "Gramo a $4.057,69"
+    },
+    "descripcion": "balsamo labial revlon kiss sweet cherry",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76757-17CO"
+        ],
+        [
+            "Color",
+            "Cherry"
+        ]
+    ]
+}

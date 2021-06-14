@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-xtreme-3-piel-sensible-7591066701015/p",
+    "fecha_hora_scraping": "2021-06-14 02:29:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar xtreme 3 piel sensible",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_xtreme_3_piel_sensible.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$4.700",
+        "precioPorSku js-PUM": "Unidad a $4.700,00"
+    },
+    "descripcion": "xtreme 3 schick sensible vit e y alo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EDGEWELL PERSONAL CARE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

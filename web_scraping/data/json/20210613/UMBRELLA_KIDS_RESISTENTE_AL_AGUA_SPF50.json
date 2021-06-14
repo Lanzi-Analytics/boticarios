@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/umbrella-kids-resistente-al-agua-spf50-7703281001485/p",
+    "fecha_hora_scraping": "2021-06-14 09:49:44",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "UMBRELLA KIDS RESISTENTE AL AGUA SPF50",
+    "nombre_imagen": "./web_scraping/data/img/UMBRELLA_KIDS_RESISTENTE_AL_AGUA_SPF50.jpg",
+    "presentacion": "TUBO X 120 G",
+    "precio": {
+        "bestPrice": "$97.700",
+        "precioPorSku js-PUM": "Gramo a $814,17"
+    },
+    "descripcion": "umbrella kids resistente al agua spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52055-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-clear-complexion-base-liquida-toast-309974994101/p",
+    "fecha_hora_scraping": "2021-06-14 04:17:09",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL CLEAR COMPLEXION base liquida toast",
+    "nombre_imagen": "./web_scraping/data/img/AL_CLEAR_COMPLEXION_base_liquida_toast.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $973,33"
+    },
+    "descripcion": "al clear complexion base liquida toast",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC12338-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

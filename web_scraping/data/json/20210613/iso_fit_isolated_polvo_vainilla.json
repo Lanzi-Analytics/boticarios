@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/iso-fit-isolated-polvo-vainilla-7707368880475/p",
+    "fecha_hora_scraping": "2021-06-14 05:32:28",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "iso fit isolated polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/iso_fit_isolated_polvo_vainilla.jpg",
+    "presentacion": "TARRO X 2 LB",
+    "precio": {
+        "bestPrice": "$105.000",
+        "precioPorSku js-PUM": "Libra a $52.500,00"
+    },
+    "descripcion": "iso fit isolated polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 2 LB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I89315"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

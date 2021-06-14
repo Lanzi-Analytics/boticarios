@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/millows-snack-margarita-35-gr-7702011048172/p",
+    "fecha_hora_scraping": "2021-06-14 00:05:42",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "MILLOWS SNACK MARGARITA 35 GR",
+    "nombre_imagen": "./web_scraping/data/img/MILLOWS_SNACK_MARGARITA_35_GR.jpg",
+    "presentacion": "UNIDAD X 35 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $42,86"
+    },
+    "descripcion": "MILLOWS SNACK MARGARITA 35 GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 35 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAV16M13593"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

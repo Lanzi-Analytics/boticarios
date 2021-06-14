@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alumbre-en-barra-7706183360001/p",
+    "fecha_hora_scraping": "2021-06-14 04:54:11",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ALUMBRE EN BARRA",
+    "nombre_imagen": "./web_scraping/data/img/ALUMBRE_EN_BARRA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$800",
+        "precioPorSku js-PUM": "Unidad a $800,00"
+    },
+    "descripcion": "alumbre en barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS APROQUIM LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2001CO4269"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

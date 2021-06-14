@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/escitalopram-10-mg-tableta-tecnoquimicas-7702057060923/p",
+    "fecha_hora_scraping": "2021-06-14 02:25:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESCITALOPRAM 10 MG TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/ESCITALOPRAM_10_MG_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$52.650",
+        "precioPorSku js-PUM": "Tableta a $1.880,36"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "ESCITALOPRAM OXALATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013236-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

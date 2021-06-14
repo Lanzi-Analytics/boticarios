@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eryfotona-ak-nmsc-fluid-emulsion-8429420070875/p",
+    "fecha_hora_scraping": "2021-06-14 05:53:32",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ERYFOTONA AK-NMSC FLUID EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/ERYFOTONA_AKNMSC_FLUID_EMULSION.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$110.950",
+        "precioPorSku js-PUM": "Mililitro a $2.219,00"
+    },
+    "descripcion": "eryfotona ak-nmsc fluid emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63648-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

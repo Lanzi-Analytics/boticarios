@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hydrolyzed-collagen-plus--vitamina-c-capsula-dura-751273780723/p",
+    "fecha_hora_scraping": "2021-06-14 05:36:24",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "HYDROLYZED COLLAGEN PLUS + VITAMINA C CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/HYDROLYZED_COLLAGEN_PLUS__VITAMINA_C_CAPSULA_DURA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$35.900",
+        "precioPorSku js-PUM": "Capsula a $598,33"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2010-0001668"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

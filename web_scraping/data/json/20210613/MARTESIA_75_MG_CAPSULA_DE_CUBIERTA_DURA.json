@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/martesia-75-mg-capsula-de-cubierta-dura-7730969300592/p",
+    "fecha_hora_scraping": "2021-06-13 23:13:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MARTESIA 75 MG CAPSULA DE CUBIERTA DURA",
+    "nombre_imagen": "./web_scraping/data/img/MARTESIA_75_MG_CAPSULA_DE_CUBIERTA_DURA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$47.150",
+        "precioPorSku js-PUM": "Tableta a $1.571,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011516-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

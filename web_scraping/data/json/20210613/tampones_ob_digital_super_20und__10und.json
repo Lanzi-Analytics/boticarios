@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampones-ob-digital-super-20und--10und-7702031579632/p",
+    "fecha_hora_scraping": "2021-06-14 04:05:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "tampones ob digital super 20und + 10und",
+    "nombre_imagen": "./web_scraping/data/img/tampones_ob_digital_super_20und__10und.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$15.300",
+        "precioPorSku js-PUM": "Unidad a $510,00"
+    },
+    "descripcion": "ob digital super 20un mas 10un",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSH2009CO00034"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

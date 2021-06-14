@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-nutribaby-premium-etapa-2-7798181640063/p",
+    "fecha_hora_scraping": "2021-06-14 08:17:23",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL NUTRIBABY PREMIUM ETAPA 2",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_NUTRIBABY_PREMIUM_ETAPA_2.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $74,00"
+    },
+    "descripcion": "formula infantil nutribaby premium etapa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I13513"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

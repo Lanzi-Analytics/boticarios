@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aquasol-e-800mg-capsula-blanda-7707355055497/p",
+    "fecha_hora_scraping": "2021-06-14 09:16:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AQUASOL E 800MG C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/AQUASOL_E_800MG_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10CAP",
+    "precio": {
+        "bestPrice": "$62.050",
+        "precioPorSku js-PUM": "Capsula a $2.068,33"
+    },
+    "descripcion": "aquasol e 800mg c\u00e1psula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10CAP"
+        ],
+        [
+            "Concentracion",
+            "800 UI"
+        ],
+        [
+            "Principio activo",
+            "DL-ALFATOCOFERIL ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0000160-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

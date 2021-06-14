@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pregabalina-300-mg-capsula-dura-genfar-7705959884826/p",
+    "fecha_hora_scraping": "2021-06-14 08:14:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PREGABALINA 300 MG CAPSULA DURA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/PREGABALINA_300_MG_CAPSULA_DURA_GENFAR.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$69.850",
+        "precioPorSku js-PUM": "Tableta a $2.328,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015163"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

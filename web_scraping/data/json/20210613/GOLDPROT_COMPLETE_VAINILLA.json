@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goldprot-complete-vainilla-7708937500695/p",
+    "fecha_hora_scraping": "2021-06-14 09:22:22",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "GOLDPROT COMPLETE VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/GOLDPROT_COMPLETE_VAINILLA.jpg",
+    "presentacion": "CAJA X 7 SOBRES",
+    "precio": {
+        "bestPrice": "$47.500",
+        "precioPorSku js-PUM": "Unidad a $47.500,00"
+    },
+    "descripcion": "GOLDPROT COMPLETE VAINILLA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 SOBRES"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0010634-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leniderm-crema-7707355050584/p",
+    "fecha_hora_scraping": "2021-06-14 09:50:59",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "LENIDERM CREMA",
+    "nombre_imagen": "./web_scraping/data/img/LENIDERM_CREMA.jpg",
+    "presentacion": "TUBO X 280 G",
+    "precio": {
+        "bestPrice": "$100.550",
+        "precioPorSku js-PUM": "Gramo a $359,11"
+    },
+    "descripcion": "leniderm crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 280 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC08976-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-con-cera-jhonsons-essencial-menta-7891010501105/p",
+    "fecha_hora_scraping": "2021-06-14 04:11:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "seda dental con cera jhonson's essencial menta",
+    "nombre_imagen": "./web_scraping/data/img/seda_dental_con_cera_jhonsons_essencial_menta.jpg",
+    "presentacion": "EMPAQUE X 100 MET",
+    "precio": {
+        "bestPrice": "$14.050",
+        "precioPorSku js-PUM": "Metro a $140,50"
+    },
+    "descripcion": "seda dent con cera johns essen ment",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 100 MET"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA 2007DM-000093"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

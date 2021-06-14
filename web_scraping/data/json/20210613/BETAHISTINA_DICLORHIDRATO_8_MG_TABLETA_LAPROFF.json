@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703038067146laproffformuladosmedicamentosbetahistina-diclorhidrato-8-mg-tableta-laproffbetahistina-diclorhidrato-7703038067146/p",
+    "fecha_hora_scraping": "2021-06-14 02:23:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BETAHISTINA DICLORHIDRATO 8 MG TABLETA LAPROFF",
+    "nombre_imagen": "./web_scraping/data/img/BETAHISTINA_DICLORHIDRATO_8_MG_TABLETA_LAPROFF.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$33.250",
+        "precioPorSku js-PUM": "Tableta a $1.662,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "8 MG"
+        ],
+        [
+            "Principio activo",
+            "BETAHISTINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO LAPROFF SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0014694-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

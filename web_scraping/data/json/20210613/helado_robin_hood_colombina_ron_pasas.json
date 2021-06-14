@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-robin-hood-colombina-ron-pasas-7702011091413/p",
+    "fecha_hora_scraping": "2021-06-14 08:27:00",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado robin hood colombina ron pasas",
+    "nombre_imagen": "./web_scraping/data/img/helado_robin_hood_colombina_ron_pasas.jpg",
+    "presentacion": "UNIDAD X 90 G",
+    "precio": {
+        "bestPrice": "$1.600",
+        "precioPorSku js-PUM": "Gramo a $17,78"
+    },
+    "descripcion": "helado robin hood colombina ron pasas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD02M27193"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

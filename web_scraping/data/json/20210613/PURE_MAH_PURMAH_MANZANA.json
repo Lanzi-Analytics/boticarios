@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pure-mah-purmah-manzana-854688003286/p",
+    "fecha_hora_scraping": "2021-06-14 00:52:51",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "PURE MAH PURMAH! MANZANA",
+    "nombre_imagen": "./web_scraping/data/img/PURE_MAH_PURMAH_MANZANA.jpg",
+    "presentacion": "POTE X 90 G",
+    "precio": {
+        "bestPrice": "$4.400",
+        "precioPorSku js-PUM": "Gramo a $48,89"
+    },
+    "descripcion": "pure mah purmah! manzana",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MAH! COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA12I65014"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

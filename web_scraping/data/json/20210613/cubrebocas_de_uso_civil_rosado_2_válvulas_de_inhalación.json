@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cubrebocas-de-uso-civil-rosado-2-valvulas-de-inhalacion-7707228369225/p",
+    "fecha_hora_scraping": "2021-06-14 05:40:53",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "cubrebocas de uso civil rosado 2 v\u00e1lvulas de inhalaci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/cubrebocas_de_uso_civil_rosado_2_v\u00e1lvulas_de_inhalaci\u00f3n.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "PrevPrice": "Antes:$12.700",
+        "bestPrice": "$8.890",
+        "precioPorSku js-PUM": "Unidad a $8.890,00"
+    },
+    "descripcion": "cubrebocas de uso civil rosado 2 v\u00e1lvulas de inhalaci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "NO REQUIERE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

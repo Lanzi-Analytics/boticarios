@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panalpequenin-extrapet1-x30ytoalrnx10-7702026144333/p",
+    "fecha_hora_scraping": "2021-06-14 09:08:31",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1AL.PEQUE\u00d1IN EXTRAP.ET1 X30YTOAL.RNX10",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALPEQUE\u00d1IN_EXTRAPET1_X30YTOALRNX10.jpg",
+    "presentacion": "PAQUETE X 30UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $696,67"
+    },
+    "descripcion": "PA\u00d1AL.PEQUE\u00d1IN EXTRAP.ET1 X30YTOAL.RNX10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07764-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

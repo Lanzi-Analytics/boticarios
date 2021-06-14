@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitalinchi-facial-anti-edad-emu-7709614798602/p",
+    "fecha_hora_scraping": "2021-06-14 02:05:12",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "VITALINCHI FACIAL ANTI-EDAD EMU",
+    "nombre_imagen": "./web_scraping/data/img/VITALINCHI_FACIAL_ANTIEDAD_EMU.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$72.900",
+        "precioPorSku js-PUM": "Gramo a $1.458,00"
+    },
+    "descripcion": "vitalinchi facial anti-edad emu",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITALINCHI SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89316-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

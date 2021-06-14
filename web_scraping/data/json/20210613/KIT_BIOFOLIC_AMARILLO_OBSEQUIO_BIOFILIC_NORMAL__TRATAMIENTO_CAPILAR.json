@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-biofolic-amarillo-obsequio-biofilic-normal--tratamiento-capilar-7709154598090/p",
+    "fecha_hora_scraping": "2021-06-14 03:48:15",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "KIT BIOFOLIC AMARILLO OBSEQUIO BIOFILIC NORMAL + TRATAMIENTO CAPILAR",
+    "nombre_imagen": "./web_scraping/data/img/KIT_BIOFOLIC_AMARILLO_OBSEQUIO_BIOFILIC_NORMAL__TRATAMIENTO_CAPILAR.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$61.350",
+        "precioPorSku js-PUM": "Unidad a $61.350,00"
+    },
+    "descripcion": "kit biofolic amarillo obsequio biofilic normal + tratamiento capilar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOHEALTHY SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92280-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

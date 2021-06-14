@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallas-higienicas-nosotras-materna-gratis-12-lacti-7702027440182/p",
+    "fecha_hora_scraping": "2021-06-14 10:03:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toallas higienicas nosotras materna gratis: 12 lacti",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallas_higienicas_nosotras_materna_gratis_12_lacti.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "$20.950",
+        "precioPorSku js-PUM": "Unidad a $2.095,00"
+    },
+    "descripcion": "of t hig nosot materna x10 gts 12 lact",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SIN INVIMA"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

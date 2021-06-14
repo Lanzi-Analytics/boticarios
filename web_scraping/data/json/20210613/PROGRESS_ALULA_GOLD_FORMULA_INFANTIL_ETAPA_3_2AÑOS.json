@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/progress-alula-gold-formula-infantil-etapa-3-2anos-7502253073433/p",
+    "fecha_hora_scraping": "2021-06-14 03:52:11",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "PROGRESS ALULA GOLD FORMULA INFANTIL ETAPA 3 +2A\u00d1OS",
+    "nombre_imagen": "./web_scraping/data/img/PROGRESS_ALULA_GOLD_FORMULA_INFANTIL_ETAPA_3_2A\u00d1OS.jpg",
+    "presentacion": "LATA X 900 G",
+    "precio": {
+        "bestPrice": "$70.550",
+        "precioPorSku js-PUM": "Gramo a $78,39"
+    },
+    "descripcion": "formula infantil progress gold etapa 3 +",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANULAC NUTRICION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I10011"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

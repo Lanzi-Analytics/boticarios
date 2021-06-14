@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-en-gel-maybelline-eyestudio-lasting-drama-blackest-black-41554220186/p",
+    "fecha_hora_scraping": "2021-06-14 03:33:11",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR EN GEL MAYBELLINE EYESTUDIO LASTING DRAMA BLACKEST BLACK",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_EN_GEL_MAYBELLINE_EYESTUDIO_LASTING_DRAMA_BLACKEST_BLACK.jpg",
+    "presentacion": "UNIDAD X 3 G",
+    "precio": {
+        "bestPrice": "$36.850",
+        "precioPorSku js-PUM": "Gramo a $12.283,33"
+    },
+    "descripcion": "delineador en gel maybelline eyestudio lasting drama blackest black",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 3 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63829-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

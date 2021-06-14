@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-nectar-hit-pera-7702090050820/p",
+    "fecha_hora_scraping": "2021-06-14 05:18:24",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "jugo n\u00e9ctar hit pera",
+    "nombre_imagen": "./web_scraping/data/img/jugo_n\u00e9ctar_hit_pera.jpg",
+    "presentacion": "BOTELLA X 210 ML",
+    "precio": {
+        "bestPrice": "$1.650",
+        "precioPorSku js-PUM": "Mililitro a $7,86"
+    },
+    "descripcion": "jugo n\u00e9ctar hit pera",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 210 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAA12I71315"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

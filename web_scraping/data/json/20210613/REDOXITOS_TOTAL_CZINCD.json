@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/redoxitos-total-czincd-7702123011316/p",
+    "fecha_hora_scraping": "2021-06-14 05:47:50",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "REDOXITOS TOTAL C+ZINC+D",
+    "nombre_imagen": "./web_scraping/data/img/REDOXITOS_TOTAL_CZINCD.jpg",
+    "presentacion": "CAJA X 10 SOB",
+    "precio": {
+        "bestPrice": "$19.100",
+        "precioPorSku js-PUM": "Sobre a $1.910,00"
+    },
+    "descripcion": "redoxitos total c+zinc+d",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001089-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

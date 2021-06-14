@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fleximax-ace-325-mg4-mg-tableta-recubierta-7702870071885/p",
+    "fecha_hora_scraping": "2021-06-14 03:10:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLEXIMAX ACE 325 MG/4 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FLEXIMAX_ACE_325_MG4_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$74.050",
+        "precioPorSku js-PUM": "Tableta a $5.289,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN TIOCOLCHICOSIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016335"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

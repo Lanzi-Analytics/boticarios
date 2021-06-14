@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/renu-multiplus-gotas-lubricantes-310119052136/p",
+    "fecha_hora_scraping": "2021-06-13 23:44:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RENU MULTIPLUS GOTAS LUBRICANTES",
+    "nombre_imagen": "./web_scraping/data/img/RENU_MULTIPLUS_GOTAS_LUBRICANTES.jpg",
+    "presentacion": "FRASCO X 8 ML",
+    "precio": {
+        "PrevPrice": "Antes:$24.100",
+        "bestPrice": "$16.870",
+        "precioPorSku js-PUM": "Mililitro a $2.108,75"
+    },
+    "descripcion": "renu multiplus gotas lubricantes",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 8 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2009DM-0004772"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-baby-moisturizing-cleansing-milk-3760019123448/p",
+    "fecha_hora_scraping": "2021-06-13 23:18:46",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN BABY MOISTURIZING CLEANSING MILK",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_BABY_MOISTURIZING_CLEANSING_MILK.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $152,00"
+    },
+    "descripcion": "soskin baby moisturizing cleansing milk",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76659-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

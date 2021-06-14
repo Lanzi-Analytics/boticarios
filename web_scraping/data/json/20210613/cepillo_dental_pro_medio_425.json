@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cepillo-dental-pro-medio-ref425-2x1-7501086453931/p",
+    "fecha_hora_scraping": "2021-06-14 08:18:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental pro medio 425",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_pro_medio_425.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$10.500",
+        "precioPorSku js-PUM": "Unidad a $10.500,00"
+    },
+    "descripcion": "of cep dent medio pro 425 blist 2x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

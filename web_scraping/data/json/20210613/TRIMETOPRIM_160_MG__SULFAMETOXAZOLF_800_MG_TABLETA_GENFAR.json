@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trimetoprim-160-mg--sulfametoxazol-f-800-mg-tableta-genfar-7702605102655/p",
+    "fecha_hora_scraping": "2021-06-14 08:34:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRIMETOPRIM 160 MG + SULFAMETOXAZOL-F 800 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/TRIMETOPRIM_160_MG__SULFAMETOXAZOLF_800_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$3.965",
+        "precioPorSku js-PUM": "Tableta a $396,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "800 MG 160 MG"
+        ],
+        [
+            "Principio activo",
+            "SULFAMETOXAZOL TRIMETOPRIM"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003367-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-trixera-barra-nutritiva-3282770114096/p",
+    "fecha_hora_scraping": "2021-06-14 03:39:58",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE TRIXERA BARRA NUTRITIVA",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_TRIXERA_BARRA_NUTRITIVA.jpg",
+    "presentacion": "UNIDAD X 100 G",
+    "precio": {
+        "bestPrice": "$38.050",
+        "precioPorSku js-PUM": "Gramo a $380,50"
+    },
+    "descripcion": "avene trixera barra nutritiva",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93112-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

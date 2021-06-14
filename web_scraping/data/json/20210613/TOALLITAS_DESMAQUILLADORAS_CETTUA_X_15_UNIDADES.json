@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-desmaquilladoras-makeup-8809033594560/p",
+    "fecha_hora_scraping": "2021-06-14 00:02:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TOALLITAS DESMAQUILLADORAS CETTUA X 15 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_DESMAQUILLADORAS_CETTUA_X_15_UNIDADES.jpg",
+    "presentacion": "PAQUETE X 15 UN",
+    "precio": {
+        "bestPrice": "$7.300",
+        "precioPorSku js-PUM": "Unidad a $486,67"
+    },
+    "descripcion": "TOALLITAS DESMAQUILLADORAS CETTUA X 15 UNIDADES",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 15 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COBICO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53327-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

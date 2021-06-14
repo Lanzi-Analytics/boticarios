@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/1000002413401aguja-para-pluma-320489-32g-x-4mmequipos-de-cuidado-en-casaaccesorios-medicosbecton-dickinson-1000002413401/p",
+    "fecha_hora_scraping": "2021-06-14 05:33:02",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "AGUJA PARA PLUMA 320489 32G X 4MM",
+    "nombre_imagen": "./web_scraping/data/img/AGUJA_PARA_PLUMA_320489_32G_X_4MM.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "$400",
+        "precioPorSku js-PUM": "Unidad a $4,00"
+    },
+    "descripcion": "aguja para pluma 320489 32g x 4mm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BECTON DICKINSON DE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0017818"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

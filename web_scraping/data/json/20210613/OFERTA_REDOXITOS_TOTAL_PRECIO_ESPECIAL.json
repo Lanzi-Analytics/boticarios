@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-redoxitos-total-precio-especial-7702123010784/p",
+    "fecha_hora_scraping": "2021-06-14 02:36:35",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA REDOXITOS TOTAL PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_REDOXITOS_TOTAL_PRECIO_ESPECIAL.jpg",
+    "presentacion": "2xSOB X 25 UN",
+    "precio": {
+        "bestPrice": "$16.550",
+        "precioPorSku js-PUM": "Unidad a $331,00"
+    },
+    "descripcion": "oferta redoxitos total precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "2xSOB X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001089-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

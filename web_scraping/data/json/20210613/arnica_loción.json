@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arnica-locion-7707145300967/p",
+    "fecha_hora_scraping": "2021-06-13 23:23:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "arnica loci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/arnica_loci\u00f3n.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$5.800",
+        "precioPorSku js-PUM": "Gramo a $96,67"
+    },
+    "descripcion": "arnica loci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS DISANFER SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37135-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

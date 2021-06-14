@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-hit-naranja-pina-7702090029871/p",
+    "fecha_hora_scraping": "2021-06-14 09:51:22",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "jugo hit naranja-pi\u00f1a",
+    "nombre_imagen": "./web_scraping/data/img/jugo_hit_naranjapi\u00f1a.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "PrevPrice": "Antes:$2.050",
+        "bestPrice": "$1.640",
+        "precioPorSku js-PUM": "Mililitro a $3,28"
+    },
+    "descripcion": "jugo hit naranja-pi\u00f1a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIAL12MO3497"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

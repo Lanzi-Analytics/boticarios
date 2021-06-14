@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/la-roche-p-lipikar-baume-crema-3337875696548/p",
+    "fecha_hora_scraping": "2021-06-14 07:47:34",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "LA ROCHE POSAY LIPIKAR BAUME AP+ CREMA CORPORAL",
+    "nombre_imagen": "./web_scraping/data/img/LA_ROCHE_POSAY_LIPIKAR_BAUME_AP_CREMA_CORPORAL.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$109.200",
+        "precioPorSku js-PUM": "Mililitro a $273,00"
+    },
+    "descripcion": "la roche-p lipikar baume crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC21503-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

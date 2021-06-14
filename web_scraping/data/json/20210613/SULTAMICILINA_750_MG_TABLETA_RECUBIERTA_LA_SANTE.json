@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sultamicilina-750-mg-tableta-recubierta-la-sante-7703763994670/p",
+    "fecha_hora_scraping": "2021-06-14 02:54:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SULTAMICILINA 750 MG TABLETA RECUBIERTA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/SULTAMICILINA_750_MG_TABLETA_RECUBIERTA_LA_SANTE.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$120.650",
+        "precioPorSku js-PUM": "Tableta a $12.065,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "700 MG"
+        ],
+        [
+            "Principio activo",
+            "SULTAMICILINA TOSILATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0011776-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/unesia-1--crema-topica-7709990384949/p",
+    "fecha_hora_scraping": "2021-06-14 00:08:44",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UNESIA CREMA ANTIMIC\u00d3TICO 20 G",
+    "nombre_imagen": "./web_scraping/data/img/UNESIA_CREMA_ANTIMIC\u00d3TICO_20_G.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$19.500",
+        "precioPorSku js-PUM": "Gramo a $975,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "BIFONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013183-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atoderm-aceite-huile-douche-3401528520846/p",
+    "fecha_hora_scraping": "2021-06-14 04:53:13",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "ATODERM ACEITE HUILE DOUCHE",
+    "nombre_imagen": "./web_scraping/data/img/ATODERM_ACEITE_HUILE_DOUCHE.jpg",
+    "presentacion": "FRASCO X 1 L",
+    "precio": {
+        "bestPrice": "$129.800",
+        "precioPorSku js-PUM": "Unidad a $131.350,00"
+    },
+    "descripcion": "atoderm aceite huile douche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 1 L"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85587-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

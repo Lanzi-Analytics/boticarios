@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/daflon-1000-mg10-ml-suspension-oral-7709767780325/p",
+    "fecha_hora_scraping": "2021-06-14 06:53:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DAFLON 1000 MG/10 ML SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/DAFLON_1000_MG10_ML_SUSPENSION_ORAL.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "PrevPrice": "Antes:$280.500",
+        "bestPrice": "$224.400",
+        "precioPorSku js-PUM": "Unidad a $7.480,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "90 MG/ML 10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DIOSMINA HESPERIDINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SERVIER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016408-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrosec-jarabe-8908002671018/p",
+    "fecha_hora_scraping": "2021-06-14 00:47:54",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "nutrosec jarabe",
+    "nombre_imagen": "./web_scraping/data/img/nutrosec_jarabe.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$39.450",
+        "precioPorSku js-PUM": "Mililitro a $197,25"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "L & R FARMACEUTICA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003429"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

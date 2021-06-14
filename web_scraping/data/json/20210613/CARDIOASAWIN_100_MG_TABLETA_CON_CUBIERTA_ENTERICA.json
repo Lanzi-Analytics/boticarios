@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cardioasawin-100-mg-tableta-con-cubierta-enterica-7706263001268/p",
+    "fecha_hora_scraping": "2021-06-14 07:21:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CARDIOASAWIN 100 MG TABLETA CON CUBIERTA ENTERICA",
+    "nombre_imagen": "./web_scraping/data/img/CARDIOASAWIN_100_MG_TABLETA_CON_CUBIERTA_ENTERICA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$36.900",
+        "precioPorSku js-PUM": "Tableta a $1.230,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010543"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

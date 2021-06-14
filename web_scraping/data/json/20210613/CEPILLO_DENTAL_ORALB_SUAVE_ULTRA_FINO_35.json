@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-oral-b-ultra-fino-7500435110662/p",
+    "fecha_hora_scraping": "2021-06-14 09:32:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL ORAL-B SUAVE ULTRA FINO 35",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_ORALB_SUAVE_ULTRA_FINO_35.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "PrevPrice": "Antes:$20.500",
+        "bestPrice": "$16.400",
+        "precioPorSku js-PUM": "Unidad a $8.200,00"
+    },
+    "descripcion": "cepillo oralb ultra fino 35 sft x2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015216"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

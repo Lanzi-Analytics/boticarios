@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kuida-crema-corporal-cannabis-7709082594737/p",
+    "fecha_hora_scraping": "2021-06-14 01:03:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "KUIDA CREMA CORPORAL CANNABIS",
+    "nombre_imagen": "./web_scraping/data/img/KUIDA_CREMA_CORPORAL_CANNABIS.jpg",
+    "presentacion": "FRASCO X 450 ML",
+    "precio": {
+        "bestPrice": "$45.650",
+        "precioPorSku js-PUM": "Mililitro a $101,44"
+    },
+    "descripcion": "kuida crema corporal cannabis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 450 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KHIRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87287-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamin-c-with-rose-hips-1000-mg-tableta-74312406904/p",
+    "fecha_hora_scraping": "2021-06-14 07:43:46",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VITAMIN C WITH ROSE HIPS 1000 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/VITAMIN_C_WITH_ROSE_HIPS_1000_MG_TABLETA.jpg",
+    "presentacion": "FRASCO X 100 TAB",
+    "precio": {
+        "bestPrice": "$64.400",
+        "precioPorSku js-PUM": "Tableta a $644,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2017-0003999"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

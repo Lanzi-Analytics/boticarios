@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallas-higienicas-nosotras-buenas-noches-econopack-24und-7702027402876/p",
+    "fecha_hora_scraping": "2021-06-14 10:16:24",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "OFERTA TOALLAS HIGIENICAS NOSOTRAS BUENAS NOCHES ECONOPACK 24UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TOALLAS_HIGIENICAS_NOSOTRAS_BUENAS_NOCHES_ECONOPACK_24UND.jpg",
+    "presentacion": "PAQUETE X 24 UN",
+    "precio": {
+        "PrevPrice": "Antes:$24.000",
+        "bestPrice": "$16.800",
+        "precioPorSku js-PUM": "Unidad a $700,00"
+    },
+    "descripcion": "of toal hig nosot buen noch x24 econop",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 24 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOA00534-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/artrofitum-480-mg-tabletas-recubiertas-7704232001981/p",
+    "fecha_hora_scraping": "2021-06-14 01:24:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ARTROFITUM 480 MG TABLETAS RECUBIERTAS",
+    "nombre_imagen": "./web_scraping/data/img/ARTROFITUM_480_MG_TABLETAS_RECUBIERTAS.jpg",
+    "presentacion": "CAJA X 60 TAB",
+    "precio": {
+        "bestPrice": "$157.450",
+        "precioPorSku js-PUM": "Tableta a $2.624,17"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico. no exceder su consumo leer. indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2018-0002620"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

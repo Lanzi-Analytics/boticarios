@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/daivobet-50-mcg05-mg-gel-5702191011968/p",
+    "fecha_hora_scraping": "2021-06-14 06:29:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DAIVOBET 50 MCG/0.5 MG GEL",
+    "nombre_imagen": "./web_scraping/data/img/DAIVOBET_50_MCG05_MG_GEL.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$176.300",
+        "precioPorSku js-PUM": "Gramo a $5.876,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "CALCIPOTRIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0016577-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

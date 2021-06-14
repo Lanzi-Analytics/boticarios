@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-adhesiva-protesis-sin-sabor-7702314700678/p",
+    "fecha_hora_scraping": "2021-06-14 06:26:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CREMA DENTAL ADHESIVA PROTESIS SIN SABOR",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_ADHESIVA_PROTESIS_SIN_SABOR.jpg",
+    "presentacion": "TUBO X 25 G",
+    "precio": {
+        "bestPrice": "$10.450",
+        "precioPorSku js-PUM": "Gramo a $418,00"
+    },
+    "descripcion": "crema dental adhesiva protesis sin sabor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 25 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000237-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

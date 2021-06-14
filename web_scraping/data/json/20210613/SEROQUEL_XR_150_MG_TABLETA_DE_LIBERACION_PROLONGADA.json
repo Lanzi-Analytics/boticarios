@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seroquel-xr-150-mg-tableta-de-liberacion-prolongada-5000455019720/p",
+    "fecha_hora_scraping": "2021-06-14 05:31:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SEROQUEL XR 150 MG TABLETA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/SEROQUEL_XR_150_MG_TABLETA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$68.450",
+        "precioPorSku js-PUM": "Tableta a $2.281,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "QUETIAPINA FUMARATO"
+        ],
+        [
+            "Laboratorio",
+            "ASTRAZENECA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012575-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

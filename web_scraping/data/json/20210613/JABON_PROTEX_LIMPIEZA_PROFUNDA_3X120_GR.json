@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-protex-limpieza-profunda-3x120-gr-7702010921483/p",
+    "fecha_hora_scraping": "2021-06-14 09:45:25",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JABON PROTEX LIMPIEZA PROFUNDA 3X120 GR",
+    "nombre_imagen": "./web_scraping/data/img/JABON_PROTEX_LIMPIEZA_PROFUNDA_3X120_GR.jpg",
+    "presentacion": "TRIPACK X 360G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $26,39"
+    },
+    "descripcion": "JABON PROTEX LIMPIEZA PROFUNDA 3X120 GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TRIPACK X 360G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73184-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

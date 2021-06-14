@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nulytely-polvo-cereza-7707204490110/p",
+    "fecha_hora_scraping": "2021-06-14 08:41:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NULYTELY POLVO CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/NULYTELY_POLVO_CEREZA.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$17.075",
+        "precioPorSku js-PUM": "Unidad a $17.075,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "105 G"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 3350"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-015336-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

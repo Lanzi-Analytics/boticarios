@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corrector-loreal-paris-true-match-concealer-lightmedium-71249017319/p",
+    "fecha_hora_scraping": "2021-06-14 09:52:18",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CORRECTOR L'OR\u00c9AL PARIS TRUE MATCH CONCEALER LIGHT/MEDIUM",
+    "nombre_imagen": "./web_scraping/data/img/CORRECTOR_LOR\u00c9AL_PARIS_TRUE_MATCH_CONCEALER_LIGHTMEDIUM.jpg",
+    "presentacion": "UNIDAD X 5.2 ML",
+    "precio": {
+        "bestPrice": "$40.750",
+        "precioPorSku js-PUM": "Mililitro a $7.836,54"
+    },
+    "descripcion": "corrector l'or\u00e9al paris true match concealer light/medium",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 5.2 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC27576-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

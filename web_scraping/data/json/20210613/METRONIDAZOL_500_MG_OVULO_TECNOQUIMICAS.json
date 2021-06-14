@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metronidazol-500-mg-ovulo-tecnoquimicas-7702057074241/p",
+    "fecha_hora_scraping": "2021-06-14 04:49:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METRONIDAZOL 500 MG OVULO TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/METRONIDAZOL_500_MG_OVULO_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 5 OVU",
+    "precio": {
+        "bestPrice": "$4.575",
+        "precioPorSku js-PUM": "OVULO a $915,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 5 OVU"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-012362-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

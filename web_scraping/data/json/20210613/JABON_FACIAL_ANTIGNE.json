@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-facial-antigne-7707232091877/p",
+    "fecha_hora_scraping": "2021-06-14 09:06:11",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "JABON FACIAL ANTIGNE",
+    "nombre_imagen": "./web_scraping/data/img/JABON_FACIAL_ANTIGNE.jpg",
+    "presentacion": "BARRA X 90 G",
+    "precio": {
+        "bestPrice": "$9.600",
+        "precioPorSku js-PUM": "Gramo a $106,67"
+    },
+    "descripcion": "jabon facial antigne",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90905-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

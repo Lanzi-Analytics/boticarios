@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/verapamilo-80-mg-tableta-recubierta-la-sante-7703763120123/p",
+    "fecha_hora_scraping": "2021-06-14 08:39:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VERAPAMILO 80 MG TABLETA RECUBIERTA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/VERAPAMILO_80_MG_TABLETA_RECUBIERTA_LA_SANTE.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$2.450",
+        "precioPorSku js-PUM": "Tableta a $245,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "80 MG"
+        ],
+        [
+            "Principio activo",
+            "VERAPAMILO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-012136-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

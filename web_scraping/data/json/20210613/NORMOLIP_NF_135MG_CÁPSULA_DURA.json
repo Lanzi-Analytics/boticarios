@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/normolip-nf-135mg-capsula-dura-7702207100080/p",
+    "fecha_hora_scraping": "2021-06-13 23:43:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NORMOLIP NF 135MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/NORMOLIP_NF_135MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$179.100",
+        "precioPorSku js-PUM": "Tableta a $5.970,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "135 MG"
+        ],
+        [
+            "Principio activo",
+            "FENOFIBRATO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014178-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/comfortvision-gotas-7709990686722/p",
+    "fecha_hora_scraping": "2021-06-14 10:14:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COMFORTVISION GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/COMFORTVISION_GOTAS.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$22.800",
+        "precioPorSku js-PUM": "Mililitro a $1.520,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CARBOXIMETILCELULOSA SODICA"
+        ],
+        [
+            "Laboratorio",
+            "VISION AND HEALTH LAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014408"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

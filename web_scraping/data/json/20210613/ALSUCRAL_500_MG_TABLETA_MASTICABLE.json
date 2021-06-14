@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alsucral-500-mg-tableta-masticable-7704588000034/p",
+    "fecha_hora_scraping": "2021-06-14 08:41:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALSUCRAL 500 MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/ALSUCRAL_500_MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$14.800",
+        "precioPorSku js-PUM": "Tableta a $740,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "SUCRALFATO"
+        ],
+        [
+            "Laboratorio",
+            "ROPSOHN THERAPEUTICS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010M-011435-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

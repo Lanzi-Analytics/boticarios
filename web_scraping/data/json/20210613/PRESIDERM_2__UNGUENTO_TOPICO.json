@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/presiderm-2--unguento-topico-7703281000112/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "PRESIDERM 2 % UNGUENTO TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/PRESIDERM_2__UNGUENTO_TOPICO.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$55.850",
+        "precioPorSku js-PUM": "Gramo a $3.723,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "MUPIROCINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004649-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

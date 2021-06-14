@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xelar-facial-men-fcox200ml-7709154598069/p",
+    "fecha_hora_scraping": "2021-06-14 01:07:14",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "xelar facial men fcox200ml",
+    "nombre_imagen": "./web_scraping/data/img/xelar_facial_men_fcox200ml.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$60.504",
+        "precioPorSku js-PUM": "Mililitro a $302,52"
+    },
+    "descripcion": "xelar facial men fcox200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOHEALTHY SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70939-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

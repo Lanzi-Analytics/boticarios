@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ducray-creastim-locion-3282779421577/p",
+    "fecha_hora_scraping": "2021-06-14 01:24:46",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DUCRAY CREASTIM LOCION",
+    "nombre_imagen": "./web_scraping/data/img/DUCRAY_CREASTIM_LOCION.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$189.900",
+        "precioPorSku js-PUM": "Mililitro a $6.330,00"
+    },
+    "descripcion": "ducray creastim locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC58101-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

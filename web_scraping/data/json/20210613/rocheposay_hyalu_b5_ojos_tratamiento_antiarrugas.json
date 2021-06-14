@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/roche-posay-hyalu-b5-ojos-tratamiento-anti-arrugas-3337875613668/p",
+    "fecha_hora_scraping": "2021-06-14 03:09:15",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "roche-posay hyalu b5 ojos tratamiento anti-arrugas",
+    "nombre_imagen": "./web_scraping/data/img/rocheposay_hyalu_b5_ojos_tratamiento_antiarrugas.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$96.000",
+        "precioPorSku js-PUM": "Mililitro a $6.400,00"
+    },
+    "descripcion": "roche-posay hyalu b5 ojos tratamiento anti-arrugas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86478-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

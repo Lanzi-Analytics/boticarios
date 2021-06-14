@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/emclarex-gel-7702195086656/p",
+    "fecha_hora_scraping": "2021-06-14 10:27:46",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "EMCLAREX GEL",
+    "nombre_imagen": "./web_scraping/data/img/EMCLAREX_GEL.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$119.850",
+        "precioPorSku js-PUM": "Gramo a $3.995,00"
+    },
+    "descripcion": "emclarex gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC18771-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

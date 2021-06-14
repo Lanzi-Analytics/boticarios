@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/renobell-5-locion-7705451000250/p",
+    "fecha_hora_scraping": "2021-06-14 00:08:11",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "RENOBELL 5% LOCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/RENOBELL_5_LOCI\u00d3N.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$54.500",
+        "precioPorSku js-PUM": "Mililitro a $908,33"
+    },
+    "descripcion": "renobell 5% loci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "5 %"
+        ],
+        [
+            "Principio activo",
+            "MINOXIDIL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS REMO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005059-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

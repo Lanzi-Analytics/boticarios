@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panitos-nosotras-agua-de-rosas-x16-7702026184681/p",
+    "fecha_hora_scraping": "2021-06-13 23:11:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "PA\u00d1ITOS NOSOTRAS AGUA DE ROSAS X16",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ITOS_NOSOTRAS_AGUA_DE_ROSAS_X16.jpg",
+    "presentacion": "PAQUETE X 16UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $343,75"
+    },
+    "descripcion": "PA\u00d1ITOS NOSOTRAS AGUA DE ROSAS X16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 16UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC96688-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

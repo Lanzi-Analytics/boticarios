@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/reconstructor-neogen-anticaida-7707183820366/p",
+    "fecha_hora_scraping": "2021-06-13 23:25:30",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "RECONSTRUCTOR NEOGEN ANTICAIDA",
+    "nombre_imagen": "./web_scraping/data/img/RECONSTRUCTOR_NEOGEN_ANTICAIDA.jpg",
+    "presentacion": "TUBO X 150 ML",
+    "precio": {
+        "PrevPrice": "Antes:$143.150",
+        "bestPrice": "$107.362",
+        "precioPorSku js-PUM": "Mililitro a $715,75"
+    },
+    "descripcion": "reconstructor neogen anticaida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85893-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

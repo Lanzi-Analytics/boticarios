@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-hit-frutas-tropicales-7702090029888/p",
+    "fecha_hora_scraping": "2021-06-14 04:22:28",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "jugo hit frutas tropicales",
+    "nombre_imagen": "./web_scraping/data/img/jugo_hit_frutas_tropicales.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "$2.050",
+        "precioPorSku js-PUM": "Mililitro a $4,10"
+    },
+    "descripcion": "jugo hit frutas tropicales",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIAL12MO3497"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

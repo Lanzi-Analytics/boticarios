@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calprax-clear-locion-7702605106547/p",
+    "fecha_hora_scraping": "2021-06-14 00:43:02",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALPRAX CLEAR LOCION",
+    "nombre_imagen": "./web_scraping/data/img/CALPRAX_CLEAR_LOCION.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$15.950",
+        "precioPorSku js-PUM": "Mililitro a $159,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "PRAMOXINA CLORHIDRATO ZINC ACETATO DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007487-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

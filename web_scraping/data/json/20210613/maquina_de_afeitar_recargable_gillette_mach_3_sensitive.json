@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-gillette-mach3-sensitive-7702018037803/p",
+    "fecha_hora_scraping": "2021-06-14 01:42:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar recargable gillette mach 3 sensitive",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_recargable_gillette_mach_3_sensitive.jpg",
+    "presentacion": "PAQUETE X 1 UN",
+    "precio": {
+        "PrevPrice": "Antes:$23.550",
+        "bestPrice": "$18.840",
+        "precioPorSku js-PUM": "Unidad a $18.840,00"
+    },
+    "descripcion": "maquina afeit gillette mach3 sensitive",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

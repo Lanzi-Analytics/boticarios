@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lactibon-ph-35-barra-7703281004325/p",
+    "fecha_hora_scraping": "2021-06-14 09:53:03",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "LACTIBON PH 3.5 BARRA",
+    "nombre_imagen": "./web_scraping/data/img/LACTIBON_PH_35_BARRA.jpg",
+    "presentacion": "BARRA X 120 G",
+    "precio": {
+        "bestPrice": "$42.700",
+        "precioPorSku js-PUM": "Gramo a $355,83"
+    },
+    "descripcion": "lactibon ph 3.5 barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC3943-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/iltuxam-40-mg10-mg-comprimido-recubierto-7841141003474/p",
+    "fecha_hora_scraping": "2021-06-14 02:38:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ILTUXAM 40 MG/10 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/ILTUXAM_40_MG10_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$181.750",
+        "precioPorSku js-PUM": "Comprimido a $6.491,07"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "40 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "OLMESARTAN MEDOXOMILO AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014449"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

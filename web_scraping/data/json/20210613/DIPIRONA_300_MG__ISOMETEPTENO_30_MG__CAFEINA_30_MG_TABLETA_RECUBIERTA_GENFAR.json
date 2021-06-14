@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dipirona-300-mg--isometepteno-30-mg--cafeina-30-mg-tableta-recubierta-genfar-7705959881290/p",
+    "fecha_hora_scraping": "2021-06-14 03:05:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIPIRONA 300 MG + ISOMETEPTENO 30 MG + CAFEINA 30 MG TABLETA RECUBIERTA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/DIPIRONA_300_MG__ISOMETEPTENO_30_MG__CAFEINA_30_MG_TABLETA_RECUBIERTA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$7.385",
+        "precioPorSku js-PUM": "Tableta a $738,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG 30,0 MG 30,0 MG"
+        ],
+        [
+            "Principio activo",
+            "DIPIRONA SODIO CAFEINA ANHIDRA ISOMETHEPTENO MUCATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004332-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

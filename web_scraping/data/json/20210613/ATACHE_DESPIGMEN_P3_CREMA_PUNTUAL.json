@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-despigmen-p3-crema-puntual-8430795008714/p",
+    "fecha_hora_scraping": "2021-06-14 05:39:04",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE DESPIGMEN P3 CREMA PUNTUAL",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_DESPIGMEN_P3_CREMA_PUNTUAL.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$86.100",
+        "precioPorSku js-PUM": "Mililitro a $5.740,00"
+    },
+    "descripcion": "atache despigmen p3 crema puntual",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92520-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

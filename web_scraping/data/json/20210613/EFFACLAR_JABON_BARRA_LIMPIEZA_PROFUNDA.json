@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/effaclar-jabon-barra-limpieza-profunda-7899706149211/p",
+    "fecha_hora_scraping": "2021-06-14 05:27:26",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EFFACLAR JABON BARRA LIMPIEZA PROFUNDA",
+    "nombre_imagen": "./web_scraping/data/img/EFFACLAR_JABON_BARRA_LIMPIEZA_PROFUNDA.jpg",
+    "presentacion": "BARRA X 70 G",
+    "precio": {
+        "bestPrice": "$33.950",
+        "precioPorSku js-PUM": "Gramo a $485,00"
+    },
+    "descripcion": "effaclar jabon barra limpieza profunda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 70 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC21988-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

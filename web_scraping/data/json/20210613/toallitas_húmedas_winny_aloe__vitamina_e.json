@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-winny-aloe--vitamina-e-7701021143655/p",
+    "fecha_hora_scraping": "2021-06-14 03:52:56",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "toallitas h\u00famedas winny aloe + vitamina e",
+    "nombre_imagen": "./web_scraping/data/img/toallitas_h\u00famedas_winny_aloe__vitamina_e.jpg",
+    "presentacion": "PAQUETE X 24 UN",
+    "precio": {
+        "bestPrice": "$2.850",
+        "precioPorSku js-PUM": "Unidad a $118,75"
+    },
+    "descripcion": "toallitas h\u00famedas winny aloe + vitamina e",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 24 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC44917-11C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

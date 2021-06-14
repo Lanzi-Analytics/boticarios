@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-nitrilo-talla-m-7707228360628/p",
+    "fecha_hora_scraping": "2021-06-14 01:21:32",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES NITRILO TALLA M",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_NITRILO_TALLA_M.jpg",
+    "presentacion": "CAJA X 50 Par",
+    "precio": {
+        "bestPrice": "$93.150",
+        "precioPorSku js-PUM": "Parche a $1.863,00"
+    },
+    "descripcion": "guantes nitrilo talla m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 Par"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016700"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

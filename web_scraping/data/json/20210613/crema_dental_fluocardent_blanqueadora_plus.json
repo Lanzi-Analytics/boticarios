@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-fluocardent-blanqueadora-plus-7702560035999/p",
+    "fecha_hora_scraping": "2021-06-14 03:34:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental fluocardent blanqueadora plus",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_fluocardent_blanqueadora_plus.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$8.650",
+        "precioPorSku js-PUM": "Mililitro a $115,33"
+    },
+    "descripcion": "crm den fluocardent blanquea plus x75c",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66534-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

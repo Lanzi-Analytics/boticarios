@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-max-factor-hi-fi-negro-x2und-precio-especial-7702044169684/p",
+    "fecha_hora_scraping": "2021-06-14 07:37:38",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR MAX FACTOR HI-FI NEGRO X2UND PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_MAX_FACTOR_HIFI_NEGRO_X2UND_PRECIO_ESPECIAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $3.845,00"
+    },
+    "descripcion": "delineador max factor hi-fi negro x2und precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC2079-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panuelos-kleenex-orig-junior-3-x50-pre-especial-7702425640788/p",
+    "fecha_hora_scraping": "2021-06-14 02:20:53",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "PA\u00d1UELOS KLEENEX ORIG JUNIOR 3 X50 PRE ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1UELOS_KLEENEX_ORIG_JUNIOR_3_X50_PRE_ESPECIAL.jpg",
+    "presentacion": "PAQUETE X 150 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $58,00"
+    },
+    "descripcion": "PA\u00d1UELOS KLEENEX ORIG JUNIOR 3 X50 PRE ESPECIAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 150 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

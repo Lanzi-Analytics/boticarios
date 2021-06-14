@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitis-orthodontic-cepillo-dental-8427426008373/p",
+    "fecha_hora_scraping": "2021-06-14 01:09:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "VITIS ORTHODONTIC CEPILLO DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/VITIS_ORTHODONTIC_CEPILLO_DENTAL.jpg",
+    "presentacion": "UNIDAD X 1 UN",
+    "precio": {
+        "bestPrice": "$17.700",
+        "precioPorSku js-PUM": "Unidad a $17.700,00"
+    },
+    "descripcion": "cepillo dental vitis orthodontic den",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005759"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

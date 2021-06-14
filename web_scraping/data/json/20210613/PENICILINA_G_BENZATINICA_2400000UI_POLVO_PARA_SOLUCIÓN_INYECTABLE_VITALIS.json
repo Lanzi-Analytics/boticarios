@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/penicilina-g-benzatinica-2400000ui-polvo-para-solucion-inyectable-vitalis-7707236123659/p",
+    "fecha_hora_scraping": "2021-06-14 10:11:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PENICILINA G BENZATINICA 2.400.000UI POLVO PARA SOLUCI\u00d3N INYECTABLE VITALIS",
+    "nombre_imagen": "./web_scraping/data/img/PENICILINA_G_BENZATINICA_2400000UI_POLVO_PARA_SOLUCI\u00d3N_INYECTABLE_VITALIS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$6.450",
+        "precioPorSku js-PUM": "Via a $6.450,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "2400000 IU"
+        ],
+        [
+            "Principio activo",
+            "PENICILINA G BENZATINICA"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2020M-011498-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bolsa-ostomia-sur-fit-ninos-45-mm-768455049394/p",
+    "fecha_hora_scraping": "2021-06-14 04:30:04",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BOLSA OSTOMIA SUR-FIT NI\u00d1OS 45 MM",
+    "nombre_imagen": "./web_scraping/data/img/BOLSA_OSTOMIA_SURFIT_NI\u00d1OS_45_MM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $13.380,00"
+    },
+    "descripcion": "bolsa ostomia sur-fit ni\u00f1os 45 mm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0000028-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

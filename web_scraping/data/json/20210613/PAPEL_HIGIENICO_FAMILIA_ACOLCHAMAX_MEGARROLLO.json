@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/papel-higienico-familia-acolchamax-megarrollo-7702026185589/p",
+    "fecha_hora_scraping": "2021-06-14 10:23:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "PAPEL HIGIENICO FAMILIA ACOLCHAMAX MEGARROLLO",
+    "nombre_imagen": "./web_scraping/data/img/PAPEL_HIGIENICO_FAMILIA_ACOLCHAMAX_MEGARROLLO.jpg",
+    "presentacion": "PAQUETE X 4 UN",
+    "precio": {
+        "bestPrice": "$8.050",
+        "precioPorSku js-PUM": "Unidad a $2.012,50"
+    },
+    "descripcion": "papel higienico familia acolchamax megarrollo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 4 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

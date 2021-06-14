@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707293750034forsoy-sin-azucar-polvo-vainillanutricion-y-vida-saludablesuplementospharmalab-7707293750034/p",
+    "fecha_hora_scraping": "2021-06-14 01:26:57",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "FORSOY SIN AZUCAR POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/FORSOY_SIN_AZUCAR_POLVO_VAINILLA.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$34.100",
+        "precioPorSku js-PUM": "Gramo a $85,25"
+    },
+    "descripcion": "forsoy sin azucar polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PHARMALAB PHL LABORATORIOS SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD05I17411"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

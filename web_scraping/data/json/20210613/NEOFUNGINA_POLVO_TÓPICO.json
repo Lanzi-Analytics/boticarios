@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neofungina-polvo-topico-7706142707106/p",
+    "fecha_hora_scraping": "2021-06-14 08:53:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "NEOFUNGINA POLVO T\u00d3PICO",
+    "nombre_imagen": "./web_scraping/data/img/NEOFUNGINA_POLVO_T\u00d3PICO.jpg",
+    "presentacion": "FRASCO X 40 G",
+    "precio": {
+        "bestPrice": "$9.450",
+        "precioPorSku js-PUM": "Gramo a $236,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "20 G 2 G"
+        ],
+        [
+            "Principio activo",
+            "UNDECILENATO ZINC UNDECILENICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NEO LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-003107-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

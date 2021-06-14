@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/estrilac-crema-7707222420366/p",
+    "fecha_hora_scraping": "2021-06-14 07:01:51",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "ESTRILAC CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ESTRILAC_CREMA.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$104.200",
+        "precioPorSku js-PUM": "Gramo a $1.042,00"
+    },
+    "descripcion": "estrilac crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC19273-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

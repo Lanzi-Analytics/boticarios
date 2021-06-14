@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallas-higienicas-nosotras-natural-invisible-precio-especial-7702027416927/p",
+    "fecha_hora_scraping": "2021-06-14 01:39:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toallas higienicas nosotras natural invisible precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallas_higienicas_nosotras_natural_invisible_precio_especial.jpg",
+    "presentacion": "EMPAQUE X 8 UN",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Unidad a $603,13"
+    },
+    "descripcion": "of toalla hig nosot nat invisib x8 2x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

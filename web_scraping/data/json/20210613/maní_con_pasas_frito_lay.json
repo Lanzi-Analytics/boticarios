@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-con-pasas-frito-lay-7702189040510/p",
+    "fecha_hora_scraping": "2021-06-14 00:20:25",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "man\u00ed con pasas frito lay",
+    "nombre_imagen": "./web_scraping/data/img/man\u00ed_con_pasas_frito_lay.jpg",
+    "presentacion": "PAQUETE X 50 G",
+    "precio": {
+        "bestPrice": "$1.850",
+        "precioPorSku js-PUM": "Gramo a $37,00"
+    },
+    "descripcion": "man\u00ed con pasas frito lay",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD05I5906"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

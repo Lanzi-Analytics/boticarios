@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolni-k-gel-dental-7705028000133/p",
+    "fecha_hora_scraping": "2021-06-14 03:25:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DOLNI-K GEL DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/DOLNIK_GEL_DENTAL.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$28.500",
+        "precioPorSku js-PUM": "Gramo a $475,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "50 MG/G 2.7 MG/G"
+        ],
+        [
+            "Principio activo",
+            "POTASIO NITRATO SODIO FLUORURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FARPAG SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010803"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

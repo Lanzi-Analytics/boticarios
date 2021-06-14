@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dihidrocodeina-bitartato-242mg-jarabe-humax-7707321981539/p",
+    "fecha_hora_scraping": "2021-06-14 06:06:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIHIDROCODEINA BITARTATO 2.42MG JARABE HUMAX",
+    "nombre_imagen": "./web_scraping/data/img/DIHIDROCODEINA_BITARTATO_242MG_JARABE_HUMAX.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$5.700",
+        "precioPorSku js-PUM": "Mililitro a $47,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "242 MG"
+        ],
+        [
+            "Principio activo",
+            "DIHIDROCODEINA BITARTRATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0007952"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

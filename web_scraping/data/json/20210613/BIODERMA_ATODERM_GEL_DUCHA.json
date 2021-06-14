@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/3401399372407naos-colombiadermocosmeticabellezaatoderm-gel-duchabioderma-biodemar-bioderm-3401399372407/p",
+    "fecha_hora_scraping": "2021-06-14 08:28:21",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA ATODERM GEL DUCHA",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_ATODERM_GEL_DUCHA.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$89.450",
+        "precioPorSku js-PUM": "Mililitro a $178,90"
+    },
+    "descripcion": "atoderm gel ducha",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44937-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-cleanance-emulsion-3282770959888/p",
+    "fecha_hora_scraping": "2021-06-14 05:12:15",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE CLEANANCE EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_CLEANANCE_EMULSION.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$96.150",
+        "precioPorSku js-PUM": "Mililitro a $2.403,75"
+    },
+    "descripcion": "avene cleanance emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC15672-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

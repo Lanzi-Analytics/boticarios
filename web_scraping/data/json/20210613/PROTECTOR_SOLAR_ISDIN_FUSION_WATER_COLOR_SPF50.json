@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-isdin-fusion-water-color-spf50-8429420154186/p",
+    "fecha_hora_scraping": "2021-06-14 00:51:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR ISDIN FUSION WATER COLOR SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_ISDIN_FUSION_WATER_COLOR_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$97.650",
+        "precioPorSku js-PUM": "Mililitro a $1.953,00"
+    },
+    "descripcion": "protector solar isdin fusion water color",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85915-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

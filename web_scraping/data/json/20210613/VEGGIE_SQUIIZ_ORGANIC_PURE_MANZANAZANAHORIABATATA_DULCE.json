@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/veggie-squiiz-organic-pure-manzanazanahoriabatata-dulce-854688003682/p",
+    "fecha_hora_scraping": "2021-06-14 04:03:20",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "VEGGIE SQUIIZ ORGANIC PURE MANZANA/ZANAHORIA/BATATA DULCE",
+    "nombre_imagen": "./web_scraping/data/img/VEGGIE_SQUIIZ_ORGANIC_PURE_MANZANAZANAHORIABATATA_DULCE.jpg",
+    "presentacion": "SOBRE X 90 G",
+    "precio": {
+        "bestPrice": "$3.800",
+        "precioPorSku js-PUM": "Gramo a $42,22"
+    },
+    "descripcion": "veggie squiiz organic pure manzana/zanahoria/batata dulce",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MAH! COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PSA-000447-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

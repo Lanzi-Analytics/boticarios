@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-para-peinar-jhonsons-hidratacion-intensa-7702031878452/p",
+    "fecha_hora_scraping": "2021-06-14 07:45:34",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "crema para peinar jhonson's hidrataci\u00f3n intensa",
+    "nombre_imagen": "./web_scraping/data/img/crema_para_peinar_jhonsons_hidrataci\u00f3n_intensa.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$12.050",
+        "precioPorSku js-PUM": "Mililitro a $60,25"
+    },
+    "descripcion": "crema peinar johnson 200 ml hidrat int",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2008CO29774"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eptavis-1-g-ninos-granulado-7702057019716/p",
+    "fecha_hora_scraping": "2021-06-14 08:48:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EPTAVIS 1 G NI\u00d1OS GRANULADO",
+    "nombre_imagen": "./web_scraping/data/img/EPTAVIS_1_G_NI\u00d1OS_GRANULADO.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "$79.150",
+        "precioPorSku js-PUM": "Unidad a $13.191,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016364"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

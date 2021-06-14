@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/adorlan-25-mg25-mg-tableta-7861073963585/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ADORLAN 25 MG/25 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ADORLAN_25_MG25_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$77.000",
+        "precioPorSku js-PUM": "Tableta a $3.850,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "TRAMADOL CLORHIDRATO DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011548-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/herrex-fol-1000-mg-tableta-recubierta-7703454121620/p",
+    "fecha_hora_scraping": "2021-06-14 07:35:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HERREX FOL 1000 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/HERREX_FOL_1000_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$92.050",
+        "precioPorSku js-PUM": "Tableta a $3.068,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG 1 MG"
+        ],
+        [
+            "Principio activo",
+            "HIERRO POLIMALTOSADO FOLICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0008003-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

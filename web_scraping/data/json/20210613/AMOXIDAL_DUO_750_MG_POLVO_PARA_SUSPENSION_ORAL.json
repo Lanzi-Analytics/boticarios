@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amoxidal-duo-750-mg-polvo-para-suspension-oral-7795345010540/p",
+    "fecha_hora_scraping": "2021-06-14 06:20:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMOXIDAL DUO 750 MG POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/AMOXIDAL_DUO_750_MG_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 70 ML",
+    "precio": {
+        "bestPrice": "$38.900",
+        "precioPorSku js-PUM": "Mililitro a $555,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 70 ML"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-014711-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

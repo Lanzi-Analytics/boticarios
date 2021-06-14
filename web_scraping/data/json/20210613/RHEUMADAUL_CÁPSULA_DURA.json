@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rheumadaul-capsula-dura-7707237630026/p",
+    "fecha_hora_scraping": "2021-06-14 07:41:20",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "RHEUMADAUL C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/RHEUMADAUL_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "bestPrice": "$12.650",
+        "precioPorSku js-PUM": "Capsula a $632,50"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO EL MANA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2008-0000907"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

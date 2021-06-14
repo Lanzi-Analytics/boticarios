@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-cvital-gel-contorno-ojos-8430795001227/p",
+    "fecha_hora_scraping": "2021-06-14 04:53:30",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE CVITAL GEL CONTORNO OJOS",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_CVITAL_GEL_CONTORNO_OJOS.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$102.350",
+        "precioPorSku js-PUM": "Mililitro a $6.823,33"
+    },
+    "descripcion": "atache cvital gel contorno ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57586-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

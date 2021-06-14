@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-proteina-7702870051023/p",
+    "fecha_hora_scraping": "2021-06-14 05:38:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY PROTEINA+",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_PROTEINA.jpg",
+    "presentacion": "TARRO X 275 G",
+    "precio": {
+        "bestPrice": "$54.100",
+        "precioPorSku js-PUM": "Gramo a $196,73"
+    },
+    "descripcion": "ensoy proteina+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 275 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007264-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

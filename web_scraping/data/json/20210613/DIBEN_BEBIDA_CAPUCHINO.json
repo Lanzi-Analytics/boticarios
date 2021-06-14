@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diben-bebida-capuchino-7709916125526/p",
+    "fecha_hora_scraping": "2021-06-14 09:53:14",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "DIBEN BEBIDA CAPUCHINO",
+    "nombre_imagen": "./web_scraping/data/img/DIBEN_BEBIDA_CAPUCHINO.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$7.450",
+        "precioPorSku js-PUM": "Mililitro a $37,25"
+    },
+    "descripcion": "diben bebida capuchino",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FRESENIUS KABI COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA19I22814"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panuelo-facial-kleenex-cubo-triple-hoja-7702425642157/p",
+    "fecha_hora_scraping": "2021-06-14 06:13:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "pa\u00f1uelo facial kleenex cubo triple hoja",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1uelo_facial_kleenex_cubo_triple_hoja.jpg",
+    "presentacion": "CAJA X 60 UN",
+    "precio": {
+        "PrevPrice": "Antes:$5.400",
+        "bestPrice": "$3.780",
+        "precioPorSku js-PUM": "Unidad a $63,00"
+    },
+    "descripcion": "panuelo fac kleenex cubo trip hoja x60",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

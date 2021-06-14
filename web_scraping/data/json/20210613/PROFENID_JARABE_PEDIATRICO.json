@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/profenid-jarabe-pediatrico-7891058008277/p",
+    "fecha_hora_scraping": "2021-06-14 10:16:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PROFENID JARABE PEDIATRICO",
+    "nombre_imagen": "./web_scraping/data/img/PROFENID_JARABE_PEDIATRICO.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$27.750",
+        "precioPorSku js-PUM": "Mililitro a $185,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "KETOPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-014564-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

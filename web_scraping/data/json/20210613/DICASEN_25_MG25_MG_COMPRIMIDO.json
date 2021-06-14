@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dicasen-25-mg25-mg-comprimido-7841141003955/p",
+    "fecha_hora_scraping": "2021-06-14 08:39:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DICASEN 25 MG/25 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/DICASEN_25_MG25_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$81.800",
+        "precioPorSku js-PUM": "Tableta a $2.726,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "TRAMADOL CLORHIDRATO DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015865-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

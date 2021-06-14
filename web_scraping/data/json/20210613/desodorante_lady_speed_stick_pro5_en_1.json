@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-lady-speed-stick-pro-5-en-1-7509546057545/p",
+    "fecha_hora_scraping": "2021-06-14 03:14:28",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante lady speed stick pro-5 en 1",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_lady_speed_stick_pro5_en_1.jpg",
+    "presentacion": "BARRA X 45 G",
+    "precio": {
+        "bestPrice": "$16.150",
+        "precioPorSku js-PUM": "Gramo a $358,89"
+    },
+    "descripcion": "deo lss pro-5 en 1 bar 45g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 45 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC51515-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lumbal-relax-500-mg400-mg-tableta-recubierta-7702870071892/p",
+    "fecha_hora_scraping": "2021-06-14 08:45:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LUMBAL RELAX 500 MG/400 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/LUMBAL_RELAX_500_MG400_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "BLISTER X 6 TAB",
+    "precio": {
+        "bestPrice": "$10.805",
+        "precioPorSku js-PUM": "Tableta a $1.800,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 6 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 400 MG"
+        ],
+        [
+            "Principio activo",
+            "METOCARBAMOL IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016179"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

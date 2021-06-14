@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/restaurador-neogen-cejas-y-pestanas-7707183820397/p",
+    "fecha_hora_scraping": "2021-06-14 00:52:17",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RESTAURADOR NEOGEN CEJAS Y PESTA\u00d1AS",
+    "nombre_imagen": "./web_scraping/data/img/RESTAURADOR_NEOGEN_CEJAS_Y_PESTA\u00d1AS.jpg",
+    "presentacion": "TUBO X 4 ML",
+    "precio": {
+        "PrevPrice": "Antes:$96.050",
+        "bestPrice": "$72.037",
+        "precioPorSku js-PUM": "Mililitro a $18.009,25"
+    },
+    "descripcion": "restaurador neogen cejas y pesta\u00f1as",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90583-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

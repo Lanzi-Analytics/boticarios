@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiras-reactivas-onetouch-ultra-7613427011493/p",
+    "fecha_hora_scraping": "2021-06-14 06:34:00",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TIRAS REACTIVAS ONETOUCH ULTRA",
+    "nombre_imagen": "./web_scraping/data/img/TIRAS_REACTIVAS_ONETOUCH_ULTRA.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "PrevPrice": "Antes:$115.600",
+        "bestPrice": "$92.480",
+        "precioPorSku js-PUM": "Unidad a $1.849,60"
+    },
+    "descripcion": "TIRAS REACTIVAS ONETOUCH ULTRA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS TIRAS DE GLUCOMTERIA"
+        ],
+        [
+            "Laboratorio",
+            "OPERANDO MEDICOS & QUIRURGICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0000724"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-nutratopic-emoliente-8470001547927/p",
+    "fecha_hora_scraping": "2021-06-14 06:56:41",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CREMA NUTRATOPIC EMOLIENTE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_NUTRATOPIC_EMOLIENTE.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$79.750",
+        "precioPorSku js-PUM": "Mililitro a $1.595,00"
+    },
+    "descripcion": "crema nutratopic emoliente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70869-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

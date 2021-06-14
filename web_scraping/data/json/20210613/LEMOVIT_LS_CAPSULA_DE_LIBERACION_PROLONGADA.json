@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lemovit-ls-capsula-de-liberacion-prolongada-7703153022136/p",
+    "fecha_hora_scraping": "2021-06-14 00:29:42",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "LEMOVIT LS CAPSULA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/LEMOVIT_LS_CAPSULA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$28.500",
+        "precioPorSku js-PUM": "Capsula a $950,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0011329-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

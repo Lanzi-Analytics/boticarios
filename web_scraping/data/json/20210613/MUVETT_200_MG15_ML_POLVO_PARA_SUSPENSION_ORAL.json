@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/muvett-200-mg15-ml-polvo-para-suspension-oral-7703153017262/p",
+    "fecha_hora_scraping": "2021-06-14 02:58:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MUVETT 200 MG/15 ML POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/MUVETT_200_MG15_ML_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$83.050",
+        "precioPorSku js-PUM": "Mililitro a $692,08"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "13.33 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TRIMEBUTINA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004780-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

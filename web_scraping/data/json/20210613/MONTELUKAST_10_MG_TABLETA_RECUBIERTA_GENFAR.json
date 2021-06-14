@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702605104451genfarformuladosmedicamentosmontelukast-10-mg-tableta-recubierta-genfarmontelukast-sodio-7702605104451/p",
+    "fecha_hora_scraping": "2021-06-14 09:07:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MONTELUKAST 10 MG TABLETA RECUBIERTA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/MONTELUKAST_10_MG_TABLETA_RECUBIERTA_GENFAR.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$18.850",
+        "precioPorSku js-PUM": "Tableta a $1.885,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "MONTELUKAST SODIO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003643-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

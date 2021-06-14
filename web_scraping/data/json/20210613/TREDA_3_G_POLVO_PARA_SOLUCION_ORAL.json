@@ -1,13 +1,14 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/treda-3-g-polvo-para-solucion-oral-7702195205750/p",
-    "fecha_hora_scraping": "2021-06-13 18:13:37",
+    "fecha_hora_scraping": "2021-06-14 05:34:10",
     "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "TREDA 3 G POLVO PARA SOLUCION ORAL",
     "nombre_imagen": "./web_scraping/data/img/TREDA_3_G_POLVO_PARA_SOLUCION_ORAL.jpg",
     "presentacion": "CAJA X 6 SOB",
     "precio": {
-        "bestPrice": "$32.150",
-        "precioPorSku js-PUM": "Unidad a $5.358,33"
+        "PrevPrice": "Antes:$32.150",
+        "bestPrice": "$22.505",
+        "precioPorSku js-PUM": "Unidad a $3.750,83"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [

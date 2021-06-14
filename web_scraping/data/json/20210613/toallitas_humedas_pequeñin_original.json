@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-pequenin-original-7702026031329/p",
+    "fecha_hora_scraping": "2021-06-14 09:17:44",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "toallitas humedas peque\u00f1in original",
+    "nombre_imagen": "./web_scraping/data/img/toallitas_humedas_peque\u00f1in_original.jpg",
+    "presentacion": "PAQUETE X 24 UN",
+    "precio": {
+        "bestPrice": "$2.750",
+        "precioPorSku js-PUM": "Unidad a $114,58"
+    },
+    "descripcion": "toallitas humedas peque\u00f1in original",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 24 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89742-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

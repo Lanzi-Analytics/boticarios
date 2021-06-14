@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mango-para-cepillo-interproximal-proquident-7702314154013/p",
+    "fecha_hora_scraping": "2021-06-14 01:49:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "MANGO PARA CEPILLO INTERPROXIMAL PROQUIDENT",
+    "nombre_imagen": "./web_scraping/data/img/MANGO_PARA_CEPILLO_INTERPROXIMAL_PROQUIDENT.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$9.700",
+        "precioPorSku js-PUM": "Unidad a $3.233,33"
+    },
+    "descripcion": "mango para cepillo interproximal proquid",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0001210-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

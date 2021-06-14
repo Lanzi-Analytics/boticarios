@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-para-peinar-orgnx-aceite-argan-67545046351/p",
+    "fecha_hora_scraping": "2021-06-14 04:15:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "CREMA PARA PEINAR ORGNX ACEITE ARGAN",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PARA_PEINAR_ORGNX_ACEITE_ARGAN.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$47.450",
+        "precioPorSku js-PUM": "Mililitro a $189,80"
+    },
+    "descripcion": "crema para peinar orgnx aceite argan",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83395-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-micelar-ponds-original-7506306210950/p",
+    "fecha_hora_scraping": "2021-06-14 00:14:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "agua micelar ponds original",
+    "nombre_imagen": "./web_scraping/data/img/agua_micelar_ponds_original.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$18.500",
+        "precioPorSku js-PUM": "Mililitro a $61,67"
+    },
+    "descripcion": "agua micelar ponds original",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88154-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

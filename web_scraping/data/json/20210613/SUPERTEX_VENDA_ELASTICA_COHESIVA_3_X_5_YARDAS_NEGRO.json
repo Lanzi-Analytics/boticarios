@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/supertex-venda-elastica-cohesiva-3-x-5-yardas-negro-7703010327299/p",
+    "fecha_hora_scraping": "2021-06-14 00:02:43",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|fisioterapia y rehabilitaci\u00f3n",
+    "titulo": "SUPERTEX VENDA ELASTICA COHESIVA 3\" X 5 YARDAS NEGRO",
+    "nombre_imagen": "./web_scraping/data/img/SUPERTEX_VENDA_ELASTICA_COHESIVA_3_X_5_YARDAS_NEGRO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.350",
+        "precioPorSku js-PUM": "Unidad a $8.350,00"
+    },
+    "descripcion": "supertex venda elastica cohesiva 3\" x 5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUPERTEX MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007879"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

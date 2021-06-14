@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/termometro-digital-punta-flexible-begut-7707282990403/p",
+    "fecha_hora_scraping": "2021-06-14 01:17:03",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "termometro digital punta flexible begut",
+    "nombre_imagen": "./web_scraping/data/img/termometro_digital_punta_flexible_begut.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$12.000",
+        "bestPrice": "$9.000",
+        "precioPorSku js-PUM": "Unidad a $9.000"
+    },
+    "descripcion": "termometro digital punta flexible begut",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SEVENPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0006402"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

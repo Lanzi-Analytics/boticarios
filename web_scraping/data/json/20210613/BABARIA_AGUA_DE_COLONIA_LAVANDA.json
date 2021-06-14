@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-agua-de-colonia-lavanda-8410412506991/p",
+    "fecha_hora_scraping": "2021-06-14 09:57:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BABARIA AGUA DE COLONIA LAVANDA",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_AGUA_DE_COLONIA_LAVANDA.jpg",
+    "presentacion": "FRASCO X 600 ML",
+    "precio": {
+        "bestPrice": "$15.600",
+        "precioPorSku js-PUM": "Mililitro a $26,00"
+    },
+    "descripcion": "babaria agua de colonia lavanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 600 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC4087-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

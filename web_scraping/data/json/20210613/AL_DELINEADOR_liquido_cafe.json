@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-delineador-liquido-cafe-309975045024/p",
+    "fecha_hora_scraping": "2021-06-14 05:32:22",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL DELINEADOR liquido cafe",
+    "nombre_imagen": "./web_scraping/data/img/AL_DELINEADOR_liquido_cafe.jpg",
+    "presentacion": "TUBO X 3 ML",
+    "precio": {
+        "bestPrice": "$45.800",
+        "precioPorSku js-PUM": "Mililitro a $15.793,10"
+    },
+    "descripcion": "al delineador liquido cafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54461-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

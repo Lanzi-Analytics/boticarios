@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/odam-kids-crema-dental-7707293750027/p",
+    "fecha_hora_scraping": "2021-06-14 10:18:28",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "ODAM KIDS CREMA DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/ODAM_KIDS_CREMA_DENTAL.jpg",
+    "presentacion": "TUBO X 75 G",
+    "precio": {
+        "bestPrice": "$12.650",
+        "precioPorSku js-PUM": "Gramo a $168,67"
+    },
+    "descripcion": "odam kids crema dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMALAB PHL LABORATORIOS SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87948-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

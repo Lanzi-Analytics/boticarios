@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-colombina-choco-break-cookies-7702011092021/p",
+    "fecha_hora_scraping": "2021-06-14 07:39:44",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta colombina choco break cookies",
+    "nombre_imagen": "./web_scraping/data/img/paleta_colombina_choco_break_cookies.jpg",
+    "presentacion": "UNIDAD X 60 G",
+    "precio": {
+        "bestPrice": "$2.500",
+        "precioPorSku js-PUM": "Gramo a $41,67"
+    },
+    "descripcion": "paleta colombina choco break cookies",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 60 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD02M27293"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

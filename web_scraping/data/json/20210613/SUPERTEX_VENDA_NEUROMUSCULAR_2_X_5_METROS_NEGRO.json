@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/supertex-venda-neuromuscular-2-x-5-metros-negro-7703010327251/p",
+    "fecha_hora_scraping": "2021-06-14 06:05:53",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|fisioterapia y rehabilitaci\u00f3n",
+    "titulo": "SUPERTEX VENDA NEUROMUSCULAR 2\" X 5 METROS NEGRO",
+    "nombre_imagen": "./web_scraping/data/img/SUPERTEX_VENDA_NEUROMUSCULAR_2_X_5_METROS_NEGRO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$23.500",
+        "precioPorSku js-PUM": "Unidad a $23.500,00"
+    },
+    "descripcion": "supertex venda neuromuscular 2\" x 5 metr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUPERTEX MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007879"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

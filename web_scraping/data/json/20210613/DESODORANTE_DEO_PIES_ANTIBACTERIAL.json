@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-deo-pies-antibacterial-7702113014327/p",
+    "fecha_hora_scraping": "2021-06-14 05:12:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "DESODORANTE DEO PIES ANTIBACTERIAL",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_DEO_PIES_ANTIBACTERIAL.jpg",
+    "presentacion": "BOTELLA X 260 ML",
+    "precio": {
+        "bestPrice": "$18.800",
+        "precioPorSku js-PUM": "Mililitro a $72,31"
+    },
+    "descripcion": "desod spray deopies 260 ml antibacteri",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 260 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

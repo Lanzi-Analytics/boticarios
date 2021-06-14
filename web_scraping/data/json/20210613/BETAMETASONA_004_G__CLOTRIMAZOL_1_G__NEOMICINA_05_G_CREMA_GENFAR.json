@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betametasona-004-g--clotrimazol-1-g--neomicina-05-g-crema-genfar-7702605103874/p",
+    "fecha_hora_scraping": "2021-06-14 01:00:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BETAMETASONA 0.04 G + CLOTRIMAZOL 1 G + NEOMICINA 0.5 G CREMA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/BETAMETASONA_004_G__CLOTRIMAZOL_1_G__NEOMICINA_05_G_CREMA_GENFAR.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$14.750",
+        "precioPorSku js-PUM": "Gramo a $737,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "1 G 0.5 G 0.04 G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL NEOMICINA SULFATO BETAMETASONA DIPROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0001938-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

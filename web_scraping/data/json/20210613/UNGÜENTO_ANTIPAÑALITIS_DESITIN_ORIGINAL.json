@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ungento-antipanalitis-desitin-original-7702031927471/p",
+    "fecha_hora_scraping": "2021-06-14 04:06:32",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "UNG\u00dcENTO ANTIPA\u00d1ALITIS DESITIN ORIGINAL",
+    "nombre_imagen": "./web_scraping/data/img/UNG\u00dcENTO_ANTIPA\u00d1ALITIS_DESITIN_ORIGINAL.jpg",
+    "presentacion": "TUBO X 28 G",
+    "precio": {
+        "bestPrice": "$11.200",
+        "precioPorSku js-PUM": "Gramo a $400,00"
+    },
+    "descripcion": "unguento antipanalitis desitin 28 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 28 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2009CO32917"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-robin-hood-mega-cono-chocomani-7702011092953/p",
+    "fecha_hora_scraping": "2021-06-14 07:43:57",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado robin hood mega cono chocomani",
+    "nombre_imagen": "./web_scraping/data/img/helado_robin_hood_mega_cono_chocomani.jpg",
+    "presentacion": "UNIDAD X 115 G",
+    "precio": {
+        "bestPrice": "$2.150",
+        "precioPorSku js-PUM": "Gramo a $18,70"
+    },
+    "descripcion": "helado robin hood mega cono chocomani",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 115 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD02M27193"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

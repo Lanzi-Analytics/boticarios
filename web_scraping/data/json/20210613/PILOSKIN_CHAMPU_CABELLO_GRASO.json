@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/piloskin-champu-cabello-graso-7707327210046/p",
+    "fecha_hora_scraping": "2021-06-14 10:29:59",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "PILOSKIN CHAMPU CABELLO GRASO",
+    "nombre_imagen": "./web_scraping/data/img/PILOSKIN_CHAMPU_CABELLO_GRASO.jpg",
+    "presentacion": "FRASCO X 280 ML",
+    "precio": {
+        "bestPrice": "$51.800",
+        "precioPorSku js-PUM": "Mililitro a $185,00"
+    },
+    "descripcion": "piloskin champu cabello graso",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06117-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

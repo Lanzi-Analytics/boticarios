@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aciclovir-5--unguento-genfar-7702605100156/p",
+    "fecha_hora_scraping": "2021-06-14 00:57:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACICLOVIR 5 % UNGUENTO GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/ACICLOVIR_5__UNGUENTO_GENFAR.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$12.500",
+        "precioPorSku js-PUM": "Gramo a $833,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "5 G"
+        ],
+        [
+            "Principio activo",
+            "ACICLOVIR"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-005619-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

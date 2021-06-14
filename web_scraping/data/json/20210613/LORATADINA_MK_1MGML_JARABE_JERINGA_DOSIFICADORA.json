@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/loratadina-mk-1mgml-jarabe-jeringa-dosificadora-7702057711986/p",
+    "fecha_hora_scraping": "2021-06-14 09:15:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LORATADINA MK 1MG/ML JARABE +JERINGA DOSIFICADORA",
+    "nombre_imagen": "./web_scraping/data/img/LORATADINA_MK_1MGML_JARABE_JERINGA_DOSIFICADORA.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$11.250",
+        "precioPorSku js-PUM": "Mililitro a $112,50"
+    },
+    "descripcion": "loratadina mk 1mg/ml jarabe +jeringa dosificadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-015135-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

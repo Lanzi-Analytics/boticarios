@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/yael-2-mg003mg-tableta-recubierta-7703153025618/p",
+    "fecha_hora_scraping": "2021-06-14 10:03:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "YAEL 2 MG/0.03MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/YAEL_2_MG003MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$11.550",
+        "precioPorSku js-PUM": "Tableta a $550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0,03 MG"
+        ],
+        [
+            "Principio activo",
+            "DIENOGEST ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011563-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

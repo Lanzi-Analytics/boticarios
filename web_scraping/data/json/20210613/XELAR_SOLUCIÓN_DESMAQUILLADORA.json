@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xelar-solucion-desmaquilladora-7709447476890/p",
+    "fecha_hora_scraping": "2021-06-14 09:02:16",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "XELAR SOLUCI\u00d3N DESMAQUILLADORA",
+    "nombre_imagen": "./web_scraping/data/img/XELAR_SOLUCI\u00d3N_DESMAQUILLADORA.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$64.700",
+        "precioPorSku js-PUM": "Mililitro a $269,58"
+    },
+    "descripcion": "xelar soluci\u00f3n desmaquilladora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOHEALTHY SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70988-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

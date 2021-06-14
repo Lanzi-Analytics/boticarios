@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desire-2mg-tableta-recubierta-7792183000788/p",
+    "fecha_hora_scraping": "2021-06-14 08:36:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DESIRE 2MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DESIRE_2MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$62.100",
+        "precioPorSku js-PUM": "Tableta a $2.217,86"
+    },
+    "descripcion": "DESIRE 2MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG"
+        ],
+        [
+            "Principio activo",
+            "DIENOGEST"
+        ],
+        [
+            "Laboratorio",
+            "GADOR SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0019658"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

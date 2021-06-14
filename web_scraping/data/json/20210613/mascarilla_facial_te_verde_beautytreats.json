@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mascarilla-facial-te-verde-beautytreats-8429979449481/p",
+    "fecha_hora_scraping": "2021-06-14 04:15:22",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "mascarilla facial te verde beautytreats",
+    "nombre_imagen": "./web_scraping/data/img/mascarilla_facial_te_verde_beautytreats.jpg",
+    "presentacion": "SOBRE X 1 UN",
+    "precio": {
+        "bestPrice": "$26.650",
+        "precioPorSku js-PUM": "Unidad a $26.650,00"
+    },
+    "descripcion": "mascarilla facial te verde beautytreats",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94534-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neuro-15-capsula-7706440000695/p",
+    "fecha_hora_scraping": "2021-06-14 00:01:05",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "NEURO-15 CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/NEURO15_CAPSULA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$24.550",
+        "precioPorSku js-PUM": "Capsula a $818,33"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0000638-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

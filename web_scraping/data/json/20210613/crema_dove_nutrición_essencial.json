@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dove-nutricion-essencial-7501056346157/p",
+    "fecha_hora_scraping": "2021-06-14 04:55:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "crema dove nutrici\u00f3n essencial",
+    "nombre_imagen": "./web_scraping/data/img/crema_dove_nutrici\u00f3n_essencial.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$19.350",
+        "precioPorSku js-PUM": "Mililitro a $48,38"
+    },
+    "descripcion": "crema dove nutricion essencial 400 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC45947-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/terravital-05-ungento-oftalmico-7709990697889/p",
+    "fecha_hora_scraping": "2021-06-14 08:14:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TERRAVITAL 0.5% UNG\u00dcENTO OFTALMICO",
+    "nombre_imagen": "./web_scraping/data/img/TERRAVITAL_05_UNG\u00dcENTO_OFTALMICO.jpg",
+    "presentacion": "TUBO X 10G",
+    "precio": {
+        "bestPrice": "$14.950",
+        "precioPorSku js-PUM": "Gramo a $1.495,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10G"
+        ],
+        [
+            "Concentracion",
+            "5 MG/G 10000 UI/G"
+        ],
+        [
+            "Principio activo",
+            "OXITETRACICLINA CLORHIDRATO POLIMIXINA B SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014263-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

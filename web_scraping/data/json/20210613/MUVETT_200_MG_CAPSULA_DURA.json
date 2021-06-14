@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/muvett-200-mg-capsula-dura-7703153006396/p",
+    "fecha_hora_scraping": "2021-06-14 07:37:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MUVETT 200 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/MUVETT_200_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$85.250",
+        "precioPorSku js-PUM": "Tableta a $4.059,52"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "TRIMEBUTINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0000192-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

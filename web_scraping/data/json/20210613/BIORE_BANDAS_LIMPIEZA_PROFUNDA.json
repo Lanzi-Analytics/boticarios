@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biore-bandas-limpieza-profunda-19100171442/p",
+    "fecha_hora_scraping": "2021-06-14 01:51:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "BIORE BANDAS LIMPIEZA PROFUNDA",
+    "nombre_imagen": "./web_scraping/data/img/BIORE_BANDAS_LIMPIEZA_PROFUNDA.jpg",
+    "presentacion": "CAJA X 8 UN",
+    "precio": {
+        "bestPrice": "$24.950",
+        "precioPorSku js-PUM": "Unidad a $3.118,75"
+    },
+    "descripcion": "biore bandas limpieza profunda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC27768-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

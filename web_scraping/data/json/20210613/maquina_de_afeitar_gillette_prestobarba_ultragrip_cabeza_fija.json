@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-gillette-prestobarba-ultragrip-7501009222767/p",
+    "fecha_hora_scraping": "2021-06-14 07:47:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "MAQUINA DE AFEITAR GILLETTE PRESTOBARBA ULTRAGRIP CABEZA FIJA",
+    "nombre_imagen": "./web_scraping/data/img/MAQUINA_DE_AFEITAR_GILLETTE_PRESTOBARBA_ULTRAGRIP_CABEZA_FIJA.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$12.900",
+        "bestPrice": "$10.320",
+        "precioPorSku js-PUM": "Unidad a $3.440,00"
+    },
+    "descripcion": "maquina prestobarba ultragrip x3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

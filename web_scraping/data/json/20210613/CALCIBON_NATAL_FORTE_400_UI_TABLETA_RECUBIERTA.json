@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calcibon-natal-forte-400-ui-tableta-recubierta-7703454123532/p",
+    "fecha_hora_scraping": "2021-06-14 01:32:51",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "CALCIBON NATAL FORTE 400 UI TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CALCIBON_NATAL_FORTE_400_UI_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$73.200",
+        "precioPorSku js-PUM": "Tableta a $2.440,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG 400 UI 18 MG"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CITRATO TETRAHIDRATO VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015487"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

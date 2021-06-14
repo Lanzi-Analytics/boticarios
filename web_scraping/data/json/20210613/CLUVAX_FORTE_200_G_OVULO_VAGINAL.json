@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cluvax-forte-200-g-ovulo-vaginal-7702207310632/p",
+    "fecha_hora_scraping": "2021-06-14 00:40:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLUVAX FORTE 200 G OVULO VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/CLUVAX_FORTE_200_G_OVULO_VAGINAL.jpg",
+    "presentacion": "CAJA X 7 OVU",
+    "precio": {
+        "bestPrice": "$124.850",
+        "precioPorSku js-PUM": "OVULO a $17.835,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 OVU"
+        ],
+        [
+            "Concentracion",
+            "200 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL CLINDAMICINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018314"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

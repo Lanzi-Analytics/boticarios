@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-pies-mexsana-advance-aerosol-7702123009924/p",
+    "fecha_hora_scraping": "2021-06-14 05:58:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "desodorante pies mexsana advance aerosol",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_pies_mexsana_advance_aerosol.jpg",
+    "presentacion": "ENVASE X 260 ML",
+    "precio": {
+        "bestPrice": "$15.850",
+        "precioPorSku js-PUM": "Mililitro a $60,96"
+    },
+    "descripcion": "des mexana pies advance aerosol x 26",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 260 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73914-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

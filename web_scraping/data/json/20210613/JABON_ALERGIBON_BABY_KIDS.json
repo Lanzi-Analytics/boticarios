@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-alergibon-baby-kids-7703281009924/p",
+    "fecha_hora_scraping": "2021-06-14 09:41:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "JABON ALERGIBON BABY KIDS",
+    "nombre_imagen": "./web_scraping/data/img/JABON_ALERGIBON_BABY_KIDS.jpg",
+    "presentacion": "BARRA X 150 G",
+    "precio": {
+        "bestPrice": "$20.350",
+        "precioPorSku js-PUM": "Gramo a $135,67"
+    },
+    "descripcion": "jabon alergibon baby kids",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC20745-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

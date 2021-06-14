@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-hugies-natcare-prematuro-maxi-x30-cotton-7794626007149/p",
+    "fecha_hora_scraping": "2021-06-14 05:22:46",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1AL HUGIES NATCARE PREMATURO MAXI X30 COTTON",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_HUGIES_NATCARE_PREMATURO_MAXI_X30_COTTON.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $945,00"
+    },
+    "descripcion": "PA\u00d1AL HUGIES NATCARE PREMATURO MAXI X30 COTTON",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07478-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/umbrella-max-resistente-al-agua-7703281001096/p",
+    "fecha_hora_scraping": "2021-06-14 03:00:27",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "UMBRELLA MAX RESISTENTE AL AGUA",
+    "nombre_imagen": "./web_scraping/data/img/UMBRELLA_MAX_RESISTENTE_AL_AGUA.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$76.850",
+        "precioPorSku js-PUM": "Gramo a $1.280,83"
+    },
+    "descripcion": "umbrella max resistente al agua",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56513-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

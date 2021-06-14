@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betarretin-005--crema-7703333007045/p",
+    "fecha_hora_scraping": "2021-06-14 02:22:51",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BETARRETIN 0.05 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/BETARRETIN_005__CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$41.900",
+        "precioPorSku js-PUM": "Gramo a $1.396,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "RETINOICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-012228-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

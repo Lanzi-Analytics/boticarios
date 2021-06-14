@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toalla-natural-buenas-noches-x24-7702026191870/p",
+    "fecha_hora_scraping": "2021-06-14 07:36:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "OFERTA-TOALLA NATURAL BUENAS NOCHES X24",
+    "nombre_imagen": "./web_scraping/data/img/OFERTATOALLA_NATURAL_BUENAS_NOCHES_X24.jpg",
+    "presentacion": "PAQUETE X 24UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.162,50"
+    },
+    "descripcion": "OFERTA-TOALLA NATURAL BUENAS NOCHES X24",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 24UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02193-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

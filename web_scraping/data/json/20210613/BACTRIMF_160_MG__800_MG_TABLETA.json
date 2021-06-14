@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bactrim-f-160-mg-800-mg-tableta-7707355055923/p",
+    "fecha_hora_scraping": "2021-06-14 01:23:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BACTRIM-F 160 MG / 800 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/BACTRIMF_160_MG__800_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$42.600",
+        "precioPorSku js-PUM": "Tableta a $4.260,00"
+    },
+    "descripcion": "bactrim-f 160 mg / 800 mg tableta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "800 MG 160 MG"
+        ],
+        [
+            "Principio activo",
+            "SULFAMETOXAZOL TRIMETOPRIM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-002312-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

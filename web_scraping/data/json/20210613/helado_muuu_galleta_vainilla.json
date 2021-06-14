@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-muuu-galleta-vainilla-7702011090799/p",
+    "fecha_hora_scraping": "2021-06-14 01:37:07",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado muuu galleta vainilla",
+    "nombre_imagen": "./web_scraping/data/img/helado_muuu_galleta_vainilla.jpg",
+    "presentacion": "UNIDAD X 55 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $24,55"
+    },
+    "descripcion": "helado muuu galleta vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 55 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA02I26805"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

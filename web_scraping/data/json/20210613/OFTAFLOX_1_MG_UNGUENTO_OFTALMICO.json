@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oftaflox-1-mg-unguento-oftalmico-7703281001997/p",
+    "fecha_hora_scraping": "2021-06-14 00:37:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OFTAFLOX 1 MG UNGUENTO OFTALMICO",
+    "nombre_imagen": "./web_scraping/data/img/OFTAFLOX_1_MG_UNGUENTO_OFTALMICO.jpg",
+    "presentacion": "TUBO X 5 G",
+    "precio": {
+        "PrevPrice": "Antes:$27.850",
+        "bestPrice": "$19.495",
+        "precioPorSku js-PUM": "Gramo a $3.899,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 5 G"
+        ],
+        [
+            "Concentracion",
+            "3.5 MG/G 1 MG/G 10000 UI/G"
+        ],
+        [
+            "Principio activo",
+            "NEOMICINA SULFATO DEXAMETASONA POLIMIXINA B SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004978-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutren-10-liquido-vainilla-798716062107/p",
+    "fecha_hora_scraping": "2021-06-14 09:46:34",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTREN 1.0 L\u00cdQUIDO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/NUTREN_10_L\u00cdQUIDO_VAINILLA.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $34,20"
+    },
+    "descripcion": "nutren 1.0 l\u00edquido vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAXTER SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000784-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7706569001184lafrancolformuladosmedicamentosamoxicilina-250-mg-polvo-para-suspension-la-francolamoxicilina-trihidrato-7706569001184/p",
+    "fecha_hora_scraping": "2021-06-14 04:41:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMOXICILINA 250 MG POLVO PARA SUSPENSION LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/AMOXICILINA_250_MG_POLVO_PARA_SUSPENSION_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$7.800",
+        "precioPorSku js-PUM": "Mililitro a $78,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2005M-0004807"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

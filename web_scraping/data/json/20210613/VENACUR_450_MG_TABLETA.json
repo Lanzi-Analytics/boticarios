@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venacur-450-mg-tableta-7703234101262/p",
+    "fecha_hora_scraping": "2021-06-14 10:26:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VENACUR 450 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/VENACUR_450_MG_TABLETA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$47.550",
+        "precioPorSku js-PUM": "Tableta a $4.755,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "450 MG"
+        ],
+        [
+            "Principio activo",
+            "DIOSMINA"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016882"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

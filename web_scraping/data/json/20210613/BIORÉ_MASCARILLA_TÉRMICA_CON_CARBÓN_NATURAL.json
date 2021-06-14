@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biore-mascarilla-termica-con-carbon-natural-19100203679/p",
+    "fecha_hora_scraping": "2021-06-14 05:55:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "BIOR\u00c9 MASCARILLA T\u00c9RMICA CON CARB\u00d3N NATURAL",
+    "nombre_imagen": "./web_scraping/data/img/BIOR\u00c9_MASCARILLA_T\u00c9RMICA_CON_CARB\u00d3N_NATURAL.jpg",
+    "presentacion": "CAJA X 4 UN",
+    "precio": {
+        "bestPrice": "$25.450",
+        "precioPorSku js-PUM": "Gramo a $908,93"
+    },
+    "descripcion": "bior\u00e9 mascarilla t\u00e9rmica con carb\u00f3n natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70606-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

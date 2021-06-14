@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gumivit-calciovitamina-d-melocoton-naranja-sin-azucar-7703153030278/p",
+    "fecha_hora_scraping": "2021-06-14 10:21:59",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GUMIVIT CALCIO+VITAMINA D MELOCOTON-NARANJA SIN AZUCAR",
+    "nombre_imagen": "./web_scraping/data/img/GUMIVIT_CALCIOVITAMINA_D_MELOCOTONNARANJA_SIN_AZUCAR.jpg",
+    "presentacion": "FRASCO X 60 UN",
+    "precio": {
+        "bestPrice": "$23.950",
+        "precioPorSku js-PUM": "Unidad a $399,17"
+    },
+    "descripcion": "gumivit calcio+vitamina d melocoton-nara",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD16I84414"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-luminous-white-instant-7509546061832/p",
+    "fecha_hora_scraping": "2021-06-14 01:16:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "crema dental colgate luminous white instant",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_colgate_luminous_white_instant.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "PrevPrice": "Antes:$16.950",
+        "bestPrice": "$11.865",
+        "precioPorSku js-PUM": "Mililitro a $158,20"
+    },
+    "descripcion": "cre dent colgate luminuos bla insta 75",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC58883-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

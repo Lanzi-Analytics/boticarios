@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/valnoc-3mg-tableta-recubierta-7702207308028/p",
+    "fecha_hora_scraping": "2021-06-14 01:07:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VALNOC 3MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/VALNOC_3MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 15 TAB",
+    "precio": {
+        "bestPrice": "$89.850",
+        "precioPorSku js-PUM": "Tableta a $5.990,00"
+    },
+    "descripcion": "VALNOC 3MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 TAB"
+        ],
+        [
+            "Concentracion",
+            "3 MG"
+        ],
+        [
+            "Principio activo",
+            "ESZOPICLONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0012097-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

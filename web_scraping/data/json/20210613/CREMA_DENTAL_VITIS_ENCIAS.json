@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-vitis-encias-8427426029774/p",
+    "fecha_hora_scraping": "2021-06-14 04:50:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CREMA DENTAL VITIS ENCIAS",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_VITIS_ENCIAS.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$27.450",
+        "precioPorSku js-PUM": "Mililitro a $274,50"
+    },
+    "descripcion": "crema dental vitis encias",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC30763-06PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

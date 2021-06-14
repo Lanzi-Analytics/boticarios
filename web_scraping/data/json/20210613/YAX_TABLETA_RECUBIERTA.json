@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/yax-tableta-recubierta-7702870002766/p",
+    "fecha_hora_scraping": "2021-06-14 10:17:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "YAX TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/YAX_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$24.500",
+        "precioPorSku js-PUM": "Tableta a $1.166,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "3 MG 0,03 MG"
+        ],
+        [
+            "Principio activo",
+            "DROSPIRENONA ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0004318-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-bloqueador-solar-tanga-crema-spf60-gratis-gel-calmante-tanga-7702113696110/p",
+    "fecha_hora_scraping": "2021-06-14 01:04:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "oferta bloqueador solar tanga crema spf60+ gratis gel calmante tanga",
+    "nombre_imagen": "./web_scraping/data/img/oferta_bloqueador_solar_tanga_crema_spf60_gratis_gel_calmante_tanga.jpg",
+    "presentacion": "ENVASE X 150 G",
+    "precio": {
+        "bestPrice": "$40.600",
+        "precioPorSku js-PUM": "Gramo a $270,67"
+    },
+    "descripcion": "oferta bloqueador solar tanga crema spf60+ gratis gel calmante tanga",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 150 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC21049-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-filtroderm-emulsion-spf43-pague-1-un-lleve-2-und-7707173602156/p",
+    "fecha_hora_scraping": "2021-06-14 08:35:31",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "OFERTA FILTRODERM EMULSION SPF43 PAGUE: 1 UN LLEVE: 2 UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_FILTRODERM_EMULSION_SPF43_PAGUE_1_UN_LLEVE_2_UND.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$134.350",
+        "precioPorSku js-PUM": "Gramo a $2.239,17"
+    },
+    "descripcion": "oferta filtroderm emulsion spf43 pague:",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38305-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

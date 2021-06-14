@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/forzamax-adultos-vainilla-7707016405555/p",
+    "fecha_hora_scraping": "2021-06-14 09:21:10",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "FORZAMAX ADULTOS VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/FORZAMAX_ADULTOS_VAINILLA.jpg",
+    "presentacion": "FRASCO X 400 G",
+    "precio": {
+        "bestPrice": "$34.300",
+        "precioPorSku js-PUM": "Gramo a $85,75"
+    },
+    "descripcion": "forzamax adultos vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTIPLES COMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAE02I36205"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

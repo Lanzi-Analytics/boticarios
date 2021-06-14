@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-prebiotico-fresa-polvo-8427030003177/p",
+    "fecha_hora_scraping": "2021-06-14 03:16:24",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE PREBIOTICO FRESA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_PREBIOTICO_FRESA_POLVO.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$47.450",
+        "precioPorSku js-PUM": "Gramo a $118,63"
+    },
+    "descripcion": "ensure prebiotico fresa polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-006275-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

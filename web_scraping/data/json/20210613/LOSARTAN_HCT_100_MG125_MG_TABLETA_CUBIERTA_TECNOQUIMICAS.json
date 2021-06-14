@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/losartan-hct-100-mg125-mg-tableta-cubierta-tecnoquimicas-7702057709020/p",
+    "fecha_hora_scraping": "2021-06-14 01:09:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LOSARTAN HCT 100 MG/12.5 MG TABLETA CUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LOSARTAN_HCT_100_MG125_MG_TABLETA_CUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$110.800",
+        "precioPorSku js-PUM": "Tableta a $3.693,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG 12,5 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN HIDROCLOROTIAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012844-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

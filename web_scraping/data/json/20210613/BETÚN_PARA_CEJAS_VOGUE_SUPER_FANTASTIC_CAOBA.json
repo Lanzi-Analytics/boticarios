@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betun-para-cejas-vogue-super-fantastic-caoba-7509552826685/p",
+    "fecha_hora_scraping": "2021-06-14 10:27:41",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "BET\u00daN PARA CEJAS VOGUE SUPER FANTASTIC CAOBA",
+    "nombre_imagen": "./web_scraping/data/img/BET\u00daN_PARA_CEJAS_VOGUE_SUPER_FANTASTIC_CAOBA.jpg",
+    "presentacion": "UNIDAD X 4 G",
+    "precio": {
+        "bestPrice": "$10.500",
+        "precioPorSku js-PUM": "Gramo a $2.625,00"
+    },
+    "descripcion": "bet\u00fan para cejas vogue super fantastic caoba",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82154-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

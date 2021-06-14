@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hilo-dental-colgate-menta-7891024183021/p",
+    "fecha_hora_scraping": "2021-06-14 02:15:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "hilo dental colgate menta",
+    "nombre_imagen": "./web_scraping/data/img/hilo_dental_colgate_menta.jpg",
+    "presentacion": "EMPAQUE X 50 MET",
+    "precio": {
+        "bestPrice": "$11.650",
+        "precioPorSku js-PUM": "Metro a $233,00"
+    },
+    "descripcion": "hilo dent colgate 50 mts menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 50 MET"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA2007DM-0001248"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

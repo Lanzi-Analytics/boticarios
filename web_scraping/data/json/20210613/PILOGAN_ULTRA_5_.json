@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pilogan-ultra-5--7703258113135/p",
+    "fecha_hora_scraping": "2021-06-13 23:58:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "PILOGAN ULTRA 5 %",
+    "nombre_imagen": "./web_scraping/data/img/PILOGAN_ULTRA_5_.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$97.650",
+        "precioPorSku js-PUM": "Mililitro a $1.627,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "5 %"
+        ],
+        [
+            "Principio activo",
+            "MINOXIDIL"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-014554-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

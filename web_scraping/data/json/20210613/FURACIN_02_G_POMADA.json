@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/furacin-02-g-pomada-7703202221350/p",
+    "fecha_hora_scraping": "2021-06-14 01:35:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FURACIN 0.2 G POMADA",
+    "nombre_imagen": "./web_scraping/data/img/FURACIN_02_G_POMADA.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$34.550",
+        "precioPorSku js-PUM": "Gramo a $863,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "2 MG/G"
+        ],
+        [
+            "Principio activo",
+            "NITROFURAZONA"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-003407-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

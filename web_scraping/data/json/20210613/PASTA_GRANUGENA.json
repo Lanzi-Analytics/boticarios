@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasta-granugena-7704039112101/p",
+    "fecha_hora_scraping": "2021-06-14 00:38:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PASTA GRANUGENA",
+    "nombre_imagen": "./web_scraping/data/img/PASTA_GRANUGENA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$21.350",
+        "precioPorSku js-PUM": "Gramo a $355,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "200 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ZINC OXIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LEGRAND SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-002257-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

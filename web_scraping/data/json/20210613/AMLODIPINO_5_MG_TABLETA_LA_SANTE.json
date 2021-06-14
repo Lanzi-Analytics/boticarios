@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amlodipino-5-mg-tableta-la-sante-7703763991075/p",
+    "fecha_hora_scraping": "2021-06-14 05:10:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMLODIPINO 5 MG TABLETA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/AMLODIPINO_5_MG_TABLETA_LA_SANTE.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$6.950",
+        "precioPorSku js-PUM": "Tableta a $695,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000241-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

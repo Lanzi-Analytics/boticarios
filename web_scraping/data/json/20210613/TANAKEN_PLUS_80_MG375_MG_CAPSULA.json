@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tanaken-plus-80-mg375-mg-capsula-7702207704752/p",
+    "fecha_hora_scraping": "2021-06-14 09:09:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TANAKEN PLUS 80 MG/375 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/TANAKEN_PLUS_80_MG375_MG_CAPSULA.jpg",
+    "presentacion": "CAJA X 15 CAP",
+    "precio": {
+        "bestPrice": "$64.450",
+        "precioPorSku js-PUM": "Capsula a $4.296,67"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-0001856"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

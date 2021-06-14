@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-oral-b-blue-7500435109345/p",
+    "fecha_hora_scraping": "2021-06-14 06:18:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental oral-b blue 4 en 1",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_oralb_blue_4_en_1.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "PrevPrice": "Antes:$11.200",
+        "bestPrice": "$8.960",
+        "precioPorSku js-PUM": "Mililitro a $2.986,67"
+    },
+    "descripcion": "crema dental oral-b blue 4en1 3x66ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

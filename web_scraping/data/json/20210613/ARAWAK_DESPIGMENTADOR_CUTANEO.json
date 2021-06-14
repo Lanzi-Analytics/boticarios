@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-despigmentador-cutaneo-7707016400871/p",
+    "fecha_hora_scraping": "2021-06-14 04:11:59",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK DESPIGMENTADOR CUTANEO",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_DESPIGMENTADOR_CUTANEO.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$30.900",
+        "precioPorSku js-PUM": "Gramo a $618,00"
+    },
+    "descripcion": "arawak despigmentador cutaneo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37733-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

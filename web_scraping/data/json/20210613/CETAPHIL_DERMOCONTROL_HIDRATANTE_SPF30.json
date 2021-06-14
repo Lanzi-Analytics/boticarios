@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-dermocontrol-hidratante-spf30-3499320004473/p",
+    "fecha_hora_scraping": "2021-06-14 03:53:57",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CETAPHIL DERMOCONTROL HIDRATANTE SPF30",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_DERMOCONTROL_HIDRATANTE_SPF30.jpg",
+    "presentacion": "FRASCO X 118 ML",
+    "precio": {
+        "bestPrice": "$122.600",
+        "precioPorSku js-PUM": "Mililitro a $1.038,98"
+    },
+    "descripcion": "cetaphil dermocontrol hidratante spf30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 118 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ADAPALENO"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50662-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

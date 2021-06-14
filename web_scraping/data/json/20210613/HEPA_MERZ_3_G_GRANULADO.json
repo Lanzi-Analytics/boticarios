@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/4046222710323biopasformuladosmedicamentoshepa--merz-3-g-granuladol-ornitina-l-aspartato-4046222710323/p",
+    "fecha_hora_scraping": "2021-06-14 10:05:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HEPA- MERZ 3 G GRANULADO",
+    "nombre_imagen": "./web_scraping/data/img/HEPA_MERZ_3_G_GRANULADO.jpg",
+    "presentacion": "CAJA X 10 SOB",
+    "precio": {
+        "bestPrice": "$189.550",
+        "precioPorSku js-PUM": "Unidad a $18.955,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 SOB"
+        ],
+        [
+            "Concentracion",
+            "3 G"
+        ],
+        [
+            "Principio activo",
+            "L-ORNITINA L-ASPARTATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-13711-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/herrex-fol-jarabe-7703454120104/p",
+    "fecha_hora_scraping": "2021-06-14 01:17:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HERREX FOL JARABE",
+    "nombre_imagen": "./web_scraping/data/img/HERREX_FOL_JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$86.800",
+        "precioPorSku js-PUM": "Mililitro a $723,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML 24 \u00b5G/ML"
+        ],
+        [
+            "Principio activo",
+            "HIERRO POLIMALTOSADO FOLICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-009982-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

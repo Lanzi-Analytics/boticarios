@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retimax-face-crema-7707327210022/p",
+    "fecha_hora_scraping": "2021-06-14 09:11:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RETIMAX FACE CREMA",
+    "nombre_imagen": "./web_scraping/data/img/RETIMAX_FACE_CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$87.300",
+        "precioPorSku js-PUM": "Gramo a $1.455,00"
+    },
+    "descripcion": "retimax face crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC22221-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

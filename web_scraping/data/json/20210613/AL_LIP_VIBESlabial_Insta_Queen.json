@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-lip-vibeslabial-insta-queen-309978337102/p",
+    "fecha_hora_scraping": "2021-06-14 02:52:44",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "AL LIP VIBES\u00a0labial Insta Queen",
+    "nombre_imagen": "./web_scraping/data/img/AL_LIP_VIBESlabial_Insta_Queen.jpg",
+    "presentacion": "TUBO X 4G",
+    "precio": {
+        "bestPrice": "$31.000",
+        "precioPorSku js-PUM": "Gramo a $7.750,00"
+    },
+    "descripcion": "al lip vibes\u00a0labial insta queen",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91166-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

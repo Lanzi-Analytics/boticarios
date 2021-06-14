@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mitrul-15mg-capsula-de-liberacion-prolongada-7730979094177/p",
+    "fecha_hora_scraping": "2021-06-14 02:41:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MITRUL 15MG C\u00c1PSULA DE LIBERACI\u00d3N PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/MITRUL_15MG_C\u00c1PSULA_DE_LIBERACI\u00d3N_PROLONGADA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$88.200",
+        "precioPorSku js-PUM": "Capsula a $8.820,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "15 MG"
+        ],
+        [
+            "Principio activo",
+            "CICLOBENZAPRINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013738"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

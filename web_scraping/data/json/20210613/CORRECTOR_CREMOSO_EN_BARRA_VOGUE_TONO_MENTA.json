@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corrector-cremoso-en-barra-vogue-tono-menta-7509552841725/p",
+    "fecha_hora_scraping": "2021-06-14 02:06:28",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CORRECTOR CREMOSO EN BARRA VOGUE TONO MENTA",
+    "nombre_imagen": "./web_scraping/data/img/CORRECTOR_CREMOSO_EN_BARRA_VOGUE_TONO_MENTA.jpg",
+    "presentacion": "UNIDAD X 4.5 G",
+    "precio": {
+        "bestPrice": "$7.950",
+        "precioPorSku js-PUM": "Gramo a $1.766,67"
+    },
+    "descripcion": "corrector cremoso en barra vogue tono menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4.5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC39185-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

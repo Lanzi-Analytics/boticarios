@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/preludyo-75-mg-capsula-dura-7702057019983/p",
+    "fecha_hora_scraping": "2021-06-13 23:48:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRELUDYO 75 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/PRELUDYO_75_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 14 CAP",
+    "precio": {
+        "bestPrice": "$14.550",
+        "precioPorSku js-PUM": "Capsula a $1.039,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 CAP"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012354-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

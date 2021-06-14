@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cre-c-goma-masticable-bombonera-7707232093994/p",
+    "fecha_hora_scraping": "2021-06-14 01:30:42",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CRE-C GOMA MASTICABLE BOMBONERA",
+    "nombre_imagen": "./web_scraping/data/img/CREC_GOMA_MASTICABLE_BOMBONERA.jpg",
+    "presentacion": "SOBRE",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Sobre a $1.750,00"
+    },
+    "descripcion": "cre-c goma masticable bombonera",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAV16I73115"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

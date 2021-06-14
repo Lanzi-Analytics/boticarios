@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-desechable-con-elastico-7707270363158/p",
+    "fecha_hora_scraping": "2021-06-14 01:41:42",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "TAPABOCAS DESECHABLE CON ELASTICO",
+    "nombre_imagen": "./web_scraping/data/img/TAPABOCAS_DESECHABLE_CON_ELASTICO.jpg",
+    "presentacion": "BOLSA X 10UN",
+    "precio": {
+        "bestPrice": "$9.100",
+        "precioPorSku js-PUM": "Unidad a $910,00"
+    },
+    "descripcion": "tapabocas desechable con elastico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 10UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROTEX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0019781"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

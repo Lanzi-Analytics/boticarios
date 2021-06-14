@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-proquident-interproximal-471-7702314153719/p",
+    "fecha_hora_scraping": "2021-06-14 01:59:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CEPILLO DENTAL PROQUIDENT INTERPROXIMAL 471",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_PROQUIDENT_INTERPROXIMAL_471.jpg",
+    "presentacion": "CAJA X 4 UN",
+    "precio": {
+        "bestPrice": "$6.750",
+        "precioPorSku js-PUM": "Unidad a $6.750,00"
+    },
+    "descripcion": "cepillo dental proquident interproximal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001210"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

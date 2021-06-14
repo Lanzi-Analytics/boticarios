@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clexane-20mg02ml-solucion-inyectable-7702771908570/p",
+    "fecha_hora_scraping": "2021-06-14 07:29:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLEXANE 20MG/0.2ML SOLUCI\u00d3N INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/CLEXANE_20MG02ML_SOLUCI\u00d3N_INYECTABLE.jpg",
+    "presentacion": "CAJA X 10 UN",
+    "precio": {
+        "bestPrice": "$321.850",
+        "precioPorSku js-PUM": "Unidad a $32.185,00"
+    },
+    "descripcion": "CLEXANE 20MG/0.2ML SOLUCI\u00d3N INYECTABLE",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ENOXAPARINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-011485-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

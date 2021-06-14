@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ibone-d-30000-ui-tableta-recubierta-7702870072981/p",
+    "fecha_hora_scraping": "2021-06-14 01:34:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IBONE D 30000 UI TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/IBONE_D_30000_UI_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 1 TAB",
+    "precio": {
+        "bestPrice": "$217.650",
+        "precioPorSku js-PUM": "Tableta a $217.650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "150 MG 30000 UI"
+        ],
+        [
+            "Principio activo",
+            "ACIDO IBANDRONICO VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018361"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-max-factor-colour-elixir-rosewood-3614227902039/p",
+    "fecha_hora_scraping": "2021-06-14 05:02:32",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL MAX FACTOR COLOUR ELIXIR ROSEWOOD",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_MAX_FACTOR_COLOUR_ELIXIR_ROSEWOOD.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $11.914,29"
+    },
+    "descripcion": "labial max factor colour elixir rosewood",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44861-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

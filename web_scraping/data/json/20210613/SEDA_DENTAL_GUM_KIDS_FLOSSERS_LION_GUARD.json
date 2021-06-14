@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-gum-kids-flossers-lion-guard-70942001786/p",
+    "fecha_hora_scraping": "2021-06-14 05:08:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "SEDA DENTAL GUM KIDS FLOSSERS LION GUARD",
+    "nombre_imagen": "./web_scraping/data/img/SEDA_DENTAL_GUM_KIDS_FLOSSERS_LION_GUARD.jpg",
+    "presentacion": "CAJA X 40 UN",
+    "precio": {
+        "bestPrice": "$13.600",
+        "precioPorSku js-PUM": "Unidad a $340,00"
+    },
+    "descripcion": "seda dental gum kids flossers lion guard",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 40 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016924"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

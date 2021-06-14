@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-cicatricure-gold-crema--crema-noche-x-50g-650240053658/p",
+    "fecha_hora_scraping": "2021-06-14 04:50:27",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "KIT CICATRICURE GOLD CREMA + CREMA NOCHE X 50G",
+    "nombre_imagen": "./web_scraping/data/img/KIT_CICATRICURE_GOLD_CREMA__CREMA_NOCHE_X_50G.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$105.800",
+        "precioPorSku js-PUM": "Unidad a $105.800,00"
+    },
+    "descripcion": "kit cicatricure gold crema + crema noche x 50g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94807-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

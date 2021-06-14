@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-nivea-invisible-blackwhite-roll-on-4005900036704/p",
+    "fecha_hora_scraping": "2021-06-14 01:59:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante nivea invisible black&white roll-on",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_nivea_invisible_blackwhite_rollon.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "PrevPrice": "Antes:$11.750",
+        "bestPrice": "$9.400",
+        "precioPorSku js-PUM": "Mililitro a $188,00"
+    },
+    "descripcion": "desod roll-on nivea 50 ml black w clea",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC41971-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

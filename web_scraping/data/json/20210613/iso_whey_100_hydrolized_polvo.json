@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/iso-whey-100-hydrolized-polvo-19962799563/p",
+    "fecha_hora_scraping": "2021-06-14 01:22:41",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "iso whey 100% hydrolized polvo",
+    "nombre_imagen": "./web_scraping/data/img/iso_whey_100_hydrolized_polvo.jpg",
+    "presentacion": "TARRO X 952 G",
+    "precio": {
+        "bestPrice": "$164.900",
+        "precioPorSku js-PUM": "Gramo a $173,21"
+    },
+    "descripcion": "iso whey 100% hydrolized polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 952 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "HEALTY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000445-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

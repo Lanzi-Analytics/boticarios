@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goma-slab-sin-azucar-trident-fresh-herbal-85g-7622201776510/p",
+    "fecha_hora_scraping": "2021-06-14 01:16:29",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMA SLAB SIN AZUCAR TRIDENT FRESH HERBAL 8.5G",
+    "nombre_imagen": "./web_scraping/data/img/GOMA_SLAB_SIN_AZUCAR_TRIDENT_FRESH_HERBAL_85G.jpg",
+    "presentacion": "PAQUETE X8,5G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $152,94"
+    },
+    "descripcion": "GOMA SLAB SIN AZUCAR TRIDENT FRESH HERBAL 8.5G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X8,5G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I172914"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

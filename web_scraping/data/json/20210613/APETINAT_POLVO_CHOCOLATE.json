@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707016404886pronabellnaturalesmedicamentosapetinat-polvo-chocolateartemisia-absinthium-7707016404886/p",
+    "fecha_hora_scraping": "2021-06-14 09:26:24",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "APETINAT POLVO CHOCOLATE",
+    "nombre_imagen": "./web_scraping/data/img/APETINAT_POLVO_CHOCOLATE.jpg",
+    "presentacion": "FRASCO X 300 G",
+    "precio": {
+        "bestPrice": "$21.100",
+        "precioPorSku js-PUM": "Gramo a $70,33"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 G"
+        ],
+        [
+            "Concentracion",
+            "3 G"
+        ],
+        [
+            "Principio activo",
+            "ARTEMISIA ABSINTHIUM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2012-0002011"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-humectante-colsubsido-extra-seca-leche-7701009123129/p",
+    "fecha_hora_scraping": "2021-06-14 05:21:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "crema humectante colsubsido extra seca leche",
+    "nombre_imagen": "./web_scraping/data/img/crema_humectante_colsubsido_extra_seca_leche.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "$8.550",
+        "precioPorSku js-PUM": "Mililitro a $17,10"
+    },
+    "descripcion": "crema hum colsub ext seca leche 500 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITAL COMERCIAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSC2005CO15832"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

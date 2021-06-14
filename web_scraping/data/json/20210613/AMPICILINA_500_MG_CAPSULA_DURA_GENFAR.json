@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ampicilina-500-mg-capsula-dura-genfar-7702605100415/p",
+    "fecha_hora_scraping": "2021-06-13 23:56:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMPICILINA 500 MG CAPSULA DURA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/AMPICILINA_500_MG_CAPSULA_DURA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 CAP",
+    "precio": {
+        "bestPrice": "$4.330",
+        "precioPorSku js-PUM": "Capsula a $433,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "AMPICILINA TRIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-07219-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

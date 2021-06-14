@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-desechable-colsubsidio-mago-largo-2hojas-7701009007146/p",
+    "fecha_hora_scraping": "2021-06-14 08:48:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar desechable colsubsidio mago largo 2hojas",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_desechable_colsubsidio_mago_largo_2hojas.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "bestPrice": "$3.000",
+        "precioPorSku js-PUM": "Unidad a $1.000,00"
+    },
+    "descripcion": "maquina desech col mang lar. 2hojas 3u",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "C I GLOS TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

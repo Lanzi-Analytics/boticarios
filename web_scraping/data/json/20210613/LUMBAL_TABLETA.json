@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/lumbal-tableta-7702870001974/p",
-    "fecha_hora_scraping": "2021-06-13 19:13:26",
+    "url_producto": "https://www.drogueriascolsubsidio.com/lumbal-tableta-7702870001806/p",
+    "fecha_hora_scraping": "2021-06-14 05:43:44",
     "breadcumb": "colsubsidio|medicamentos|venta libre|alivio del dolor|muscular y articular",
     "titulo": "LUMBAL TABLETA",
     "nombre_imagen": "./web_scraping/data/img/LUMBAL_TABLETA.jpg",
-    "presentacion": "BLISTER X 6 TAB",
+    "presentacion": "CAJA X 12 TAB",
     "precio": {
-        "bestPrice": "$8.244",
-        "precioPorSku js-PUM": "Tableta a $1.373,96"
+        "bestPrice": "$17.000",
+        "precioPorSku js-PUM": "Tableta a $1.416,67"
     },
-    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "descripcion": "es un medicamento. no exceder su consumo. si los s\u00edntomas persisten consulte a su m\u00e9dico. leer indicaciones y contraindicaciones en el inserto. analg\u00e9sico, antipir\u00e9tico. reg. sanitario invima 2018m-0001294-r2",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "BLISTER X 6 TAB"
+            "CAJA X 12 TAB"
         ],
         [
             "Concentracion",

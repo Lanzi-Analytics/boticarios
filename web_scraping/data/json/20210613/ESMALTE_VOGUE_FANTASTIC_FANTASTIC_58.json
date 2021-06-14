@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esmalte-vogue-fantastic-fantastic-58-7702433290081/p",
+    "fecha_hora_scraping": "2021-06-14 00:09:13",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|u\u00f1as",
+    "titulo": "ESMALTE VOGUE FANTASTIC FANTASTIC 58",
+    "nombre_imagen": "./web_scraping/data/img/ESMALTE_VOGUE_FANTASTIC_FANTASTIC_58.jpg",
+    "presentacion": "UNIDAD X 10 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $345,00"
+    },
+    "descripcion": "esmalte vogue fantastic fantastic 58",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC65213-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

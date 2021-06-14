@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metronidazol-500-mg-ovulo-procaps-7703153007102/p",
+    "fecha_hora_scraping": "2021-06-14 08:53:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METRONIDAZOL 500 MG OVULO PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/METRONIDAZOL_500_MG_OVULO_PROCAPS.jpg",
+    "presentacion": "CAJA X 10 OVU",
+    "precio": {
+        "bestPrice": "$5.750",
+        "precioPorSku js-PUM": "OVULO a $575,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 OVU"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003380-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cigram-500-mg-tableta-recubierta-7702195205651/p",
+    "fecha_hora_scraping": "2021-06-14 08:55:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CIGRAM 500 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CIGRAM_500_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$135.050",
+        "precioPorSku js-PUM": "Tableta a $13.505,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CIPROFLOXACINO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M- 011296-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

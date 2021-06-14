@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/candesartan-cilexetilo-16-mg-tableta-la-francol-7706569022684/p",
+    "fecha_hora_scraping": "2021-06-14 09:37:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CANDESARTAN CILEXETILO 16 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/CANDESARTAN_CILEXETILO_16_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$8.000",
+        "precioPorSku js-PUM": "Tableta a $571,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "16 MG"
+        ],
+        [
+            "Principio activo",
+            "CANDESARTAN CILEXETILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012891-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

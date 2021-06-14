@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/azinobin-200mg5ml-granulado-para-suspension-oral-7703234103730/p",
+    "fecha_hora_scraping": "2021-06-14 08:26:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AZINOBIN 200MG/5ML GRANULADO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/AZINOBIN_200MG5ML_GRANULADO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$41.950",
+        "precioPorSku js-PUM": "Mililitro a $2.796,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AZITROMICINA DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0013998"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

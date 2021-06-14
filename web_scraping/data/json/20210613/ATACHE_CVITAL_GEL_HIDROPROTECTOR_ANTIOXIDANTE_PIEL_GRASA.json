@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-cvital-gel-hidroprotector-antioxidante-piel-grasa-8430795001203/p",
+    "fecha_hora_scraping": "2021-06-14 01:12:31",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE CVITAL GEL HIDROPROTECTOR ANTIOXIDANTE PIEL GRASA",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_CVITAL_GEL_HIDROPROTECTOR_ANTIOXIDANTE_PIEL_GRASA.jpg",
+    "presentacion": "FRASCO 50 X ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.669,00"
+    },
+    "descripcion": "atache cvital gel hidroprotector antioxi",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO 50 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57590-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

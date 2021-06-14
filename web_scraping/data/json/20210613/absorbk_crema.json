@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/absorb-k-crema-7707183820069/p",
+    "fecha_hora_scraping": "2021-06-14 06:20:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "absorb-k crema",
+    "nombre_imagen": "./web_scraping/data/img/absorbk_crema.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$75.350",
+        "precioPorSku js-PUM": "Gramo a $2.511,67"
+    },
+    "descripcion": "absorb-k crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC17087-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

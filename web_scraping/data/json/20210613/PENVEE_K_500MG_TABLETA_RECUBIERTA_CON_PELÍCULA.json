@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pen-vee-k-500mg-tableta-recubierta-con-pelicula-9002260003402/p",
+    "fecha_hora_scraping": "2021-06-14 04:42:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PEN-VEE K 500MG TABLETA RECUBIERTA CON PEL\u00cdCULA",
+    "nombre_imagen": "./web_scraping/data/img/PENVEE_K_500MG_TABLETA_RECUBIERTA_CON_PEL\u00cdCULA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$16.590",
+        "precioPorSku js-PUM": "Tableta a $1.659,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "FENOXIMETILPENICILINA POTASIO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2011M-14994-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

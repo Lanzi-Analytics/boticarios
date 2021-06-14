@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flixotide-50-mcg-suspension-para-inhalacion-7861028101079/p",
+    "fecha_hora_scraping": "2021-06-14 05:43:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLIXOTIDE 50 MCG SUSPENSION PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/FLIXOTIDE_50_MCG_SUSPENSION_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$22.850",
+        "precioPorSku js-PUM": "Unidad a $22.850,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "50 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "FLUTICASONA PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-015087-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

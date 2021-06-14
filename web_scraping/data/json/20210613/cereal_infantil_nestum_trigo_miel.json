@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cereal-infantil-nestum-trigo-miel-7613033986628/p",
+    "fecha_hora_scraping": "2021-06-14 07:01:18",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "cereal infantil nestum trigo miel",
+    "nombre_imagen": "./web_scraping/data/img/cereal_infantil_nestum_trigo_miel.jpg",
+    "presentacion": "BOTELLA X 200 G",
+    "precio": {
+        "bestPrice": "$7.350",
+        "precioPorSku js-PUM": "Gramo a $36,75"
+    },
+    "descripcion": "nestum trigo miel x 200 gr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I29407"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-c-vital-intensive-care-anti-wrinkles-a-3760019120621/p",
+    "fecha_hora_scraping": "2021-06-14 02:57:01",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN C-VITAL INTENSIVE CARE ANTI-WRINKLES A+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_CVITAL_INTENSIVE_CARE_ANTIWRINKLES_A.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$178.500",
+        "precioPorSku js-PUM": "Mililitro a $3.570,00"
+    },
+    "descripcion": "soskin c-vital intensive care anti-wrink",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75868-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

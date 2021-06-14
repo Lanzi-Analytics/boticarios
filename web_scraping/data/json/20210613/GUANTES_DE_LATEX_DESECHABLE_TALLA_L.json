@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-de-latex-desechable-talla-l-7702037510387/p",
+    "fecha_hora_scraping": "2021-06-13 23:19:35",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES DE LATEX DESECHABLE TALLA L",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_DE_LATEX_DESECHABLE_TALLA_L.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $500,00"
+    },
+    "descripcion": "guantes de latex desechable talla l",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ETERNA SA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007180"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

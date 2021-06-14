@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-sensodyne--extra-fresh-7794640172236/p",
+    "fecha_hora_scraping": "2021-06-14 04:47:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "enjuague bucal sensodyne  extra fresh",
+    "nombre_imagen": "./web_scraping/data/img/enjuague_bucal_sensodyne__extra_fresh.jpg",
+    "presentacion": "BOTELLA X 250 ML",
+    "precio": {
+        "bestPrice": "$13.200",
+        "precioPorSku js-PUM": "Mililitro a $52,80"
+    },
+    "descripcion": "enjuague sensodyne\u00a0 extfresh250",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 250 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79398-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

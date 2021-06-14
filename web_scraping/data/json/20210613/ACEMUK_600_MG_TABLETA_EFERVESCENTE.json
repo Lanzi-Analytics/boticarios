@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acemuk-600-mg-tableta-efervescente-7795380043145/p",
+    "fecha_hora_scraping": "2021-06-14 05:23:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACEMUK 600 MG TABLETA EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/ACEMUK_600_MG_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "TUBO X 10 TAB",
+    "precio": {
+        "bestPrice": "$21.350",
+        "precioPorSku js-PUM": "Tableta a $2.135,00"
+    },
+    "descripcion": "acemuk 600 mg tableta efervescente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013130-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

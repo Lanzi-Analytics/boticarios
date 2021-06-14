@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fexofenadina-180-mg-tableta-recubierta-tecnoquimicas-7702057711344/p",
+    "fecha_hora_scraping": "2021-06-13 23:10:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEXOFENADINA 180 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/FEXOFENADINA_180_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$72.550",
+        "precioPorSku js-PUM": "Tableta a $7.255,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "180 MG"
+        ],
+        [
+            "Principio activo",
+            "FEXOFENADINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016192"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

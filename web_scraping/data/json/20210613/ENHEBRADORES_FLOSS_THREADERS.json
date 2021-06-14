@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enhebradores-floss-threaders-70942508407/p",
+    "fecha_hora_scraping": "2021-06-13 23:55:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "ENHEBRADORES FLOSS THREADERS",
+    "nombre_imagen": "./web_scraping/data/img/ENHEBRADORES_FLOSS_THREADERS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.150",
+        "precioPorSku js-PUM": "Unidad a $9.150,00"
+    },
+    "descripcion": "enhebradores floss threaders",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "NO REQUIERE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acar-klean-spray-7703153030520/p",
+    "fecha_hora_scraping": "2021-06-14 01:36:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "ACAR KLEAN SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/ACAR_KLEAN_SPRAY.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$13.900",
+        "precioPorSku js-PUM": "Mililitro a $69,50"
+    },
+    "descripcion": "acar klean spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "BENZOATO BENCILO ACEITE PINO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2014V-0005073"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arnigel-7702207141939/p",
+    "fecha_hora_scraping": "2021-06-14 01:18:08",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "ARNIGEL",
+    "nombre_imagen": "./web_scraping/data/img/ARNIGEL.jpg",
+    "presentacion": "TUBO X 45 G",
+    "precio": {
+        "bestPrice": "$49.300",
+        "precioPorSku js-PUM": "Gramo a $1.095,56"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 45 G"
+        ],
+        [
+            "Concentracion",
+            "70 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ARNICA MONTANA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "MH2016-0000408-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

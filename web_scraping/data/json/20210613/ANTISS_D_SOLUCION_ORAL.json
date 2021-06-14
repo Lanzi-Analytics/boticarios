@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antiss-d-solucion-oral-7702870070642/p",
+    "fecha_hora_scraping": "2021-06-14 03:35:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ANTISS D SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ANTISS_D_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$73.950",
+        "precioPorSku js-PUM": "Mililitro a $1.232,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML 0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "FENILEFRINA CLORHIDRATO LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010924-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

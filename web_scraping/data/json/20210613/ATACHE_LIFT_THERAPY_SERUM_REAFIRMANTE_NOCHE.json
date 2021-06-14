@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-lift-therapy-serum-reafirmante-noche-8430795001005/p",
+    "fecha_hora_scraping": "2021-06-13 23:33:06",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE LIFT THERAPY SERUM REAFIRMANTE NOCHE",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_LIFT_THERAPY_SERUM_REAFIRMANTE_NOCHE.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$164.250",
+        "precioPorSku js-PUM": "Mililitro a $5.475,00"
+    },
+    "descripcion": "atache lift therapy serum reafirmante no",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86642-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

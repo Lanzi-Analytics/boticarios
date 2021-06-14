@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunface-color-spf100-crema-7707327210220/p",
+    "fecha_hora_scraping": "2021-06-14 08:30:25",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "SUNFACE COLOR SPF100 CREMA",
+    "nombre_imagen": "./web_scraping/data/img/SUNFACE_COLOR_SPF100_CREMA.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$105.050",
+        "precioPorSku js-PUM": "Gramo a $2.101,00"
+    },
+    "descripcion": "sunface color spf100 crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44417-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

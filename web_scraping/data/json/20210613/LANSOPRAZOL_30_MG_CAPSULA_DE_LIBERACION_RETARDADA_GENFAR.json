@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lansoprazol-30-mg-capsula-de-liberacion-retardada-genfar-7702605101887/p",
+    "fecha_hora_scraping": "2021-06-14 07:43:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LANSOPRAZOL 30 MG CAPSULA DE LIBERACION RETARDADA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/LANSOPRAZOL_30_MG_CAPSULA_DE_LIBERACION_RETARDADA_GENFAR.jpg",
+    "presentacion": "CAJA X 7 CAP",
+    "precio": {
+        "bestPrice": "$5.150",
+        "precioPorSku js-PUM": "Capsula a $735,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 CAP"
+        ],
+        [
+            "Concentracion",
+            "352.94 MG 30 MG"
+        ],
+        [
+            "Principio activo",
+            "LANSOPRAZOL GASTRORRESISTENTE LANSOPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0007993"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

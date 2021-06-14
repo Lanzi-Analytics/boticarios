@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/elocom-01--crema-topica-7702502021387/p",
+    "fecha_hora_scraping": "2021-06-14 07:40:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ELOCOM 0.1 % CREMA TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/ELOCOM_01__CREMA_TOPICA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$95.200",
+        "precioPorSku js-PUM": "Gramo a $6.346,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "1 MG/G"
+        ],
+        [
+            "Principio activo",
+            "MOMETASONA FUROATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017446"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/s-26-alula-comfort-gold-facil-digestion-formula-infantil-etapa-0-12-meses-7502253071668/p",
+    "fecha_hora_scraping": "2021-06-14 06:48:24",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "S-26 ALULA COMFORT GOLD FACIL DIGESTION FORMULA INFANTIL ETAPA 0-12 MESES",
+    "nombre_imagen": "./web_scraping/data/img/S26_ALULA_COMFORT_GOLD_FACIL_DIGESTION_FORMULA_INFANTIL_ETAPA_012_MESES.jpg",
+    "presentacion": "FRASCO X 400 G",
+    "precio": {
+        "bestPrice": "$49.600",
+        "precioPorSku js-PUM": "Gramo a $124,00"
+    },
+    "descripcion": "formula infantil s-26 comfort gold facil",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANULAC NUTRICION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I11112"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

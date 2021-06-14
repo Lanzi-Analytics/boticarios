@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goma-pastilla-sin-azucar-trident-total-12s-yerbabuena-163g-7622210454690/p",
+    "fecha_hora_scraping": "2021-06-14 08:19:06",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMA PASTILLA SIN AZUCAR TRIDENT TOTAL 12S YERBABUENA 16.3G",
+    "nombre_imagen": "./web_scraping/data/img/GOMA_PASTILLA_SIN_AZUCAR_TRIDENT_TOTAL_12S_YERBABUENA_163G.jpg",
+    "presentacion": "PAQUETE X16,32G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $147,06"
+    },
+    "descripcion": "GOMA PASTILLA SIN AZUCAR TRIDENT TOTAL 12S YERBABUENA 16.3G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X16,32G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-005315-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kerium-ds-champu-anticaspa-3433422407268/p",
+    "fecha_hora_scraping": "2021-06-14 09:37:24",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "KERIUM DS CHAMPU ANTICASPA",
+    "nombre_imagen": "./web_scraping/data/img/KERIUM_DS_CHAMPU_ANTICASPA.jpg",
+    "presentacion": "FRASCO X 125 ML",
+    "precio": {
+        "bestPrice": "$91.500",
+        "precioPorSku js-PUM": "Mililitro a $732,00"
+    },
+    "descripcion": "kerium ds champu anticaspa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 125 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSC2008CO28164"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

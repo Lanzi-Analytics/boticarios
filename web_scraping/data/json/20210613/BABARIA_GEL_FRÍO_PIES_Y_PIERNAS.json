@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-gel-frio-pies-y-piernas-8410412027106/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BABARIA GEL FR\u00cdO PIES Y PIERNAS",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_GEL_FR\u00cdO_PIES_Y_PIERNAS.jpg",
+    "presentacion": "TUBO X 150 ML",
+    "precio": {
+        "bestPrice": "$10.950",
+        "precioPorSku js-PUM": "Mililitro a $73,00"
+    },
+    "descripcion": "babaria gel fr\u00edo pies y piernas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69903-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

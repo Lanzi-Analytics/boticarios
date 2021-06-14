@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/meliba-150mg-tableta-recubierta-7703445170538/p",
+    "fecha_hora_scraping": "2021-06-13 23:46:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MELIBA 150MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/MELIBA_150MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$81.100",
+        "precioPorSku js-PUM": "Tableta a $40.550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "IBANDRONICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0010962-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ban-crema-4--crema-7703319000251/p",
+    "fecha_hora_scraping": "2021-06-14 01:32:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BAN CREMA 4 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/BAN_CREMA_4__CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$34.100",
+        "precioPorSku js-PUM": "Gramo a $568,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "40 MG/G 0,5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "HIDROQUINONA TRETINOINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALDOQUIN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-004630-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

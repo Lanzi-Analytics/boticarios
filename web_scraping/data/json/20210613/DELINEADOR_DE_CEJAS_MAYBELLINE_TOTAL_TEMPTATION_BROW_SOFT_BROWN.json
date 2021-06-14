@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-de-cejas-maybelline-total-temptation-brow-soft-brown-41554545074/p",
+    "fecha_hora_scraping": "2021-06-14 03:34:19",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR DE CEJAS MAYBELLINE TOTAL TEMPTATION BROW SOFT BROWN",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_DE_CEJAS_MAYBELLINE_TOTAL_TEMPTATION_BROW_SOFT_BROWN.jpg",
+    "presentacion": "UNIDAD X 0.15 G",
+    "precio": {
+        "bestPrice": "$36.850",
+        "precioPorSku js-PUM": "Miligramo a $245,67"
+    },
+    "descripcion": "delineador de cejas maybelline total temptation brow soft brown",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 0.15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83728-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

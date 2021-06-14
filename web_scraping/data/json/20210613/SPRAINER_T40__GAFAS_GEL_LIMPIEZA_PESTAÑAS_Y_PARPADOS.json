@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sprainer-t4-0--gafas-gel-limpieza-pestanas-y-parpados-7707239275775/p",
+    "fecha_hora_scraping": "2021-06-14 09:30:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SPRAINER T4-0 + GAFAS GEL LIMPIEZA PESTA\u00d1AS Y PARPADOS",
+    "nombre_imagen": "./web_scraping/data/img/SPRAINER_T40__GAFAS_GEL_LIMPIEZA_PESTA\u00d1AS_Y_PARPADOS.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "$56.400",
+        "precioPorSku js-PUM": "Unidad a $1.880,00"
+    },
+    "descripcion": "sprainer t4-0 + gafas gel limpieza pesta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ESPECIALIDADES OFTALMOLOGICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63211-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

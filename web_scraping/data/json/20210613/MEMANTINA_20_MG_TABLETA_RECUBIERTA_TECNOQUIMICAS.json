@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057711672memantina-20-mg-tableta-recubierta-tecnoquimicasmedicamentosformuladostecnoquimicas-7702057711672/p",
+    "fecha_hora_scraping": "2021-06-14 05:50:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MEMANTINA 20 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/MEMANTINA_20_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$132.900",
+        "precioPorSku js-PUM": "Tableta a $4.430,00"
+    },
+    "descripcion": "memantina 20 mg tableta recubierta tecnoquimicas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "MEMANTINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015603"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

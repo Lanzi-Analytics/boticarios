@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/relvar-ellipta-100-mch25-mcg-polvo-para-inhalacion-7703363006452/p",
+    "fecha_hora_scraping": "2021-06-14 07:33:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RELVAR ELLIPTA 100 MCH/25 MCG POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/RELVAR_ELLIPTA_100_MCH25_MCG_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$98.550",
+        "precioPorSku js-PUM": "Unidad a $98.550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "100 \u00b5G/D 25 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "FUROATO DE FLUTICASONA  MICRONIVILANTEROL"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0016941-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

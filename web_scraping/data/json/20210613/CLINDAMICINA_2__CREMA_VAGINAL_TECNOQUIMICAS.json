@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clindamicina-2--crema-vaginal-tecnoquimicas-7702057196875/p",
+    "fecha_hora_scraping": "2021-06-14 04:11:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLINDAMICINA 2 % CREMA VAGINAL TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CLINDAMICINA_2__CREMA_VAGINAL_TECNOQUIMICAS.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$36.350",
+        "precioPorSku js-PUM": "Gramo a $908,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-014957-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

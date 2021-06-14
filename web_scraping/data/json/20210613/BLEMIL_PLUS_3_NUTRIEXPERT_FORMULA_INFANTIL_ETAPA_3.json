@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/blemil-plus-3-nutriexpert-formula-infantil-etapa-3-8426594047917/p",
+    "fecha_hora_scraping": "2021-06-14 07:08:10",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "BLEMIL PLUS 3 NUTRIEXPERT FORMULA INFANTIL ETAPA 3",
+    "nombre_imagen": "./web_scraping/data/img/BLEMIL_PLUS_3_NUTRIEXPERT_FORMULA_INFANTIL_ETAPA_3.jpg",
+    "presentacion": "LATA X 800 G",
+    "precio": {
+        "bestPrice": "$65.100",
+        "precioPorSku js-PUM": "Gramo a $81,38"
+    },
+    "descripcion": "blemil plus 3 nutriexpert formula infantil etapa 3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUIPHAR DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I81715"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

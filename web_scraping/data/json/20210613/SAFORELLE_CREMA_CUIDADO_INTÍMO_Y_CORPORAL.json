@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/saforelle-crema-cuidado-intimo-y-corporal-7703153039226/p",
+    "fecha_hora_scraping": "2021-06-14 00:22:47",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SAFORELLE CREMA CUIDADO INT\u00cdMO Y CORPORAL",
+    "nombre_imagen": "./web_scraping/data/img/SAFORELLE_CREMA_CUIDADO_INT\u00cdMO_Y_CORPORAL.jpg",
+    "presentacion": "TUBO X 50ML",
+    "precio": {
+        "bestPrice": "$55.800",
+        "precioPorSku js-PUM": "Mililitro a $1.116,00"
+    },
+    "descripcion": "saforelle crema cuidado int\u00edmo y corporal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50613-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

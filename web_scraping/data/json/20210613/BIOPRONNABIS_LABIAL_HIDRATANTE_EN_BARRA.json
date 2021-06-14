@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biopronnabis-labial-hidratante-en-barra-7707232090757/p",
+    "fecha_hora_scraping": "2021-06-14 05:59:03",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BIOPRONNABIS LABIAL HIDRATANTE EN BARRA",
+    "nombre_imagen": "./web_scraping/data/img/BIOPRONNABIS_LABIAL_HIDRATANTE_EN_BARRA.jpg",
+    "presentacion": "BARRA X 5 G",
+    "precio": {
+        "bestPrice": "$12.200",
+        "precioPorSku js-PUM": "Gramo a $2.440,00"
+    },
+    "descripcion": "biopronnabis labial hidratante en barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82551-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

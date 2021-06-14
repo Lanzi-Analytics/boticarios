@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vagicort-crema-vaginal-7702870004920/p",
+    "fecha_hora_scraping": "2021-06-14 08:22:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VAGICORT CREMA VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/VAGICORT_CREMA_VAGINAL.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$76.950",
+        "precioPorSku js-PUM": "Gramo a $3.847,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "3.58 MG 0.8 %"
+        ],
+        [
+            "Principio activo",
+            "DEXAMETASONA TERT- BUTIL ACETATO TERCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011210-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

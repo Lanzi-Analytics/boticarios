@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tractal-01--gotas-7730698006109/p",
+    "fecha_hora_scraping": "2021-06-13 23:43:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRACTAL 0.1 % GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/TRACTAL_01__GOTAS.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$9.500",
+        "precioPorSku js-PUM": "Mililitro a $475,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "RISPERIDONA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0004983-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

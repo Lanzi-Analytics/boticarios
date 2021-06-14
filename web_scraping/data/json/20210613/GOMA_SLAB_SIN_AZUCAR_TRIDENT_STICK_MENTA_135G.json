@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goma-slab-sin-azucar-trident-stick-menta-135g-7622210581914/p",
+    "fecha_hora_scraping": "2021-06-14 02:09:11",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMA SLAB SIN AZUCAR TRIDENT STICK MENTA 13.5G",
+    "nombre_imagen": "./web_scraping/data/img/GOMA_SLAB_SIN_AZUCAR_TRIDENT_STICK_MENTA_135G.jpg",
+    "presentacion": "PAQUETEX13,5G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $81,48"
+    },
+    "descripcion": "GOMA SLAB SIN AZUCAR TRIDENT STICK MENTA 13.5G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETEX13,5G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I172614"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

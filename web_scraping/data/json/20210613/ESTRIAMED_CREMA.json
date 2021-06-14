@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/estriamed-crema-7703319000725/p",
+    "fecha_hora_scraping": "2021-06-14 03:48:10",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ESTRIAMED CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ESTRIAMED_CREMA.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $642,50"
+    },
+    "descripcion": "estriamed crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALDOQUIN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC05514-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

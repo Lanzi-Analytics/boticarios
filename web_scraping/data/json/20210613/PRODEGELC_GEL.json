@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prodegel-c-gel-7707271700013/p",
+    "fecha_hora_scraping": "2021-06-14 07:16:34",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "PRODEGEL-C GEL",
+    "nombre_imagen": "./web_scraping/data/img/PRODEGELC_GEL.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$47.450",
+        "precioPorSku js-PUM": "Gramo a $1.581,67"
+    },
+    "descripcion": "prodegel-c gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMARIS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC51470-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-jhonsons-baby-fuerza-y-vitamina-7702031293613/p",
+    "fecha_hora_scraping": "2021-06-14 08:39:21",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "shampoo jhonson's baby fuerza y vitamina",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_jhonsons_baby_fuerza_y_vitamina.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$12.100",
+        "precioPorSku js-PUM": "Mililitro a $60,50"
+    },
+    "descripcion": "jbaby shampoo fuerza y vit x200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

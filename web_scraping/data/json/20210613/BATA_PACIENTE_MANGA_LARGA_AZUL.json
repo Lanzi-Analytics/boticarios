@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bata-paciente-manga-larga-azul-7707228360642/p",
+    "fecha_hora_scraping": "2021-06-14 02:57:36",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BATA PACIENTE MANGA LARGA AZUL",
+    "nombre_imagen": "./web_scraping/data/img/BATA_PACIENTE_MANGA_LARGA_AZUL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$6.100",
+        "precioPorSku js-PUM": "Unidad a $6.100,00"
+    },
+    "descripcion": "bata paciente manga larga azul",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

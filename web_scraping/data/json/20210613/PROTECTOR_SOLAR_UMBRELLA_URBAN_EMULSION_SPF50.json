@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-umbrella-urban-emulsion-spf50-7703281002451/p",
+    "fecha_hora_scraping": "2021-06-14 09:20:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR UMBRELLA URBAN EMULSION SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_UMBRELLA_URBAN_EMULSION_SPF50.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$106.000",
+        "precioPorSku js-PUM": "Gramo a $2.120,00"
+    },
+    "descripcion": "protector solar umbrella urban emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85453-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

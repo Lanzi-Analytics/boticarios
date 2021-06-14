@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nuctis-d-10-ml-gotas-orales-7706263000070/p",
+    "fecha_hora_scraping": "2021-06-14 07:58:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NUCTIS D 10 ML GOTAS ORALES",
+    "nombre_imagen": "./web_scraping/data/img/NUCTIS_D_10_ML_GOTAS_ORALES.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$33.750",
+        "precioPorSku js-PUM": "Mililitro a $3.375,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "5600 UI/ML"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0014837"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

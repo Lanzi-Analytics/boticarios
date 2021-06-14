@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/capell-hairfinity-complex-capsula-751273785209/p",
+    "fecha_hora_scraping": "2021-06-14 07:56:56",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CAPELL HAIRFINITY COMPLEX CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/CAPELL_HAIRFINITY_COMPLEX_CAPSULA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$48.900",
+        "precioPorSku js-PUM": "Capsula a $815,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003659"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

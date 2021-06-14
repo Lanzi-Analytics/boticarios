@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/5702191025439icaden-1--cremamedicamentosventa-libre-5702191025439/p",
+    "fecha_hora_scraping": "2021-06-14 09:00:49",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ICADEN 1 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ICADEN_1__CREMA.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$53.000",
+        "precioPorSku js-PUM": "Gramo a $2.650,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ISOCONAZOL NITRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0003493-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

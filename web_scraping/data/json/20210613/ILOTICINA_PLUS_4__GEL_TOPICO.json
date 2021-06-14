@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/iloticina-plus-4--gel-topico-7702057031282/p",
+    "fecha_hora_scraping": "2021-06-13 23:20:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ILOTICINA PLUS 4 % GEL TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/ILOTICINA_PLUS_4__GEL_TOPICO.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$63.150",
+        "precioPorSku js-PUM": "Gramo a $2.105,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "40 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ERITROMICINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005506-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

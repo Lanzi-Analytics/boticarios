@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicatricure-crema-contorno-ojos-blur-y-filler-7798140258230/p",
+    "fecha_hora_scraping": "2021-06-13 23:49:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CICATRICURE CONTORNO BLUR FILLER 15 G",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_CONTORNO_BLUR_FILLER_15_G.jpg",
+    "presentacion": "CAJA X 15 G",
+    "precio": {
+        "bestPrice": "$53.050",
+        "precioPorSku js-PUM": "Gramo a $3.536,67"
+    },
+    "descripcion": "adicionada con q acetyl 10 para hidratar y estimular la formaci\u00f3n de col\u00e1geno contrarrestando las agresiones externas para lograr un contorno de ojos m\u00e1s fresco y radiante.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82500-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

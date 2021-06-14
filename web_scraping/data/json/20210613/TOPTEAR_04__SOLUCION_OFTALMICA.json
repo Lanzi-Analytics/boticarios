@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toptear-04--solucion-oftalmica-7795368002607/p",
+    "fecha_hora_scraping": "2021-06-13 23:26:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TOPTEAR 0.4 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/TOPTEAR_04__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "PrevPrice": "Antes:$48.800",
+        "bestPrice": "$34.160",
+        "precioPorSku js-PUM": "Mililitro a $3.416,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SODIO HIALURONATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004506-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fresubin-2kcal-bebida-vainilla-7709067317481/p",
+    "fecha_hora_scraping": "2021-06-14 08:59:41",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "FRESUBIN 2KCAL BEBIDA VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/FRESUBIN_2KCAL_BEBIDA_VAINILLA.jpg",
+    "presentacion": "CAJA X 4 FRASCO X 20",
+    "precio": {
+        "bestPrice": "$27.600",
+        "precioPorSku js-PUM": "Mililitro a $34,50"
+    },
+    "descripcion": "fresubin 2kcal bebida vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 FRASCO X 20"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FRESENIUS KABI COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA01I43414"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

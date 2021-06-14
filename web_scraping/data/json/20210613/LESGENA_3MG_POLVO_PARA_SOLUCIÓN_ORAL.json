@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lesgena-3mg-polvo-para-solucion-oral-7707184601001/p",
+    "fecha_hora_scraping": "2021-06-14 09:28:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LESGENA 3MG POLVO PARA SOLUCI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/LESGENA_3MG_POLVO_PARA_SOLUCI\u00d3N_ORAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$27.600",
+        "precioPorSku js-PUM": "Unidad a $27.600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "3000 MG"
+        ],
+        [
+            "Principio activo",
+            "FOSFOMICINA TROMETAMOL"
+        ],
+        [
+            "Laboratorio",
+            "CLOSTER PHARMA SAS EN REORGANIZACIO"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016897"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

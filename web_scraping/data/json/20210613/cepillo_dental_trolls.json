@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-trolls-70942003551/p",
+    "fecha_hora_scraping": "2021-06-14 05:52:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental trolls",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_trolls.jpg",
+    "presentacion": "ESTUCHE X 2 UN",
+    "precio": {
+        "bestPrice": "$19.120",
+        "precioPorSku js-PUM": "Unidad a $9.560,00"
+    },
+    "descripcion": "cepillo dental trolls",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ESTUCHE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

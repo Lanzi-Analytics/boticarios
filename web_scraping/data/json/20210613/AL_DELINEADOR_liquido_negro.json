@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-delineador-liquido-negro-309975045017/p",
+    "fecha_hora_scraping": "2021-06-14 06:27:24",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL DELINEADOR liquido negro",
+    "nombre_imagen": "./web_scraping/data/img/AL_DELINEADOR_liquido_negro.jpg",
+    "presentacion": "TUBO X 3 ML",
+    "precio": {
+        "bestPrice": "$45.800",
+        "precioPorSku js-PUM": "Mililitro a $15.793,10"
+    },
+    "descripcion": "al delineador liquido negro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54461-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eutirox-137mg-x-50tab-mck-7501298224268/p",
+    "fecha_hora_scraping": "2021-06-14 07:59:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EUTIROX 137MG X 50TAB MCK",
+    "nombre_imagen": "./web_scraping/data/img/EUTIROX_137MG_X_50TAB_MCK.jpg",
+    "presentacion": "CAJA X 50 TAB",
+    "precio": {
+        "bestPrice": "$80.400",
+        "precioPorSku js-PUM": "Tableta a $1.608,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "137 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "LEVOTIROXINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007832-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

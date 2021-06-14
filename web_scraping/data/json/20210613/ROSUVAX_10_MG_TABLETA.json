@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rosuvax-10-mg-tableta-7707346470384/p",
+    "fecha_hora_scraping": "2021-06-14 10:02:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROSUVAX 10 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ROSUVAX_10_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$161.550",
+        "precioPorSku js-PUM": "Tableta a $5.385,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10,0 MG"
+        ],
+        [
+            "Principio activo",
+            "ROSUVASTATINA CALCICA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008667-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

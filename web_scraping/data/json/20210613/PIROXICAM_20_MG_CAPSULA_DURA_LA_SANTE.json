@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/piroxicam-20-mg-capsula-dura-la-sante-7703763030224/p",
+    "fecha_hora_scraping": "2021-06-14 05:29:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PIROXICAM 20 MG CAPSULA DURA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/PIROXICAM_20_MG_CAPSULA_DURA_LA_SANTE.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$4.100",
+        "precioPorSku js-PUM": "Capsula a $410,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "PIROXICAM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-010958-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

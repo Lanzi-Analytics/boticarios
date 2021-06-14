@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betnovate-locion-capilar-7703363000603/p",
+    "fecha_hora_scraping": "2021-06-14 00:16:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BETNOVATE LOCION CAPILAR",
+    "nombre_imagen": "./web_scraping/data/img/BETNOVATE_LOCION_CAPILAR.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$88.750",
+        "precioPorSku js-PUM": "Mililitro a $1.479,17"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "0.1 G"
+        ],
+        [
+            "Principio activo",
+            "BETAMETASONA VALERATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014776-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

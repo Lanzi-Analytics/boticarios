@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-total-12-clean-mint-150-7501035911376/p",
+    "fecha_hora_scraping": "2021-06-14 01:17:53",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE TOTAL 12 CLEAN MINT 150",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_TOTAL_12_CLEAN_MINT_150.jpg",
+    "presentacion": "CAJA X 150ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $112,67"
+    },
+    "descripcion": "CREMA DENTAL COLGATE TOTAL 12 CLEAN MINT 150",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 150ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79078-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/procto-glyvenol-supositorio-7501094912154/p",
+    "fecha_hora_scraping": "2021-06-14 07:45:56",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "PROCTO-GLYVENOL SUPOSITORIO",
+    "nombre_imagen": "./web_scraping/data/img/PROCTOGLYVENOL_SUPOSITORIO.jpg",
+    "presentacion": "CAJA X 5 UN",
+    "precio": {
+        "bestPrice": "$44.400",
+        "precioPorSku js-PUM": "Unidad a $8.880,00"
+    },
+    "descripcion": "procto-glyvenol supositorio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 UN"
+        ],
+        [
+            "Concentracion",
+            "400 MG 40 MG"
+        ],
+        [
+            "Principio activo",
+            "TRIBENOSIDO LIDOCAINA"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2018M-011163-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

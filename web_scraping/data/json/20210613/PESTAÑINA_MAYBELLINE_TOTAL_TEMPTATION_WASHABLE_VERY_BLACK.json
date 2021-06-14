@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-maybelline-total-temptation-washable-very-black-41554522563/p",
+    "fecha_hora_scraping": "2021-06-14 04:33:53",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAYBELLINE TOTAL TEMPTATION WASHABLE VERY BLACK",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAYBELLINE_TOTAL_TEMPTATION_WASHABLE_VERY_BLACK.jpg",
+    "presentacion": "UNIDAD X 9 ML",
+    "precio": {
+        "bestPrice": "$40.650",
+        "precioPorSku js-PUM": "Mililitro a $4.927,27"
+    },
+    "descripcion": "pesta\u00f1ina maybelline total temptation washable very black",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83727-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

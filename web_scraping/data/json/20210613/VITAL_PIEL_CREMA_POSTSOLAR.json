@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vital-piel-crema-postsolar-7703319000053/p",
+    "fecha_hora_scraping": "2021-06-14 00:46:02",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "VITAL PIEL CREMA POSTSOLAR",
+    "nombre_imagen": "./web_scraping/data/img/VITAL_PIEL_CREMA_POSTSOLAR.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $872,08"
+    },
+    "descripcion": "vital piel crema postsolar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALDOQUIN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC46928-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

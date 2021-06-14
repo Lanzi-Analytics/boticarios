@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-la-especial-mezcla-nueces-7702007049411/p",
+    "fecha_hora_scraping": "2021-06-14 07:18:05",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "man\u00ed la especial mezcla nueces",
+    "nombre_imagen": "./web_scraping/data/img/man\u00ed_la_especial_mezcla_nueces.jpg",
+    "presentacion": "PAQUETE X 45 G",
+    "precio": {
+        "bestPrice": "$2.300",
+        "precioPorSku js-PUM": "Gramo a $51,11"
+    },
+    "descripcion": "man\u00ed la especial mezcla nueces",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 45 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAA21I01199"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

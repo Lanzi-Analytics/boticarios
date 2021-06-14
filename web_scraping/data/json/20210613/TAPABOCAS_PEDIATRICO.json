@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-pediatrico-7707228365548/p",
+    "fecha_hora_scraping": "2021-06-14 00:05:23",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "TAPABOCAS PEDIATRICO",
+    "nombre_imagen": "./web_scraping/data/img/TAPABOCAS_PEDIATRICO.jpg",
+    "presentacion": "BOLSA X 10 UN",
+    "precio": {
+        "bestPrice": "$15.250",
+        "precioPorSku js-PUM": "Unidad a $1.525,00"
+    },
+    "descripcion": "tapabocas pediatrico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 10 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0012154"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

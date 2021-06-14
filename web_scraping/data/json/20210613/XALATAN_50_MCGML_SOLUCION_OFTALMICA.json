@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xalatan-50-mcgml-solucion-oftalmica-7317962960222/p",
+    "fecha_hora_scraping": "2021-06-14 01:19:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "XALATAN 50 MCG/ML SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/XALATAN_50_MCGML_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 2,5 ML",
+    "precio": {
+        "bestPrice": "$18.700",
+        "precioPorSku js-PUM": "Mililitro a $7.480,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 2,5 ML"
+        ],
+        [
+            "Concentracion",
+            "0,05 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LATANOPROST"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-007125-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

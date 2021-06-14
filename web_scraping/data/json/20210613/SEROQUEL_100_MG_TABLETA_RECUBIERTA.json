@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seroquel-100-mg-tableta-recubierta-7896206406660/p",
+    "fecha_hora_scraping": "2021-06-14 06:06:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SEROQUEL 100 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/SEROQUEL_100_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$19.530",
+        "precioPorSku js-PUM": "Tableta a $1.953,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "QUETIAPINA FUMARATO"
+        ],
+        [
+            "Laboratorio",
+            "ASTRAZENECA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2007M-010057R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-tena-mujer-super-7702027471148/p",
+    "fecha_hora_scraping": "2021-06-14 06:56:59",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "TOALLA\u00a0 HIGI\u00c9NICA TENA DISCREET SUPER 30 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/TOALLA_HIGI\u00c9NICA_TENA_DISCREET_SUPER_30_UNIDADES.jpg",
+    "presentacion": "PAQUETE X 30 UN",
+    "precio": {
+        "bestPrice": "$41.100",
+        "precioPorSku js-PUM": "Unidad a $1.370,00"
+    },
+    "descripcion": "TOALLA\u00a0 HIGI\u00c9NICA TENA DISCREET SUPER",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

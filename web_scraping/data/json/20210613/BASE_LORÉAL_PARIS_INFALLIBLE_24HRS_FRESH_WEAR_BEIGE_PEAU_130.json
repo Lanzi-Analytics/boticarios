@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-loreal-paris-infallible-24hrs-fresh-wear-beige-peau-130-3600523614417/p",
+    "fecha_hora_scraping": "2021-06-13 23:16:37",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE L'OR\u00c9AL PARIS INFALLIBLE 24HRS FRESH WEAR BEIGE PEAU 130",
+    "nombre_imagen": "./web_scraping/data/img/BASE_LOR\u00c9AL_PARIS_INFALLIBLE_24HRS_FRESH_WEAR_BEIGE_PEAU_130.jpg",
+    "presentacion": "UNIDAD X 30 ML",
+    "precio": {
+        "bestPrice": "$67.900",
+        "precioPorSku js-PUM": "Mililitro a $2.263,33"
+    },
+    "descripcion": "base l'or\u00e9al paris infallible 24hrs fresh wear beige peau 130",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87300-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

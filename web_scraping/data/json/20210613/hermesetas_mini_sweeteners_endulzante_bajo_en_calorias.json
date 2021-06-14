@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hermesetas-mini-sweeteners-endulzante-bajo-en-calorias-7610211220109/p",
+    "fecha_hora_scraping": "2021-06-14 00:52:31",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "hermesetas mini sweeteners endulzante bajo en calorias",
+    "nombre_imagen": "./web_scraping/data/img/hermesetas_mini_sweeteners_endulzante_bajo_en_calorias.jpg",
+    "presentacion": "CAJA X 300 TAB",
+    "precio": {
+        "bestPrice": "$12.500",
+        "precioPorSku js-PUM": "Tableta a $41,67"
+    },
+    "descripcion": "hermesetas mini sweeteners endulzante bajo en calorias",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 300 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "N T I NEW TRADE INTERNACIONAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA22I3605"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

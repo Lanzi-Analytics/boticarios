@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-riquillas-super-ricas-7702152008066/p",
+    "fecha_hora_scraping": "2021-06-14 00:10:44",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas riquillas super ricas",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_riquillas_super_ricas.jpg",
+    "presentacion": "PAQUETE X 15 G",
+    "precio": {
+        "bestPrice": "$700",
+        "precioPorSku js-PUM": "Gramo a $46,67"
+    },
+    "descripcion": "pasabocas riquillas super ricas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 15 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD21M08590"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-mustela-pre-post-parto-crema-prevencion-estrias-y-gel-firmeza-7709306253051/p",
+    "fecha_hora_scraping": "2021-06-14 00:28:34",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "KIT MUSTELA PRE-POST PARTO CREMA PREVENCI\u00d3N ESTRIAS Y GEL FIRMEZA",
+    "nombre_imagen": "./web_scraping/data/img/KIT_MUSTELA_PREPOST_PARTO_CREMA_PREVENCI\u00d3N_ESTRIAS_Y_GEL_FIRMEZA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $152.150,00"
+    },
+    "descripcion": "kit mustela pre-post parto crema prevenci\u00f3n estrias y gel firmeza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68307-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

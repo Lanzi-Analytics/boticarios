@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nafvision-1-mgml-solucion-oftalmica-7709830535807/p",
+    "fecha_hora_scraping": "2021-06-14 02:22:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NAFVISION 1 MG/ML SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/NAFVISION_1_MGML_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 7 ML",
+    "precio": {
+        "bestPrice": "$10.650",
+        "precioPorSku js-PUM": "Mililitro a $1.521,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 7 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "NAFAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015638"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-artesanal-crem-helado-maracuya-7702402052399/p",
+    "fecha_hora_scraping": "2021-06-14 08:58:56",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado artesanal crem helado maracuya",
+    "nombre_imagen": "./web_scraping/data/img/helado_artesanal_crem_helado_maracuya.jpg",
+    "presentacion": "UNIDAD X 70 G",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Gramo a $25,00"
+    },
+    "descripcion": "helado artesanal crem helado maracuya",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 70 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02140705"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

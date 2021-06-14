@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cereal-infantil-mah-arroz-6-meses-854688003170/p",
+    "fecha_hora_scraping": "2021-06-14 07:45:24",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "CEREAL INFANTIL MAH! ARROZ +6 MESES",
+    "nombre_imagen": "./web_scraping/data/img/CEREAL_INFANTIL_MAH_ARROZ_6_MESES.jpg",
+    "presentacion": "CAJA X 210 G",
+    "precio": {
+        "bestPrice": "$16.650",
+        "precioPorSku js-PUM": "Gramo a $79,29"
+    },
+    "descripcion": "cereal infantil mah! arroz +6 meses",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 210 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MAH! COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA10I99214"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

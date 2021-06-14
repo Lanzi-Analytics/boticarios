@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lyrica-50-mg-capsulas-capsula-de-cubierta-dura-7703283404529/p",
+    "fecha_hora_scraping": "2021-06-14 01:23:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LYRICA 50 MG CAPSULAS C\u00c1PSULA DE CUBIERTA DURA",
+    "nombre_imagen": "./web_scraping/data/img/LYRICA_50_MG_CAPSULAS_C\u00c1PSULA_DE_CUBIERTA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$30.200",
+        "precioPorSku js-PUM": "Capsula a $1.006,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013498-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

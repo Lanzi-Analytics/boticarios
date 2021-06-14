@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biotin-900-mcg-tableta-698138672192/p",
+    "fecha_hora_scraping": "2021-06-14 08:29:45",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "BIOTIN 900 MCG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/BIOTIN_900_MCG_TABLETA.jpg",
+    "presentacion": "FRASCO X 100 TAB",
+    "precio": {
+        "bestPrice": "$50.500",
+        "precioPorSku js-PUM": "Tableta a $505,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002804"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/f--chocolate-deditos-display-x-23g-7702024007067/p",
+    "fecha_hora_scraping": "2021-06-14 00:01:49",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "F- CHOCOLATE DEDITOS DISPLAY X 23G",
+    "nombre_imagen": "./web_scraping/data/img/F_CHOCOLATE_DEDITOS_DISPLAY_X_23G.jpg",
+    "presentacion": "BOLSA23GRS",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $28,26"
+    },
+    "descripcion": "F- CHOCOLATE DEDITOS DISPLAY X 23G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA23GRS"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-0008955-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

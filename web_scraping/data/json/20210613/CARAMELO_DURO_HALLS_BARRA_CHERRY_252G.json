@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caramelo-duro-halls-barra-cherry-252g-7622210427045/p",
+    "fecha_hora_scraping": "2021-06-14 04:53:19",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "CARAMELO DURO HALLS BARRA CHERRY 25.2G",
+    "nombre_imagen": "./web_scraping/data/img/CARAMELO_DURO_HALLS_BARRA_CHERRY_252G.jpg",
+    "presentacion": "PAQUETE X25,2G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $47,62"
+    },
+    "descripcion": "CARAMELO DURO HALLS BARRA CHERRY 25.2G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X25,2G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I171514"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

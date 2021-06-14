@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tizanidina-2-mg-tableta-la-francol-7706569022172/p",
+    "fecha_hora_scraping": "2021-06-14 07:21:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIZANIDINA 2 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/TIZANIDINA_2_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$50.450",
+        "precioPorSku js-PUM": "Tableta a $2.522,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG"
+        ],
+        [
+            "Principio activo",
+            "TIZANIDINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008840-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

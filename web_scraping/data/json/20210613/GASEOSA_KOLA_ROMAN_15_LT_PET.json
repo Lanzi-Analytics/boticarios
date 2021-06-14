@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-kola-roman-15-lt-pet-7702609001886/p",
+    "fecha_hora_scraping": "2021-06-14 06:01:31",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "GASEOSA KOLA ROMAN 1.5 LT PET",
+    "nombre_imagen": "./web_scraping/data/img/GASEOSA_KOLA_ROMAN_15_LT_PET.jpg",
+    "presentacion": "BOTELLA X 1500ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1,87"
+    },
+    "descripcion": "GASEOSA KOLA ROMAN 1.5 LT PET",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 1500ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001320-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

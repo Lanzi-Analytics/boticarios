@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mango-interdental-curaprox-refcps07-uhs4-7612412450033/p",
+    "fecha_hora_scraping": "2021-06-14 05:53:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "mango interdental curaprox refcps07 uhs4",
+    "nombre_imagen": "./web_scraping/data/img/mango_interdental_curaprox_refcps07_uhs4.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$27.500",
+        "precioPorSku js-PUM": "Unidad a $27.500,00"
+    },
+    "descripcion": "mango interdental curaprox cps 07 uhs4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LAMOSAN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-2011DM-0006985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

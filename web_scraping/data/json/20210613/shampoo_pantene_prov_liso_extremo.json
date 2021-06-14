@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-pantene-liso-extremo-7501001165246/p",
+    "fecha_hora_scraping": "2021-06-14 08:52:53",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo pantene pro-v liso extremo",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_pantene_prov_liso_extremo.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$20.550",
+        "precioPorSku js-PUM": "Mililitro a $51,38"
+    },
+    "descripcion": "shamp pantene 400 ml liso-extremo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

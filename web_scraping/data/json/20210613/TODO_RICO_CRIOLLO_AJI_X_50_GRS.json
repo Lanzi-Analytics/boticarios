@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/todo-rico-criollo-aji-x-50-grs-7702152122700/p",
+    "fecha_hora_scraping": "2021-06-14 00:28:44",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "TODO RICO CRIOLLO AJI X 50 GRS",
+    "nombre_imagen": "./web_scraping/data/img/TODO_RICO_CRIOLLO_AJI_X_50_GRS.jpg",
+    "presentacion": "PAQUETE X 50 G",
+    "precio": {
+        "bestPrice": "$2.000",
+        "precioPorSku js-PUM": "Gramo a $40,00"
+    },
+    "descripcion": "TODO RICO CRIOLLO AJI X 50 GRS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD10I13101"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/megavit-vainilla-polvo-7708916282468/p",
+    "fecha_hora_scraping": "2021-06-14 02:55:55",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "MEGAVIT VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/MEGAVIT_VAINILLA_POLVO.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$31.250",
+        "precioPorSku js-PUM": "Gramo a $78,13"
+    },
+    "descripcion": "megavit vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VARAN FARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD10I71812"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

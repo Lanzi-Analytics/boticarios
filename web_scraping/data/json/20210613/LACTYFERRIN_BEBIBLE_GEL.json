@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lactyferrin-bebible-gel-8429979461902/p",
+    "fecha_hora_scraping": "2021-06-14 08:48:50",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "LACTYFERRIN BEBIBLE GEL",
+    "nombre_imagen": "./web_scraping/data/img/LACTYFERRIN_BEBIBLE_GEL.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$215.700",
+        "precioPorSku js-PUM": "Mililitro a $431,40"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2020-0004501"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

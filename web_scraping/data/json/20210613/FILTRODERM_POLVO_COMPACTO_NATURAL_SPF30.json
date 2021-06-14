@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/filtroderm-polvo-compacto-natural-spf30-7707173601241/p",
+    "fecha_hora_scraping": "2021-06-14 02:13:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "FILTRODERM POLVO COMPACTO NATURAL SPF30",
+    "nombre_imagen": "./web_scraping/data/img/FILTRODERM_POLVO_COMPACTO_NATURAL_SPF30.jpg",
+    "presentacion": "FRASCO X 13 G",
+    "precio": {
+        "bestPrice": "$40.300",
+        "precioPorSku js-PUM": "Gramo a $3.100,00"
+    },
+    "descripcion": "filtroderm polvo compacto natural spf30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 13 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59993-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eclamp-150mg-tableta-recubierta-7703153036973/p",
+    "fecha_hora_scraping": "2021-06-14 09:10:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ECLAMP 150MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ECLAMP_150MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$54.000",
+        "precioPorSku js-PUM": "Tableta a $1.800,00"
+    },
+    "descripcion": "ECLAMP 150MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019390"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

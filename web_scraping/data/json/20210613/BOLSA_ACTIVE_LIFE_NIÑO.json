@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bolsa-active-life-nino-768455101399/p",
+    "fecha_hora_scraping": "2021-06-13 23:29:48",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BOLSA ACTIVE LIFE NI\u00d1O",
+    "nombre_imagen": "./web_scraping/data/img/BOLSA_ACTIVE_LIFE_NI\u00d1O.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $20.236,67"
+    },
+    "descripcion": "bolsa active life ni\u00f1o",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0000973-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

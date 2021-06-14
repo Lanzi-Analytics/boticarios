@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bloqueador-solar-tanga-baby-spf100-7702113034639/p",
+    "fecha_hora_scraping": "2021-06-14 06:09:15",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "bloqueador solar tanga baby spf100+",
+    "nombre_imagen": "./web_scraping/data/img/bloqueador_solar_tanga_baby_spf100.jpg",
+    "presentacion": "BOTELLA X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$39.750",
+        "bestPrice": "$31.800",
+        "precioPorSku js-PUM": "Mililitro a $265,00"
+    },
+    "descripcion": "bloq tanga fps 100 baby 120ml.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54285-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

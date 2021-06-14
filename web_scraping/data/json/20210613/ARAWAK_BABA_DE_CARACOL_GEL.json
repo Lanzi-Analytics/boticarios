@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-baba-de-caracol-gel-7707016403674/p",
+    "fecha_hora_scraping": "2021-06-14 00:15:16",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK BABA DE CARACOL GEL",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_BABA_DE_CARACOL_GEL.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$19.900",
+        "precioPorSku js-PUM": "Gramo a $398,00"
+    },
+    "descripcion": "arawak baba de caracol gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76913-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

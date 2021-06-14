@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-sensitive-blanqueadora-7891024134429/p",
+    "fecha_hora_scraping": "2021-06-14 02:50:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental colgate sensitive blanqueadora",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_colgate_sensitive_blanqueadora.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$23.500",
+        "precioPorSku js-PUM": "Mililitro a $313,33"
+    },
+    "descripcion": "crema dent colgate 75 ml sensitive bla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

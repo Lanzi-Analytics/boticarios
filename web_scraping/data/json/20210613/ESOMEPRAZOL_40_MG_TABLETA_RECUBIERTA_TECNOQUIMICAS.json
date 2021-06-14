@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esomeprazol-40-mg-tableta-recubierta-tecnoquimicas-7702057074630/p",
+    "fecha_hora_scraping": "2021-06-14 09:58:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESOMEPRAZOL 40 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/ESOMEPRAZOL_40_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$43.700",
+        "precioPorSku js-PUM": "Tableta a $4.370,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "40,0 MG"
+        ],
+        [
+            "Principio activo",
+            "ESOMEPRAZOL MAGNESIO TRIHID"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004977-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

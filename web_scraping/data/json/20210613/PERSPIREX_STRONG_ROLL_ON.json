@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/perspirex-strong-roll-on-5701943010853/p",
+    "fecha_hora_scraping": "2021-06-14 00:31:49",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "PERSPIREX STRONG ROLL ON",
+    "nombre_imagen": "./web_scraping/data/img/PERSPIREX_STRONG_ROLL_ON.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$50.600",
+        "precioPorSku js-PUM": "Mililitro a $2.530,00"
+    },
+    "descripcion": "perspirex strong roll on",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90504-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

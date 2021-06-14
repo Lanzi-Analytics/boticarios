@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/titanium-power-bites-sweet-salty-7709001770778/p",
+    "fecha_hora_scraping": "2021-06-14 01:44:10",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "titanium power bites sweet salty",
+    "nombre_imagen": "./web_scraping/data/img/titanium_power_bites_sweet_salty.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$7.250",
+        "precioPorSku js-PUM": "Gramo a $241,67"
+    },
+    "descripcion": "titanium power bites sweet salty",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALIMENTOS Y BEBIDAS VALTIK SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0008621-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

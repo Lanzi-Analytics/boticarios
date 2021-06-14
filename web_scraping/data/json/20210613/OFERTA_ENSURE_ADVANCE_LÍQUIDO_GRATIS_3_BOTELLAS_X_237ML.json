@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-ensure-advance-liquido-gratis-3-botellas-x-237ml-7703186032447/p",
+    "fecha_hora_scraping": "2021-06-14 07:09:52",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA ENSURE ADVANCE L\u00cdQUIDO GRATIS 3 BOTELLAS X 237ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ENSURE_ADVANCE_L\u00cdQUIDO_GRATIS_3_BOTELLAS_X_237ML.jpg",
+    "presentacion": "TARRO X 850 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $113,18"
+    },
+    "descripcion": "oferta ensure advance l\u00edquido gratis 3 botellas x 237ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 850 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004359-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

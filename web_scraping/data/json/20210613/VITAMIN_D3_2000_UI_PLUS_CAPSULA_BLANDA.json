@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/751273780198healty-americanaturalesmedicamentosvitamin-d3-2000-ui-plus-capsula-blanda-751273780198/p",
+    "fecha_hora_scraping": "2021-06-14 01:43:31",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VITAMIN D3 2000 UI PLUS CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/VITAMIN_D3_2000_UI_PLUS_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 100 CAP",
+    "precio": {
+        "bestPrice": "$36.650",
+        "precioPorSku js-PUM": "Capsula a $366,50"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003523"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

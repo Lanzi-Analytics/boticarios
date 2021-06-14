@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/racorval-a-160mg5mg-tableta-recubierta-7798129413544/p",
+    "fecha_hora_scraping": "2021-06-14 03:33:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RACORVAL A 160MG/5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/RACORVAL_A_160MG5MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$104.950",
+        "precioPorSku js-PUM": "Tableta a $3.748,21"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017785"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

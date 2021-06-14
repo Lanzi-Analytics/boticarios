@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallita-humeda-pequenin-pure-skin-x40-7702026188702/p",
+    "fecha_hora_scraping": "2021-06-14 00:16:05",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "TOALLITA HUMEDA PEQUE\u00d1IN PURE SKIN X40",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITA_HUMEDA_PEQUE\u00d1IN_PURE_SKIN_X40.jpg",
+    "presentacion": "PAQUETE X 40UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $177,50"
+    },
+    "descripcion": "TOALLITA HUMEDA PEQUE\u00d1IN PURE SKIN X40",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 40UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75110-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

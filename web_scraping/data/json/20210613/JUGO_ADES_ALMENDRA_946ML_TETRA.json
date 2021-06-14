@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-ades-almendra-946ml-tetra-7501055363346/p",
+    "fecha_hora_scraping": "2021-06-14 05:52:08",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "JUGO ADES ALMENDRA 946ML TETRA",
+    "nombre_imagen": "./web_scraping/data/img/JUGO_ADES_ALMENDRA_946ML_TETRA.jpg",
+    "presentacion": "CAJA X 946ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $12,37"
+    },
+    "descripcion": "JUGO ADES ALMENDRA 946ML TETRA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 946ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-006674-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

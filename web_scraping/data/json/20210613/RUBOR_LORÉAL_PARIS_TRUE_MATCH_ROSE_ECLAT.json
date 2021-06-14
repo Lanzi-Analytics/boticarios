@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rubor-loreal-paris-true-match-rose-eclat-3600522774617/p",
+    "fecha_hora_scraping": "2021-06-14 09:41:19",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RUBOR L'OR\u00c9AL PARIS TRUE MATCH ROSE ECLAT",
+    "nombre_imagen": "./web_scraping/data/img/RUBOR_LOR\u00c9AL_PARIS_TRUE_MATCH_ROSE_ECLAT.jpg",
+    "presentacion": "UNIDAD X 9.5 G",
+    "precio": {
+        "bestPrice": "$46.400",
+        "precioPorSku js-PUM": "Gramo a $9.280,00"
+    },
+    "descripcion": "rubor l'or\u00e9al paris true match rose eclat",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9.5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68293-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

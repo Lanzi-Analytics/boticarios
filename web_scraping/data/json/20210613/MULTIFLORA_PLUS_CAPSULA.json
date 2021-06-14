@@ -1,20 +1,20 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/multiflora-plus-capsula-5027314503701/p",
-    "fecha_hora_scraping": "2021-06-13 19:17:33",
+    "url_producto": "https://www.drogueriascolsubsidio.com/multiflora-plus-capsula-5027314503718/p",
+    "fecha_hora_scraping": "2021-06-14 03:25:52",
     "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "MULTIFLORA PLUS CAPSULA",
     "nombre_imagen": "./web_scraping/data/img/MULTIFLORA_PLUS_CAPSULA.jpg",
-    "presentacion": "CAJA X 30 CAP",
+    "presentacion": "CAJA X 10 CAP",
     "precio": {
-        "PrevPrice": "Antes:$109.600",
-        "bestPrice": "$76.720",
-        "precioPorSku js-PUM": "Capsula a $2.557,33"
+        "PrevPrice": "Antes:$63.200",
+        "bestPrice": "$44.240",
+        "precioPorSku js-PUM": "Capsula a $4.424,00"
     },
     "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 30 CAP"
+            "CAJA X 10 CAP"
         ],
         [
             "Concentracion",

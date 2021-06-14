@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/b-vit-100-mg-capsula-blanda-7703153000059/p",
+    "fecha_hora_scraping": "2021-06-14 05:19:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "B-VIT 100 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/BVIT_100_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "BLISTER X 10 CAP",
+    "precio": {
+        "bestPrice": "$9.830",
+        "precioPorSku js-PUM": "Capsula a $983,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "50 MG 50 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "PIRIDOXINA CLORHIDRATO/NICOTINAMIDA/RIBOFLAVINA/TIAMINA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013146-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

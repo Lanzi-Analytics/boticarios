@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/finapel-1-mg-tableta-recubierta-7707222420267/p",
+    "fecha_hora_scraping": "2021-06-14 10:33:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FINAPEL 1 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FINAPEL_1_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$96.800",
+        "precioPorSku js-PUM": "Tableta a $3.457,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "FINASTERIDE"
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002820-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

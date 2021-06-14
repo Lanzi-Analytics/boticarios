@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7798140252351genommacuidado-facialmedicamentoscrema-antimanchas-cicatricureantiedad-antiarrugas-crema-hidratante-cara-7798140252351/p",
+    "fecha_hora_scraping": "2021-06-14 03:10:22",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CICATRICURE CREMA FACIAL ANTIMANCHAS 50 G",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_CREMA_FACIAL_ANTIMANCHAS_50_G.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$57.100",
+        "precioPorSku js-PUM": "Gramo a $1.142,00"
+    },
+    "descripcion": "su f\u00f3rmula posee ph resorcinol, un potente componente que regula la producci\u00f3n de melanina ayudando a reducir las manchas de pigmentaci\u00f3n y aclara",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84843-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

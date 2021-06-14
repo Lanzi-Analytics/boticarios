@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lansoprazol-30mg-capsula-de-liberacion-retardada-la-sante-7703763730131/p",
+    "fecha_hora_scraping": "2021-06-14 00:58:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LANSOPRAZOL 30MG C\u00c1PSULA DE LIBERACI\u00d3N RETARDADA LA SANT\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/LANSOPRAZOL_30MG_C\u00c1PSULA_DE_LIBERACI\u00d3N_RETARDADA_LA_SANT\u00c9.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$24.000",
+        "precioPorSku js-PUM": "Capsula a $857,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "LANSOPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-011696-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

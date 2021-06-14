@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lipiel-syndet-crema-7707206271434/p",
+    "fecha_hora_scraping": "2021-06-13 23:15:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "LIPIEL SYNDET CREMA",
+    "nombre_imagen": "./web_scraping/data/img/LIPIEL_SYNDET_CREMA.jpg",
+    "presentacion": "FRASCO X 220 ML",
+    "precio": {
+        "bestPrice": "$61.250",
+        "precioPorSku js-PUM": "Mililitro a $278,41"
+    },
+    "descripcion": "lipiel syndet crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 220 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06786-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

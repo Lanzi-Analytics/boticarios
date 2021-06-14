@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinestryn-crema-7703445110114/p",
+    "fecha_hora_scraping": "2021-06-14 01:46:44",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SINESTRYN CREMA",
+    "nombre_imagen": "./web_scraping/data/img/SINESTRYN_CREMA.jpg",
+    "presentacion": "FRASCO X 400 G",
+    "precio": {
+        "bestPrice": "$44.900",
+        "precioPorSku js-PUM": "Gramo a $112,25"
+    },
+    "descripcion": "sinestryn crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36553-97CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

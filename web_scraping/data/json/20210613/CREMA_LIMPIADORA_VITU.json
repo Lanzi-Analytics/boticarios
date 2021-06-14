@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-limpiadora-vitu-7702044210690/p",
+    "fecha_hora_scraping": "2021-06-14 01:54:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA LIMPIADORA VITU",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_LIMPIADORA_VITU.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $103,00"
+    },
+    "descripcion": "crema limpiadora vitu",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57759-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

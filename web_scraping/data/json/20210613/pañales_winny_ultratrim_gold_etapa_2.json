@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-winny-ultratrim-gold-etapa-2-7701021142153/p",
+    "fecha_hora_scraping": "2021-06-14 01:40:01",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1ales winny ultratrim gold etapa 2",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_winny_ultratrim_gold_etapa_2.jpg",
+    "presentacion": "BOLSA X 16 UN",
+    "precio": {
+        "bestPrice": "$11.600",
+        "precioPorSku js-PUM": "Unidad a $725,00"
+    },
+    "descripcion": "panal winny ultratrim gold et.2 x16 un",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 16 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-V-001730"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

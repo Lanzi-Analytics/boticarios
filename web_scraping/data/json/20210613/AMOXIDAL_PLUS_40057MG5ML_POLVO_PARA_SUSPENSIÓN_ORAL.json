@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amoxidal-plus-40057mg5ml-polvo-para-suspension-oral-5600360012894/p",
+    "fecha_hora_scraping": "2021-06-14 09:22:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMOXIDAL PLUS 400/57MG/5ML POLVO PARA SUSPENSI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/AMOXIDAL_PLUS_40057MG5ML_POLVO_PARA_SUSPENSI\u00d3N_ORAL.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$75.050",
+        "precioPorSku js-PUM": "Mililitro a $750,50"
+    },
+    "descripcion": "AMOXIDAL PLUS 400/57MG/5ML POLVO PARA SUSPENSI\u00d3N ORAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML 11,4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA CLAVULANICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0019667"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

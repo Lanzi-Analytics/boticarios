@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-lubriderm-proteccion-solar-spf15-7702035469151/p",
+    "fecha_hora_scraping": "2021-06-14 10:05:59",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "crema lubriderm protecci\u00f3n solar spf15+",
+    "nombre_imagen": "./web_scraping/data/img/crema_lubriderm_protecci\u00f3n_solar_spf15.jpg",
+    "presentacion": "BOTELLA X 120 ML",
+    "precio": {
+        "bestPrice": "$12.250",
+        "precioPorSku js-PUM": "Mililitro a $102,08"
+    },
+    "descripcion": "crema lubriderm u.v 120 ml spf15",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-glicerinado-antibacterial-en-espuma-aerosol-con-aloe-vera-y-7709858260217/p",
+    "fecha_hora_scraping": "2021-06-14 01:00:11",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "ALCOHOL GLICERINADO ANTIBACTERIAL EN ESPUMA AEROSOL CON ALOE VERA Y",
+    "nombre_imagen": "./web_scraping/data/img/ALCOHOL_GLICERINADO_ANTIBACTERIAL_EN_ESPUMA_AEROSOL_CON_ALOE_VERA_Y.jpg",
+    "presentacion": "UNIDAD X 150 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $56,67"
+    },
+    "descripcion": "Alcohol en espuma que proporciona una desinfecci\u00f3n r\u00e1pida y suave con las manos dando una sensaci\u00f3n m\u00e1s c\u00e1lidad que cualquier otro producto y no requiere enjuague.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "S3M GROUP SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC02586-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

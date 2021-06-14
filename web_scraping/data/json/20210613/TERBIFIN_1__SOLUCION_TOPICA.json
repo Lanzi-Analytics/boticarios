@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/terbifin-1--solucion-topica-7707288825617/p",
+    "fecha_hora_scraping": "2021-06-13 23:44:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TERBIFIN 1 % SOLUCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/TERBIFIN_1__SOLUCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$17.600",
+        "precioPorSku js-PUM": "Mililitro a $586,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017137"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

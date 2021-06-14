@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-efecto-tensor-mujer-7707016405241/p",
+    "fecha_hora_scraping": "2021-06-13 23:25:10",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK EFECTO TENSOR MUJER",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_EFECTO_TENSOR_MUJER.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$60.500",
+        "precioPorSku js-PUM": "Gramo a $1.210,00"
+    },
+    "descripcion": "arawak efecto tensor mujer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66997-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

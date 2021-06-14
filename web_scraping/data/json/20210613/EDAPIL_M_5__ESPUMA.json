@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/edapil-m-5--espuma-7703281001836/p",
+    "fecha_hora_scraping": "2021-06-14 03:33:57",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "EDAPIL M 5 % ESPUMA",
+    "nombre_imagen": "./web_scraping/data/img/EDAPIL_M_5__ESPUMA.jpg",
+    "presentacion": "FRASCO X 100 G",
+    "precio": {
+        "PrevPrice": "Antes:$90.850",
+        "bestPrice": "$63.595",
+        "precioPorSku js-PUM": "Gramo a $635,95"
+    },
+    "descripcion": "edapil m 5 % espuma",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "5 G"
+        ],
+        [
+            "Principio activo",
+            "MINOXIDIL"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016550"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

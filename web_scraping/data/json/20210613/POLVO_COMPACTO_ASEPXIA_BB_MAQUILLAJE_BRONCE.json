@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-compacto-asepxia-bb-maquillaje-bronce-650240036316/p",
+    "fecha_hora_scraping": "2021-06-13 23:28:06",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO COMPACTO ASEPXIA BB MAQUILLAJE BRONCE",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_COMPACTO_ASEPXIA_BB_MAQUILLAJE_BRONCE.jpg",
+    "presentacion": "CAJA X 10 G",
+    "precio": {
+        "bestPrice": "$29.000",
+        "precioPorSku js-PUM": "Gramo a $2.900,00"
+    },
+    "descripcion": "con su nueva f\u00f3rmula hidro-force\u00ae y efecto bb, la l\u00ednea de asepxia maquillaje te ayuda a tener una piel radiante con 8 beneficios en cada uno de sus productos.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77836-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

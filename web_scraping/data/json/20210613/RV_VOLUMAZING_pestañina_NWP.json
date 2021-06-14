@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-volumazing-pestanina-nwp-309976087023/p",
+    "fecha_hora_scraping": "2021-06-14 06:09:21",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV VOLUMAZING pesta\u00f1ina NWP",
+    "nombre_imagen": "./web_scraping/data/img/RV_VOLUMAZING_pesta\u00f1ina_NWP.jpg",
+    "presentacion": "TUBO X 9 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $4.427,78"
+    },
+    "descripcion": "rv volumazing pesta\u00f1ina nwp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 9 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97081-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

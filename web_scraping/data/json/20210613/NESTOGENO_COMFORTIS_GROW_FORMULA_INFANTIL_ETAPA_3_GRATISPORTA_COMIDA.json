@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nestogeno-comfortis-grow-formula-infantil-etapa-3-gratis-porta-comida-7702024112334/p",
+    "fecha_hora_scraping": "2021-06-14 07:22:06",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NESTOGENO COMFORTIS GROW FORMULA INFANTIL ETAPA 3 GRATIS:PORTA COMIDA",
+    "nombre_imagen": "./web_scraping/data/img/NESTOGENO_COMFORTIS_GROW_FORMULA_INFANTIL_ETAPA_3_GRATISPORTA_COMIDA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$35.200",
+        "precioPorSku js-PUM": "Unidad a $35.200,00"
+    },
+    "descripcion": "nestogeno comfortis grow formula infantil etapa 3 gratis:porta comida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I76114"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

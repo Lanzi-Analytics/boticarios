@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-kids-sin-fluor-naturals-proquident-7702314502203/p",
+    "fecha_hora_scraping": "2021-06-14 00:31:59",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL KIDS SIN FLUOR NATURALS PROQUIDENT",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_KIDS_SIN_FLUOR_NATURALS_PROQUIDENT.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$8.100",
+        "precioPorSku js-PUM": "Unidad a $8.100,00"
+    },
+    "descripcion": "crema dental kids sin fluor naturals pro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64253-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

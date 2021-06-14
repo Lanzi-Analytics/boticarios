@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nivea-lip-care-cherry-4005808377534/p",
+    "fecha_hora_scraping": "2021-06-14 05:55:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NIVEA LIP CARE CHERRY",
+    "nombre_imagen": "./web_scraping/data/img/NIVEA_LIP_CARE_CHERRY.jpg",
+    "presentacion": "TUBO X 4,7 G",
+    "precio": {
+        "bestPrice": "$12.050",
+        "precioPorSku js-PUM": "Gramo a $2.563,83"
+    },
+    "descripcion": "nivea lip care cherry",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4,7 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54063-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707336721243nervoheel-n-tabletamedicamentoshomeopaticosquideca-7707336721243/p",
+    "fecha_hora_scraping": "2021-06-14 02:28:50",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "NERVOHEEL N TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/NERVOHEEL_N_TABLETA.jpg",
+    "presentacion": "CAJA X 50 TAB",
+    "precio": {
+        "bestPrice": "$55.400",
+        "precioPorSku js-PUM": "Tableta a $1.108,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2019-0000699-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

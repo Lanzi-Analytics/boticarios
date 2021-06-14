@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-orgnx-coco-y-macadamia-67545038905/p",
+    "fecha_hora_scraping": "2021-06-14 01:20:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "SHAMPOO ORGNX COCO Y MACADAMIA",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_ORGNX_COCO_Y_MACADAMIA.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$47.450",
+        "precioPorSku js-PUM": "Mililitro a $158,17"
+    },
+    "descripcion": "shampoo orgnx coco y macadamia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83409-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

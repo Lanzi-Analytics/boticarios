@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-similac-iq-sensitive-sin-lactosa-8427030003238/p",
+    "fecha_hora_scraping": "2021-06-14 05:14:06",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL SIMILAC SL SENSITIVE SIN LACTOSA",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_SIMILAC_SL_SENSITIVE_SIN_LACTOSA.jpg",
+    "presentacion": "TARRO X 375 G",
+    "precio": {
+        "bestPrice": "$43.350",
+        "precioPorSku js-PUM": "Gramo a $115,60"
+    },
+    "descripcion": "FORMULA INFANTIL SIMILAC SL SENSITIVE SIN LACTOSA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 375 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009207-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

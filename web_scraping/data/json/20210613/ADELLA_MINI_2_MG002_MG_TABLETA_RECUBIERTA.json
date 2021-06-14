@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/adella-mini-2-mg002-mg-tableta-recubierta-7703153028060/p",
+    "fecha_hora_scraping": "2021-06-13 23:52:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ADELLA MINI 2 MG/0.02 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ADELLA_MINI_2_MG002_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$23.250",
+        "precioPorSku js-PUM": "Tableta a $830,36"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0.02 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORMADINONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014168-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

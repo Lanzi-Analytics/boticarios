@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/astymin-c-gotas-orales-8906061482880/p",
+    "fecha_hora_scraping": "2021-06-14 08:05:49",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "astymin-c gotas orales",
+    "nombre_imagen": "./web_scraping/data/img/astyminc_gotas_orales.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$29.500",
+        "precioPorSku js-PUM": "Mililitro a $1.966,67"
+    },
+    "descripcion": "astymin-c gotas orales",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "L & R FARMACEUTICA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003372"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

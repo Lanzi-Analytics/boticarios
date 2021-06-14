@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiras-accu-chek-instant-4015630067077/p",
+    "fecha_hora_scraping": "2021-06-14 09:38:54",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TIRAS ACCU-CHEK INSTANT",
+    "nombre_imagen": "./web_scraping/data/img/TIRAS_ACCUCHEK_INSTANT.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "PrevPrice": "Antes:$64.050",
+        "bestPrice": "$48.037",
+        "precioPorSku js-PUM": "Unidad a $1.921,48"
+    },
+    "descripcion": "tiras accu-chek instant",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "CLORMADINONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS ROCHE SA"
+        ],
+        [
+            "Registro Invima",
+            "2017RD-0004198"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

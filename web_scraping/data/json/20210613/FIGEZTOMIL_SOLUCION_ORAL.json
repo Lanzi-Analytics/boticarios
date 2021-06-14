@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/figeztomil-solucion-oral-7707334710430/p",
+    "fecha_hora_scraping": "2021-06-14 01:59:27",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "FIGEZTOMIL SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/FIGEZTOMIL_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$33.750",
+        "precioPorSku js-PUM": "Mililitro a $140,63"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEVOX FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0002080"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

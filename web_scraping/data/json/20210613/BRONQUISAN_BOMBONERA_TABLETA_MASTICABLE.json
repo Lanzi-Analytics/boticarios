@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bronquisan-bombonera-tableta-masticable-7707237630064/p",
+    "fecha_hora_scraping": "2021-06-14 05:08:52",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "BRONQUISAN BOMBONERA TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/BRONQUISAN_BOMBONERA_TABLETA_MASTICABLE.jpg",
+    "presentacion": "SOBRE",
+    "precio": {
+        "bestPrice": "$1.450",
+        "precioPorSku js-PUM": "Unidad a $1.450,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO EL MANA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002942"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hydraskin-face-7707222420021/p",
+    "fecha_hora_scraping": "2021-06-14 07:03:30",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "HYDRASKIN FACE",
+    "nombre_imagen": "./web_scraping/data/img/HYDRASKIN_FACE.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$92.850",
+        "precioPorSku js-PUM": "Gramo a $1.857,00"
+    },
+    "descripcion": "hydraskin face",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00024-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiocolfen-400-mg4-mg-capsula-dura-7703763997527/p",
+    "fecha_hora_scraping": "2021-06-14 08:41:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIOCOLFEN 400 MG/4 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/TIOCOLFEN_400_MG4_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 15 CAP",
+    "precio": {
+        "bestPrice": "$63.700",
+        "precioPorSku js-PUM": "Capsula a $4.246,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 4 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO TIOCOLCHICOSIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015097"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

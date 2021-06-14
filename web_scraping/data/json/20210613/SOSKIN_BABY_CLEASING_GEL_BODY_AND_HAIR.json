@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-baby-cleasing-gel-body-and-hair-3760019123424/p",
+    "fecha_hora_scraping": "2021-06-14 06:09:49",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN BABY CLEASING GEL BODY AND HAIR",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_BABY_CLEASING_GEL_BODY_AND_HAIR.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $119,00"
+    },
+    "descripcion": "soskin baby cleasing gel body and hair",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76670-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

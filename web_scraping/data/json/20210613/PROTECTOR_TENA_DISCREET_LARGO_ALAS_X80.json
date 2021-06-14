@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-tena-discreet-largo-alas-x80-7702026174767/p",
+    "fecha_hora_scraping": "2021-06-14 10:11:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PROTECTOR. TENA DISCREET LARGO ALAS X80",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_TENA_DISCREET_LARGO_ALAS_X80.jpg",
+    "presentacion": "CAJA X 80UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $236,25"
+    },
+    "descripcion": "PROTECTOR. TENA DISCREET LARGO ALAS X80",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 80UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07408-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

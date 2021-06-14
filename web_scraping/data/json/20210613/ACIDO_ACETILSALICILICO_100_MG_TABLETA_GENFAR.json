@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acido-acetilsalicilico-100-mg-tableta-genfar-7705959012397/p",
+    "fecha_hora_scraping": "2021-06-14 09:36:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACIDO ACETILSALICILICO 100 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/ACIDO_ACETILSALICILICO_100_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$3.105",
+        "precioPorSku js-PUM": "Tableta a $310,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002447-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

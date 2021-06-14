@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitis-kids-cepillo-dental-8427426047129/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "VITIS KIDS CEPILLO DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/VITIS_KIDS_CEPILLO_DENTAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$15.450",
+        "precioPorSku js-PUM": "Unidad a $15.450,00"
+    },
+    "descripcion": "vitis kids cepillo dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018145"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702123010395-oferta-acid-mantle-n-locion-gratis-frasco-x-120ml-medicamentos-cuidado-corporal-bayeraluminio-acetato-7702123010395/p",
+    "fecha_hora_scraping": "2021-06-14 01:23:59",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA ACID MANTLE N LOCI\u00d3N GRATIS FRASCO X 120ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ACID_MANTLE_N_LOCI\u00d3N_GRATIS_FRASCO_X_120ML.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$36.300",
+        "precioPorSku js-PUM": "Mililitro a $90,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "0,053 G"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0010112"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

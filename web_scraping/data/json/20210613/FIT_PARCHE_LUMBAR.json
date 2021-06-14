@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fit-parche-lumbar-7704232294055/p",
+    "fecha_hora_scraping": "2021-06-14 03:38:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FIT PARCHE LUMBAR",
+    "nombre_imagen": "./web_scraping/data/img/FIT_PARCHE_LUMBAR.jpg",
+    "presentacion": "SOBRE  X 3 UN",
+    "precio": {
+        "bestPrice": "$55.100",
+        "precioPorSku js-PUM": "Unidad a $18.366,67"
+    },
+    "descripcion": "fit parche lumbar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE  X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018030"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-labial-ultra-humectante-palmers-spf15-10181000089/p",
+    "fecha_hora_scraping": "2021-06-14 07:48:55",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "PROTECTOR LABIAL ULTRA HUMECTANTE PALMERS SPF15",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_LABIAL_ULTRA_HUMECTANTE_PALMERS_SPF15.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $15.900,00"
+    },
+    "descripcion": "protector labial ultra humectante palmer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33208-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-para-cejas-a-prueba-de-agua-maybelline-tattoo-studio-gel-warm-brown-41554563672/p",
+    "fecha_hora_scraping": "2021-06-14 00:54:04",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "GEL PARA CEJAS A PRUEBA DE AGUA MAYBELLINE TATTOO STUDIO GEL WARM BROWN",
+    "nombre_imagen": "./web_scraping/data/img/GEL_PARA_CEJAS_A_PRUEBA_DE_AGUA_MAYBELLINE_TATTOO_STUDIO_GEL_WARM_BROWN.jpg",
+    "presentacion": "UNIDAD X 6.8 G",
+    "precio": {
+        "bestPrice": "$52.650",
+        "precioPorSku js-PUM": "Mililitro a $7.742,65"
+    },
+    "descripcion": "gel para cejas a prueba de agua maybelline tattoo studio gel warm brown",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6.8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90021-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

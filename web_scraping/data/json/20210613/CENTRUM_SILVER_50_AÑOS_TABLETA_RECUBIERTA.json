@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702132011055pfizersuplementosnutricion-y-vida-saludablecentrum-silver-50-anos-tableta-recubiertaibuprofeno-fenilefrina-clorhidrato-clorfeniramina-7702132011055/p",
+    "fecha_hora_scraping": "2021-06-14 10:06:38",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CENTRUM SILVER +50 A\u00d1OS TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/CENTRUM_SILVER_50_A\u00d1OS_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 60 TAB",
+    "precio": {
+        "bestPrice": "$53.900",
+        "precioPorSku js-PUM": "Tableta a $898,33"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003677"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

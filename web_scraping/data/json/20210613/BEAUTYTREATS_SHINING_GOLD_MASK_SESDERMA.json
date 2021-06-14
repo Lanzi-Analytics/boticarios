@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979449597beautytreats-shining-gold-mask-sesdermabellezadermocosmetica-8429979449597/p",
+    "fecha_hora_scraping": "2021-06-14 09:02:33",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BEAUTYTREATS SHINING GOLD MASK SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/BEAUTYTREATS_SHINING_GOLD_MASK_SESDERMA.jpg",
+    "presentacion": "SOBRE X 25 ML",
+    "precio": {
+        "bestPrice": "$26.650",
+        "precioPorSku js-PUM": "Mililitro a $1.066,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 25 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99126-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

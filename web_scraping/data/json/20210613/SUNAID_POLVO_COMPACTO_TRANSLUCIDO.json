@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunaid-polvo-compacto-translucido-7707206270178/p",
+    "fecha_hora_scraping": "2021-06-14 10:15:21",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "SUNAID POLVO COMPACTO TRANSLUCIDO",
+    "nombre_imagen": "./web_scraping/data/img/SUNAID_POLVO_COMPACTO_TRANSLUCIDO.jpg",
+    "presentacion": "CAJA X 12 G",
+    "precio": {
+        "bestPrice": "$94.850",
+        "precioPorSku js-PUM": "Gramo a $7.904,17"
+    },
+    "descripcion": "sunaid polvo compacto translucido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44469-99CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

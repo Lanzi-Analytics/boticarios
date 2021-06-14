@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-papas-margarita-pollo-7702189053770/p",
+    "fecha_hora_scraping": "2021-06-14 07:03:07",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas papas margarita pollo",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_papas_margarita_pollo.jpg",
+    "presentacion": "PAQUETE X 105 G",
+    "precio": {
+        "bestPrice": "$3.850",
+        "precioPorSku js-PUM": "Gramo a $36,67"
+    },
+    "descripcion": "pasabocas papas margarita pollo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 105 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA08I9501"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

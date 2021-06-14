@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/synderm-locion-7707222420083/p",
+    "fecha_hora_scraping": "2021-06-14 07:20:47",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SYNDERM LOCION",
+    "nombre_imagen": "./web_scraping/data/img/SYNDERM_LOCION.jpg",
+    "presentacion": "FRASCO X 280 ML",
+    "precio": {
+        "bestPrice": "$55.750",
+        "precioPorSku js-PUM": "Mililitro a $199,11"
+    },
+    "descripcion": "synderm locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38404-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

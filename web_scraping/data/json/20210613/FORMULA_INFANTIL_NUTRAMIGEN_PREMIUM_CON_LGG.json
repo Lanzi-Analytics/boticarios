@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-nutramigen-premium-con-lgg-7506205804847/p",
+    "fecha_hora_scraping": "2021-06-14 02:12:07",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL NUTRAMIGEN PREMIUM CON LGG",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_NUTRAMIGEN_PREMIUM_CON_LGG.jpg",
+    "presentacion": "TARRO X 357 G",
+    "precio": {
+        "bestPrice": "$88.550",
+        "precioPorSku js-PUM": "Gramo a $248,04"
+    },
+    "descripcion": "formula infantil nutramigen premium con lgg",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 357 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I13213"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

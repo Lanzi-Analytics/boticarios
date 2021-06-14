@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-desodorante-lady-speed-stick-invisible-floral-precio-especial-7702010971112/p",
+    "fecha_hora_scraping": "2021-06-14 05:03:11",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "oferta desodorante lady speed stick invisible floral precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_desodorante_lady_speed_stick_invisible_floral_precio_especial.jpg",
+    "presentacion": "BARRA X 45 G",
+    "precio": {
+        "bestPrice": "$25.950",
+        "precioPorSku js-PUM": "Gramo a $288,33"
+    },
+    "descripcion": "of 2 dte lady barra invis floral 45g p",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 45 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INV NSO-PC-C 15.204-VE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lamictal-25mg-tableta-dispersable-5010706009271/p",
+    "fecha_hora_scraping": "2021-06-14 07:55:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LAMICTAL 25MG TABLETA DISPERSABLE",
+    "nombre_imagen": "./web_scraping/data/img/LAMICTAL_25MG_TABLETA_DISPERSABLE.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$12.000",
+        "precioPorSku js-PUM": "Tableta a $400,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "LAMOTRIGINA"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-007182-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

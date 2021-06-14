@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/g-met-g-tab-1000-mg-tableta-recubierta-7703153031039/p",
+    "fecha_hora_scraping": "2021-06-14 03:23:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "G-MET G-TAB 1000 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/GMET_GTAB_1000_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 40 TAB",
+    "precio": {
+        "bestPrice": "$51.400",
+        "precioPorSku js-PUM": "Tableta a $1.285,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 40 TAB"
+        ],
+        [
+            "Concentracion",
+            "1000 MG"
+        ],
+        [
+            "Principio activo",
+            "METFORMINA"
+        ],
+        [
+            "Laboratorio",
+            "DIABETRICS HEALTHCARE SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015862"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

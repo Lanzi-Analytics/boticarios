@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/natele-easy-gels-capsula-blanda-7702123002871/p",
+    "fecha_hora_scraping": "2021-06-14 01:11:50",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "NATELE EASY GELS CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/NATELE_EASY_GELS_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$52.500",
+        "precioPorSku js-PUM": "Capsula a $1.875,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005692-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cebion-100-mg-minis-tableta-masticable-7702418004702/p",
+    "fecha_hora_scraping": "2021-06-13 23:08:34",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CEBION 100 MG MINIS TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/CEBION_100_MG_MINIS_TABLETA_MASTICABLE.jpg",
+    "presentacion": "BLISTER X 45 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$8.740",
+        "bestPrice": "$6.992",
+        "precioPorSku js-PUM": "Tableta a $155,38"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 45 TAB"
+        ],
+        [
+            "Concentracion",
+            "52 MG 58 MG"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO ASCORBATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0003684-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ducray-kelual-ds-shampoo-3282779051231/p",
+    "fecha_hora_scraping": "2021-06-14 03:02:57",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DUCRAY KELUAL DS SHAMPOO",
+    "nombre_imagen": "./web_scraping/data/img/DUCRAY_KELUAL_DS_SHAMPOO.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$82.050",
+        "precioPorSku js-PUM": "Mililitro a $820,50"
+    },
+    "descripcion": "ducray kelual ds shampoo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC43793-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

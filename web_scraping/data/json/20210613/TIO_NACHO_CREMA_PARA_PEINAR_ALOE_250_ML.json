@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tio-nacho-aloe-vera-crema-para-peinar-7798140253242/p",
+    "fecha_hora_scraping": "2021-06-14 08:03:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TIO NACHO CREMA PARA PEINAR ALOE 250 ML",
+    "nombre_imagen": "./web_scraping/data/img/TIO_NACHO_CREMA_PARA_PEINAR_ALOE_250_ML.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$16.250",
+        "precioPorSku js-PUM": "Mililitro a $65,00"
+    },
+    "descripcion": "conocido por sus propiedades reparadoras e hidratantes, que mejoran notablemente la fibra apilar y la jalea real de t\u00edo nacho que proporciona la nutrici\u00f3n que tu pelo necesita. t\u00edo nacho anti-da\u00f1o repara el cabello de ra\u00edz hasta las puntas, manteni\u00e9ndolo hidratado y protegido, dej\u00e1ndolo suave, manejable, con brillo y con aspecto saludable. la crema para peinar de t\u00edo nacho anti-da\u00f1o devuelve la suavidad a cada hebra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC42223-19PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

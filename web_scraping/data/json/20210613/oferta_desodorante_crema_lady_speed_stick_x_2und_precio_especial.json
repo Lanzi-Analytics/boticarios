@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-desodorante-crema-lady-speed-stick-x-2und-precio-especial-7702010971471/p",
+    "fecha_hora_scraping": "2021-06-14 03:42:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "oferta desodorante crema lady speed stick x 2und precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_desodorante_crema_lady_speed_stick_x_2und_precio_especial.jpg",
+    "presentacion": "POTE X 100ML",
+    "precio": {
+        "bestPrice": "$16.350",
+        "precioPorSku js-PUM": "Gramo a $81,75"
+    },
+    "descripcion": "of 2 desod crema lady ss x100 talc p.e",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 100ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2004CO13003"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

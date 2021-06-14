@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/70942125611sunstar-americascepillos-dentaleshigiene-y-cuidado-personalcepillo-dental-gum-kids-crayola-pip-squeaks-2x1cepillo-de-dientes-cepillos-de-dientes-cepillo-dental-70942125611/p",
+    "fecha_hora_scraping": "2021-06-14 08:59:30",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL GUM KIDS CRAYOLA PIP SQUEAKS 2x1",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_GUM_KIDS_CRAYOLA_PIP_SQUEAKS_2x1.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$13.350",
+        "precioPorSku js-PUM": "Unidad a $13.350,00"
+    },
+    "descripcion": "cepillo dental gum kids crayola pip sque",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

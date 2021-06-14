@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neurobion-solucion-inyectable-7501298217536/p",
+    "fecha_hora_scraping": "2021-06-14 02:27:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEUROBION SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/NEUROBION_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$37.850",
+        "precioPorSku js-PUM": "Unidad a $6.308,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 50 MG/ML 0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TIAMINA CLORHIDRATO PIRIDOXINA CLORHIDRATO CIANOCOBALAMINA"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-13939-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

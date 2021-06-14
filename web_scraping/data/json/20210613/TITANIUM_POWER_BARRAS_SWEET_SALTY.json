@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/titanium-power-barras-sweet-salty-7709990037395/p",
+    "fecha_hora_scraping": "2021-06-14 10:29:00",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "TITANIUM POWER BARRAS SWEET SALTY",
+    "nombre_imagen": "./web_scraping/data/img/TITANIUM_POWER_BARRAS_SWEET_SALTY.jpg",
+    "presentacion": "BOLSA X 200 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $177,50"
+    },
+    "descripcion": "titanium power barras sweet salty",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALIMENTOS Y BEBIDAS VALTIK SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0008621-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

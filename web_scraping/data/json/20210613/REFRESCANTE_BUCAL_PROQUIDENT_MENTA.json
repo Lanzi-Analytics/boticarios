@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/refrescante-bucal-proquident-menta-7702314700418/p",
+    "fecha_hora_scraping": "2021-06-14 03:26:59",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "REFRESCANTE BUCAL PROQUIDENT MENTA",
+    "nombre_imagen": "./web_scraping/data/img/REFRESCANTE_BUCAL_PROQUIDENT_MENTA.jpg",
+    "presentacion": "FRASCO X 8 ML",
+    "precio": {
+        "bestPrice": "$10.150",
+        "precioPorSku js-PUM": "Mililitro a $1.268,75"
+    },
+    "descripcion": "refrescante bucal proquident menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 8 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81385-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

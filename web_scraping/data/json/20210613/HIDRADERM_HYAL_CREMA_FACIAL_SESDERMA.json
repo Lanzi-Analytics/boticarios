@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979250223hidraderm-hyal-crema-facial-sesdermabellezadermocosmetica-8429979250223/p",
+    "fecha_hora_scraping": "2021-06-14 02:51:38",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "HIDRADERM HYAL CREMA FACIAL SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/HIDRADERM_HYAL_CREMA_FACIAL_SESDERMA.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$125.000",
+        "precioPorSku js-PUM": "Mililitro a $2.500,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC49631-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

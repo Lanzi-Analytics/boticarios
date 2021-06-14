@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/limpiador-facial-ponds-jab-fac-yuya-7506306211131/p",
+    "fecha_hora_scraping": "2021-06-14 07:44:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "LIMPIADOR FACIAL PONDS JAB FAC YUYA",
+    "nombre_imagen": "./web_scraping/data/img/LIMPIADOR_FACIAL_PONDS_JAB_FAC_YUYA.jpg",
+    "presentacion": "FRASCO X 220 ML",
+    "precio": {
+        "bestPrice": "$16.800",
+        "precioPorSku js-PUM": "Mililitro a $76,36"
+    },
+    "descripcion": "limpiador facial ponds jab fac yuya",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 220 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87853-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamina-c-tableta-masticable-naranja-7703763750115/p",
+    "fecha_hora_scraping": "2021-06-14 05:06:12",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITAMINA C TABLETA MASTICABLE NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/VITAMINA_C_TABLETA_MASTICABLE_NARANJA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$4.850",
+        "precioPorSku js-PUM": "Tableta a $485,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-000487-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

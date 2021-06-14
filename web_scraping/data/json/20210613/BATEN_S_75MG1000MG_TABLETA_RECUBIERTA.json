@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/baten-s-75mg1000mg-tableta-recubierta-7702195119521/p",
+    "fecha_hora_scraping": "2021-06-14 05:01:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BATEN S 75MG/1000MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/BATEN_S_75MG1000MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 4 TAB",
+    "precio": {
+        "bestPrice": "$79.300",
+        "precioPorSku js-PUM": "Tableta a $19.825,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 G 75 MG"
+        ],
+        [
+            "Principio activo",
+            "SECNIDAZOL FLUCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015187"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

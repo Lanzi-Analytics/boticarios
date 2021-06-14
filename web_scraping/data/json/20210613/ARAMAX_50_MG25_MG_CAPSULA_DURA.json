@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707182841201scandinaviaformuladosmedicamentosaramax-50-mg25-mg-capsula-duralosartan-potasico-amlodipino-besilato-7707182841201/p",
+    "fecha_hora_scraping": "2021-06-14 01:42:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ARAMAX 50 MG/2.5 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/ARAMAX_50_MG25_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$84.350",
+        "precioPorSku js-PUM": "Capsula a $2.811,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "50 MG 2.5 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN POTASICO AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009710-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sundays-spf50-7707355051369/p",
+    "fecha_hora_scraping": "2021-06-14 07:42:55",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR SUNDAYS SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_SUNDAYS_SPF50.jpg",
+    "presentacion": "SOBRE X 10 ML",
+    "precio": {
+        "bestPrice": "$1.800",
+        "precioPorSku js-PUM": "Unidad a $75,00"
+    },
+    "descripcion": "protector solar sundays spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84993-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

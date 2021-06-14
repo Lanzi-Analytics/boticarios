@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dipirona-magnesica-2-g5-ml-solucion-inyectable-vitalis-7707236121921/p",
+    "fecha_hora_scraping": "2021-06-14 09:36:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIPIRONA MAGNESICA 2 G/5 ML SOLUCION INYECTABLE VITALIS",
+    "nombre_imagen": "./web_scraping/data/img/DIPIRONA_MAGNESICA_2_G5_ML_SOLUCION_INYECTABLE_VITALIS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$4.350",
+        "precioPorSku js-PUM": "Mililitro a $870,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "2 G"
+        ],
+        [
+            "Principio activo",
+            "DIPIRONA MAGNESIO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0010844-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-papa-super-ricas-pollo-paketon-7702152101385/p",
+    "fecha_hora_scraping": "2021-06-14 06:07:07",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas papa super ricas pollo paketon",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_papa_super_ricas_pollo_paketon.jpg",
+    "presentacion": "PAQUETE X 45 G",
+    "precio": {
+        "PrevPrice": "Antes:$2.100",
+        "bestPrice": "$1.470",
+        "precioPorSku js-PUM": "Gramo a $32,67"
+    },
+    "descripcion": "pasabocas papa super ricas pollo paketon",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 45 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD21M06888"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

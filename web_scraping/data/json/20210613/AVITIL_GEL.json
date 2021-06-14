@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avitil-gel-7703281007616/p",
+    "fecha_hora_scraping": "2021-06-14 03:58:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "AVITIL GEL",
+    "nombre_imagen": "./web_scraping/data/img/AVITIL_GEL.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$95.100",
+        "precioPorSku js-PUM": "Gramo a $1.902,00"
+    },
+    "descripcion": "avitil gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06518-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

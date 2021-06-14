@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prazentol-15-mg-tableta-5600860331242/p",
+    "fecha_hora_scraping": "2021-06-14 09:03:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRAZENTOL 15 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/PRAZENTOL_15_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$104.900",
+        "precioPorSku js-PUM": "Tableta a $3.746,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "15 MG"
+        ],
+        [
+            "Principio activo",
+            "ARIPIPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "ALTADIS FARMACEUTICA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017230"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

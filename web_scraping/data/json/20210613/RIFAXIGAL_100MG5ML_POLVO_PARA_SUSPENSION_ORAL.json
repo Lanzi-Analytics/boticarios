@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rifaxigal-100mg5ml-polvo-para-suspension-oral-7703763997695/p",
+    "fecha_hora_scraping": "2021-06-14 00:21:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RIFAXIGAL 100MG/5ML POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/RIFAXIGAL_100MG5ML_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$35.900",
+        "precioPorSku js-PUM": "Unidad a $35.900,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "RIFAXIMINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015980"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

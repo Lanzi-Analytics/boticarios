@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/preventia-soy-polvo-vainilla-7703153035167/p",
+    "fecha_hora_scraping": "2021-06-14 09:39:37",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PREVENTIA SOY POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/PREVENTIA_SOY_POLVO_VAINILLA.jpg",
+    "presentacion": "FCOX210G",
+    "precio": {
+        "PrevPrice": "Antes:$40.600",
+        "bestPrice": "$32.480",
+        "precioPorSku js-PUM": "Gramo a $32.480"
+    },
+    "descripcion": "preventia soy polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FCOX210G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DIABETRICS HEALTHCARE SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAK01I11613"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

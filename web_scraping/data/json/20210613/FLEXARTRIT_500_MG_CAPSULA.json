@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flexartrit-500-mg-capsula-7707232096421/p",
+    "fecha_hora_scraping": "2021-06-14 02:59:09",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "FLEXARTRIT 500 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/FLEXARTRIT_500_MG_CAPSULA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$29.000",
+        "precioPorSku js-PUM": "Capsula a $966,67"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "HARPAGOFITO"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-0001699"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

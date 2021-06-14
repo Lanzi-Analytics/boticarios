@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/duotrav-004mh5mg-solucion-oftalmica-7612797414514/p",
+    "fecha_hora_scraping": "2021-06-13 23:22:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DUOTRAV 0.04MH/5MG SOLUCI\u00d3N OFT\u00c1LMICA",
+    "nombre_imagen": "./web_scraping/data/img/DUOTRAV_004MH5MG_SOLUCI\u00d3N_OFT\u00c1LMICA.jpg",
+    "presentacion": "FRASCO X 2.5 ML",
+    "precio": {
+        "bestPrice": "$41.400",
+        "precioPorSku js-PUM": "Mililitro a $16.560,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 2.5 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML 0,04 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TIMOLOL MALEATO TRAVOPROST"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007609"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

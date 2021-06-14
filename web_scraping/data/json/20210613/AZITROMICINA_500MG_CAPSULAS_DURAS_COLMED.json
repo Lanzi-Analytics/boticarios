@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/azitromicina-500mg-capsulas-duras-colmed-7703153039325/p",
+    "fecha_hora_scraping": "2021-06-14 03:53:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AZITROMICINA 500MG CAPSULAS DURAS COLMED",
+    "nombre_imagen": "./web_scraping/data/img/AZITROMICINA_500MG_CAPSULAS_DURAS_COLMED.jpg",
+    "presentacion": "CAJA X 3 CAP",
+    "precio": {
+        "bestPrice": "$11.000",
+        "precioPorSku js-PUM": "Capsula a $3.666,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "AZITROMICINA DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016844"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

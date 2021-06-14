@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/daflon-500mg-gragea-7708908625501/p",
+    "fecha_hora_scraping": "2021-06-14 03:38:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DAFLON 500MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/DAFLON_500MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 60 COM",
+    "precio": {
+        "PrevPrice": "Antes:$237.650",
+        "bestPrice": "$190.120",
+        "precioPorSku js-PUM": "Comprimido a $3.168,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 COM"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "FRACCION FLAVONOICA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SERVIER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-014271-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

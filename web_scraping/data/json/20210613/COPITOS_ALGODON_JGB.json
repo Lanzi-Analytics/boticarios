@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/copitos-algodon-jgb-7702560031816/p",
+    "fecha_hora_scraping": "2021-06-14 04:22:23",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "COPITOS ALGODON JGB",
+    "nombre_imagen": "./web_scraping/data/img/COPITOS_ALGODON_JGB.jpg",
+    "presentacion": "TARRO X 50 UN",
+    "precio": {
+        "bestPrice": "$5.150",
+        "precioPorSku js-PUM": "Unidad a $103,00"
+    },
+    "descripcion": "copitos algodon jgb",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0008463"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

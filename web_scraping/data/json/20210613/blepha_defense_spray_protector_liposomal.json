@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/blepha-defense-spray-protector-liposomal-8470001536228/p",
+    "fecha_hora_scraping": "2021-06-14 02:22:12",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "blepha defense spray protector liposomal",
+    "nombre_imagen": "./web_scraping/data/img/blepha_defense_spray_protector_liposomal.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$56.150",
+        "precioPorSku js-PUM": "Mililitro a $5.615,00"
+    },
+    "descripcion": "blepha defense spray protector liposomal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99203-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

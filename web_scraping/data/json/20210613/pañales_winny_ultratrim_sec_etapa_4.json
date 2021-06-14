@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-winny-ultratrim-sec-etapa-4-7701021110114/p",
+    "fecha_hora_scraping": "2021-06-14 05:11:12",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1ales winny ultratrim sec etapa 4",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_winny_ultratrim_sec_etapa_4.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$11.090",
+        "precioPorSku js-PUM": "Unidad a $1.109,00"
+    },
+    "descripcion": "panal winny ultratrim sec et.4 x10 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-V-001735"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

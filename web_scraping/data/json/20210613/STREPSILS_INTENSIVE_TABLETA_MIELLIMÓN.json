@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/strepsils-intensive-tableta-miellimon-7707733970008/p",
-    "fecha_hora_scraping": "2021-06-13 18:05:43",
+    "fecha_hora_scraping": "2021-06-14 00:50:54",
     "breadcumb": "colsubsidio|medicamentos|venta libre|cuidado gripal|garganta",
     "titulo": "STREPSILS INTENSIVE TABLETA MIEL/LIM\u00d3N",
     "nombre_imagen": "./web_scraping/data/img/STREPSILS_INTENSIVE_TABLETA_MIELLIM\u00d3N.jpg",
     "presentacion": "UNIDAD",
     "precio": {
-        "PrevPrice": "Antes:$5.150",
-        "bestPrice": "$4.120",
-        "precioPorSku js-PUM": "Tableta a $4.120"
+        "bestPrice": "$5.150",
+        "precioPorSku js-PUM": "Tableta a $1.287,50"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
     "atributos": [

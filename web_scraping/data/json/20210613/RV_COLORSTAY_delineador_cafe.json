@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-delineador-cafe-309973978027/p",
+    "fecha_hora_scraping": "2021-06-14 09:45:31",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV COLORSTAY delineador cafe",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_delineador_cafe.jpg",
+    "presentacion": "LAPIZ X 0.3 G",
+    "precio": {
+        "bestPrice": "$37.800",
+        "precioPorSku js-PUM": "Gramo a $135.000,00"
+    },
+    "descripcion": "rv colorstay delineador cafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 0.3 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC42527-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

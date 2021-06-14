@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trayenta-duo-850mg25mg-tableta-recubierta-4048846012258/p",
+    "fecha_hora_scraping": "2021-06-14 04:37:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAYENTA DUO 850MG/2.5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/TRAYENTA_DUO_850MG25MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 60 TAB",
+    "precio": {
+        "bestPrice": "$133.300",
+        "precioPorSku js-PUM": "Tableta a $2.221,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "850 MG 2.5 MG"
+        ],
+        [
+            "Principio activo",
+            "METFORMINA CLORHIDRATO LINAGLIPTINA"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013446-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

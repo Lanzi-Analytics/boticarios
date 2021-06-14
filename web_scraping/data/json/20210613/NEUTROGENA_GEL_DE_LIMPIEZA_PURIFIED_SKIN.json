@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neutrogena-gel-de-limpieza-purified-skin-7891010245214/p",
+    "fecha_hora_scraping": "2021-06-14 05:40:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEUTROGENA GEL DE LIMPIEZA PURIFIED SKIN",
+    "nombre_imagen": "./web_scraping/data/img/NEUTROGENA_GEL_DE_LIMPIEZA_PURIFIED_SKIN.jpg",
+    "presentacion": "TUBO X 150 G",
+    "precio": {
+        "bestPrice": "$35.300",
+        "precioPorSku js-PUM": "Gramo a $235,33"
+    },
+    "descripcion": "neutrogena gel de limpieza purified skin",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82778-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

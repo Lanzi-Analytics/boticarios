@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/krytantek-pf-ofteno-solucion-oftalmica-736085412826/p",
+    "fecha_hora_scraping": "2021-06-14 06:30:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KRYTANTEK PF OFTENO SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/KRYTANTEK_PF_OFTENO_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$160.700",
+        "precioPorSku js-PUM": "Mililitro a $32.140,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML 5 MG/ML 0,2 %"
+        ],
+        [
+            "Principio activo",
+            "DORZOLAMIDA CLORHIDRATO TIMOLOL MALEATO BRIMONIDINA TARTRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SOPHIA DE COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017885"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

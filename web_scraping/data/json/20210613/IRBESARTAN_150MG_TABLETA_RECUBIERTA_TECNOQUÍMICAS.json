@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/irbesartan-150mg-tableta-recubierta-tecnoquimicas-7702057074470/p",
+    "fecha_hora_scraping": "2021-06-14 00:59:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IRBESARTAN 150MG TABLETA RECUBIERTA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/IRBESARTAN_150MG_TABLETA_RECUBIERTA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$7.000",
+        "precioPorSku js-PUM": "Tableta a $500,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "IRBESARTAN"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010372"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-humectante-men-palmers-cuerpo-y-rostro-10181045806/p",
+    "fecha_hora_scraping": "2021-06-14 09:32:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "LOCION HUMECTANTE MEN PALMERS CUERPO Y ROSTRO",
+    "nombre_imagen": "./web_scraping/data/img/LOCION_HUMECTANTE_MEN_PALMERS_CUERPO_Y_ROSTRO.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$38.900",
+        "precioPorSku js-PUM": "Mililitro a $155,60"
+    },
+    "descripcion": "locion humectante men palmers cuerpo y r",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80370-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

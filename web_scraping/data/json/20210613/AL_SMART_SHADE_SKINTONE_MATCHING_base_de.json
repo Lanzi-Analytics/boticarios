@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-smart-shade-skintone-matching-base-de-309979711055/p",
+    "fecha_hora_scraping": "2021-06-14 10:09:43",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL SMART SHADE SKINTONE MATCHING base de",
+    "nombre_imagen": "./web_scraping/data/img/AL_SMART_SHADE_SKINTONE_MATCHING_base_de.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.036,67"
+    },
+    "descripcion": "al smart shade skintone matching base de",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76726-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/focus-004miligramogmililitrol-gotas-oftalmicas-7702207984543/p",
+    "fecha_hora_scraping": "2021-06-14 08:12:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "Focus 0.04miligramog/mililitrol gotas oftalmicas",
+    "nombre_imagen": "./web_scraping/data/img/Focus_004miligramogmililitrol_gotas_oftalmicas.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$73.300",
+        "precioPorSku js-PUM": "Mililitro a $14.660,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "0,04 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TRAVOPROST"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016209-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

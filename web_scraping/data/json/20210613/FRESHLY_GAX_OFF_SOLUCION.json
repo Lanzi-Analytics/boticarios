@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/freshly-gax-off-solucion-7707232095332/p",
+    "fecha_hora_scraping": "2021-06-14 05:54:40",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "FRESHLY GAX OFF SOLUCION",
+    "nombre_imagen": "./web_scraping/data/img/FRESHLY_GAX_OFF_SOLUCION.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$15.900",
+        "precioPorSku js-PUM": "Mililitro a $88,33"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "25 ML"
+        ],
+        [
+            "Principio activo",
+            "CALENDULA"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2010-0001504"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

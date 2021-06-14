@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hepatodren-capsula-7707232097688/p",
+    "fecha_hora_scraping": "2021-06-14 00:59:23",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "HEPATODREN CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/HEPATODREN_CAPSULA.jpg",
+    "presentacion": "FRASCO X 50 CAP",
+    "precio": {
+        "bestPrice": "$34.000",
+        "precioPorSku js-PUM": "Capsula a $680,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 MG 150 MG 50 MG"
+        ],
+        [
+            "Principio activo",
+            "CASCARA SAGRADA BOLDO HOJA SEN HOJA"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2012-0001977"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

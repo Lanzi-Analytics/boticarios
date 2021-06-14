@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guardian-recolector-x-1-litro-1000002410745/p",
+    "fecha_hora_scraping": "2021-06-14 07:47:57",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUARDIAN RECOLECTOR X 1 LITRO",
+    "nombre_imagen": "./web_scraping/data/img/GUARDIAN_RECOLECTOR_X_1_LITRO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$2.800",
+        "precioPorSku js-PUM": "Unidad a $2.800,00"
+    },
+    "descripcion": "guardian recolector x 1 litro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOLOGICOS Y CONTAMINADOS SAS ESP"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

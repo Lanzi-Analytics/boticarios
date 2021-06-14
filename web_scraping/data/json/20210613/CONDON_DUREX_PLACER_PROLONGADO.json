@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/7501159033312rb-health-colombiapreservativosmedicamentoscondon-durex-placer-prolongadocondoncondonespreservativopreservativospreserbativospreserbativopreserbatibospreserbatiboatenolol-7501159033312/p",
-    "fecha_hora_scraping": "2021-06-13 19:20:47",
+    "fecha_hora_scraping": "2021-06-14 05:50:23",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
     "titulo": "CONDON DUREX PLACER PROLONGADO",
     "nombre_imagen": "./web_scraping/data/img/CONDON_DUREX_PLACER_PROLONGADO.jpg",
     "presentacion": "CAJA X 3 UN",
     "precio": {
-        "PrevPrice": "Antes:$12.000",
-        "bestPrice": "$9.000",
-        "precioPorSku js-PUM": "Unidad a $3.000,00"
+        "bestPrice": "$12.000",
+        "precioPorSku js-PUM": "Unidad a $4.000,00"
     },
     "descripcion": "condon durex placer prolongado",
     "atributos": [

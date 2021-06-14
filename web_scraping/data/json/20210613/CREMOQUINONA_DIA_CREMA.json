@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cremoquinona-dia-crema-7702195205453/p",
+    "fecha_hora_scraping": "2021-06-14 02:22:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CREMOQUINONA DIA CREMA",
+    "nombre_imagen": "./web_scraping/data/img/CREMOQUINONA_DIA_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$33.350",
+        "precioPorSku js-PUM": "Gramo a $1.111,67"
+    },
+    "descripcion": "cremoquinona dia crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66993-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

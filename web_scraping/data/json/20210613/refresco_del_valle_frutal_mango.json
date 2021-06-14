@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/refresco-del-valle-frutal-mango-7702535022511/p",
+    "fecha_hora_scraping": "2021-06-14 04:10:02",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "refresco del valle frutal mango",
+    "nombre_imagen": "./web_scraping/data/img/refresco_del_valle_frutal_mango.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "PrevPrice": "Antes:$2.150",
+        "bestPrice": "$1.505",
+        "precioPorSku js-PUM": "Mililitro a $3,01"
+    },
+    "descripcion": "refresco del valle frutal mango",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005884-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-headshoulders-men-old-spice-7500435019545/p",
+    "fecha_hora_scraping": "2021-06-14 07:21:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo head & shoulders men con old spice",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_head__shoulders_men_con_old_spice.jpg",
+    "presentacion": "BOTELLA X 375 ML",
+    "precio": {
+        "bestPrice": "$21.300",
+        "precioPorSku js-PUM": "Mililitro a $56,80"
+    },
+    "descripcion": "hs shampoo old spice 375ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 375 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80016-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

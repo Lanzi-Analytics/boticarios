@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/merey-unguento-topico-7706976000527/p",
+    "fecha_hora_scraping": "2021-06-14 02:08:35",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "MEREY UNGUENTO TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/MEREY_UNGUENTO_TOPICO.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Gramo a $643,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "4.35 G 0.5 G"
+        ],
+        [
+            "Principio activo",
+            "OXIDO ZINC NEOMICINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS MEREY LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002635-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

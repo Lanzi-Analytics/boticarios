@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fosforovitam-capsula-blanda-7706309000996/p",
+    "fecha_hora_scraping": "2021-06-14 10:00:56",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "FOSFOROVITAM C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/FOSFOROVITAM_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "bestPrice": "$56.150",
+        "precioPorSku js-PUM": "Capsula a $2.807,50"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0003027"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

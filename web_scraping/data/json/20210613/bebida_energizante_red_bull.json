@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-energizante-red-bull-9002490100070/p",
+    "fecha_hora_scraping": "2021-06-14 00:09:29",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "bebida energizante red bull",
+    "nombre_imagen": "./web_scraping/data/img/bebida_energizante_red_bull.jpg",
+    "presentacion": "LATA X 250 ML",
+    "precio": {
+        "bestPrice": "$5.350",
+        "precioPorSku js-PUM": "Mililitro a $21,40"
+    },
+    "descripcion": "este producto solo podr\u00e1 ser comercializado, expendido y dirigido a poblaci\u00f3n mayor de 14 a\u00f1os,no es recomendado para personas sensibles a la cafe\u00edna por su elevado contenido 32mg/100 ml. la bebida energizante no previene los efectos generados por el consumo de bebidas alcoh\u00f3licas. no se recomienda el consumo de bebidas energizantes con bebidas alcoh\u00f3licas.(art. 13 \u2013 resoluci\u00f3n 4150 de 2009)\u201d",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 250 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

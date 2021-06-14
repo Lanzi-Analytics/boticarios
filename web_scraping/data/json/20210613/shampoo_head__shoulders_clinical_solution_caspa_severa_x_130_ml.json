@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-headshoulders-clinical-solutions-7500435106115/p",
+    "fecha_hora_scraping": "2021-06-13 23:51:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo head & shoulders clinical solution caspa severa x 130 ml",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_head__shoulders_clinical_solution_caspa_severa_x_130_ml.jpg",
+    "presentacion": "BOTELLA X 130 ML",
+    "precio": {
+        "bestPrice": "$23.400",
+        "precioPorSku js-PUM": "Mililitro a $180,00"
+    },
+    "descripcion": "shm head&shoulders clinical solut 130m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 130 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71094 -16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

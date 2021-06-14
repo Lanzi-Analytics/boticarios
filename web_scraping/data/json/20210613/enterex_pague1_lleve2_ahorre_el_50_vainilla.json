@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterex-pague1-lleve2-ahorre-el-50-vainilla-7707190471728/p",
+    "fecha_hora_scraping": "2021-06-14 07:36:45",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "enterex pague:1 lleve:2 ahorre el 50% vainilla",
+    "nombre_imagen": "./web_scraping/data/img/enterex_pague1_lleve2_ahorre_el_50_vainilla.jpg",
+    "presentacion": "EMPAQUE X 2 UN",
+    "precio": {
+        "bestPrice": "$75.000",
+        "precioPorSku js-PUM": "Gramo a $75,00"
+    },
+    "descripcion": "enterex pague:1 lleve:2 ahorre el 50% vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "AMAREY NOVA MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001180-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

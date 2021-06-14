@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/freshlypausia-v-gel-lubricante-intimo-7707232092195/p",
+    "fecha_hora_scraping": "2021-06-14 04:19:32",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "FRESHLYPAUSIA V GEL LUBRICANTE INTIMO",
+    "nombre_imagen": "./web_scraping/data/img/FRESHLYPAUSIA_V_GEL_LUBRICANTE_INTIMO.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$32.800",
+        "precioPorSku js-PUM": "Gramo a $1.093,33"
+    },
+    "descripcion": "freshlypausia v gel lubricante intimo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0014437"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

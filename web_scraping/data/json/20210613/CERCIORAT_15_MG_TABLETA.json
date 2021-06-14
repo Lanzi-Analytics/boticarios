@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cerciorat-15-mg-tableta-8437009433775/p",
+    "fecha_hora_scraping": "2021-06-14 08:33:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CERCIORAT 1.5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CERCIORAT_15_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 1 TAB",
+    "precio": {
+        "bestPrice": "$16.450",
+        "precioPorSku js-PUM": "Tableta a $16.450,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "1,5 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017038"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

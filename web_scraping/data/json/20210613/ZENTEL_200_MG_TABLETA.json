@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707172680483glaxosmithklineformuladosmedicamentoszentel-200-mg-tabletaalbendazol-7707172680483/p",
+    "fecha_hora_scraping": "2021-06-14 03:52:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZENTEL 200 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ZENTEL_200_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$17.900",
+        "precioPorSku js-PUM": "Tableta a $8.950,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "ALBENDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-010118-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

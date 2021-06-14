@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-tena-pants-clasico-talla-m-7702026174149/p",
+    "fecha_hora_scraping": "2021-06-14 05:20:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1ALES TENA PANTS CLASICO TALLA M",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_TENA_PANTS_CLASICO_TALLA_M.jpg",
+    "presentacion": "PAQUETE X 8 UN",
+    "precio": {
+        "bestPrice": "$20.600",
+        "precioPorSku js-PUM": "Unidad a $2.575,00"
+    },
+    "descripcion": "pa\u00f1ales tena pants clasico talla m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA04565-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

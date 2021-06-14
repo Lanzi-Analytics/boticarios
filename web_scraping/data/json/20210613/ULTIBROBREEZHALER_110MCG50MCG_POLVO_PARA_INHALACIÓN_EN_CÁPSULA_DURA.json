@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ultibro-breezhaler-110mcg50mcg-polvo-para-inhalacion-en-capsula-dura-7612797511169/p",
+    "fecha_hora_scraping": "2021-06-14 02:56:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ULTIBRO-BREEZHALER 110MCG/50MCG POLVO PARA INHALACI\u00d3N EN C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/ULTIBROBREEZHALER_110MCG50MCG_POLVO_PARA_INHALACI\u00d3N_EN_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$125.650",
+        "precioPorSku js-PUM": "Capsula a $4.188,33"
+    },
+    "descripcion": "ULTIBRO-BREEZHALER 110MCG/50MCG POLVO PARA INHALACI\u00d3N EN C\u00c1PSULA DURA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "110 \u00b5G/D 50 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "INDACATEROL MALEATO GLICOPIRRONIO BROMURO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0015111-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

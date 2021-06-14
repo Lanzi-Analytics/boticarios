@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panuelos-kleenex-pocket-x10-7702425531567/p",
+    "fecha_hora_scraping": "2021-06-14 08:46:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "PA\u00d1UELOS KLEENEX POCKET X10",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1UELOS_KLEENEX_POCKET_X10.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $890,00"
+    },
+    "descripcion": "PA\u00d1UELOS KLEENEX POCKET X10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

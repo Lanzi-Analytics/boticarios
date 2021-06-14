@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-dvfresh-citrus-500ml-pet-7702535025222/p",
+    "fecha_hora_scraping": "2021-06-14 09:30:43",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "JUGO DVFRESH CITRUS 500ML PET",
+    "nombre_imagen": "./web_scraping/data/img/JUGO_DVFRESH_CITRUS_500ML_PET.jpg",
+    "presentacion": "BOTELLA X 500ML",
+    "precio": {
+        "bestPrice": "$1.300",
+        "precioPorSku js-PUM": "Mililitro a $2,60"
+    },
+    "descripcion": "JUGO DVFRESH CITRUS 500ML PET",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005403-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

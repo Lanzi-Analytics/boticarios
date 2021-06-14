@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/montelukast-5-mg-tableta-masticable-la-francol-7706569022448/p",
+    "fecha_hora_scraping": "2021-06-14 09:43:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MONTELUKAST 5 MG TABLETA MASTICABLE LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/MONTELUKAST_5_MG_TABLETA_MASTICABLE_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$8.900",
+        "precioPorSku js-PUM": "Tableta a $890,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "MONTELUKAST SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010769-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

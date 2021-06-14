@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sol-or-polvo-compacto-piel-blanca-spf39-7704190400215/p",
+    "fecha_hora_scraping": "2021-06-14 01:33:34",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "SOLOR POLVO COMPACTO PIEL BLANCA SPF39+",
+    "nombre_imagen": "./web_scraping/data/img/SOLOR_POLVO_COMPACTO_PIEL_BLANCA_SPF39.jpg",
+    "presentacion": "CAJA X 15 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $3.703,33"
+    },
+    "descripcion": "sol-or polvo compacto piel blanca spf39+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIFARMA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSCOC19148-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

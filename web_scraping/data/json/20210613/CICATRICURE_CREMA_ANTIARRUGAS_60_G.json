@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicatricure-crema-650240003196/p",
+    "fecha_hora_scraping": "2021-06-14 02:10:02",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CICATRICURE CREMA ANTIARRUGAS 60 G",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_CREMA_ANTIARRUGAS_60_G.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$60.650",
+        "precioPorSku js-PUM": "Gramo a $1.010,83"
+    },
+    "descripcion": "su exclusiva tecnolog\u00eda incorpora biopeptide regen\u00ae, un complejo que promueve la regeneraci\u00f3n natural de las c\u00e9lulas y mejora la apariencia de la piel, logrando que te veas 2 a\u00f1os mas joven en dos meses.su nueva f\u00f3rmula estimula la producci\u00f3n natural de col\u00e1geno y \u00e1cido hialur\u00f3nico, tensando la piel, reduciendo surcos y pliegues. desde la primera aplicaci\u00f3n ver\u00e1s tu piel m\u00e1s hidratada, suave y luminosa.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78849-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

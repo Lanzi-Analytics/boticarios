@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-tampon-nosotras-aplicador-super-plus-x16-7702026178369/p",
+    "fecha_hora_scraping": "2021-06-14 03:35:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "OFERTA-TAMPON NOSOTRAS APLICADOR SUPER PLUS X16",
+    "nombre_imagen": "./web_scraping/data/img/OFERTATAMPON_NOSOTRAS_APLICADOR_SUPER_PLUS_X16.jpg",
+    "presentacion": "CAJA X 16UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.350,00"
+    },
+    "descripcion": "OFERTA-TAMPON NOSOTRAS APLICADOR SUPER PLUS X16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 16UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05566-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

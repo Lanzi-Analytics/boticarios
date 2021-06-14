@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/duspatalin-retard-200-mg-capsula-de-liberacion-prolongada-7501033959219/p",
+    "fecha_hora_scraping": "2021-06-13 23:38:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DUSPATALIN RETARD 200 MG CAPSULA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/DUSPATALIN_RETARD_200_MG_CAPSULA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$168.300",
+        "precioPorSku js-PUM": "Unidad a $5.610,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "MEBEVERINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-013424-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

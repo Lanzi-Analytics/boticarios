@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/exeldek-270090045mg-capsula-blanda-8436043012717/p",
+    "fecha_hora_scraping": "2021-06-14 08:42:55",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "EXELDEK 2.7/0.09/0.045MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/EXELDEK_270090045MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$32.500",
+        "precioPorSku js-PUM": "Capsula a $1.083,33"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "0,045 MG 2,7 MG 0,09 MG"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2020-0004509"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

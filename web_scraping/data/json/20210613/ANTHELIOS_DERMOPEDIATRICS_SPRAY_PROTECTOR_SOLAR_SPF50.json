@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anthelios-dermo-pediatrics-spray-protector-solar-spf50-3337875698696/p",
+    "fecha_hora_scraping": "2021-06-14 02:55:03",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "ANTHELIOS DERMO-PEDIATRICS SPRAY PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/ANTHELIOS_DERMOPEDIATRICS_SPRAY_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$142.900",
+        "precioPorSku js-PUM": "Mililitro a $714,50"
+    },
+    "descripcion": "anthelios dermo-pediatrics spray protector solar spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72038-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

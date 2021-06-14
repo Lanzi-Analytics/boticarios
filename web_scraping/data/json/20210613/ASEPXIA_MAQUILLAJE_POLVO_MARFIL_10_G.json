@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/650240032462genommarostrobellezapolvo-compacto-asepxia-bb-maquillaje-claro-mateacnepuntos-negroacne-maquillaje-limpiador-granos-facial-650240032462/p",
+    "fecha_hora_scraping": "2021-06-14 06:12:35",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "ASEPXIA MAQUILLAJE POLVO MARFIL 10 G",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_MAQUILLAJE_POLVO_MARFIL_10_G.jpg",
+    "presentacion": "CAJA X 10 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $2.855,00"
+    },
+    "descripcion": "enriquecido con mol\u00e9culas que absorben la grasa para reducir y combatir imperfecciones",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77836-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

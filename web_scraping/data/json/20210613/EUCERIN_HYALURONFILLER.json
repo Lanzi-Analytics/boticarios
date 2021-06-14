@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-hyaluron-filler-4005800076992/p",
+    "fecha_hora_scraping": "2021-06-14 07:18:11",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN HYALURON-FILLER",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_HYALURONFILLER.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$174.750",
+        "precioPorSku js-PUM": "Unidad a $29.125,00"
+    },
+    "descripcion": "eucerin hyaluron-filler",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LACOSAMIDA"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41524-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

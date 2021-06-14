@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/forxiga-10-mg-comprimidos-recubiertos-8027950200306/p",
+    "fecha_hora_scraping": "2021-06-14 06:42:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FORXIGA 10 MG COMPRIMIDOS RECUBIERTOS",
+    "nombre_imagen": "./web_scraping/data/img/FORXIGA_10_MG_COMPRIMIDOS_RECUBIERTOS.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$126.950",
+        "precioPorSku js-PUM": "Comprimido a $4.533,93"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "DAPAGLIFLOZINA PROPANODIOL HID"
+        ],
+        [
+            "Laboratorio",
+            "ASTRAZENECA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015725"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

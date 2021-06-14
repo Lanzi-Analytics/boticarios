@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-maybelline-superstay-24-natural-tan-7509552839234/p",
+    "fecha_hora_scraping": "2021-06-14 10:31:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO MAYBELLINE SUPERSTAY 24 NATURAL TAN",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_MAYBELLINE_SUPERSTAY_24_NATURAL_TAN.jpg",
+    "presentacion": "UNIDAD X 10 G",
+    "precio": {
+        "bestPrice": "$45.300",
+        "precioPorSku js-PUM": "Gramo a $4.530,00"
+    },
+    "descripcion": "polvo maybelline superstay 24 natural tan",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83817-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

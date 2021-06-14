@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-total-12-clean-mint-7702010611131/p",
+    "fecha_hora_scraping": "2021-06-13 23:30:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental colgate total 12 clean mint",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_colgate_total_12_clean_mint.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$22.950",
+        "precioPorSku js-PUM": "Mililitro a $102,00"
+    },
+    "descripcion": "cd clgte tot cln mnt paq 3x75ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2004CO14138"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

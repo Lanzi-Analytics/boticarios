@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mayfield-tapabocas-desechable-color-negro-7709625595993/p",
+    "fecha_hora_scraping": "2021-06-14 05:25:59",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "MAYFIELD TAPABOCAS DESECHABLE COLOR NEGRO",
+    "nombre_imagen": "./web_scraping/data/img/MAYFIELD_TAPABOCAS_DESECHABLE_COLOR_NEGRO.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $21.200,00"
+    },
+    "descripcion": "MAYFIELD TAPABOCAS DESECHABLE COLOR NEGRO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "PAULOWNIA DE COLOMBIA Y CIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

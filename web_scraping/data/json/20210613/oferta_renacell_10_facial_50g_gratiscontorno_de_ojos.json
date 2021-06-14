@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-renacell-10-facial-50g-gratiscontorno-de-ojos-7703178140037/p",
+    "fecha_hora_scraping": "2021-06-14 03:34:59",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "oferta renacell 10 facial 50g gratis:contorno de ojos",
+    "nombre_imagen": "./web_scraping/data/img/oferta_renacell_10_facial_50g_gratiscontorno_de_ojos.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$50.550",
+        "precioPorSku js-PUM": "Gramo a $1.011,00"
+    },
+    "descripcion": "oferta renacell 10 facial 50g gratis:contorno de ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87221-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

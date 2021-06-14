@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707173600244dermovit-10-cremamedicamentoscuidado-corporalfarma-de-colombia-7707173600244/p",
+    "fecha_hora_scraping": "2021-06-13 23:42:29",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "DERMOVIT 10% CREMA",
+    "nombre_imagen": "./web_scraping/data/img/DERMOVIT_10_CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$111.850",
+        "precioPorSku js-PUM": "Gramo a $1.864,17"
+    },
+    "descripcion": "dermovit 10% crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC02774-95CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

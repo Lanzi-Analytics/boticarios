@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/perspirex-original-roll-on-5701943100387/p",
+    "fecha_hora_scraping": "2021-06-14 05:57:11",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "PERSPIREX ORIGINAL ROLL ON",
+    "nombre_imagen": "./web_scraping/data/img/PERSPIREX_ORIGINAL_ROLL_ON.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$51.750",
+        "precioPorSku js-PUM": "Mililitro a $2.587,50"
+    },
+    "descripcion": "perspirex original roll on",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69502-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

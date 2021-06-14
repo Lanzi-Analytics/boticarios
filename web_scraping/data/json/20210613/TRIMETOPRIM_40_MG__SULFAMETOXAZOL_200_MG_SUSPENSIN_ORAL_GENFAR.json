@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trimetoprim-40-mg--sulfametoxazol-200-mg-suspensin-oral-genfar-7702605102785/p",
+    "fecha_hora_scraping": "2021-06-14 00:18:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRIMETOPRIM 40 MG + SULFAMETOXAZOL 200 MG SUSPENSIN ORAL GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/TRIMETOPRIM_40_MG__SULFAMETOXAZOL_200_MG_SUSPENSIN_ORAL_GENFAR.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$7.900",
+        "precioPorSku js-PUM": "Mililitro a $65,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML 8 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SULFAMETOXAZOL TRIMETOPRIM"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-007218-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

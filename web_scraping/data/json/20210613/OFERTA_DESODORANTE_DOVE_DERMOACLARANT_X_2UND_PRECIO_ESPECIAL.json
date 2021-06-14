@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-desodorante-dove-dermoaclarant-x-2und-precio-especial-7702006201025/p",
+    "fecha_hora_scraping": "2021-06-14 06:17:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "OFERTA DESODORANTE DOVE DERMOACLARANT X 2UND PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_DESODORANTE_DOVE_DERMOACLARANT_X_2UND_PRECIO_ESPECIAL.jpg",
+    "presentacion": "TUBO X 150 ML",
+    "precio": {
+        "bestPrice": "$29.950",
+        "precioPorSku js-PUM": "Mililitro a $199,67"
+    },
+    "descripcion": "oferta desodorante dove dermoaclarant x 2und precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

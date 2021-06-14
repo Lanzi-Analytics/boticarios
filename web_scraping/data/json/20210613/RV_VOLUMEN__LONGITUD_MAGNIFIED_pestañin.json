@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-volumen--longitud-magnified-pestanin-309978615019/p",
+    "fecha_hora_scraping": "2021-06-14 02:42:25",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV VOLUMEN + LONGITUD MAGNIFIED pesta\u00f1in",
+    "nombre_imagen": "./web_scraping/data/img/RV_VOLUMEN__LONGITUD_MAGNIFIED_pesta\u00f1in.jpg",
+    "presentacion": "TUBO X 8 G",
+    "precio": {
+        "bestPrice": "$18.100",
+        "precioPorSku js-PUM": "Mililitro a $2.129,41"
+    },
+    "descripcion": "rv volumen + longitud magnified pesta\u00f1in",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70396-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lactato-de-ringer-solucion-inyectable-7707141349359/p",
+    "fecha_hora_scraping": "2021-06-14 03:11:12",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LACTATO DE RINGER SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/LACTATO_DE_RINGER_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "BOLSA X 500 ML",
+    "precio": {
+        "bestPrice": "$4.200",
+        "precioPorSku js-PUM": "Mililitro a $8,40"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAXTER SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-002282-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

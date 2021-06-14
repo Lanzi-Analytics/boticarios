@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/absorbable-calcium--vitamina-d-softgels-74312462726/p",
+    "fecha_hora_scraping": "2021-06-14 09:49:56",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ABSORBABLE CALCIUM + VITAMINA D SOFTGELS",
+    "nombre_imagen": "./web_scraping/data/img/ABSORBABLE_CALCIUM__VITAMINA_D_SOFTGELS.jpg",
+    "presentacion": "FRASCO X 100 TAB",
+    "precio": {
+        "bestPrice": "$63.450",
+        "precioPorSku js-PUM": "Tableta a $634,50"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA HIDROCORTISONA ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002976"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

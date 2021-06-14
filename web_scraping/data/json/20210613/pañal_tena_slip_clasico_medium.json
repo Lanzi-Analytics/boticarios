@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-tena-slip-clasico-medium-7702027479656/p",
+    "fecha_hora_scraping": "2021-06-14 09:28:12",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1AL TENA SLIP CLASICO MEDIUM",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_TENA_SLIP_CLASICO_MEDIUM.jpg",
+    "presentacion": "PAQUETE X 1 UN",
+    "precio": {
+        "bestPrice": "$2.300",
+        "precioPorSku js-PUM": "Unidad a $2.300,00"
+    },
+    "descripcion": "panl.tena basic mediano tbs 24x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

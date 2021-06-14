@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/broncho-vaxom-7-mg-adultos-capsula-dura-7704403005107/p",
+    "fecha_hora_scraping": "2021-06-14 10:31:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BRONCHO VAXOM 7 MG ADULTOS CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/BRONCHO_VAXOM_7_MG_ADULTOS_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$141.200",
+        "precioPorSku js-PUM": "C\u00e1psula a $12.002"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "7 MG"
+        ],
+        [
+            "Principio activo",
+            "OM-85 LIOFILIZADO"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-007838-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

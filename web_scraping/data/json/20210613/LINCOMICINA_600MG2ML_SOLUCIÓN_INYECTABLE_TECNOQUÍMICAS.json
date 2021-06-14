@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lincomicina-600mg2ml-solucion-inyectable-tecnoquimicas-7702057402945/p",
+    "fecha_hora_scraping": "2021-06-14 08:40:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LINCOMICINA 600MG/2ML SOLUCI\u00d3N INYECTABLE TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LINCOMICINA_600MG2ML_SOLUCI\u00d3N_INYECTABLE_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "Blister X 1 AMP",
+    "precio": {
+        "bestPrice": "$2.925",
+        "precioPorSku js-PUM": "Ampolla a $2.925,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 1 AMP"
+        ],
+        [
+            "Concentracion",
+            "300 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LINCOMICINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-006040R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

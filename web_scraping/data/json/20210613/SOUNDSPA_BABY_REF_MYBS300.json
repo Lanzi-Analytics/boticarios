@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soundspa-baby-ref-mybs-300-31262053596/p",
+    "fecha_hora_scraping": "2021-06-14 10:12:03",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|fisioterapia y rehabilitaci\u00f3n",
+    "titulo": "SOUNDSPA BABY REF MYBS-300",
+    "nombre_imagen": "./web_scraping/data/img/SOUNDSPA_BABY_REF_MYBS300.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$93.300",
+        "bestPrice": "$69.975",
+        "precioPorSku js-PUM": "Unidad a $69.975"
+    },
+    "descripcion": "soundspa baby ref mybs-300",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MECANELECTRO SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

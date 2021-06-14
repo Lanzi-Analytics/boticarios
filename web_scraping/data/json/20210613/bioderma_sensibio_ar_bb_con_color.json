@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-sensibio-ar-bb-con-color-3701129802212/p",
+    "fecha_hora_scraping": "2021-06-14 09:09:23",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "bioderma sensibio ar bb con color",
+    "nombre_imagen": "./web_scraping/data/img/bioderma_sensibio_ar_bb_con_color.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$103.300",
+        "precioPorSku js-PUM": "Mililitro a $2.581,25"
+    },
+    "descripcion": "bioderma sensibio ar bb con color",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59057-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

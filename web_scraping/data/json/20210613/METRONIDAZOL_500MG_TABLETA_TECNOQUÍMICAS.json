@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metronidazol-500mg-tableta-tecnoquimicas-7702057074227/p",
+    "fecha_hora_scraping": "2021-06-13 23:59:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METRONIDAZOL 500MG TABLETA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/METRONIDAZOL_500MG_TABLETA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CAJA X 40 TAB",
+    "precio": {
+        "bestPrice": "$7.850",
+        "precioPorSku js-PUM": "Tableta a $196,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 40 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-005214-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

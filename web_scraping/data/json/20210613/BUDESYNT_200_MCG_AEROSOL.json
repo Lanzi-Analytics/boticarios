@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/budesynt-200-mcg-aerosol-7707274721510/p",
+    "fecha_hora_scraping": "2021-06-14 08:41:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BUDESYNT 200 MCG AEROSOL",
+    "nombre_imagen": "./web_scraping/data/img/BUDESYNT_200_MCG_AEROSOL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$95.700",
+        "precioPorSku js-PUM": "Unidad a $95.700,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "200 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "BUDESONIDA"
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011624-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-tena-slip-ultra-small-7702027478505/p",
+    "fecha_hora_scraping": "2021-06-13 23:08:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "pa\u00f1al tena slip ultra small",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1al_tena_slip_ultra_small.jpg",
+    "presentacion": "PAQUETE X 9 UN",
+    "precio": {
+        "bestPrice": "$26.850",
+        "precioPorSku js-PUM": "Unidad a $2.983,33"
+    },
+    "descripcion": "tena slip small x9uni",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 9 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

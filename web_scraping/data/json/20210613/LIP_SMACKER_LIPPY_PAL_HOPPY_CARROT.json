@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lip-smacker-lippy-pal-hoppy-carrot-50051807950/p",
+    "fecha_hora_scraping": "2021-06-14 09:45:03",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "LIP SMACKER LIPPY PAL HOPPY CARROT",
+    "nombre_imagen": "./web_scraping/data/img/LIP_SMACKER_LIPPY_PAL_HOPPY_CARROT.jpg",
+    "presentacion": "TUBO X 4 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $7.200,00"
+    },
+    "descripcion": "lip smacker lippy pal hoppy carrot",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARBELCOR SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90215-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

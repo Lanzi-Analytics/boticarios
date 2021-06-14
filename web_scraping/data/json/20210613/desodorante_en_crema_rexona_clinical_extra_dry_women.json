@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-en-crema-rexona-clinical-extra-dry-women-79400301161/p",
+    "fecha_hora_scraping": "2021-06-14 10:04:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante en crema rexona clinical extra dry women",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_en_crema_rexona_clinical_extra_dry_women.jpg",
+    "presentacion": "UN X 48 G",
+    "precio": {
+        "bestPrice": "$19.850",
+        "precioPorSku js-PUM": "Gramo a $413,54"
+    },
+    "descripcion": "rexona deo cr soft solid extra dry12x4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UN X 48 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

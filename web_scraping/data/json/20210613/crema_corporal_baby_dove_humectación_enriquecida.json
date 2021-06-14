@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-corporal-baby-dove-humectacion-enriquecida-7891150026001/p",
+    "fecha_hora_scraping": "2021-06-14 07:24:02",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "crema corporal baby dove humectaci\u00f3n enriquecida",
+    "nombre_imagen": "./web_scraping/data/img/crema_corporal_baby_dove_humectaci\u00f3n_enriquecida.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$17.050",
+        "precioPorSku js-PUM": "Mililitro a $85,25"
+    },
+    "descripcion": "dove baby cr h enr x200ml exp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69881-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladryl-rosada-locion-77014542/p",
+    "fecha_hora_scraping": "2021-06-14 10:13:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADRYL ROSADA LOCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/CALADRYL_ROSADA_LOCI\u00d3N.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$19.200",
+        "precioPorSku js-PUM": "Mililitro a $192,00"
+    },
+    "descripcion": "caladryl rosada loci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "8 %"
+        ],
+        [
+            "Principio activo",
+            "CALAMINA"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015242"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

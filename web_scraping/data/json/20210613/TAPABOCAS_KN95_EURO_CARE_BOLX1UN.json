@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-kn95-euro-care-bolx1un-7709323991486/p",
+    "fecha_hora_scraping": "2021-06-14 09:10:59",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "TAPABOCAS KN95 EURO CARE BOLX1UN",
+    "nombre_imagen": "./web_scraping/data/img/TAPABOCAS_KN95_EURO_CARE_BOLX1UN.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$7.150",
+        "precioPorSku js-PUM": "Unidad a $7.150,00"
+    },
+    "descripcion": "tapabocas kn95 euro care bolx1un",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EURO VISION SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

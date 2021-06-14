@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703145118007janssenformuladosmedicamentosresolor-2-mg-tableta-recubiertaprucaloprida-succinato-7703145118007/p",
+    "fecha_hora_scraping": "2021-06-14 10:22:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RESOLOR 2 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/RESOLOR_2_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$169.250",
+        "precioPorSku js-PUM": "Tableta a $6.044,64"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG"
+        ],
+        [
+            "Principio activo",
+            "PRUCALOPRIDA SUCCINATO"
+        ],
+        [
+            "Laboratorio",
+            "JANSSEN CILAG SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013150-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

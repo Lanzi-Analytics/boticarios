@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clarivis-0025--solucion-oftalmica-7707239273627/p",
+    "fecha_hora_scraping": "2021-06-14 01:16:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLARIVIS 0.025 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/CLARIVIS_0025__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$16.750",
+        "precioPorSku js-PUM": "Mililitro a $3.350,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "0.25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "OXIMETAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ESPECIALIDADES OFTALMOLOGICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0001451-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

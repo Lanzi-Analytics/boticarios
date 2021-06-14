@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-pies-cansados-deopies-150-ml-7702113039993/p",
+    "fecha_hora_scraping": "2021-06-14 08:03:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "CREMA PIES CANSADOS DEOPIES 150 ml",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PIES_CANSADOS_DEOPIES_150_ml.jpg",
+    "presentacion": "UNIDAD X150ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $123,33"
+    },
+    "descripcion": "CREMA PIES CANSADOS DEOPIES 150 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X150ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98616-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

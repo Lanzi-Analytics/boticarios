@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-baby-care-protective-diaper-3760019123400/p",
+    "fecha_hora_scraping": "2021-06-14 00:46:12",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN BABY CARE PROTECTIVE DIAPER",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_BABY_CARE_PROTECTIVE_DIAPER.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $399,00"
+    },
+    "descripcion": "soskin baby care protective diaper",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77278-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

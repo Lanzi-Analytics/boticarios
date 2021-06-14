@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bexon-100mg-ovulo-7707204497591/p",
+    "fecha_hora_scraping": "2021-06-14 08:11:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BEXON 100MG \u00d3VULO",
+    "nombre_imagen": "./web_scraping/data/img/BEXON_100MG_\u00d3VULO.jpg",
+    "presentacion": "CAJA X 3 OVU",
+    "precio": {
+        "bestPrice": "$82.100",
+        "precioPorSku js-PUM": "OVULO a $27.366,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 OVU"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-013091-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

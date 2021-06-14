@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-chocolate-polvo-8427030003191/p",
+    "fecha_hora_scraping": "2021-06-14 00:35:19",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE CHOCOLATE POLVO",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_CHOCOLATE_POLVO.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $114,50"
+    },
+    "descripcion": "ensure chocolate polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-006275-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

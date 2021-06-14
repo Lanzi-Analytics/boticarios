@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-tena-pants-ultra-talla-m-7702026179373/p",
+    "fecha_hora_scraping": "2021-06-13 23:44:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "pa\u00f1ales tena pants ultra talla m",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_tena_pants_ultra_talla_m.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$65.900",
+        "precioPorSku js-PUM": "Unidad a $3.295,00"
+    },
+    "descripcion": "pa\u00f1ales tena pants ultra talla m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

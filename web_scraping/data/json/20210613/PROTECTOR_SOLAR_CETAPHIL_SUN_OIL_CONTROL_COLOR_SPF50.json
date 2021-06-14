@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-cetaphil-sun-oil-control-color-spf50-7897930776616/p",
+    "fecha_hora_scraping": "2021-06-14 00:08:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR CETAPHIL SUN OIL CONTROL COLOR SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_CETAPHIL_SUN_OIL_CONTROL_COLOR_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$83.300",
+        "precioPorSku js-PUM": "Mililitro a $1.666,00"
+    },
+    "descripcion": "protector solar cetaphil sun oil control",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88543-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

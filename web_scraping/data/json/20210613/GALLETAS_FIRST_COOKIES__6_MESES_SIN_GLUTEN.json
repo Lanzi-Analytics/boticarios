@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/galletas-first-cookies--6-meses-sin-gluten-854688003538/p",
+    "fecha_hora_scraping": "2021-06-14 05:24:56",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "GALLETAS FIRST COOKIES + 6 MESES SIN GLUTEN",
+    "nombre_imagen": "./web_scraping/data/img/GALLETAS_FIRST_COOKIES__6_MESES_SIN_GLUTEN.jpg",
+    "presentacion": "CAJA X 125 G",
+    "precio": {
+        "bestPrice": "$13.600",
+        "precioPorSku js-PUM": "Gramo a $108,80"
+    },
+    "descripcion": "galletas first cookies + 6 meses sin gluten",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 125 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MAH! COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001731-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

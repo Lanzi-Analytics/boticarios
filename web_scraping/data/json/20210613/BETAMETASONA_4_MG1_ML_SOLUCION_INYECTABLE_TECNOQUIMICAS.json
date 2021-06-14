@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betametasona-4-mg1-ml-solucion-inyectable-tecnoquimicas-7702057076641/p",
+    "fecha_hora_scraping": "2021-06-14 05:57:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BETAMETASONA 4 MG/1 ML SOLUCION INYECTABLE TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/BETAMETASONA_4_MG1_ML_SOLUCION_INYECTABLE_TECNOQUIMICAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$2.550",
+        "precioPorSku js-PUM": "Unidad a $2.550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BETAMETASONA FOSFATO DISODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007719-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

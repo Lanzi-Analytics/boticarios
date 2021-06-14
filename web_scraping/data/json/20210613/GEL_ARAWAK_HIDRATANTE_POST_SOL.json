@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-arawak-hidratante-post-sol-7707016404916/p",
+    "fecha_hora_scraping": "2021-06-14 04:56:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "GEL ARAWAK HIDRATANTE POST SOL",
+    "nombre_imagen": "./web_scraping/data/img/GEL_ARAWAK_HIDRATANTE_POST_SOL.jpg",
+    "presentacion": "TUBO X 120 G",
+    "precio": {
+        "bestPrice": "$17.350",
+        "precioPorSku js-PUM": "Gramo a $144,58"
+    },
+    "descripcion": "gel arawak hidratante post sol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC58942-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

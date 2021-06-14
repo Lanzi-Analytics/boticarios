@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rosulfant-500-mg-gragea-7704588002069/p",
+    "fecha_hora_scraping": "2021-06-14 09:24:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROSULFANT 500 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/ROSULFANT_500_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 10 GRG",
+    "precio": {
+        "bestPrice": "$22.950",
+        "precioPorSku js-PUM": "Gragea a $2.295,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 GRG"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "SULFASALAZINA"
+        ],
+        [
+            "Laboratorio",
+            "ROPSOHN THERAPEUTICS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-011406-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703454123136farma-de-colombiaformuladosmedicamentosfarma-d3-2000-ui-capsula-blandavitamina-d3-7703454123136/p",
+    "fecha_hora_scraping": "2021-06-14 07:55:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FARMA D3 2000 UI CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/FARMA_D3_2000_UI_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$59.500",
+        "precioPorSku js-PUM": "Capsula a $991,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "2000 UI"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014765"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

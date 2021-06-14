@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ezetimibe-10-mg--simvastatina-40-mg-tableta-cubierta-tecnoquimicas-7702057077532/p",
+    "fecha_hora_scraping": "2021-06-14 07:36:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EZETIMIBE 10 MG + SIMVASTATINA 40 MG TABLETA CUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/EZETIMIBE_10_MG__SIMVASTATINA_40_MG_TABLETA_CUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$62.150",
+        "precioPorSku js-PUM": "Tableta a $4.439,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "SIMVASTATINA EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008464"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

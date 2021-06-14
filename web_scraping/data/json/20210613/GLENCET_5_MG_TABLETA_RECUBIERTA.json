@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glencet-5-mg-tableta-recubierta-7709742178918/p",
+    "fecha_hora_scraping": "2021-06-14 09:31:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GLENCET 5 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/GLENCET_5_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$142.000",
+        "precioPorSku js-PUM": "Tableta a $4.733,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLENMARK PHARMACEUTICALS COLOM SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018466"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

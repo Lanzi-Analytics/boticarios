@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bactroderm-gel-antibacterial-7702184690130/p",
+    "fecha_hora_scraping": "2021-06-14 09:10:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "BACTRODERM GEL ANTIBACTERIAL",
+    "nombre_imagen": "./web_scraping/data/img/BACTRODERM_GEL_ANTIBACTERIAL.jpg",
+    "presentacion": "FRASCO X 1000 ML",
+    "precio": {
+        "bestPrice": "$23.700",
+        "precioPorSku js-PUM": "Mililitro a $23,70"
+    },
+    "descripcion": "bactroderm gel antibacterial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 1000 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC22820-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

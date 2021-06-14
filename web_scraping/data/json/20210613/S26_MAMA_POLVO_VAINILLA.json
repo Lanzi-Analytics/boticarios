@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/s-26-mama-polvo-vainilla-7502253071729/p",
+    "fecha_hora_scraping": "2021-06-14 03:14:23",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "S-26 MAMA POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/S26_MAMA_POLVO_VAINILLA.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "PrevPrice": "Antes:$56.300",
+        "bestPrice": "$45.040",
+        "precioPorSku js-PUM": "Gramo a $112,60"
+    },
+    "descripcion": "s-26 mama polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANULAC NUTRICION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I12401"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

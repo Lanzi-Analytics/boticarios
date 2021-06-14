@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/blephagel-duo-gel-3662042000249/p",
+    "fecha_hora_scraping": "2021-06-14 02:01:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BLEPHAGEL DUO GEL",
+    "nombre_imagen": "./web_scraping/data/img/BLEPHAGEL_DUO_GEL.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$60.450",
+        "precioPorSku js-PUM": "Gramo a $1.511,25"
+    },
+    "descripcion": "blephagel duo gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36881-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

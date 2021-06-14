@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/epilfarmo-30mg-tableta-recubierta-con-pelicula-5600860331075/p",
+    "fecha_hora_scraping": "2021-06-14 04:24:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EPILFARMO 30MG TABLETA RECUBIERTA CON PEL\u00cdCULA",
+    "nombre_imagen": "./web_scraping/data/img/EPILFARMO_30MG_TABLETA_RECUBIERTA_CON_PEL\u00cdCULA.jpg",
+    "presentacion": "CAJA X 10TAB",
+    "precio": {
+        "bestPrice": "$13.850",
+        "precioPorSku js-PUM": "Tableta a $461,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10TAB"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "MIRTAZAPINA"
+        ],
+        [
+            "Laboratorio",
+            "ALTADIS FARMACEUTICA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016987"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

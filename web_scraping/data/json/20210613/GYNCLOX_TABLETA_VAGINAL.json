@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gynclox-tableta-vaginal-7702870003473/p",
+    "fecha_hora_scraping": "2021-06-14 10:35:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GYNCLOX TABLETA VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/GYNCLOX_TABLETA_VAGINAL.jpg",
+    "presentacion": "CAJA X 3 TAB",
+    "precio": {
+        "bestPrice": "$85.950",
+        "precioPorSku js-PUM": "Tableta a $28.650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007195-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

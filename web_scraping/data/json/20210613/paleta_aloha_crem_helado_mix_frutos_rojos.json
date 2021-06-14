@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-aloha-crem-helado-mix-frutos-rojos-7702402048316/p",
+    "fecha_hora_scraping": "2021-06-14 00:02:13",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta aloha crem helado mix frutos rojos",
+    "nombre_imagen": "./web_scraping/data/img/paleta_aloha_crem_helado_mix_frutos_rojos.jpg",
+    "presentacion": "UNIDAD X 80 G",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Gramo a $21,25"
+    },
+    "descripcion": "paleta aloha crem helado mix frutos rojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 80 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD19I9801"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

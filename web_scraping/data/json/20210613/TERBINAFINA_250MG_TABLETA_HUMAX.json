@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707288820728medicamentosformuladoshumaxterbinafina-clorhidrato-7707288820728/p",
+    "fecha_hora_scraping": "2021-06-14 01:16:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TERBINAFINA 250MG TABLETA HUMAX",
+    "nombre_imagen": "./web_scraping/data/img/TERBINAFINA_250MG_TABLETA_HUMAX.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$39.800",
+        "precioPorSku js-PUM": "Tableta a $2.842,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007273"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

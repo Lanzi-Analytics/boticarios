@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/airflusal-forspiro-50-mcg500-mcg-polvo-para-inhalacion-7702635436966/p",
+    "fecha_hora_scraping": "2021-06-14 01:19:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AIRFLUSAL FORSPIRO 50 MCG/500 MCG POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/AIRFLUSAL_FORSPIRO_50_MCG500_MCG_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$109.000",
+        "precioPorSku js-PUM": "Unidad a $109.000,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "500 MG 50 MG"
+        ],
+        [
+            "Principio activo",
+            "FLUTICASONA PROPIONATO SALMETEROL XINAFOATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016327-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

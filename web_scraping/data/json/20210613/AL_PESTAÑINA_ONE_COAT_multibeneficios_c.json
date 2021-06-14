@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-pestanina-one-coat-multi-beneficios-c-309978588030/p",
+    "fecha_hora_scraping": "2021-06-14 10:18:22",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL PESTA\u00d1INA ONE COAT multi-beneficios c",
+    "nombre_imagen": "./web_scraping/data/img/AL_PESTA\u00d1INA_ONE_COAT_multibeneficios_c.jpg",
+    "presentacion": "TUBO X 7 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $6.864,29"
+    },
+    "descripcion": "al pesta\u00f1ina one coat multi-beneficios c",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 7 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70405-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

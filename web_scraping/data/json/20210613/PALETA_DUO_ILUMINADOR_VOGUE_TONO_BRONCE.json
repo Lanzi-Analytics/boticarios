@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-duo-iluminador-vogue-tono-bronce-7509552830149/p",
+    "fecha_hora_scraping": "2021-06-14 06:47:05",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "PALETA DUO ILUMINADOR VOGUE TONO BRONCE",
+    "nombre_imagen": "./web_scraping/data/img/PALETA_DUO_ILUMINADOR_VOGUE_TONO_BRONCE.jpg",
+    "presentacion": "UNIDAD X 14 G",
+    "precio": {
+        "bestPrice": "$10.800",
+        "precioPorSku js-PUM": "Gramo a $771,43"
+    },
+    "descripcion": "paleta duo iluminador vogue tono bronce",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 14 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84675-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

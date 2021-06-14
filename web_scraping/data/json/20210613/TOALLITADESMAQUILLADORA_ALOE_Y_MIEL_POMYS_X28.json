@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitadesmaquilladora-aloe-y-miel-pomys-x28-7702026187613/p",
+    "fecha_hora_scraping": "2021-06-14 01:02:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TOALLITA.DESMAQUILLADORA. ALOE Y MIEL POMYS X28",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITADESMAQUILLADORA_ALOE_Y_MIEL_POMYS_X28.jpg",
+    "presentacion": "PAQUETE X 28UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $332,14"
+    },
+    "descripcion": "TOALLITA.DESMAQUILLADORA. ALOE Y MIEL POMYS X28",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 28UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99369-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

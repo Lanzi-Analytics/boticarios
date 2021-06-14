@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/efal-liquido-7707355051123/p",
+    "fecha_hora_scraping": "2021-06-14 06:55:25",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "EFAL LIQUIDO",
+    "nombre_imagen": "./web_scraping/data/img/EFAL_LIQUIDO.jpg",
+    "presentacion": "FRASCO X 500 G",
+    "precio": {
+        "bestPrice": "$117.200",
+        "precioPorSku js-PUM": "Gramo a $234,40"
+    },
+    "descripcion": "efal liquido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13277-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

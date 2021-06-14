@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/47400179660repuestos-de-afeitar-gillette-mach-3higiene-y-cuidado-personalafeitada-y-depilacionprocter--gamble-47400179660/p",
+    "fecha_hora_scraping": "2021-06-14 08:51:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "repuestos de afeitar gillette mach 3",
+    "nombre_imagen": "./web_scraping/data/img/repuestos_de_afeitar_gillette_mach_3.jpg",
+    "presentacion": "PAQUETE X 4 UN",
+    "precio": {
+        "bestPrice": "$38.000",
+        "precioPorSku js-PUM": "Unidad a $9.500,00"
+    },
+    "descripcion": "repuestos de afeitar gillette mach 3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 4 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

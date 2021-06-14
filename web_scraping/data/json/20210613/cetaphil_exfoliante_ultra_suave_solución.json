@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-exfoliante-ultra-suave-solucion-7640203240242/p",
+    "fecha_hora_scraping": "2021-06-14 07:46:31",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "cetaphil exfoliante ultra suave soluci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/cetaphil_exfoliante_ultra_suave_soluci\u00f3n.jpg",
+    "presentacion": "TUBO X 178 ML",
+    "precio": {
+        "bestPrice": "$78.200",
+        "precioPorSku js-PUM": "Mililitro a $439,33"
+    },
+    "descripcion": "cetaphil exfoliante ultra suave soluci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 178 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98325-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

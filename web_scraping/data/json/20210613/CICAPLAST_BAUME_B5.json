@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicaplast-baume-b5-3337872412998/p",
+    "fecha_hora_scraping": "2021-06-14 03:14:50",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CICAPLAST BAUME B5",
+    "nombre_imagen": "./web_scraping/data/img/CICAPLAST_BAUME_B5.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$39.850",
+        "precioPorSku js-PUM": "Mililitro a $996,25"
+    },
+    "descripcion": "cicaplast baume b5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC42833-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

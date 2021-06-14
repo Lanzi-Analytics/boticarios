@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-cristal-con-gas-7702090023008/p",
+    "fecha_hora_scraping": "2021-06-14 04:49:14",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "agua cristal con gas",
+    "nombre_imagen": "./web_scraping/data/img/agua_cristal_con_gas.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Mililitro a $2,83"
+    },
+    "descripcion": "agua cristal con gas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

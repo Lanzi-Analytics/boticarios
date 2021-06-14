@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/iluminador-maybelline-master-chrome-molten-gold-41554538281/p",
+    "fecha_hora_scraping": "2021-06-14 02:04:19",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "ILUMINADOR MAYBELLINE MASTER CHROME MOLTEN GOLD",
+    "nombre_imagen": "./web_scraping/data/img/ILUMINADOR_MAYBELLINE_MASTER_CHROME_MOLTEN_GOLD.jpg",
+    "presentacion": "UNIDAD X 6.7 G",
+    "precio": {
+        "bestPrice": "$45.400",
+        "precioPorSku js-PUM": "Gramo a $6.776,12"
+    },
+    "descripcion": "iluminador maybelline master chrome molten gold",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6.7 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89996-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

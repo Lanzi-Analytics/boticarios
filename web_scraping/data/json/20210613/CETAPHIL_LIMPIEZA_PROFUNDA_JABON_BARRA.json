@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-limpieza-profunda-jabon-barra-3499320008341/p",
+    "fecha_hora_scraping": "2021-06-14 04:33:31",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CETAPHIL LIMPIEZA PROFUNDA JABON BARRA",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_LIMPIEZA_PROFUNDA_JABON_BARRA.jpg",
+    "presentacion": "BARRA X 127 G",
+    "precio": {
+        "bestPrice": "$36.500",
+        "precioPorSku js-PUM": "Gramo a $287,40"
+    },
+    "descripcion": "cetaphil limpieza profunda jabon barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 127 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC47774-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

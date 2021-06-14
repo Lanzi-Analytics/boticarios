@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/umbrella-base-compacto-tono-3-miel-spf50-7703281002352/p",
+    "fecha_hora_scraping": "2021-06-14 00:23:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "UMBRELLA BASE COMPACTO TONO 3 MIEL SPF50",
+    "nombre_imagen": "./web_scraping/data/img/UMBRELLA_BASE_COMPACTO_TONO_3_MIEL_SPF50.jpg",
+    "presentacion": "CAJA X 11 G",
+    "precio": {
+        "bestPrice": "$99.850",
+        "precioPorSku js-PUM": "Gramo a $9.077,27"
+    },
+    "descripcion": "umbrella base compacto tono 3 miel spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 11 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52704-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

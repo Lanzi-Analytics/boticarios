@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sunpro-babies-kids-spf105-7702277140689/p",
+    "fecha_hora_scraping": "2021-06-14 02:42:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "protector solar sunpro babies kids spf105+",
+    "nombre_imagen": "./web_scraping/data/img/protector_solar_sunpro_babies_kids_spf105.jpg",
+    "presentacion": "ENVASE X 140 G",
+    "precio": {
+        "PrevPrice": "Antes:$42.550",
+        "bestPrice": "$29.785",
+        "precioPorSku js-PUM": "Gramo a $212,75"
+    },
+    "descripcion": "prot sol sunpro spf105 babies kids 140",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 140 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59853-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

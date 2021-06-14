@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ganfort-ud-05-mg03-mg-solucion-oftalmica-7707236673420/p",
+    "fecha_hora_scraping": "2021-06-14 09:54:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GANFORT UD 0.5 MG/0.3 MG SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/GANFORT_UD_05_MG03_MG_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$100.050",
+        "precioPorSku js-PUM": "Unidad a $3.335,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML 0.3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TIMOLOL MALEATO BIMATOPROST"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0015449-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

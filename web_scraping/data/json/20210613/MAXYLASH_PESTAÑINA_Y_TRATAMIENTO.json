@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maxylash-pestanina-y-tratamiento-7702870100684/p",
+    "fecha_hora_scraping": "2021-06-14 09:34:32",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "MAXYLASH PESTA\u00d1INA Y TRATAMIENTO",
+    "nombre_imagen": "./web_scraping/data/img/MAXYLASH_PESTA\u00d1INA_Y_TRATAMIENTO.jpg",
+    "presentacion": "TUBO X 7 G",
+    "precio": {
+        "bestPrice": "$24.650",
+        "precioPorSku js-PUM": "Gramo a $3.521,43"
+    },
+    "descripcion": "maxylash pesta\u00f1ina y tratamiento",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 7 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC62503-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

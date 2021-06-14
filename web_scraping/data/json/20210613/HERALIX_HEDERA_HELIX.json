@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/heralix-hedera-helix-7707329200151/p",
+    "fecha_hora_scraping": "2021-06-14 03:05:07",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "HERALIX HEDERA HELIX",
+    "nombre_imagen": "./web_scraping/data/img/HERALIX_HEDERA_HELIX.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $295,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A MG"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALLEN PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2010-0001603"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

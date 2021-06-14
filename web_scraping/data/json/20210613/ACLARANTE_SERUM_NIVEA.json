@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aclarante-serum-nivea-4005900489753/p",
+    "fecha_hora_scraping": "2021-06-14 07:26:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "ACLARANTE SERUM NIVEA",
+    "nombre_imagen": "./web_scraping/data/img/ACLARANTE_SERUM_NIVEA.jpg",
+    "presentacion": "FRASCO X 40 ML",
+    "precio": {
+        "bestPrice": "$11.850",
+        "precioPorSku js-PUM": "Mililitro a $296,25"
+    },
+    "descripcion": "des nva serum aclarado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82332-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

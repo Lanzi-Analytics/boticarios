@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-papa-pollo-super-ricas-105-g-15--extra-cont-7702152110356/p",
+    "fecha_hora_scraping": "2021-06-14 10:22:33",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "OFERTA PAPA POLLO SUPER RICAS 105 G +15 % EXTRA CONT",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PAPA_POLLO_SUPER_RICAS_105_G_15__EXTRA_CONT.jpg",
+    "presentacion": "PAQUETE X 105 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $33,33"
+    },
+    "descripcion": "OFERTA PAPA POLLO SUPER RICAS 105 G +15 % EXTRA CONT",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 105 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD08I47810"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

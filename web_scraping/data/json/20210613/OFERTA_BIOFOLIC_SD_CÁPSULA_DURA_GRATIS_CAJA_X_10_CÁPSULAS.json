@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-biofolic-sd-capsula-dura-gratis-caja-x-10-capsulas-7709154598052/p",
+    "fecha_hora_scraping": "2021-06-13 23:18:51",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA BIOFOLIC SD C\u00c1PSULA DURA GRATIS CAJA X 10 C\u00c1PSULAS",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_BIOFOLIC_SD_C\u00c1PSULA_DURA_GRATIS_CAJA_X_10_C\u00c1PSULAS.jpg",
+    "presentacion": "CAJA X 60 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $2.417,50"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOHEALTHY SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0004325"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

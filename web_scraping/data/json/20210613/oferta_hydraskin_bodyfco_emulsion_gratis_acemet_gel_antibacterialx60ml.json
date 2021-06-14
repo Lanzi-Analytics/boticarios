@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-hydraskin-bodyfco-emulsion-gratis-acemet-gel-antibacterialx60ml-7707222420588/p",
+    "fecha_hora_scraping": "2021-06-14 01:58:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "oferta hydraskin bodyfco emulsion gratis acemet gel antibacterialx60ml",
+    "nombre_imagen": "./web_scraping/data/img/oferta_hydraskin_bodyfco_emulsion_gratis_acemet_gel_antibacterialx60ml.jpg",
+    "presentacion": "FRASCO X 280 ML",
+    "precio": {
+        "bestPrice": "$66.900",
+        "precioPorSku js-PUM": "Mililitro a $238,93"
+    },
+    "descripcion": "oferta hydraskin bodyfco emulsion gratis acemet gel antibacterialx60ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00025-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

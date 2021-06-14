@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-vitu-aceite-almendras-wp-7702044226097/p",
+    "fecha_hora_scraping": "2021-06-14 03:45:26",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA VIT\u00da ACEITE ALMENDRAS WP",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_VIT\u00da_ACEITE_ALMENDRAS_WP.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$11.250",
+        "precioPorSku js-PUM": "Mililitro a $865,38"
+    },
+    "descripcion": "pesta\u00f1ina vit\u00fa aceite almendras wp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC60312-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

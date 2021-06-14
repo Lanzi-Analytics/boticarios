@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/duloxetina-30-mg-capsula-dura-tecnoquimicas-7702057613204/p",
+    "fecha_hora_scraping": "2021-06-14 01:22:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DULOXETINA 30 MG CAPSULA DURA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/DULOXETINA_30_MG_CAPSULA_DURA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 7 CAP",
+    "precio": {
+        "bestPrice": "$8.200",
+        "precioPorSku js-PUM": "Capsula a $1.171,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 CAP"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "DULOXETINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011884-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

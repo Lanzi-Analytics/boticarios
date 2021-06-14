@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neocrin-mascarilla-reparadora-7707183820205/p",
+    "fecha_hora_scraping": "2021-06-14 05:20:08",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "NEOCRIN MASCARILLA REPARADORA",
+    "nombre_imagen": "./web_scraping/data/img/NEOCRIN_MASCARILLA_REPARADORA.jpg",
+    "presentacion": "TUBO X 240 G",
+    "precio": {
+        "PrevPrice": "Antes:$77.400",
+        "bestPrice": "$58.050",
+        "precioPorSku js-PUM": "Gramo a $241,88"
+    },
+    "descripcion": "neocrin mascarilla reparadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 240 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC30916-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

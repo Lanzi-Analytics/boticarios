@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-jabon-intimo-rosa-mosqueta-8410412028523/p",
+    "fecha_hora_scraping": "2021-06-14 07:41:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "BABARIA JAB\u00d3N INTIMO ROSA MOSQUETA",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_JAB\u00d3N_INTIMO_ROSA_MOSQUETA.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$9.850",
+        "precioPorSku js-PUM": "Mililitro a $32,83"
+    },
+    "descripcion": "babaria jab\u00f3n intimo rosa mosqueta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC07897-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

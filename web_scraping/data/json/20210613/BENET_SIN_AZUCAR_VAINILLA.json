@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-sin-azucar-vainilla-7709071689406/p",
+    "fecha_hora_scraping": "2021-06-14 07:28:35",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "BENET SIN AZUCAR VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/BENET_SIN_AZUCAR_VAINILLA.jpg",
+    "presentacion": "BOLSA X 400 G",
+    "precio": {
+        "PrevPrice": "Antes:$28.600",
+        "bestPrice": "$21.450",
+        "precioPorSku js-PUM": "Gramo a $53,63"
+    },
+    "descripcion": "benet sin azucar vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007926-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

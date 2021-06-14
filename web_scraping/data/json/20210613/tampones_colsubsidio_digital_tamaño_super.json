@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampones-colsubsidio-digital-tamano-super-7701009126410/p",
+    "fecha_hora_scraping": "2021-06-14 08:14:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "tampones colsubsidio digital tama\u00f1o super",
+    "nombre_imagen": "./web_scraping/data/img/tampones_colsubsidio_digital_tama\u00f1o_super.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$3.900",
+        "precioPorSku js-PUM": "Unidad a $390,00"
+    },
+    "descripcion": "tampon colsubsidio digital super 10und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOBST VIERTEL A JVA SAS"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOA00166-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

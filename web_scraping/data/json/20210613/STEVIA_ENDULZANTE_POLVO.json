@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stevia-endulzante-polvo-7707232092317/p",
+    "fecha_hora_scraping": "2021-06-14 02:32:58",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "STEVIA ENDULZANTE POLVO",
+    "nombre_imagen": "./web_scraping/data/img/STEVIA_ENDULZANTE_POLVO.jpg",
+    "presentacion": "FRASCO X 200 G",
+    "precio": {
+        "bestPrice": "$19.800",
+        "precioPorSku js-PUM": "Gramo a $99,00"
+    },
+    "descripcion": "stevia endulzante polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD22I7405"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

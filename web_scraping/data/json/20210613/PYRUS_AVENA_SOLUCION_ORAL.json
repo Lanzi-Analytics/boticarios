@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pyrus-avena-solucion-oral-7707016401540/p",
+    "fecha_hora_scraping": "2021-06-13 23:48:18",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "PYRUS AVENA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/PYRUS_AVENA_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$21.250",
+        "precioPorSku js-PUM": "Mililitro a $59,03"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AVENA FIBRA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-0001842"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

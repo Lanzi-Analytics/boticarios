@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-tena-pants-clasico-medium-x16-7702026181949/p",
+    "fecha_hora_scraping": "2021-06-14 07:27:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1AL TENA PANTS CLASICO MEDIUM\u00a0 X16",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_TENA_PANTS_CLASICO_MEDIUM_X16.jpg",
+    "presentacion": "PAQUETE X 16UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.743,75"
+    },
+    "descripcion": "PA\u00d1AL TENA PANTS CLASICO MEDIUM\u00a0 X16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 16UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA06225-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nexium-mups-40-mg-tableta-7896206406035/p",
+    "fecha_hora_scraping": "2021-06-14 10:31:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEXIUM MUPS 40 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/NEXIUM_MUPS_40_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$222.250",
+        "precioPorSku js-PUM": "Comprimido a $7.937,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "40,0 MG"
+        ],
+        [
+            "Principio activo",
+            "ESOMEPRAZOL MAGNESIO TRIHID"
+        ],
+        [
+            "Laboratorio",
+            "ASTRAZENECA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0000168-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

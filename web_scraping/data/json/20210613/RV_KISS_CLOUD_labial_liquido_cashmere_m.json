@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-kiss-cloud-labial-liquido-cashmere-m-309970073053/p",
+    "fecha_hora_scraping": "2021-06-14 04:17:44",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV KISS CLOUD labial liquido cashmere m",
+    "nombre_imagen": "./web_scraping/data/img/RV_KISS_CLOUD_labial_liquido_cashmere_m.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$39.700",
+        "precioPorSku js-PUM": "Mililitro a $7.940,00"
+    },
+    "descripcion": "rv kiss cloud labial liquido cashmere m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94738-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

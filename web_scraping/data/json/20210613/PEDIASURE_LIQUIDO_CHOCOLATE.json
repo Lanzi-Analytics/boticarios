@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pediasure-liquido-chocolate-7703186031198/p",
+    "fecha_hora_scraping": "2021-06-14 06:51:23",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PEDIASURE LIQUIDO CHOCOLATE",
+    "nombre_imagen": "./web_scraping/data/img/PEDIASURE_LIQUIDO_CHOCOLATE.jpg",
+    "presentacion": "BOTELLA X 237 ML",
+    "precio": {
+        "bestPrice": "$7.150",
+        "precioPorSku js-PUM": "Mililitro a $30,17"
+    },
+    "descripcion": "pediasure liquido chocolate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTIPLES COMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004217-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

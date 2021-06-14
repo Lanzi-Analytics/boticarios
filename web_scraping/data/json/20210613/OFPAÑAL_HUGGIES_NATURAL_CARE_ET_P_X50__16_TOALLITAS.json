@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/of-panal-huggies-natural-care-et-p-x50--16-toallitas-7702425804692/p",
+    "fecha_hora_scraping": "2021-06-14 06:12:24",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OF-PA\u00d1AL HUGGIES NATURAL CARE ET P X50 + 16 TOALLITAS",
+    "nombre_imagen": "./web_scraping/data/img/OFPA\u00d1AL_HUGGIES_NATURAL_CARE_ET_P_X50__16_TOALLITAS.jpg",
+    "presentacion": "PAQUETE X 50 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $618,00"
+    },
+    "descripcion": "OF-PA\u00d1AL HUGGIES NATURAL CARE ET P X50 + 16 TOALLITAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05659-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eptavis-3-g-adultos-granulado-7702057020323/p",
+    "fecha_hora_scraping": "2021-06-14 02:33:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EPTAVIS 3 G ADULTOS GRANULADO",
+    "nombre_imagen": "./web_scraping/data/img/EPTAVIS_3_G_ADULTOS_GRANULADO.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "$76.850",
+        "precioPorSku js-PUM": "Unidad a $12.808,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016363"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

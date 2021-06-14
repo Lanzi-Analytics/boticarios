@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rifocina-1--spray-7591044207560/p",
+    "fecha_hora_scraping": "2021-06-14 09:54:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RIFOCINA 1 % SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/RIFOCINA_1__SPRAY.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$41.500",
+        "precioPorSku js-PUM": "Mililitro a $2.075,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "RIFAMICINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-005965-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

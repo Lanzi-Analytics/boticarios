@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/timolol-05--solucion-oftalmica-la-sante-7703763282012/p",
+    "fecha_hora_scraping": "2021-06-14 09:13:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIMOLOL 0.5 % SOLUCION OFTALMICA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/TIMOLOL_05__SOLUCION_OFTALMICA_LA_SANTE.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "PrevPrice": "Antes:$10.200",
+        "bestPrice": "$7.140",
+        "precioPorSku js-PUM": "Mililitro a $1.428,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TIMOLOL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0002426-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

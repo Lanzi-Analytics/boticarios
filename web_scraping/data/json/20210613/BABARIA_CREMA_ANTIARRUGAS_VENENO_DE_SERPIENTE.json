@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-crema-antiarrugas-veneno-de-serpiente-8410412024976/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "BABARIA CREMA ANTIARRUGAS VENENO DE SERPIENTE",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_CREMA_ANTIARRUGAS_VENENO_DE_SERPIENTE.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$50.200",
+        "precioPorSku js-PUM": "Mililitro a $1.004,00"
+    },
+    "descripcion": "babaria crema antiarrugas veneno de serpiente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38938-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

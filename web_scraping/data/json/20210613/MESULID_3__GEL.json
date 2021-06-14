@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703546703093novamedformuladosmedicamentosmesulid-3--gelnimesulida-7703546703093/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MESULID 3 % GEL",
+    "nombre_imagen": "./web_scraping/data/img/MESULID_3__GEL.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$34.450",
+        "precioPorSku js-PUM": "Gramo a $861,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "30 MG/G"
+        ],
+        [
+            "Principio activo",
+            "NIMESULIDA"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017458"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

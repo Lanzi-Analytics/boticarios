@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esomeprazol-mk-20mg-tableta-recubierta-tecnoquimicas-7702057708993/p",
+    "fecha_hora_scraping": "2021-06-14 07:16:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESOMEPRAZOL MK 20MG TABLETA RECUBIERTA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/ESOMEPRAZOL_MK_20MG_TABLETA_RECUBIERTA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$75.450",
+        "precioPorSku js-PUM": "Tableta a $7.545,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ESOMEPRAZOL MAGNESIO TRIHID"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007903-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

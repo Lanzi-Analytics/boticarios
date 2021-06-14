@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-titanium-aire-mandarina-7709990037364/p",
+    "fecha_hora_scraping": "2021-06-14 00:58:55",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "POLVO TITANIUM AIRE MANDARINA",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_TITANIUM_AIRE_MANDARINA.jpg",
+    "presentacion": "BOLSA X 700 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $75,00"
+    },
+    "descripcion": "polvo titanium aire mandarina",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 700 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALIMENTOS Y BEBIDAS VALTIK SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD09I21814"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

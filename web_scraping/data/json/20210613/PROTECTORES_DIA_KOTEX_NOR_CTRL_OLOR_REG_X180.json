@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-dia-kotex-nor-ctrl-olor-reg-x180-7702425530935/p",
+    "fecha_hora_scraping": "2021-06-14 10:11:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "PROTECTORES DIA KOTEX NOR CTRL OLOR REG X180",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTORES_DIA_KOTEX_NOR_CTRL_OLOR_REG_X180.jpg",
+    "presentacion": "PAQUETE X 180 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $105,00"
+    },
+    "descripcion": "PROTECTORES DIA KOTEX NOR CTRL OLOR REG X180",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 180 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00348-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

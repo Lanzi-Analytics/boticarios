@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benzac-ac-25-gel-topico-3499320000567/p",
+    "fecha_hora_scraping": "2021-06-14 00:15:46",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BENZAC AC 2.5% GEL T\u00d3PICO",
+    "nombre_imagen": "./web_scraping/data/img/BENZAC_AC_25_GEL_T\u00d3PICO.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$67.550",
+        "precioPorSku js-PUM": "Gramo a $1.125,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BENZOILO PEROXIDO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-012758-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diclofenaco-1--gel-genfar-7702605100927/p",
+    "fecha_hora_scraping": "2021-06-14 01:28:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DICLOFENACO 1 % GEL GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/DICLOFENACO_1__GEL_GENFAR.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$16.800",
+        "precioPorSku js-PUM": "Gramo a $336,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "1 %"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-006750-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-photoready-candid-base-liquida-honey-309970007348/p",
+    "fecha_hora_scraping": "2021-06-14 00:36:56",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV PHOTOREADY CANDID Base Liquida\u00a0 Honey",
+    "nombre_imagen": "./web_scraping/data/img/RV_PHOTOREADY_CANDID_Base_Liquida_Honey.jpg",
+    "presentacion": "TUBO X 22 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.827,27"
+    },
+    "descripcion": "rv photoready candid base liquida\u00a0 honey",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 22 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44425-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

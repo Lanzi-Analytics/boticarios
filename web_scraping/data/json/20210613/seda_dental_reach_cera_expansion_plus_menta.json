@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-reach-cera-expansion-plus-menta-7891010038908/p",
+    "fecha_hora_scraping": "2021-06-13 23:59:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "seda dental reach cera expansion plus menta",
+    "nombre_imagen": "./web_scraping/data/img/seda_dental_reach_cera_expansion_plus_menta.jpg",
+    "presentacion": "EMPAQUE X 50 MET",
+    "precio": {
+        "bestPrice": "$14.550",
+        "precioPorSku js-PUM": "Metro a $291,00"
+    },
+    "descripcion": "seda dent reach menta 50 mts exp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 50 MET"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

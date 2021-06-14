@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallitas-humedas-pequenin-recien-nacido-lleva-200-precio-especial-7702026340292/p",
+    "fecha_hora_scraping": "2021-06-14 04:16:07",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "oferta toallitas h\u00famedas peque\u00f1in recien nacido lleva: 200 precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallitas_h\u00famedas_peque\u00f1in_recien_nacido_lleva_200_precio_especial.jpg",
+    "presentacion": "PAQUETE X 200 UN",
+    "precio": {
+        "bestPrice": "$23.300",
+        "precioPorSku js-PUM": "Unidad a $116,50"
+    },
+    "descripcion": "oferta toallitas h\u00famedas peque\u00f1in recien nacido lleva: 200 precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 200 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOA-00272-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

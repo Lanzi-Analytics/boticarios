@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-smart-shade-rubor-coral-309976035031/p",
+    "fecha_hora_scraping": "2021-06-13 23:17:41",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL SMART SHADE rubor coral",
+    "nombre_imagen": "./web_scraping/data/img/AL_SMART_SHADE_rubor_coral.jpg",
+    "presentacion": "CONTENEDOR X 7 G",
+    "precio": {
+        "bestPrice": "$57.700",
+        "precioPorSku js-PUM": "Gramo a $8.485,29"
+    },
+    "descripcion": "al smart shade rubor coral",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 7 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54463-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

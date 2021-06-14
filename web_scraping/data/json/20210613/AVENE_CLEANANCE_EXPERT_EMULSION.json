@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/3282770037678percosdermocosmeticabellezaavene-cleanance-expert-emulsion-3282770037678/p",
+    "fecha_hora_scraping": "2021-06-14 08:06:06",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE CLEANANCE EXPERT EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_CLEANANCE_EXPERT_EMULSION.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$99.550",
+        "precioPorSku js-PUM": "Mililitro a $2.488,75"
+    },
+    "descripcion": "avene cleanance expert emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68106-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

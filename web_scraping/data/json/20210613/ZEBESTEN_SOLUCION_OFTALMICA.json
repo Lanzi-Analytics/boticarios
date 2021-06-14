@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zebesten-solucion-oftalmica-736085412925/p",
+    "fecha_hora_scraping": "2021-06-14 07:11:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZEBESTEN SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/ZEBESTEN_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$80.250",
+        "precioPorSku js-PUM": "Mililitro a $16.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "0,9 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BROMFENACO SODIO SESQUIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SOPHIA DE COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017836"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702026313715nacuidado-del-bebemamas-y-bebesof-panos-hum-flat-pack-orig-ll100bebebebesbebebebespanitospanitopanitos-humedospanos-humedostoallas-humedaspapel-higienico-humedo-7702026313715/p",
+    "fecha_hora_scraping": "2021-06-14 10:13:12",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA PA\u00d1ITOS HUMEDOS ORIGINAL SUPER OFERTA",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PA\u00d1ITOS_HUMEDOS_ORIGINAL_SUPER_OFERTA.jpg",
+    "presentacion": "PAQUETE X 100 UN",
+    "precio": {
+        "bestPrice": "$9.500",
+        "precioPorSku js-PUM": "Unidad a $95,00"
+    },
+    "descripcion": "of panos hum flat pack orig ll100",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 100 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA V-002150-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

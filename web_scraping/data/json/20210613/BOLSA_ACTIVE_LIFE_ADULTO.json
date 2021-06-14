@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bolsa-active-life-adulto-768455101610/p",
+    "fecha_hora_scraping": "2021-06-14 08:27:18",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BOLSA ACTIVE LIFE ADULTO",
+    "nombre_imagen": "./web_scraping/data/img/BOLSA_ACTIVE_LIFE_ADULTO.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $25.770,00"
+    },
+    "descripcion": "bolsa active life adulto",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0000973-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

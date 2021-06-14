@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-curaprox-super-soft-ref3960-7612412396003/p",
+    "fecha_hora_scraping": "2021-06-14 09:55:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental curaprox super soft ref3960",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_curaprox_super_soft_ref3960.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$24.200",
+        "precioPorSku js-PUM": "Unidad a $24.200,00"
+    },
+    "descripcion": "cepillo dent cs 3960 sup soft curapr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LAMOSAN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0006985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

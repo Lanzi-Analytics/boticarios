@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/absorb-k-clarificante-crema-7707183820182/p",
+    "fecha_hora_scraping": "2021-06-14 04:38:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ABSORB-K CLARIFICANTE CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ABSORBK_CLARIFICANTE_CREMA.jpg",
+    "presentacion": "TUBO X 45 G",
+    "precio": {
+        "bestPrice": "$99.300",
+        "precioPorSku js-PUM": "Gramo a $2.206,67"
+    },
+    "descripcion": "absorb-k clarificante crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 45 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC17087-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

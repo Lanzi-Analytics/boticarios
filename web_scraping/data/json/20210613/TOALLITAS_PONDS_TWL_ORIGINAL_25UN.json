@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-ponds-twl-original-25un-7891150064805/p",
+    "fecha_hora_scraping": "2021-06-14 06:42:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TOALLITAS PONDS TWL ORIGINAL 25UN",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_PONDS_TWL_ORIGINAL_25UN.jpg",
+    "presentacion": "PAQUETE X 25 UN",
+    "precio": {
+        "bestPrice": "$18.700",
+        "precioPorSku js-PUM": "Unidad a $748,00"
+    },
+    "descripcion": "toallitas ponds twl original 25un",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 25 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92262-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cera-para-peinar-ego-7702006300087/p",
+    "fecha_hora_scraping": "2021-06-14 02:44:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "cera para peinar ego",
+    "nombre_imagen": "./web_scraping/data/img/cera_para_peinar_ego.jpg",
+    "presentacion": "POTE X 160 ML",
+    "precio": {
+        "bestPrice": "$10.100",
+        "precioPorSku js-PUM": "Mililitro a $63,13"
+    },
+    "descripcion": "ego fm cera pote 160ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 160 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69254-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

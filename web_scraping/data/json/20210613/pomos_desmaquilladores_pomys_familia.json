@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pomos-desmaquilladores-pomys-familia-7702026032142/p",
+    "fecha_hora_scraping": "2021-06-14 08:20:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "pomos desmaquilladores pomys familia",
+    "nombre_imagen": "./web_scraping/data/img/pomos_desmaquilladores_pomys_familia.jpg",
+    "presentacion": "BOLSA X 60 UN",
+    "precio": {
+        "bestPrice": "$6.350",
+        "precioPorSku js-PUM": "Unidad a $105,83"
+    },
+    "descripcion": "pomys familia 60 und 32143",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 60 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

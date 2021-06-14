@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neuroup-200mg-tableta-recubierta-7706309000736/p",
+    "fecha_hora_scraping": "2021-06-14 10:34:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEUROUP 200MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/NEUROUP_200MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$83.700",
+        "precioPorSku js-PUM": "Tableta a $2.790,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "SULBUTIAMINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009905"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

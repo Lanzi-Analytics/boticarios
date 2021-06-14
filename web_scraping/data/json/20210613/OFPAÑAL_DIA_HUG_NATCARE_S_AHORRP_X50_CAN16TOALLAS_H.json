@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/of-panal-dia-hug-natcare-s-ahorrp-x50-can16toallas-h-7702425802179/p",
+    "fecha_hora_scraping": "2021-06-14 07:14:36",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OF-PA\u00d1AL DIA HUG NATCARE S AHORRP X50 CAN+16TOALLAS H",
+    "nombre_imagen": "./web_scraping/data/img/OFPA\u00d1AL_DIA_HUG_NATCARE_S_AHORRP_X50_CAN16TOALLAS_H.jpg",
+    "presentacion": "PAQUETE X 50 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $610,00"
+    },
+    "descripcion": "OF-PA\u00d1AL DIA HUG NATCARE S AHORRP X50 CAN+16TOALLAS H",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA06583-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

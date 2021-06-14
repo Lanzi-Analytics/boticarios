@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitalinchi-protector-solar-spf50-emulgel-7709614798688/p",
+    "fecha_hora_scraping": "2021-06-14 10:05:30",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "VITALINCHI PROTECTOR SOLAR SPF50 EMULGEL",
+    "nombre_imagen": "./web_scraping/data/img/VITALINCHI_PROTECTOR_SOLAR_SPF50_EMULGEL.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$74.900",
+        "precioPorSku js-PUM": "Gramo a $1.248,33"
+    },
+    "descripcion": "vitalinchi protector solar spf50 emulgel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITALINCHI SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83046-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

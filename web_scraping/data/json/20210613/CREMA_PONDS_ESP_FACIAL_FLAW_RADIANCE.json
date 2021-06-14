@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-esp-facial-flaw-radiance-8851932192576/p",
+    "fecha_hora_scraping": "2021-06-14 07:51:03",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA PONDS ESP FACIAL FLAW RADIANCE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PONDS_ESP_FACIAL_FLAW_RADIANCE.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$28.200",
+        "precioPorSku js-PUM": "Gramo a $282,00"
+    },
+    "descripcion": "crema ponds esp facial flaw radiance",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC07937-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

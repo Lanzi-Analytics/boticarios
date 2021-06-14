@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-coca-cola-light-7702535011256/p",
+    "fecha_hora_scraping": "2021-06-14 08:50:27",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa coca-cola light",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_cocacola_light.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$2.750",
+        "precioPorSku js-PUM": "Mililitro a $4,58"
+    },
+    "descripcion": "gaseosa coca-cola light",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD19M08896"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

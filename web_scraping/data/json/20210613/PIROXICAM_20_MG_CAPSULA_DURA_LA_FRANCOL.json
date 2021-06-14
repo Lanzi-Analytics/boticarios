@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/piroxicam-20-mg-capsula-dura-la-francol-7706569002860/p",
+    "fecha_hora_scraping": "2021-06-14 06:06:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PIROXICAM 20 MG CAPSULA DURA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/PIROXICAM_20_MG_CAPSULA_DURA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$3.650",
+        "precioPorSku js-PUM": "Capsula a $365,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "PIROXICAM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-008457-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

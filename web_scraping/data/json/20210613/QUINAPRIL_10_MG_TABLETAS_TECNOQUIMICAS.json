@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/quinapril-10-mg-tabletas-tecnoquimicas-7702057075361/p",
+    "fecha_hora_scraping": "2021-06-14 08:40:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "QUINAPRIL 10 MG TABLETAS TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/QUINAPRIL_10_MG_TABLETAS_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$82.900",
+        "precioPorSku js-PUM": "Tableta a $4.145,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "QUINAPRIL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-002365R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

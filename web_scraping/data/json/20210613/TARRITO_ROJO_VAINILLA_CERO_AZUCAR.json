@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tarrito-rojo-vainilla-cero-azucar-7702560029912/p",
+    "fecha_hora_scraping": "2021-06-14 07:44:55",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "TARRITO ROJO VAINILLA CERO AZUCAR",
+    "nombre_imagen": "./web_scraping/data/img/TARRITO_ROJO_VAINILLA_CERO_AZUCAR.jpg",
+    "presentacion": "FRASCO X 300 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $32,63"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2010-0001504"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

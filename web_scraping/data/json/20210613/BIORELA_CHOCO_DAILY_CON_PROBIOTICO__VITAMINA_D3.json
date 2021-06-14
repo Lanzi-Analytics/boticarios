@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/7709857301812barra-de-chocolate-con-probioticosvitamina-d3medicamentosventa-librena-7709857301812/p",
-    "fecha_hora_scraping": "2021-06-13 18:24:42",
+    "url_producto": "https://www.drogueriascolsubsidio.com/biorela-choco-daily-con-probiotico--vitamina-d3-7709857301898/p",
+    "fecha_hora_scraping": "2021-06-14 06:39:13",
     "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "BIORELA CHOCO DAILY CON PROBIOTICO + VITAMINA D3",
     "nombre_imagen": "./web_scraping/data/img/BIORELA_CHOCO_DAILY_CON_PROBIOTICO__VITAMINA_D3.jpg",
-    "presentacion": "CAJA X 30 UN",
+    "presentacion": "CAJA X 15 UN",
     "precio": {
-        "bestPrice": "$107.550",
-        "precioPorSku js-PUM": "Unidad a $3.585,00"
+        "bestPrice": "$53.750",
+        "precioPorSku js-PUM": "Unidad a $3.583,33"
     },
     "descripcion": "barra de chocolate con probioticos+vitamina d3",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 30 UN"
+            "CAJA X 15 UN"
         ],
         [
             "Concentracion",

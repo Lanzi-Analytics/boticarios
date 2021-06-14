@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-confort-7506205812903/p",
+    "fecha_hora_scraping": "2021-06-14 07:24:41",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAGROW PREMIUM CONFORT",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAGROW_PREMIUM_CONFORT.jpg",
+    "presentacion": "LATA X 567 G",
+    "precio": {
+        "bestPrice": "$55.300",
+        "precioPorSku js-PUM": "Gramo a $97,53"
+    },
+    "descripcion": "formula infantil enfagrow premium confor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 567 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007786-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

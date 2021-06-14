@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-natuchips-platano-verde-7702189045720/p",
+    "fecha_hora_scraping": "2021-06-14 08:14:28",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas natuchips platano verde",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_natuchips_platano_verde.jpg",
+    "presentacion": "PAQUETE X 135 G",
+    "precio": {
+        "bestPrice": "$4.050",
+        "precioPorSku js-PUM": "Gramo a $30,00"
+    },
+    "descripcion": "pasabocas natuchips platano verde",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 135 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAA21M00285"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

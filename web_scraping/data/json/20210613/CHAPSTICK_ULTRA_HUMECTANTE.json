@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chapstick-ultra-humectante-7702132002824/p",
+    "fecha_hora_scraping": "2021-06-14 08:20:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CHAPSTICK ULTRA HUMECTANTE",
+    "nombre_imagen": "./web_scraping/data/img/CHAPSTICK_ULTRA_HUMECTANTE.jpg",
+    "presentacion": "TUBO X 4,2 G",
+    "precio": {
+        "bestPrice": "$14.250",
+        "precioPorSku js-PUM": "Gramo a $3.392,86"
+    },
+    "descripcion": "chapstick ultra humectante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4,2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56184-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

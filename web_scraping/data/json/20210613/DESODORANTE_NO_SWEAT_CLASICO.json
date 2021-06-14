@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-no-sweat-clasico-7709995000189/p",
+    "fecha_hora_scraping": "2021-06-14 00:59:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "DESODORANTE NO SWEAT CLASICO",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_NO_SWEAT_CLASICO.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$34.400",
+        "precioPorSku js-PUM": "Mililitro a $1.146,67"
+    },
+    "descripcion": "desodorante no sweat clasico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37080-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

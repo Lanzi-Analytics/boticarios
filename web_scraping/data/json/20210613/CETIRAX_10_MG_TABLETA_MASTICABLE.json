@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetirax-10-mg-tableta-masticable-7703178000508/p",
+    "fecha_hora_scraping": "2021-06-13 23:28:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CETIRAX 10 MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/CETIRAX_10_MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$70.500",
+        "precioPorSku js-PUM": "Tableta a $7.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008913-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ureadin-podos-gel-oil-pies-secos-8470001527349/p",
+    "fecha_hora_scraping": "2021-06-14 00:58:40",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UREADIN PODOS GEL OIL PIES SECOS",
+    "nombre_imagen": "./web_scraping/data/img/UREADIN_PODOS_GEL_OIL_PIES_SECOS.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$75.650",
+        "precioPorSku js-PUM": "Mililitro a $1.008,67"
+    },
+    "descripcion": "ureadin podos gel oil pies secos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50793-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

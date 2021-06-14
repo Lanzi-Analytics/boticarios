@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/microgynon-face-2mg003mg-comprimido-recubierto-7730979098434/p",
+    "fecha_hora_scraping": "2021-06-14 10:01:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MICROGYNON FACE 2MG/0,03MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/MICROGYNON_FACE_2MG003MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$27.100",
+        "precioPorSku js-PUM": "Tableta a $1.290,48"
+    },
+    "descripcion": "microgynon face 2mg/0,03mg comprimido recubierto",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0.03 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORMADINONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018685"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-cirugia-latex-talla-8-7702037103497/p",
+    "fecha_hora_scraping": "2021-06-14 07:51:52",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES CIRUGIA LATEX TALLA 8",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_CIRUGIA_LATEX_TALLA_8.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.350",
+        "precioPorSku js-PUM": "Unidad a $1.350,00"
+    },
+    "descripcion": "guantes cirugia latex talla 8",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ETERNA SA"
+        ],
+        [
+            "Registro Invima",
+            "V-004187-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

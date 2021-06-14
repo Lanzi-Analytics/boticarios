@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/l-carnitina-1000-mg-tableta-751273782796/p",
+    "fecha_hora_scraping": "2021-06-14 03:35:16",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "L-CARNITINA 1000 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/LCARNITINA_1000_MG_TABLETA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$72.550",
+        "precioPorSku js-PUM": "Capsula a $1.209,17"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003252"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

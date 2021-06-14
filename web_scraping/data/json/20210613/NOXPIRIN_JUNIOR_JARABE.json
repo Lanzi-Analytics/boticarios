@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/noxpirin-junior-jarabe-7707355053363/p",
+    "fecha_hora_scraping": "2021-06-14 06:30:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NOXPIRIN JUNIOR JARABE",
+    "nombre_imagen": "./web_scraping/data/img/NOXPIRIN_JUNIOR_JARABE.jpg",
+    "presentacion": "FRASCO X 120ML",
+    "precio": {
+        "PrevPrice": "Antes:$15.100",
+        "bestPrice": "$12.835",
+        "precioPorSku js-PUM": "Mililitro a $106,96"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120ML"
+        ],
+        [
+            "Concentracion",
+            "30 MG/ML 1 MG/ML 0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN FENILEFRINA CLORHIDRATO CETIRIZINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007528"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

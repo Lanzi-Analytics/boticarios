@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cicatricure-agua-micelar-gratis-pomos-algodon-650240057885/p",
+    "fecha_hora_scraping": "2021-06-14 04:20:34",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "OFERTA CICATRICURE AGUA MICELAR GRATIS POMOS ALGOD\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CICATRICURE_AGUA_MICELAR_GRATIS_POMOS_ALGOD\u00d3N.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$39.400",
+        "precioPorSku js-PUM": "Unidad a $39.400,00"
+    },
+    "descripcion": "OFERTA CICATRICURE AGUA MICELAR GRATIS POMOS ALGOD\u00d3N",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01189-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

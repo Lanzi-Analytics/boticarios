@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mometasona-furoato-01-locion-genfar-7702605105533/p",
+    "fecha_hora_scraping": "2021-06-13 23:07:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MOMETASONA FUROATO 0.1% LOCION GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/MOMETASONA_FUROATO_01_LOCION_GENFAR.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$70.500",
+        "precioPorSku js-PUM": "Mililitro a $2.350,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MOMETASONA FUROATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004016-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

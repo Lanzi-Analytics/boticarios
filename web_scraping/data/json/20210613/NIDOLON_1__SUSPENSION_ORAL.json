@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707670342098nidolon-1--suspension-oralmedicamentosformuladosexeltis-7707670342098/p",
+    "fecha_hora_scraping": "2021-06-14 02:55:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NIDOLON 1 % SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/NIDOLON_1__SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$36.300",
+        "precioPorSku js-PUM": "Mililitro a $605,00"
+    },
+    "descripcion": "nidolon 1 % suspension oral",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "10 ML"
+        ],
+        [
+            "Principio activo",
+            "NIMESULIDA"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003337-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

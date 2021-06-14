@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-avene-leche-spf50-3282779355872/p",
+    "fecha_hora_scraping": "2021-06-14 06:38:54",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR AVENE LECHE SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_AVENE_LECHE_SPF50.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$116.150",
+        "precioPorSku js-PUM": "Mililitro a $1.161,50"
+    },
+    "descripcion": "protector solar avene leche spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38658-10C0"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

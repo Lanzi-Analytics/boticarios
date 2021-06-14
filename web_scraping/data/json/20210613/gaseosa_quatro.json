@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-quatro-7702535009673/p",
+    "fecha_hora_scraping": "2021-06-14 02:25:21",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa quatro",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_quatro.jpg",
+    "presentacion": "BOTELLA X 1750 ML",
+    "precio": {
+        "bestPrice": "$3.000",
+        "precioPorSku js-PUM": "Mililitro a $1,71"
+    },
+    "descripcion": "gaseosa quatro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 1750 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-D19141012"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

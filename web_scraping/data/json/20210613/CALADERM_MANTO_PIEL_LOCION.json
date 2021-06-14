@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladerm-manto-piel-locion-7707210530848/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:29",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADERM MANTO PIEL LOCION",
+    "nombre_imagen": "./web_scraping/data/img/CALADERM_MANTO_PIEL_LOCION.jpg",
+    "presentacion": "FRASCO X 200 G",
+    "precio": {
+        "bestPrice": "$17.550",
+        "precioPorSku js-PUM": "Gramo a $87,75"
+    },
+    "descripcion": "caladerm manto piel locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78248-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

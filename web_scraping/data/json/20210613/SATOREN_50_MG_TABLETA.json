@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/satoren-50-mg-tableta-7702195000539/p",
+    "fecha_hora_scraping": "2021-06-14 05:42:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SATOREN 50 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/SATOREN_50_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$187.900",
+        "precioPorSku js-PUM": "Tableta a $6.263,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN POTASICO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0009448-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

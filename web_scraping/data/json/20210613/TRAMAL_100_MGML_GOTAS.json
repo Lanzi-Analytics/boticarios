@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tramal-100-mgml-gotas-7861073963103/p",
+    "fecha_hora_scraping": "2021-06-14 02:31:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAMAL 100 MG/ML GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/TRAMAL_100_MGML_GOTAS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$93.000",
+        "precioPorSku js-PUM": "Mililitro a $9.300,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TRAMADOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-007195-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

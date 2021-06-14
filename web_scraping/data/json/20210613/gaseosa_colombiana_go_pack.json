@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-colombiana-go-pack-7702090017151/p",
+    "fecha_hora_scraping": "2021-06-14 03:08:20",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa colombiana go pack",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_colombiana_go_pack.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$2.450",
+        "precioPorSku js-PUM": "Mililitro a $4,08"
+    },
+    "descripcion": "gaseosa colombiana go pack",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

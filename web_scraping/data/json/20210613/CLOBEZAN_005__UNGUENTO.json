@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clobezan-005--unguento-7703889043603/p",
+    "fecha_hora_scraping": "2021-06-13 23:23:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLOBEZAN 0.05 % UNGUENTO",
+    "nombre_imagen": "./web_scraping/data/img/CLOBEZAN_005__UNGUENTO.jpg",
+    "presentacion": "TUBO X 25 G",
+    "precio": {
+        "bestPrice": "$32.450",
+        "precioPorSku js-PUM": "Gramo a $1.298,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 25 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOBETASOL 17-PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-012284-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

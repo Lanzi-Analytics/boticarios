@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sundark-spf60-adultos-7707016403940/p",
+    "fecha_hora_scraping": "2021-06-14 05:35:23",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR SUNDARK SPF60 ADULTOS",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_SUNDARK_SPF60_ADULTOS.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "PrevPrice": "Antes:$39.350",
+        "bestPrice": "$31.480",
+        "precioPorSku js-PUM": "Gramo a $262,33"
+    },
+    "descripcion": "protector solar sundark spf60 adultos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC21066-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

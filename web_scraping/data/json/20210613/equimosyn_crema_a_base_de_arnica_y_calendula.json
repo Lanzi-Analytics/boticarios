@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/equimosyn-crema-a-base-de-arnica-y-calendula-7709890697316/p",
+    "fecha_hora_scraping": "2021-06-13 23:36:34",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "equimosyn crema a base de arnica y calendula",
+    "nombre_imagen": "./web_scraping/data/img/equimosyn_crema_a_base_de_arnica_y_calendula.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$65.900",
+        "precioPorSku js-PUM": "Gramo a $1.098,33"
+    },
+    "descripcion": "equimosyn crema a base de arnica y calendula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALBBENI SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93824-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cepillo-dental-pro-suave-multiple-accion-2x1-7501086454617/p",
+    "fecha_hora_scraping": "2021-06-14 06:33:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental pro suave multiple acci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_pro_suave_multiple_acci\u00f3n.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$17.300",
+        "precioPorSku js-PUM": "Unidad a $8.650,00"
+    },
+    "descripcion": "of cep dent suave pro multip accion 2x",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-gum-deepclean-techinique-70942003254/p",
+    "fecha_hora_scraping": "2021-06-14 04:23:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL GUM DEEPCLEAN TECHINIQUE",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_GUM_DEEPCLEAN_TECHINIQUE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$17.250",
+        "precioPorSku js-PUM": "Unidad a $17.250,00"
+    },
+    "descripcion": "cepillo dental gum deepclean techinique",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

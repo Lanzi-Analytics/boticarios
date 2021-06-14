@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-hydro-alcoolique-la-roche-posay-3337875757744/p",
+    "fecha_hora_scraping": "2021-06-14 07:38:34",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "gel hydro alcoolique la roche posay",
+    "nombre_imagen": "./web_scraping/data/img/gel_hydro_alcoolique_la_roche_posay.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$23.100",
+        "precioPorSku js-PUM": "Mililitro a $231,00"
+    },
+    "descripcion": "gel hydro alcoolique la roche posay",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99435-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

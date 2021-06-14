@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/theracann-crema-pharmalab-7707293750294/p",
+    "fecha_hora_scraping": "2021-06-14 07:52:54",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "theracann crema pharmalab",
+    "nombre_imagen": "./web_scraping/data/img/theracann_crema_pharmalab.jpg",
+    "presentacion": "POTE X 5 OZ",
+    "precio": {
+        "bestPrice": "$129.950",
+        "precioPorSku js-PUM": "Unidad a $129.950,00"
+    },
+    "descripcion": "theracann crema pharmalab",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 5 OZ"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "PHARMALAB PHL LABORATORIOS SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC95104-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

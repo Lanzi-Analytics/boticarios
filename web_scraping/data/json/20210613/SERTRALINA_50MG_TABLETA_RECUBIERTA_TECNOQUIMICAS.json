@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sertralina-50mg-tableta-recubierta-tecnoquimicas-7702057711382/p",
+    "fecha_hora_scraping": "2021-06-14 02:24:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SERTRALINA 50MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/SERTRALINA_50MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$130.500",
+        "precioPorSku js-PUM": "Tableta a $4.350,00"
+    },
+    "descripcion": "SERTRALINA 50MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "SERTRALINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0001385-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

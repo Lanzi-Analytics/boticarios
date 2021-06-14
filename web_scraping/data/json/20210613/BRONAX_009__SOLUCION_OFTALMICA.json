@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bronax-009--solucion-oftalmica-7795368055276/p",
+    "fecha_hora_scraping": "2021-06-14 08:12:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BRONAX 0.09 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/BRONAX_009__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$73.900",
+        "precioPorSku js-PUM": "Mililitro a $14.780,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "0,9 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BROMFENACO SODIO SESQUIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013862"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

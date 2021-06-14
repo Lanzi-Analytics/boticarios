@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/papel-control-brillo-facial-8809033596717/p",
+    "fecha_hora_scraping": "2021-06-14 01:58:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "PAPEL CONTROL BRILLO FACIAL CETTUA X 50 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/PAPEL_CONTROL_BRILLO_FACIAL_CETTUA_X_50_UNIDADES.jpg",
+    "presentacion": "PAQUETE X 50 UN",
+    "precio": {
+        "bestPrice": "$8.400",
+        "precioPorSku js-PUM": "Unidad a $168,00"
+    },
+    "descripcion": "PAPEL CONTROL BRILLO FACIAL CETTUA X 50 UNIDADES",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COBICO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53328-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

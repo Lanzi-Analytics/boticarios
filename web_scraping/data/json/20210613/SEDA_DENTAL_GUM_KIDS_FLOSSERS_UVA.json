@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-gum-kids-flossers-uva-70942303101/p",
+    "fecha_hora_scraping": "2021-06-14 00:52:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "SEDA DENTAL GUM KIDS FLOSSERS UVA",
+    "nombre_imagen": "./web_scraping/data/img/SEDA_DENTAL_GUM_KIDS_FLOSSERS_UVA.jpg",
+    "presentacion": "BOLSA X 40 UN",
+    "precio": {
+        "bestPrice": "$13.000",
+        "precioPorSku js-PUM": "Unidad a $325,00"
+    },
+    "descripcion": "seda dental gum kids flossers uva",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 40 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016924"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

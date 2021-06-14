@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-bliss-bebe-8606107454894/p",
+    "fecha_hora_scraping": "2021-06-14 00:33:34",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "TOALLITAS H\u00daMEDAS BLISS BEB\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_H\u00daMEDAS_BLISS_BEB\u00c9.jpg",
+    "presentacion": "PAQUETE X 72 UN",
+    "precio": {
+        "bestPrice": "$4.000",
+        "precioPorSku js-PUM": "Unidad a $55,56"
+    },
+    "descripcion": "toallitas h\u00famedas bliss beb\u00e9 72 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 72 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GREEN VALLEY 2010 SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69491-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-delineador-liquido-classic-309977664018/p",
+    "fecha_hora_scraping": "2021-06-14 10:36:52",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV COLORSTAY delineador liquido classic",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_delineador_liquido_classic.jpg",
+    "presentacion": "LAPIZ X 2 G",
+    "precio": {
+        "bestPrice": "$40.950",
+        "precioPorSku js-PUM": "Gramo a $25.593,75"
+    },
+    "descripcion": "rv colorstay delineador liquido classic",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73807-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

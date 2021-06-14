@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-brown-pencil-lapiz-de-cejas-brunette-309979637027/p",
+    "fecha_hora_scraping": "2021-06-13 23:32:39",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL BROWN PENCIL lapiz de cejas brunette",
+    "nombre_imagen": "./web_scraping/data/img/AL_BROWN_PENCIL_lapiz_de_cejas_brunette.jpg",
+    "presentacion": "LAPIZ X 0.2 G",
+    "precio": {
+        "bestPrice": "$45.250",
+        "precioPorSku js-PUM": "Gramo a $226.250,00"
+    },
+    "descripcion": "al brown pencil lapiz de cejas brunette",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 0.2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76005-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

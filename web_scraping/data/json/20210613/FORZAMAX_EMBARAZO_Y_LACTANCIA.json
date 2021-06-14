@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/forzamax-embarazo-y-lactancia-7707016405616/p",
+    "fecha_hora_scraping": "2021-06-14 08:51:29",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "FORZAMAX EMBARAZO Y LACTANCIA",
+    "nombre_imagen": "./web_scraping/data/img/FORZAMAX_EMBARAZO_Y_LACTANCIA.jpg",
+    "presentacion": "FRASCO X 400 G",
+    "precio": {
+        "bestPrice": "$34.200",
+        "precioPorSku js-PUM": "Gramo a $85,50"
+    },
+    "descripcion": "forzamax embarazo y lactancia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTIPLES COMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAE02I36205"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

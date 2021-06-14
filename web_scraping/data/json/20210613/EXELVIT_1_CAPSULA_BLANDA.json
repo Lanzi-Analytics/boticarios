@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/exelvit-1-capsula-blanda-8436043011901/p",
+    "fecha_hora_scraping": "2021-06-14 01:50:03",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "EXELVIT 1 CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/EXELVIT_1_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$38.400",
+        "precioPorSku js-PUM": "Capsula a $1.371,43"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004341"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

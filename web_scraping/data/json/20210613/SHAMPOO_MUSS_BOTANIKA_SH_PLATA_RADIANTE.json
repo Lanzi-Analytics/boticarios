@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113023749shampoo-muss-botanika-sh-plata-radiantehigiene-y-cuidado-personalcuidado-del-cabellona-7702113023749/p",
+    "fecha_hora_scraping": "2021-06-14 02:38:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "SHAMPOO MUSS BOTANIKA SH PLATA RADIANTE",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_MUSS_BOTANIKA_SH_PLATA_RADIANTE.jpg",
+    "presentacion": "FRASCO X 400 X ML",
+    "precio": {
+        "bestPrice": "$16.150",
+        "precioPorSku js-PUM": "Mililitro a $40,38"
+    },
+    "descripcion": "shampoo muss botanika sh plata radiante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91193-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

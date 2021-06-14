@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lanzor-30-mg-tableta-7703546023283/p",
+    "fecha_hora_scraping": "2021-06-14 07:03:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LANZOR 30 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/LANZOR_30_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$42.400",
+        "bestPrice": "$21.200",
+        "precioPorSku js-PUM": "Tableta a $757,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "LANSOPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0014820"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

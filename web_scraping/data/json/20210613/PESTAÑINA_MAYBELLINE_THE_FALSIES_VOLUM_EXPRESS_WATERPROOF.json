@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-maybelline-the-falsies-volum-express-waterproof-7702058280115/p",
+    "fecha_hora_scraping": "2021-06-14 09:17:05",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAYBELLINE THE FALSIES VOLUM EXPRESS WATERPROOF",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAYBELLINE_THE_FALSIES_VOLUM_EXPRESS_WATERPROOF.jpg",
+    "presentacion": "UNIDAD X 8 ML",
+    "precio": {
+        "bestPrice": "$33.250",
+        "precioPorSku js-PUM": "Mililitro a $4.750,00"
+    },
+    "descripcion": "pesta\u00f1ina maybelline the falsies volum express waterproof",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 8 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38538-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

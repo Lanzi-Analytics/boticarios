@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113033373jabon-liquido-bacterion-avena-repuestohigiene-y-cuidado-personaljabones-y-gel-antibacterialna-7702113033373/p",
+    "fecha_hora_scraping": "2021-06-14 06:08:58",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JABON LIQUIDO BACTERION AVENA REPUESTO",
+    "nombre_imagen": "./web_scraping/data/img/JABON_LIQUIDO_BACTERION_AVENA_REPUESTO.jpg",
+    "presentacion": "DOYPACK X 1000 X ML",
+    "precio": {
+        "bestPrice": "$11.650",
+        "precioPorSku js-PUM": "Mililitro a $11,65"
+    },
+    "descripcion": "jabon liquido bacterion avena repuesto",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "DOYPACK X 1000 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82145-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

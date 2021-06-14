@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-protectores-nosotras-sensitive-x-100--jabon-x-130-7702026183028/p",
+    "fecha_hora_scraping": "2021-06-14 02:19:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "OFERTA PROTECTORES NOSOTRAS SENSITIVE X 100 + JABON X 130",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PROTECTORES_NOSOTRAS_SENSITIVE_X_100__JABON_X_130.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "$15.100",
+        "precioPorSku js-PUM": "Unidad a $151,00"
+    },
+    "descripcion": "oferta protectores nosotras sensitive x 100 + jabon x 130",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07135-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

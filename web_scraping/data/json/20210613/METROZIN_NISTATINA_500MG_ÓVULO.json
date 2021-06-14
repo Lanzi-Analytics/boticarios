@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metrozin-nistatina-500mg-ovulo-7707355055558/p",
+    "fecha_hora_scraping": "2021-06-14 01:18:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METROZIN NISTATINA 500MG \u00d3VULO",
+    "nombre_imagen": "./web_scraping/data/img/METROZIN_NISTATINA_500MG_\u00d3VULO.jpg",
+    "presentacion": "CAJA X 10 OVU",
+    "precio": {
+        "bestPrice": "$39.850",
+        "precioPorSku js-PUM": "OVULO a $3.985,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 OVU"
+        ],
+        [
+            "Concentracion",
+            "500 MG 100000 UI"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL NISTATINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0007703-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

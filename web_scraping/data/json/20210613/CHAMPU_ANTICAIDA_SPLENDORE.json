@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/champu-anticaida-splendore-7707206270246/p",
+    "fecha_hora_scraping": "2021-06-14 09:22:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "CHAMPU ANTICAIDA SPLENDORE",
+    "nombre_imagen": "./web_scraping/data/img/CHAMPU_ANTICAIDA_SPLENDORE.jpg",
+    "presentacion": "FRASCO X 220 ML",
+    "precio": {
+        "bestPrice": "$59.000",
+        "precioPorSku js-PUM": "Mililitro a $268,18"
+    },
+    "descripcion": "champu anticaida splendore",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 220 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC31611-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

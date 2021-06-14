@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/850871001664liptrax-capsula-de-cubierta-duranutricion-y-vida-saludablesuplementospharmalab-850871001664/p",
+    "fecha_hora_scraping": "2021-06-14 09:54:04",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "LIPTRAX C\u00c1PSULA DE CUBIERTA DURA",
+    "nombre_imagen": "./web_scraping/data/img/LIPTRAX_C\u00c1PSULA_DE_CUBIERTA_DURA.jpg",
+    "presentacion": "FRASCO X 90 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $901,67"
+    },
+    "descripcion": "liptrax c\u00e1psula de cubierta dura",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMALAB PHL LABORATORIOS SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0004178"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

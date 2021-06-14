@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paroxetina-20mg-tableta-recubierta-lafrancol-7706569020451/p",
+    "fecha_hora_scraping": "2021-06-14 07:07:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PAROXETINA 20MG TABLETA RECUBIERTA LAFRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/PAROXETINA_20MG_TABLETA_RECUBIERTA_LAFRANCOL.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$28.200",
+        "precioPorSku js-PUM": "Tableta a $2.820,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "PAROXETINA CLORHIDRATO HEMIHID"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0005830-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

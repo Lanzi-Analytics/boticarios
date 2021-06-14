@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-pequenin-premium-touch-et3-7702026146627/p",
+    "fecha_hora_scraping": "2021-06-14 09:07:52",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1AL PEQUE\u00d1IN PREMIUM TOUCH ET3",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_PEQUE\u00d1IN_PREMIUM_TOUCH_ET3.jpg",
+    "presentacion": "PAQUETE X 34 UN",
+    "precio": {
+        "bestPrice": "$32.050",
+        "precioPorSku js-PUM": "Unidad a $942,65"
+    },
+    "descripcion": "pa\u00f1al peque\u00f1in premium touch et3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 34 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07512-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

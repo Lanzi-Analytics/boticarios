@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-jhonsons-baby-original-7702031291565/p",
+    "fecha_hora_scraping": "2021-06-14 09:08:54",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "shampoo jhonson's baby original",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_jhonsons_baby_original.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$12.200",
+        "precioPorSku js-PUM": "Mililitro a $61,00"
+    },
+    "descripcion": "j baby shampoo original nuevo x200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00586-10CO /NSOA02"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

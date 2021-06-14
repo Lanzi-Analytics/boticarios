@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zimpik-repelente-7707206270505/p",
+    "fecha_hora_scraping": "2021-06-14 05:59:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "ZIMPIK REPELENTE",
+    "nombre_imagen": "./web_scraping/data/img/ZIMPIK_REPELENTE.jpg",
+    "presentacion": "FRASCO X 110 ML",
+    "precio": {
+        "bestPrice": "$17.850",
+        "precioPorSku js-PUM": "Mililitro a $162,27"
+    },
+    "descripcion": "zimpik repelente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 110 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC65114-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amoxal-500-mg-capsula-dura-7707172680346/p",
+    "fecha_hora_scraping": "2021-06-14 07:27:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMOXAL 500 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/AMOXAL_500_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$108.850",
+        "precioPorSku js-PUM": "Capsula a $3.628,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-007223-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

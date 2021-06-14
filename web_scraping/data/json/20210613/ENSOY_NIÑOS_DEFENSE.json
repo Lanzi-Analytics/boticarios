@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-ninos-defense-7702870053195/p",
+    "fecha_hora_scraping": "2021-06-14 07:52:42",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY NI\u00d1OS DEFENSE",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_NI\u00d1OS_DEFENSE.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$39.100",
+        "precioPorSku js-PUM": "Gramo a $97,75"
+    },
+    "descripcion": "ensoy ni\u00f1os defense",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV16I71314"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

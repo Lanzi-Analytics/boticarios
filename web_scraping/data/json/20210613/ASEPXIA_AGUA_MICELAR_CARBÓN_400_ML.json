@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-agua-micelar-detox-carbon-activado-650240051500/p",
+    "fecha_hora_scraping": "2021-06-14 01:54:28",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "ASEPXIA AGUA MICELAR CARB\u00d3N 400 ML",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_AGUA_MICELAR_CARB\u00d3N_400_ML.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$21.600",
+        "precioPorSku js-PUM": "Mililitro a $54,00"
+    },
+    "descripcion": "asepxia agua micelar detox carbon activado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37988-20EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

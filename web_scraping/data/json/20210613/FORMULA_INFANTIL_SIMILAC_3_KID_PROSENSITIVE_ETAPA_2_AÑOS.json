@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-similac-3-kid-prosensitive-etapa-2-anos-5391523056359/p",
+    "fecha_hora_scraping": "2021-06-14 02:29:39",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL SIMILAC 3 KID PROSENSITIVE ETAPA 2 A\u00d1OS",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_SIMILAC_3_KID_PROSENSITIVE_ETAPA_2_A\u00d1OS.jpg",
+    "presentacion": "LATA X 850 G",
+    "precio": {
+        "bestPrice": "$60.500",
+        "precioPorSku js-PUM": "Gramo a $71,18"
+    },
+    "descripcion": "FORMULA INFANTIL SIMILAC 3 KID PROSENSITIVE ETAPA 2 A\u00d1OS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 850 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002860-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

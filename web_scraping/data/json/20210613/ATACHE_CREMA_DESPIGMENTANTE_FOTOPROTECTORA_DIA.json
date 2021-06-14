@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-crema-despigmentante-fotoprotectora-dia-8430795008738/p",
+    "fecha_hora_scraping": "2021-06-14 00:06:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE CREMA DESPIGMENTANTE FOTOPROTECTORA DIA",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_CREMA_DESPIGMENTANTE_FOTOPROTECTORA_DIA.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$202.000",
+        "precioPorSku js-PUM": "Mililitro a $6.733,33"
+    },
+    "descripcion": "atache crema despigmentante fotoprotecto",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92518-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

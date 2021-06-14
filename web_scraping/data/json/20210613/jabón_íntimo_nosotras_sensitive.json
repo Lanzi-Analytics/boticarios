@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-intimo-nosotras-sensitive-7702026177546/p",
+    "fecha_hora_scraping": "2021-06-13 23:22:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "jab\u00f3n \u00edntimo nosotras sensitive",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_\u00edntimo_nosotras_sensitive.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$15.200",
+        "precioPorSku js-PUM": "Mililitro a $76,00"
+    },
+    "descripcion": "jabon intimo nosotras sensitive x200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

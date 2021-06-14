@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zoely-25-mg15mg-tableta-recubierta-7702502019803/p",
+    "fecha_hora_scraping": "2021-06-14 07:23:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZOELY 2.5 MG/1.5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ZOELY_25_MG15MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$25.000",
+        "precioPorSku js-PUM": "Tableta a $892,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2.5 MG 1.5 MG"
+        ],
+        [
+            "Principio activo",
+            "NOMEGESTROL ACETATO 17\u00df-ESTRADIOL HEMIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013193-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

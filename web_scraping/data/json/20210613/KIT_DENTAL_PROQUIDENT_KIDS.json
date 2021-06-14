@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-dental-proquident-kids-7702314180616/p",
+    "fecha_hora_scraping": "2021-06-14 05:41:25",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "KIT DENTAL PROQUIDENT KIDS",
+    "nombre_imagen": "./web_scraping/data/img/KIT_DENTAL_PROQUIDENT_KIDS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$10.150",
+        "precioPorSku js-PUM": "Unidad a $10.150,00"
+    },
+    "descripcion": "kit dental proquident kids",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011396"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

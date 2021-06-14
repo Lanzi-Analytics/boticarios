@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chocolate-chokis-7702189011251/p",
+    "fecha_hora_scraping": "2021-06-14 05:51:46",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "chocolate chokis",
+    "nombre_imagen": "./web_scraping/data/img/chocolate_chokis.jpg",
+    "presentacion": "PAQUETE X 19 G",
+    "precio": {
+        "bestPrice": "$950",
+        "precioPorSku js-PUM": "Gramo a $52,78"
+    },
+    "descripcion": "chocolate chokis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 19 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

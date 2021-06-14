@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-crema-coporal-cannabis-8410412130028/p",
+    "fecha_hora_scraping": "2021-06-14 00:42:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BABARIA CREMA COPORAL CANNABIS",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_CREMA_COPORAL_CANNABIS.jpg",
+    "presentacion": "POTE X 200 ML",
+    "precio": {
+        "bestPrice": "$20.650",
+        "precioPorSku js-PUM": "Mililitro a $103,25"
+    },
+    "descripcion": "babaria crema coporal cannabis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92176-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

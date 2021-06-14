@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-hit-lulo-7702090033601/p",
+    "fecha_hora_scraping": "2021-06-14 00:10:33",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "jugo hit lulo",
+    "nombre_imagen": "./web_scraping/data/img/jugo_hit_lulo.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "PrevPrice": "Antes:$2.050",
+        "bestPrice": "$1.640",
+        "precioPorSku js-PUM": "Mililitro a $3,28"
+    },
+    "descripcion": "jugo hit lulo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

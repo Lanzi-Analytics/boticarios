@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallita-humeda-pequenin-antibacterial-x40-7702026188320/p",
+    "fecha_hora_scraping": "2021-06-14 09:52:51",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "TOALLITA HUMEDA. PEQUE\u00d1IN ANTIBACTERIAL X40",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITA_HUMEDA_PEQUE\u00d1IN_ANTIBACTERIAL_X40.jpg",
+    "presentacion": "PAQUETE X 40UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $142,50"
+    },
+    "descripcion": "TOALLITA HUMEDA. PEQUE\u00d1IN ANTIBACTERIAL X40",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 40UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99778-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

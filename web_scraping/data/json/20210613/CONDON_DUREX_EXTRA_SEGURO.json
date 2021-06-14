@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/condon-durex-extra-seguro-7501159033442/p",
-    "fecha_hora_scraping": "2021-06-13 19:18:37",
+    "fecha_hora_scraping": "2021-06-14 05:50:18",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
     "titulo": "CONDON DUREX EXTRA SEGURO",
     "nombre_imagen": "./web_scraping/data/img/CONDON_DUREX_EXTRA_SEGURO.jpg",
     "presentacion": "CAJA X 3 UN",
     "precio": {
-        "PrevPrice": "Antes:$8.550",
-        "bestPrice": "$6.412",
-        "precioPorSku js-PUM": "Unidad a $2.137,33"
+        "bestPrice": "$8.550",
+        "precioPorSku js-PUM": "Unidad a $2.850,00"
     },
     "descripcion": "condon durex extra seguro",
     "atributos": [

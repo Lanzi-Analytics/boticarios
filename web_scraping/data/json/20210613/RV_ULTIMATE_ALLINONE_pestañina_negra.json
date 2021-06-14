@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-ultimate-all-in-one-pestanina-negra-309976386027/p",
+    "fecha_hora_scraping": "2021-06-14 09:36:28",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV ULTIMATE ALL-IN-ONE pesta\u00f1ina negra",
+    "nombre_imagen": "./web_scraping/data/img/RV_ULTIMATE_ALLINONE_pesta\u00f1ina_negra.jpg",
+    "presentacion": "TUBO X 8 ML",
+    "precio": {
+        "bestPrice": "$50.800",
+        "precioPorSku js-PUM": "Mililitro a $5.976,47"
+    },
+    "descripcion": "rv ultimate all-in-one pesta\u00f1ina negra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 8 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69350-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

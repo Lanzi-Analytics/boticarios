@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/beclort-250mcg-suspension-para-inhalacion-8901117251175/p",
+    "fecha_hora_scraping": "2021-06-14 04:22:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BECLORT 250MCG SUSPENSI\u00d3N PARA INHALACI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/BECLORT_250MCG_SUSPENSI\u00d3N_PARA_INHALACI\u00d3N.jpg",
+    "presentacion": "UNIDAD X 200DOS",
+    "precio": {
+        "bestPrice": "$29.550",
+        "precioPorSku js-PUM": "Unidad a $29.550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 200DOS"
+        ],
+        [
+            "Concentracion",
+            "250 MCG"
+        ],
+        [
+            "Principio activo",
+            "BECLOMETASONA DIPROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "CIPLA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016166-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

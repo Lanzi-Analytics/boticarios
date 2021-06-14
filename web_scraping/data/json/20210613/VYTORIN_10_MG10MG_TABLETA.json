@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vytorin-10-mg10mg-tableta-7897337715072/p",
+    "fecha_hora_scraping": "2021-06-14 03:06:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VYTORIN 10 MG/10MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/VYTORIN_10_MG10MG_TABLETA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$39.500",
+        "precioPorSku js-PUM": "Tableta a $1.410,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "SIMVASTATINA EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004163-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

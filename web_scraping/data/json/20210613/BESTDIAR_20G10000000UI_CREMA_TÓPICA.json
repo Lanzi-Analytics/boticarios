@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bestdiar-20g10000000ui-crema-topica-7707193640084/p",
+    "fecha_hora_scraping": "2021-06-14 10:24:59",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "BESTDIAR 20G/10.000.000UI CREMA T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/BESTDIAR_20G10000000UI_CREMA_T\u00d3PICA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$17.150",
+        "precioPorSku js-PUM": "Gramo a $285,83"
+    },
+    "descripcion": "bestdiar 20g/10.000.000ui crema t\u00f3pica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "20 G 10000000 UI"
+        ],
+        [
+            "Principio activo",
+            "NISTATINA OXIDO ZINC"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BEST SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015364-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

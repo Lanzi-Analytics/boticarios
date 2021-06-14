@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/endial-1mg-comprimido-7730969303883/p",
+    "fecha_hora_scraping": "2021-06-14 06:59:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ENDIAL 1MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/ENDIAL_1MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$81.400",
+        "precioPorSku js-PUM": "Tableta a $4.070,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "CINITAPRIDA TARTRATO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0004393-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

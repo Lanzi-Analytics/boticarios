@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707016403926gripled-25-g--100-ml-jarabemedicamentosnaturalespronabell-7707016403926/p",
+    "fecha_hora_scraping": "2021-06-14 08:21:51",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GRIPLED 2.5 G / 100 ML JARABE",
+    "nombre_imagen": "./web_scraping/data/img/GRIPLED_25_G__100_ML_JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $135,83"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "0.025 G/ML"
+        ],
+        [
+            "Principio activo",
+            "EQUINACEA PURPUREA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2009-0001318"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-photoready-candid-polvo-suelto-003-309970058760/p",
+    "fecha_hora_scraping": "2021-06-14 08:38:24",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV PHOTOREADY CANDID polvo suelto 003",
+    "nombre_imagen": "./web_scraping/data/img/RV_PHOTOREADY_CANDID_polvo_suelto_003.jpg",
+    "presentacion": "CONTENEDOR X 15G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $2.730,00"
+    },
+    "descripcion": "RV PHOTOREADY CANDID polvo suelto 003",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 15G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91207-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

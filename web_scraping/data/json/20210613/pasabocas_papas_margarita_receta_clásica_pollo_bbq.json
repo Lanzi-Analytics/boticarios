@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-papas-margarita-receta-clasica-pollo-bbq-7702189051455/p",
+    "fecha_hora_scraping": "2021-06-14 04:10:40",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas papas margarita receta cl\u00e1sica pollo bbq",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_papas_margarita_receta_cl\u00e1sica_pollo_bbq.jpg",
+    "presentacion": "PAQUETE X 120 G",
+    "precio": {
+        "bestPrice": "$4.500",
+        "precioPorSku js-PUM": "Gramo a $37,50"
+    },
+    "descripcion": "pasabocas papas margarita receta cl\u00e1sica pollo bbq",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 120 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA08I29913"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

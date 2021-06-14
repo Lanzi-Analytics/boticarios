@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-gum-de-ortodoncia-manual-70942306935/p",
+    "fecha_hora_scraping": "2021-06-14 05:58:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "KIT GUM DE ORTODONCIA MANUAL",
+    "nombre_imagen": "./web_scraping/data/img/KIT_GUM_DE_ORTODONCIA_MANUAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$19.950",
+        "precioPorSku js-PUM": "Unidad a $19.950,00"
+    },
+    "descripcion": "kit gum de ortodoncia manual",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001084"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

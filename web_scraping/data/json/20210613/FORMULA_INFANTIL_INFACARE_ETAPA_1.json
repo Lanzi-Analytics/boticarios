@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-infacare-etapa-1-7502253072634/p",
+    "fecha_hora_scraping": "2021-06-14 10:20:57",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL INFACARE ETAPA 1",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_INFACARE_ETAPA_1.jpg",
+    "presentacion": "LATA X 800 G",
+    "precio": {
+        "bestPrice": "$42.150",
+        "precioPorSku js-PUM": "Gramo a $52,69"
+    },
+    "descripcion": "formula infantil infacare etapa 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANULAC NUTRICION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002843-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

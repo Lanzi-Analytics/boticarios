@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-total-12-encias-reforzadas-3x75-ml-7509546671260/p",
+    "fecha_hora_scraping": "2021-06-13 23:52:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE TOTAL 12 ENCIAS REFORZADAS 3X75 ML",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_TOTAL_12_ENCIAS_REFORZADAS_3X75_ML.jpg",
+    "presentacion": "CAJA X 225ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $103,56"
+    },
+    "descripcion": "CREMA DENTAL COLGATE TOTAL 12 ENCIAS REFORZADAS 3X75 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 225ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79401-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

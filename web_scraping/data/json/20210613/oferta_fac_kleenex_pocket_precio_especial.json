@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-fac-kleenex-pocket-precio-especial-7702425523524/p",
+    "fecha_hora_scraping": "2021-06-14 09:21:54",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "oferta fac kleenex pocket precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_fac_kleenex_pocket_precio_especial.jpg",
+    "presentacion": "PAQUETE X 4 UN",
+    "precio": {
+        "PrevPrice": "Antes:$3.300",
+        "bestPrice": "$2.310",
+        "precioPorSku js-PUM": "Unidad a $577,50"
+    },
+    "descripcion": "fac kleenex pocket 4 x10 precio espec",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 4 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

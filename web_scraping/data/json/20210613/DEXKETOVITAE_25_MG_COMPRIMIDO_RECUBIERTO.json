@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dexketovitae-25-mg-comprimido-recubierto-7709364639095/p",
+    "fecha_hora_scraping": "2021-06-14 02:01:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEXKETOVITAE 25 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/DEXKETOVITAE_25_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 20 COM",
+    "precio": {
+        "bestPrice": "$44.500",
+        "precioPorSku js-PUM": "Comprimido a $2.225,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 COM"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "DEXKETOPROFENO TROMETAMOL"
+        ],
+        [
+            "Laboratorio",
+            "EUROPEAN PHARMA SOLUTIONS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018009"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

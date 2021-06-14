@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-active-proteina-polvo-vainilla-7709225626493/p",
+    "fecha_hora_scraping": "2021-06-14 04:09:43",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "b\u00e9net active proteina polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/b\u00e9net_active_proteina_polvo_vainilla.jpg",
+    "presentacion": "TARRO X 352 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $108,24"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 352 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0008502-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

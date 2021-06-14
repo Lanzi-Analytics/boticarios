@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-parodontax-fluor-7896015527457/p",
+    "fecha_hora_scraping": "2021-06-14 07:16:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CREMA DENTAL PARODONTAX FLUOR",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_PARODONTAX_FLUOR.jpg",
+    "presentacion": "TUBO X 90 G",
+    "precio": {
+        "bestPrice": "$24.500",
+        "precioPorSku js-PUM": "Gramo a $272,22"
+    },
+    "descripcion": "crema dental parodontax fluor x 90 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO23454"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

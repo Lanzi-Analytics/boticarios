@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aguja-penfine-my-life-8-mm-7613117006150/p",
+    "fecha_hora_scraping": "2021-06-13 23:34:33",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "AGUJA PENFINE MY LIFE 8 MM",
+    "nombre_imagen": "./web_scraping/data/img/AGUJA_PENFINE_MY_LIFE_8_MM.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $397,94"
+    },
+    "descripcion": "aguja penfine my life 8 mm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS PARA LA SALUD"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DAI DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0006837"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

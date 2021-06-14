@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alerfast-120mg-tableta-recubierta-7702057012496/p",
+    "fecha_hora_scraping": "2021-06-14 04:17:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALERFAST 120MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ALERFAST_120MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10TAB",
+    "precio": {
+        "bestPrice": "$60.550",
+        "precioPorSku js-PUM": "Tableta a $6.055,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10TAB"
+        ],
+        [
+            "Concentracion",
+            "120 MG"
+        ],
+        [
+            "Principio activo",
+            "FEXOFENADINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015804"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

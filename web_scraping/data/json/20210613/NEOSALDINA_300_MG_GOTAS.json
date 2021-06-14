@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neosaldina-300-mg-gotas-7896641811739/p",
+    "fecha_hora_scraping": "2021-06-14 03:16:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEOSALDINA 300 MG GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/NEOSALDINA_300_MG_GOTAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$43.050",
+        "precioPorSku js-PUM": "Mililitro a $1.435,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "300,0 MG/ML 50,0 MG/ML 30,0 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "METAMIZOL SODIO ISOMETEPTENO CLORHIDRATO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-003797-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

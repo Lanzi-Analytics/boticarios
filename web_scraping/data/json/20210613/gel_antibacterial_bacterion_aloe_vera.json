@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-antibacterial-bacterion-aloe-vera-7702113028935/p",
+    "fecha_hora_scraping": "2021-06-14 07:38:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "gel antibacterial bacterion aloe vera",
+    "nombre_imagen": "./web_scraping/data/img/gel_antibacterial_bacterion_aloe_vera.jpg",
+    "presentacion": "ENVASE X 40 ML",
+    "precio": {
+        "bestPrice": "$4.250",
+        "precioPorSku js-PUM": "Mililitro a $106,25"
+    },
+    "descripcion": "gel bacterion aloe vera 40 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 40 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC21683-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

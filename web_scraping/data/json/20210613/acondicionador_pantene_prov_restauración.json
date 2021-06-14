@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionador-pantene-restauracion-7501006721317/p",
+    "fecha_hora_scraping": "2021-06-14 08:16:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "acondicionador pantene pro-v restauraci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/acondicionador_pantene_prov_restauraci\u00f3n.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$20.150",
+        "precioPorSku js-PUM": "Mililitro a $50,38"
+    },
+    "descripcion": "acond pantene 400 ml restauracion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

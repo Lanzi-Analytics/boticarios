@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/extracto-de-valeriana-solucion-oral-7707176460135/p",
+    "fecha_hora_scraping": "2021-06-14 09:55:26",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "EXTRACTO DE VALERIANA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/EXTRACTO_DE_VALERIANA_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$18.550",
+        "precioPorSku js-PUM": "Mililitro a $309,17"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "VALERIANA"
+        ],
+        [
+            "Laboratorio",
+            "FUNDACI LABORATORIO FARMACOLOGIA VE"
+        ],
+        [
+            "Registro Invima",
+            "PFT2020-00011-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

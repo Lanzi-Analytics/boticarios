@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7591083017793cepillo-dental-slim-softhigiene-y-cuidado-personalcepillos-dentalescolgate-7591083017793/p",
+    "fecha_hora_scraping": "2021-06-14 00:04:11",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental slim soft",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_slim_soft.jpg",
+    "presentacion": "BOLSA X 2 UN",
+    "precio": {
+        "bestPrice": "$19.200",
+        "precioPorSku js-PUM": "Unidad a $9.600,00"
+    },
+    "descripcion": "cepillo dental slim soft",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "2013DM 0010324"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

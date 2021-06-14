@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-bronceador-vogue-tono-rosa-perlado-7702433297073/p",
+    "fecha_hora_scraping": "2021-06-14 01:33:29",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO BRONCEADOR VOGUE TONO ROSA PERLADO",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_BRONCEADOR_VOGUE_TONO_ROSA_PERLADO.jpg",
+    "presentacion": "UNIDAD X 14 G",
+    "precio": {
+        "bestPrice": "$10.950",
+        "precioPorSku js-PUM": "Gramo a $782,14"
+    },
+    "descripcion": "polvo bronceador vogue tono rosa perlado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 14 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC22325-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

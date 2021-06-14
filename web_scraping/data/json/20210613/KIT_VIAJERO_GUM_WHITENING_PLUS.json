@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-viajero-gum-whitening-plus-70942901536/p",
+    "fecha_hora_scraping": "2021-06-14 00:26:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "KIT VIAJERO GUM WHITENING PLUS",
+    "nombre_imagen": "./web_scraping/data/img/KIT_VIAJERO_GUM_WHITENING_PLUS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$13.350",
+        "precioPorSku js-PUM": "Unidad a $13.350,00"
+    },
+    "descripcion": "kit viajero gum whitening plus",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

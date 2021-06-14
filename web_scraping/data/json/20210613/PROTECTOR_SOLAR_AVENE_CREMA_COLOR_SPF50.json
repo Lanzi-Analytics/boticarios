@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-avene-crema-color-spf50-3282770100037/p",
+    "fecha_hora_scraping": "2021-06-14 05:38:31",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR AVENE CREMA COLOR SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_AVENE_CREMA_COLOR_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$98.450",
+        "precioPorSku js-PUM": "Mililitro a $1.969,00"
+    },
+    "descripcion": "protector solar avene crema color spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38226-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/termometro-digital-laser-ir-refet-306-7707282990007/p",
+    "fecha_hora_scraping": "2021-06-13 23:52:15",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "termometro digital laser ir ref:et-306",
+    "nombre_imagen": "./web_scraping/data/img/termometro_digital_laser_ir_refet306.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$400.000",
+        "bestPrice": "$300.000",
+        "precioPorSku js-PUM": "Unidad a $300.000"
+    },
+    "descripcion": "termometro digital laser ir ref:et-306",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DISTRIBUIDORA GLX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0006402"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

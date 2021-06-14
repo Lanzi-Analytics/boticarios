@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-ph5-syndet-gel-4005800178382/p",
+    "fecha_hora_scraping": "2021-06-14 00:34:34",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN PH5 SYNDET GEL",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_PH5_SYNDET_GEL.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $279,80"
+    },
+    "descripcion": "EUCERIN PH5 SYNDET GEL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44403-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

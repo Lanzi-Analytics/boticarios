@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ducha-vaginal-intima-azul-vinagre-7703109205026/p",
+    "fecha_hora_scraping": "2021-06-14 02:47:28",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "DUCHA VAGINAL INTIMA AZUL VINAGRE",
+    "nombre_imagen": "./web_scraping/data/img/DUCHA_VAGINAL_INTIMA_AZUL_VINAGRE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$12.200",
+        "precioPorSku js-PUM": "Mililitro a $101,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "0.77 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ACETICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "INTERNAL PERFUMERIA Y ESPECIA FARMA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012277-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

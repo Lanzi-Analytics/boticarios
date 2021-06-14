@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mustela-solucion-limpiadora-bebe-3504105028497/p",
+    "fecha_hora_scraping": "2021-06-14 04:07:36",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "MUSTELA SOLUCION LIMPIADORA BEBE",
+    "nombre_imagen": "./web_scraping/data/img/MUSTELA_SOLUCION_LIMPIADORA_BEBE.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $158,17"
+    },
+    "descripcion": "mustela solucion limpiadora bebe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "DRONEDARONA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71159-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

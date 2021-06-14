@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-vainilla-ninos-7702870051115/p",
+    "fecha_hora_scraping": "2021-06-14 00:56:40",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY VAINILLA NI\u00d1OS",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_VAINILLA_NI\u00d1OS.jpg",
+    "presentacion": "TARRO X 900 G",
+    "precio": {
+        "bestPrice": "$71.050",
+        "precioPorSku js-PUM": "Gramo a $78,94"
+    },
+    "descripcion": "ensoy vainilla ni\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV10I18804"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

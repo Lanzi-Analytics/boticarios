@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ketomed-2--champu-7703332003031/p",
+    "fecha_hora_scraping": "2021-06-13 23:27:22",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "KETOMED 2 % CHAMPU",
+    "nombre_imagen": "./web_scraping/data/img/KETOMED_2__CHAMPU.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$75.200",
+        "precioPorSku js-PUM": "Mililitro a $752,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "KETOCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0001787-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

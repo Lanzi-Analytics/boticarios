@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pulsoximetro-de-dedo-ref-as303-azul-7135418414156/p",
+    "fecha_hora_scraping": "2021-06-14 03:49:33",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "PULSOXIMETRO DE DEDO REF AS303 AZUL",
+    "nombre_imagen": "./web_scraping/data/img/PULSOXIMETRO_DE_DEDO_REF_AS303_AZUL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$161.700",
+        "bestPrice": "$121.275",
+        "precioPorSku js-PUM": "Unidad a $121.275"
+    },
+    "descripcion": "pulsoximetro de dedo ref as303 azul",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DISTRIBUIDORA GLX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016 EBC-0015254"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

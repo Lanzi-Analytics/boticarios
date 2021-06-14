@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bano-liquido-con-glicerina-jhonsons-baby-de-pies-a-cabeza-7702031318293/p",
+    "fecha_hora_scraping": "2021-06-14 03:28:28",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "ba\u00f1o l\u00edquido con glicerina jhonson's baby de pies a cabeza",
+    "nombre_imagen": "./web_scraping/data/img/ba\u00f1o_l\u00edquido_con_glicerina_jhonsons_baby_de_pies_a_cabeza.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$10.650",
+        "precioPorSku js-PUM": "Mililitro a $53,25"
+    },
+    "descripcion": "jb ban liq pies a cabez x200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA01532-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

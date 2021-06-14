@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metarsal-n-capsula-dura-7703158004014/p",
+    "fecha_hora_scraping": "2021-06-14 00:33:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METARSAL N CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/METARSAL_N_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 18 CAP",
+    "precio": {
+        "bestPrice": "$47.150",
+        "precioPorSku js-PUM": "Capsula a $2.619,44"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 18 CAP"
+        ],
+        [
+            "Concentracion",
+            "600 MG 200 MG"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL NIFUROXAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAGO DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002325-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

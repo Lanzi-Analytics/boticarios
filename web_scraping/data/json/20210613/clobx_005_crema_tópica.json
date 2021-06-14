@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clob-x-005-crema-topica-7897930760981/p",
+    "fecha_hora_scraping": "2021-06-14 09:45:48",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "clob-x 0.05% crema t\u00f3pica",
+    "nombre_imagen": "./web_scraping/data/img/clobx_005_crema_t\u00f3pica.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $2.000,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOBETASOL PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0000497-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clean-skin-7707183820014/p",
+    "fecha_hora_scraping": "2021-06-14 03:09:04",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CLEAN SKIN",
+    "nombre_imagen": "./web_scraping/data/img/CLEAN_SKIN.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "PrevPrice": "Antes:$72.800",
+        "bestPrice": "$54.600",
+        "precioPorSku js-PUM": "Mililitro a $218,40"
+    },
+    "descripcion": "clean skin",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC11556-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/inmox-60-mg-capsula-con-recubrimiento-enterico-7702057011413/p",
+    "fecha_hora_scraping": "2021-06-14 06:58:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "INMOX 60 MG CAPSULA CON RECUBRIMIENTO ENTERICO",
+    "nombre_imagen": "./web_scraping/data/img/INMOX_60_MG_CAPSULA_CON_RECUBRIMIENTO_ENTERICO.jpg",
+    "presentacion": "CAJA X 14 CAP",
+    "precio": {
+        "bestPrice": "$27.500",
+        "precioPorSku js-PUM": "Capsula a $1.964,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 CAP"
+        ],
+        [
+            "Concentracion",
+            "60 MG"
+        ],
+        [
+            "Principio activo",
+            "DULOXETINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011545-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

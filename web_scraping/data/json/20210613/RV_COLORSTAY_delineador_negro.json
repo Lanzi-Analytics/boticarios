@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-delineador-negro-309973978010/p",
+    "fecha_hora_scraping": "2021-06-14 02:09:22",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV COLORSTAY delineador negro",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_delineador_negro.jpg",
+    "presentacion": "LAPIZ X 0.3 G",
+    "precio": {
+        "bestPrice": "$38.900",
+        "precioPorSku js-PUM": "Gramo a $138.928,56"
+    },
+    "descripcion": "rv colorstay delineador negro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 0.3 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC42527-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

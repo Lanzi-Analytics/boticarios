@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-crema-aclarant-b3-7501056330262/p",
+    "fecha_hora_scraping": "2021-06-14 01:01:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema ponds crema aclarant b3",
+    "nombre_imagen": "./web_scraping/data/img/crema_ponds_crema_aclarant_b3.jpg",
+    "presentacion": "POTE X 100 G",
+    "precio": {
+        "bestPrice": "$28.400",
+        "precioPorSku js-PUM": "Gramo a $284,00"
+    },
+    "descripcion": "crema ponds clarant b3 piel seca",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

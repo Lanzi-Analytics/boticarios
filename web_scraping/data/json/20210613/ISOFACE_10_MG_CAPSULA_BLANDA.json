@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/isoface-10-mg-capsula-blanda-7703153017354/p",
+    "fecha_hora_scraping": "2021-06-14 07:59:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ISOFACE 10 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ISOFACE_10_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$120.950",
+        "precioPorSku js-PUM": "Tableta a $4.031,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "ISOTRETINOINA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011230-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

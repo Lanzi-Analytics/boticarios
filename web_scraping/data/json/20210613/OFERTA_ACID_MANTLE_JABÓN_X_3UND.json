@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-acid-mantle-jabon-x-3und-7702123010487/p",
+    "fecha_hora_scraping": "2021-06-14 00:01:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA ACID MANTLE JAB\u00d3N X 3UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ACID_MANTLE_JAB\u00d3N_X_3UND.jpg",
+    "presentacion": "BARRA X 3 UN",
+    "precio": {
+        "bestPrice": "$13.550",
+        "precioPorSku js-PUM": "Unidad a $4.516,67"
+    },
+    "descripcion": "oferta acid mantle jab\u00f3n x 3und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36752-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

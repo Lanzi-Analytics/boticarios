@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/actionflu-250-mcg50-mcg-capsula-con-polvo-para-inhalacion-8436043011680/p",
+    "fecha_hora_scraping": "2021-06-14 05:20:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACTIONFLU 250 MCG/50 MCG CAPSULA CON POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/ACTIONFLU_250_MCG50_MCG_CAPSULA_CON_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$97.650",
+        "precioPorSku js-PUM": "Capsula a $1.627,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "250 MCG 50 MCG"
+        ],
+        [
+            "Principio activo",
+            "FLUTICASONA PROPIONATO SALMETEROL XINAFOATO"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0016013-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

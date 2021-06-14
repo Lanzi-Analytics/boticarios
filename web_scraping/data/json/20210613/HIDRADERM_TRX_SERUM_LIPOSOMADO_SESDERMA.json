@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979438232hidraderm-trx-serum-liposomado-sesdermabellezadermocosmetica-8429979438232/p",
+    "fecha_hora_scraping": "2021-06-14 09:50:48",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "HIDRADERM TRX SERUM LIPOSOMADO SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/HIDRADERM_TRX_SERUM_LIPOSOMADO_SESDERMA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $6.511,67"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88486-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

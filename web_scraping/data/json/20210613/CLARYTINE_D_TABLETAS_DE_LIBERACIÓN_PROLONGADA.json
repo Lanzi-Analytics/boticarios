@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clarytine-d-tabletas-de-liberacion-prolongada-7702123009160/p",
+    "fecha_hora_scraping": "2021-06-14 09:31:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLARYTINE D TABLETAS DE LIBERACI\u00d3N PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/CLARYTINE_D_TABLETAS_DE_LIBERACI\u00d3N_PROLONGADA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$77.500",
+        "precioPorSku js-PUM": "Tableta a $7.750,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "35 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "FENILEFRINA CLORHIDRATO LORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-010802-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

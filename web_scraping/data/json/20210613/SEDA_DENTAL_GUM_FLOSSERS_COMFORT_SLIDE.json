@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-gum-flossers-comfort-slide-70942304443/p",
+    "fecha_hora_scraping": "2021-06-13 23:20:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "SEDA DENTAL GUM FLOSSERS COMFORT SLIDE",
+    "nombre_imagen": "./web_scraping/data/img/SEDA_DENTAL_GUM_FLOSSERS_COMFORT_SLIDE.jpg",
+    "presentacion": "BOLSA X 90 UN",
+    "precio": {
+        "bestPrice": "$20.000",
+        "precioPorSku js-PUM": "Unidad a $222,22"
+    },
+    "descripcion": "seda dental gum flossers comfort slide",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 90 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016924"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

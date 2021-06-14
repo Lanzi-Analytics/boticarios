@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-galleta-colombina-cookies-7702011120465/p",
+    "fecha_hora_scraping": "2021-06-14 02:38:44",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado galleta colombina cookies",
+    "nombre_imagen": "./web_scraping/data/img/helado_galleta_colombina_cookies.jpg",
+    "presentacion": "UNIDAD X 70 G",
+    "precio": {
+        "bestPrice": "$1.900",
+        "precioPorSku js-PUM": "Gramo a $27,14"
+    },
+    "descripcion": "helado galleta colombina cookies",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 70 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA02I26805"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

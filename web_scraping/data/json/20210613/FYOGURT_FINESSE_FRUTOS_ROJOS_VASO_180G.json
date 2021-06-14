@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/f-yogurt-finesse-frutos-rojos-vaso-180g-7702001155170/p",
+    "fecha_hora_scraping": "2021-06-14 05:49:04",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "F-YOGURT FINESSE FRUTOS ROJOS VASO 180G",
+    "nombre_imagen": "./web_scraping/data/img/FYOGURT_FINESSE_FRUTOS_ROJOS_VASO_180G.jpg",
+    "presentacion": "VASO X 180 GR",
+    "precio": {
+        "bestPrice": "$2.900",
+        "precioPorSku js-PUM": "Gramo a $16,11"
+    },
+    "descripcion": "F-YOGURT FINESSE FRUTOS ROJOS VASO 180G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "VASO X 180 GR"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALPINA PRODUCTOS ALIMENTICIOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009967-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

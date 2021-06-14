@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infatil-alpina-baby-2-etapa-6-a-12-meses-7702001104017/p",
+    "fecha_hora_scraping": "2021-06-14 05:03:35",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFATIL ALPINA BABY 2 ETAPA 6 A 12 MESES",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFATIL_ALPINA_BABY_2_ETAPA_6_A_12_MESES.jpg",
+    "presentacion": "LATA X 900 G",
+    "precio": {
+        "bestPrice": "$47.550",
+        "precioPorSku js-PUM": "Gramo a $52,83"
+    },
+    "descripcion": "formula infatil alpina baby 2 etapa 6 a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALPINA PRODUCTOS ALIMENTICIOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I79015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

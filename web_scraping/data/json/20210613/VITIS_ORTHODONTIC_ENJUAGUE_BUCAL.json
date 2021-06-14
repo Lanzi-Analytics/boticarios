@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitis-orthodontic-enjuague-bucal-8427426040595/p",
+    "fecha_hora_scraping": "2021-06-14 07:09:25",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "VITIS ORTHODONTIC ENJUAGUE BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/VITIS_ORTHODONTIC_ENJUAGUE_BUCAL.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$25.600",
+        "precioPorSku js-PUM": "Mililitro a $51,20"
+    },
+    "descripcion": "vitis orthodontic enjuague bucal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC32899-07PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

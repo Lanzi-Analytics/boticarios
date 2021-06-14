@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-brow-fantasy-delineador-cej-309972692047/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:42",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV COLORSTAY BROW FANTASY delineador cej",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_BROW_FANTASY_delineador_cej.jpg",
+    "presentacion": "LAPIZ X 4 G",
+    "precio": {
+        "bestPrice": "$43.400",
+        "precioPorSku js-PUM": "Mililitro a $367,80"
+    },
+    "descripcion": "rv colorstay brow fantasy delineador cej",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 4 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68005-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

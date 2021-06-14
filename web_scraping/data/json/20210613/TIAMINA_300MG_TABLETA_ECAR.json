@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiamina-300mg-tableta-ecar-7702184010280/p",
+    "fecha_hora_scraping": "2021-06-14 03:22:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIAMINA 300MG TABLETA ECAR",
+    "nombre_imagen": "./web_scraping/data/img/TIAMINA_300MG_TABLETA_ECAR.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$2.102",
+        "precioPorSku js-PUM": "Tableta a $210,20"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "TIAMINA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007263-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

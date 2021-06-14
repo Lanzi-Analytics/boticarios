@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/blemil-plus-1-ae-nutriexpert-tarx800g-qd-8426594038496/p",
+    "fecha_hora_scraping": "2021-06-14 06:24:29",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "BLEMIL PLUS 1 AE NUTRIEXPERT TARX800G QD",
+    "nombre_imagen": "./web_scraping/data/img/BLEMIL_PLUS_1_AE_NUTRIEXPERT_TARX800G_QD.jpg",
+    "presentacion": "TARRO X 800G",
+    "precio": {
+        "bestPrice": "$94.000",
+        "precioPorSku js-PUM": "Gramo a $117,50"
+    },
+    "descripcion": "blemil plus 1 ae nutriexpert tarx800g qd",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 800G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "SUIPHAR DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I15114"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

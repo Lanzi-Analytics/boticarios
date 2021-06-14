@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-sensitive-pro-alivio-2x75-ml-7702010611063/p",
+    "fecha_hora_scraping": "2021-06-14 03:39:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE SENSITIVE PRO ALIVIO 2X75 ML",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_SENSITIVE_PRO_ALIVIO_2X75_ML.jpg",
+    "presentacion": "PAQUETE X150ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $279,33"
+    },
+    "descripcion": "CREMA DENTAL COLGATE SENSITIVE PRO ALIVIO 2X75 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X150ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC03745-10P"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

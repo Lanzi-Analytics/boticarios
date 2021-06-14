@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-dvfresh-mandarina-500ml-pet-7702535012970/p",
+    "fecha_hora_scraping": "2021-06-14 02:27:02",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "JUGO DVFRESH MANDARINA 500ML PET",
+    "nombre_imagen": "./web_scraping/data/img/JUGO_DVFRESH_MANDARINA_500ML_PET.jpg",
+    "presentacion": "BOTELLA X 500ML",
+    "precio": {
+        "bestPrice": "$1.300",
+        "precioPorSku js-PUM": "Mililitro a $2,60"
+    },
+    "descripcion": "JUGO DVFRESH MANDARINA 500ML PET",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003140-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-triple-pleasure-7702132009557/p",
-    "fecha_hora_scraping": "2021-06-13 19:24:15",
+    "url_producto": "https://www.drogueriascolsubsidio.com/condon-today-triple-pleasure-7702132009564/p",
+    "fecha_hora_scraping": "2021-06-14 08:39:52",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
     "titulo": "CONDON TODAY TRIPLE PLEASURE",
     "nombre_imagen": "./web_scraping/data/img/CONDON_TODAY_TRIPLE_PLEASURE.jpg",
-    "presentacion": "CAJA X 3 UN",
+    "presentacion": "CAJA X 6 UN",
     "precio": {
-        "bestPrice": "$12.900",
-        "precioPorSku js-PUM": "Unidad a $4.300,00"
+        "bestPrice": "$22.850",
+        "precioPorSku js-PUM": "Unidad a $3.808,33"
     },
     "descripcion": "condon today triple pleasure",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 3 UN"
+            "CAJA X 6 UN"
         ],
         [
             "Concentracion",
@@ -21,7 +21,7 @@
         ],
         [
             "Principio activo",
-            "CALCIO CARBONATO VITAMINA D3 OXIDO MAGNESIO"
+            "GUAIFENESINA  HIDROBROMURO  DEXTROMETORFANO"
         ],
         [
             "Laboratorio",

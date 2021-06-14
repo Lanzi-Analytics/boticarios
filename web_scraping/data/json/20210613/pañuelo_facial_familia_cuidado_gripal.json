@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panuelo-facial-familia-cuidado-gripal-7702026032951/p",
+    "fecha_hora_scraping": "2021-06-14 03:50:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "pa\u00f1uelo facial familia cuidado gripal",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1uelo_facial_familia_cuidado_gripal.jpg",
+    "presentacion": "PAQUETE X 4 UN",
+    "precio": {
+        "bestPrice": "$5.950",
+        "precioPorSku js-PUM": "Unidad a $148,75"
+    },
+    "descripcion": "panuelo fac flia bolsi cuid gripal x40",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 4 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

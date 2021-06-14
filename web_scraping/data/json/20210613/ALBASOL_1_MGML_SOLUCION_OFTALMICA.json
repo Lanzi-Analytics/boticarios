@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/albasol-1-mgml-solucion-oftalmica-7707236671549/p",
+    "fecha_hora_scraping": "2021-06-14 09:38:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALBASOL 1 MG/ML SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/ALBASOL_1_MGML_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$35.350",
+        "precioPorSku js-PUM": "Mililitro a $2.356,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "NAFAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-014844-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

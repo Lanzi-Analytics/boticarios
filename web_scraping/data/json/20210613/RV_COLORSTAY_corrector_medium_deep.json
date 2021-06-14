@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-corrector-medium-deep-309976131054/p",
+    "fecha_hora_scraping": "2021-06-14 03:10:28",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV COLORSTAY corrector medium deep",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_corrector_medium_deep.jpg",
+    "presentacion": "FRASCO X 6 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $6.782,26"
+    },
+    "descripcion": "rv colorstay corrector medium deep",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 6 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53565-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

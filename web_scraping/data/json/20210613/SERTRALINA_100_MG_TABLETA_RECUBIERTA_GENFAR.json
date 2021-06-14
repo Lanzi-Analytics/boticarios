@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sertralina-100-mg-tableta-recubierta-genfar-7702605103959/p",
+    "fecha_hora_scraping": "2021-06-14 00:10:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SERTRALINA 100 MG TABLETA RECUBIERTA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/SERTRALINA_100_MG_TABLETA_RECUBIERTA_GENFAR.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$67.500",
+        "precioPorSku js-PUM": "Tableta a $6.750,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "SERTRALINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0001998-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

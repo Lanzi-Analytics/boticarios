@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trilipix-135-mg-capsula-de-liberacion-retardada-7501033959301/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRILIPIX 135 MG CAPSULA DE LIBERACION RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/TRILIPIX_135_MG_CAPSULA_DE_LIBERACION_RETARDADA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$175.300",
+        "precioPorSku js-PUM": "Capsula a $5.843,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "135 MG"
+        ],
+        [
+            "Principio activo",
+            "FENOFIBRATO COLINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0015218-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

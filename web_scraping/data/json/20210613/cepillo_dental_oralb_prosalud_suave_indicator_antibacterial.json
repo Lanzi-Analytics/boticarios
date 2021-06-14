@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cepillo-dental-oral-b-suave-indicador-antibacterial-2x1-7506195131473/p",
+    "fecha_hora_scraping": "2021-06-14 10:20:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental oral-b pro-salud suave indicator antibacterial",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_oralb_prosalud_suave_indicator_antibacterial.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$12.850",
+        "precioPorSku js-PUM": "Unidad a $12.850,00"
+    },
+    "descripcion": "of cep dent suave oral b indic antib 2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

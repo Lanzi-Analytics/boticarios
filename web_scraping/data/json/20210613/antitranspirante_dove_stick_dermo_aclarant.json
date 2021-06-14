@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-dove-stick-dermo-aclarant-75034238/p",
+    "fecha_hora_scraping": "2021-06-14 03:02:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "antitranspirante dove stick dermo aclarant",
+    "nombre_imagen": "./web_scraping/data/img/antitranspirante_dove_stick_dermo_aclarant.jpg",
+    "presentacion": "BOTELLA X 50 G",
+    "precio": {
+        "bestPrice": "$19.850",
+        "precioPorSku js-PUM": "Gramo a $397,00"
+    },
+    "descripcion": "antitranspirante dove stick dermo aclarant",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC35203-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

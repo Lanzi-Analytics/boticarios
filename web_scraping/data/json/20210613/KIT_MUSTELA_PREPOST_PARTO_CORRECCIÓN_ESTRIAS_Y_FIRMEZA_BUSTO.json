@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-mustela-pre-post-parto-correccion-estrias-y-firmeza-busto-7709306253037/p",
+    "fecha_hora_scraping": "2021-06-14 01:53:27",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "KIT MUSTELA PRE-POST PARTO CORRECCI\u00d3N ESTRIAS Y FIRMEZA BUSTO",
+    "nombre_imagen": "./web_scraping/data/img/KIT_MUSTELA_PREPOST_PARTO_CORRECCI\u00d3N_ESTRIAS_Y_FIRMEZA_BUSTO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $125.200,00"
+    },
+    "descripcion": "kit mustela pre-post parto correcci\u00f3n estrias y firmeza busto",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68304-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

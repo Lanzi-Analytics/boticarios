@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gumivit-vitamina-c-gomas-7703153034559/p",
+    "fecha_hora_scraping": "2021-06-14 04:03:32",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GUMIVIT VITAMINA C GOMAS",
+    "nombre_imagen": "./web_scraping/data/img/GUMIVIT_VITAMINA_C_GOMAS.jpg",
+    "presentacion": "BOLSA X 12 UN",
+    "precio": {
+        "bestPrice": "$13.800",
+        "precioPorSku js-PUM": "Sobre a $1.150,00"
+    },
+    "descripcion": "gumivit vitamina c gomas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 12 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAK16I1504"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

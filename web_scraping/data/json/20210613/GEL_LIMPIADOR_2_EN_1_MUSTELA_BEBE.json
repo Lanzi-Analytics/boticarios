@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-limpiador-2-en-1-mustela-bebe-3504105028183/p",
+    "fecha_hora_scraping": "2021-06-14 01:47:38",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "GEL LIMPIADOR 2 EN 1 MUSTELA BEBE",
+    "nombre_imagen": "./web_scraping/data/img/GEL_LIMPIADOR_2_EN_1_MUSTELA_BEBE.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $174,25"
+    },
+    "descripcion": "gel limpiador 2 en 1 mustela bebe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55521-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

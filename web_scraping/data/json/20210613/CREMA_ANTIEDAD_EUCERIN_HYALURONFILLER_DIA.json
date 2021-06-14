@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-antiedad-eucerin-hyaluron-filler-dia-4005800021930/p",
+    "fecha_hora_scraping": "2021-06-13 23:50:13",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CREMA ANTIEDAD EUCERIN HYALURON-FILLER DIA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_ANTIEDAD_EUCERIN_HYALURONFILLER_DIA.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$165.950",
+        "precioPorSku js-PUM": "Mililitro a $3.319,00"
+    },
+    "descripcion": "crema antiedad eucerin hyaluron-filler d",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC42346-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

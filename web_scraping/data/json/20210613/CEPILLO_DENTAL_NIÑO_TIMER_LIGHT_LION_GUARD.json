@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-nino-timer-light-lion-guard-70942001823/p",
+    "fecha_hora_scraping": "2021-06-14 10:17:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL NI\u00d1O TIMER LIGHT LION GUARD",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_NI\u00d1O_TIMER_LIGHT_LION_GUARD.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$18.550",
+        "precioPorSku js-PUM": "Unidad a $18.550,00"
+    },
+    "descripcion": "cepillo dental ni\u00f1o timer light lion gua",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

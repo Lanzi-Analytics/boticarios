@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-colageno--biotina--vitamine-e-gomas-7709071689499/p",
+    "fecha_hora_scraping": "2021-06-14 07:30:54",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "BENET COLAGENO + BIOTINA + VITAMINE E GOMAS",
+    "nombre_imagen": "./web_scraping/data/img/BENET_COLAGENO__BIOTINA__VITAMINE_E_GOMAS.jpg",
+    "presentacion": "FRASCO X 60 UN",
+    "precio": {
+        "bestPrice": "$23.600",
+        "precioPorSku js-PUM": "Unidad a $393,33"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005506-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

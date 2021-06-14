@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/microgynon-30-cd-015-mg003-mg-gragea-7896116861061/p",
+    "fecha_hora_scraping": "2021-06-14 09:57:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MICROGYNON 30 CD 0.15 MG/0.03 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/MICROGYNON_30_CD_015_MG003_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 28 GRG",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Tableta a $198,21"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 GRG"
+        ],
+        [
+            "Concentracion",
+            "0.15 MG 0.03 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0003865-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

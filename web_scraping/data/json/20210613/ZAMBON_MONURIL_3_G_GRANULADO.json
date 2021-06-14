@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zambon-monuril-3-g-granulado-7703445104052/p",
+    "fecha_hora_scraping": "2021-06-14 08:41:12",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZAMBON MONURIL 3 G GRANULADO",
+    "nombre_imagen": "./web_scraping/data/img/ZAMBON_MONURIL_3_G_GRANULADO.jpg",
+    "presentacion": "CAJA X 2 SOB",
+    "precio": {
+        "bestPrice": "$98.400",
+        "precioPorSku js-PUM": "Unidad a $49.200,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 SOB"
+        ],
+        [
+            "Concentracion",
+            "3000 MG"
+        ],
+        [
+            "Principio activo",
+            "FOSFOMICINA TROMETAMOL"
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003562-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/manteca-de-cacao-en-barra-7706183390008/p",
+    "fecha_hora_scraping": "2021-06-13 23:20:07",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "MANTECA DE CACAO EN BARRA",
+    "nombre_imagen": "./web_scraping/data/img/MANTECA_DE_CACAO_EN_BARRA.jpg",
+    "presentacion": "BARRA X 2,8 G",
+    "precio": {
+        "bestPrice": "$250",
+        "precioPorSku js-PUM": "Gramo a $89,29"
+    },
+    "descripcion": "manteca de cacao en barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 2,8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS APROQUIM LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2001CO4267"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

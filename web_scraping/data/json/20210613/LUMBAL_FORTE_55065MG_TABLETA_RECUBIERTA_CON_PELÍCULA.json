@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lumbal-forte-55065mg-tableta-recubierta-con-pelicula-7702870492710/p",
+    "fecha_hora_scraping": "2021-06-13 23:38:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LUMBAL FORTE 550/65MG TABLETA RECUBIERTA CON PEL\u00cdCULA",
+    "nombre_imagen": "./web_scraping/data/img/LUMBAL_FORTE_55065MG_TABLETA_RECUBIERTA_CON_PEL\u00cdCULA.jpg",
+    "presentacion": "CAJA X 6 TAB",
+    "precio": {
+        "bestPrice": "$12.900",
+        "precioPorSku js-PUM": "Tableta a $2.150,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 TAB"
+        ],
+        [
+            "Concentracion",
+            "550 MG 65 MG"
+        ],
+        [
+            "Principio activo",
+            "NAPROXENO SODIO CAFEINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011033-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

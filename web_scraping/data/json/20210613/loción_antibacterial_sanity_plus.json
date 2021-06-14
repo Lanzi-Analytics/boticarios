@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-antibacterial-sanity-plus-7702277978923/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "loci\u00f3n antibacterial sanity plus",
+    "nombre_imagen": "./web_scraping/data/img/loci\u00f3n_antibacterial_sanity_plus.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$7.400",
+        "precioPorSku js-PUM": "Mililitro a $61,67"
+    },
+    "descripcion": "loci\u00f3n antibacterial sanity plus",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99502-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

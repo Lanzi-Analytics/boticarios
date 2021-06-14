@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gelicart-advance-polvo-para-solucion-oral-7703202003475/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:22",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "GELICART ADVANCE POLVO PARA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/GELICART_ADVANCE_POLVO_PARA_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "$100.400",
+        "precioPorSku js-PUM": "Unidad a $3.346,67"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2017-0004012"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

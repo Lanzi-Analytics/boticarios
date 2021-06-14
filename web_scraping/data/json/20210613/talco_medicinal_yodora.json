@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/talco-medicinal-yodora-7702057081027/p",
+    "fecha_hora_scraping": "2021-06-14 02:07:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "talco medicinal yodora",
+    "nombre_imagen": "./web_scraping/data/img/talco_medicinal_yodora.jpg",
+    "presentacion": "TARRO X 60 G",
+    "precio": {
+        "bestPrice": "$5.250",
+        "precioPorSku js-PUM": "Gramo a $87,50"
+    },
+    "descripcion": "talco medicinal yodora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 60 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

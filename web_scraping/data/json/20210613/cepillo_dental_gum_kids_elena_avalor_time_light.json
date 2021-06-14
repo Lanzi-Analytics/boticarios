@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-gum-kids-elena-avalor-time-light-70942001762/p",
+    "fecha_hora_scraping": "2021-06-14 04:28:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental gum kids elena avalor time light",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_gum_kids_elena_avalor_time_light.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$21.400",
+        "precioPorSku js-PUM": "Unidad a $21.400,00"
+    },
+    "descripcion": "cepillo dental gum kids elena avalor tim",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

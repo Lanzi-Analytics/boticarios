@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-vital-age-crema-antiarrugas-dia-8430795001111/p",
+    "fecha_hora_scraping": "2021-06-13 23:53:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE VITAL AGE CREMA ANTIARRUGAS DIA",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_VITAL_AGE_CREMA_ANTIARRUGAS_DIA.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$92.550",
+        "precioPorSku js-PUM": "Mililitro a $1.851,00"
+    },
+    "descripcion": "atache vital age crema antiarrugas dia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86640-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

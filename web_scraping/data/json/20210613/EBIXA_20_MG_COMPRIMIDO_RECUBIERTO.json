@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ebixa-20-mg-comprimido-recubierto-7798092890212/p",
+    "fecha_hora_scraping": "2021-06-14 00:49:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EBIXA 20 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/EBIXA_20_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$108.850",
+        "precioPorSku js-PUM": "Tableta a $3.887,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "MEMANTINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOLATAM SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0010305-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

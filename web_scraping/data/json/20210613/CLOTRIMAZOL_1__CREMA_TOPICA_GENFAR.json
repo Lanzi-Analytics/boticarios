@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clotrimazol-1--crema-topica-genfar-7702605102310/p",
+    "fecha_hora_scraping": "2021-06-14 07:13:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLOTRIMAZOL 1 % CREMA TOPICA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/CLOTRIMAZOL_1__CREMA_TOPICA_GENFAR.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$9.700",
+        "precioPorSku js-PUM": "Gramo a $242,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "0.01 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-014984-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

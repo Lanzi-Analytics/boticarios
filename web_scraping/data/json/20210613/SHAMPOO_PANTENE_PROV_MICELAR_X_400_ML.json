@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-pantene-micellar-7500435128612/p",
+    "fecha_hora_scraping": "2021-06-14 08:32:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "SHAMPOO PANTENE PRO-V MICELAR\u00a0 X 400 ML",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_PANTENE_PROV_MICELAR_X_400_ML.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "PrevPrice": "Antes:$20.100",
+        "bestPrice": "$15.075",
+        "precioPorSku js-PUM": "Mililitro a $37,69"
+    },
+    "descripcion": "shampoo pantene micellar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82032-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

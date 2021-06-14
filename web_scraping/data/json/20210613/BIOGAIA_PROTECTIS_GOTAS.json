@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biogaia-protectis-gotas-7350012552770/p",
+    "fecha_hora_scraping": "2021-06-14 03:00:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BIOGAIA PROTECTIS GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/BIOGAIA_PROTECTIS_GOTAS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$120.450",
+        "precioPorSku js-PUM": "Mililitro a $12.045,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "CIPROFLOXACINO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2012-0002435"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

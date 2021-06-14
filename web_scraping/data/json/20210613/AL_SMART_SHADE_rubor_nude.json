@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-smart-shade-rubor-nude-309976035024/p",
+    "fecha_hora_scraping": "2021-06-14 01:03:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL SMART SHADE rubor nude",
+    "nombre_imagen": "./web_scraping/data/img/AL_SMART_SHADE_rubor_nude.jpg",
+    "presentacion": "CONTENEDOR X 7 G",
+    "precio": {
+        "bestPrice": "$57.700",
+        "precioPorSku js-PUM": "Gramo a $8.485,29"
+    },
+    "descripcion": "al smart shade rubor nude",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 7 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54463-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

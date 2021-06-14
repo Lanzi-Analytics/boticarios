@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-a-oxitive-serum-3282770101669/p",
+    "fecha_hora_scraping": "2021-06-14 00:44:10",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE A-OXITIVE SERUM",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_AOXITIVE_SERUM.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$149.600",
+        "precioPorSku js-PUM": "Mililitro a $4.986,67"
+    },
+    "descripcion": "avene a-oxitive serum",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89291-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

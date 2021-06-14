@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pataler-02-solucion-oftalmica-7707372300037/p",
+    "fecha_hora_scraping": "2021-06-14 07:52:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PATALER 0.2% SOLUCI\u00d3N OFT\u00c1LMICA",
+    "nombre_imagen": "./web_scraping/data/img/PATALER_02_SOLUCI\u00d3N_OFT\u00c1LMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$89.500",
+        "precioPorSku js-PUM": "Mililitro a $17.900,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "OLOPATADINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "I LAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014190"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

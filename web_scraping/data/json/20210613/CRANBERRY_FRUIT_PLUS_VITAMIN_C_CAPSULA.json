@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cranberry-fruit-plus-vitamin-c-capsula-74312443602/p",
+    "fecha_hora_scraping": "2021-06-14 07:40:36",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CRANBERRY FRUIT PLUS VITAMIN C CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/CRANBERRY_FRUIT_PLUS_VITAMIN_C_CAPSULA.jpg",
+    "presentacion": "FRASCO X 100 TAB",
+    "precio": {
+        "bestPrice": "$66.700",
+        "precioPorSku js-PUM": "Tableta a $667,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "CARBOXIMETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0000809-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

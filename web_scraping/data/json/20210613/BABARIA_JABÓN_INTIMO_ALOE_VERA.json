@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-jabon-intimo-aloe-vera-8410412028516/p",
+    "fecha_hora_scraping": "2021-06-14 01:36:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "BABARIA JAB\u00d3N INTIMO ALOE VERA",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_JAB\u00d3N_INTIMO_ALOE_VERA.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$12.450",
+        "precioPorSku js-PUM": "Mililitro a $41,50"
+    },
+    "descripcion": "babaria jab\u00f3n intimo aloe vera",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76693-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

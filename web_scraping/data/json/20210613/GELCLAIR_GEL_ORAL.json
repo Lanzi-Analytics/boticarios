@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gelclair-gel-oral-7703546701488/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GELCLAIR GEL ORAL",
+    "nombre_imagen": "./web_scraping/data/img/GELCLAIR_GEL_ORAL.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$12.700",
+        "precioPorSku js-PUM": "Unidad a $12.700,00"
+    },
+    "descripcion": "gelclair gel oral",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0014849"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

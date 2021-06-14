@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-sin-fluor-fito-kids-7703445200013/p",
+    "fecha_hora_scraping": "2021-06-14 06:02:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL SIN FLUOR FITO-KIDS",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_SIN_FLUOR_FITOKIDS.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$18.500",
+        "precioPorSku js-PUM": "Mililitro a $246,67"
+    },
+    "descripcion": "crema dental sin fluor fito-kids",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PF FARMACEUTICA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC10123-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

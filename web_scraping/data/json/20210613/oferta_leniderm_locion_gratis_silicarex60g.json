@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-leniderm-locion-gratis-silicarex60g-7707355056913/p",
+    "fecha_hora_scraping": "2021-06-14 05:06:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "oferta leniderm locion gratis silicarex60g",
+    "nombre_imagen": "./web_scraping/data/img/oferta_leniderm_locion_gratis_silicarex60g.jpg",
+    "presentacion": "FRASCO X 240 G",
+    "precio": {
+        "bestPrice": "$89.900",
+        "precioPorSku js-PUM": "Unidad a $89.900,00"
+    },
+    "descripcion": "oferta leniderm locion gratis silicarex60g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC26808-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-intimo-nosotras-herbal-x-200-ml--panitos-intimos-x-10-und-7702026179656/p",
+    "fecha_hora_scraping": "2021-06-14 00:04:06",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "OFERTA JABON INTIMO NOSOTRAS HERBAL X 200 ML + PANITOS INTIMOS X 10 UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_JABON_INTIMO_NOSOTRAS_HERBAL_X_200_ML__PANITOS_INTIMOS_X_10_UND.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$15.450",
+        "precioPorSku js-PUM": "Mililitro a $77,25"
+    },
+    "descripcion": "oferta jabon intimo nosotras herbal x 200 ml + panitos intimos x 10 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87140-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cascara-sagrada-450-mg-capsula-dura-74312435515/p",
+    "fecha_hora_scraping": "2021-06-14 00:32:59",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CASCARA SAGRADA 450 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/CASCARA_SAGRADA_450_MG_CAPSULA_DURA.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "$53.850",
+        "precioPorSku js-PUM": "Capsula a $538,50"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2012-0001951"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

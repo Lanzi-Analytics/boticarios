@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702605109685genfarformuladosmedicamentossultamicilina-250-mg5-ml-polvo-para-suspension-oral-genfarsultamicilina-7702605109685/p",
+    "fecha_hora_scraping": "2021-06-13 23:50:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SULTAMICILINA 250 MG/5 ML POLVO PARA SUSPENSION ORAL GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/SULTAMICILINA_250_MG5_ML_POLVO_PARA_SUSPENSION_ORAL_GENFAR.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$45.000",
+        "precioPorSku js-PUM": "Mililitro a $750,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "SULTAMICILINA"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008944-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

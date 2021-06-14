@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-oral-b-cera-menta-7800005081225/p",
+    "fecha_hora_scraping": "2021-06-14 01:00:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "hilo dental oral-b essential floss menta",
+    "nombre_imagen": "./web_scraping/data/img/hilo_dental_oralb_essential_floss_menta.jpg",
+    "presentacion": "PAQUETE X 25 M",
+    "precio": {
+        "bestPrice": "$6.150",
+        "precioPorSku js-PUM": "Metro a $246,00"
+    },
+    "descripcion": "seda dental oral-b 25 mts menta con ce",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 25 M"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/falmonox-500-mg-tableta-7706263001831/p",
+    "fecha_hora_scraping": "2021-06-14 07:16:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FALMONOX 500 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/FALMONOX_500_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 3 TAB",
+    "precio": {
+        "bestPrice": "$48.450",
+        "precioPorSku js-PUM": "Tableta a $16.150,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "TECLOZAN"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-001468-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

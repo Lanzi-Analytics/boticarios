@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-liquido-ojos-vitu-sabila-mono-negro-15-ml-7702044225069/p",
+    "fecha_hora_scraping": "2021-06-14 10:01:56",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR LIQUIDO OJOS VITU SABILA MONO NEGRO 1.5 ML",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_LIQUIDO_OJOS_VITU_SABILA_MONO_NEGRO_15_ML.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$12.750",
+        "precioPorSku js-PUM": "Mililitro a $8.500,00"
+    },
+    "descripcion": "delineador liquido ojos vitu sabila mono negro 1.5 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66361-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

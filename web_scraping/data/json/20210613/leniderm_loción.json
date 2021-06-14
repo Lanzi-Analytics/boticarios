@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leniderm-locion-7707355055992/p",
+    "fecha_hora_scraping": "2021-06-14 00:56:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "leniderm loci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/leniderm_loci\u00f3n.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $347,50"
+    },
+    "descripcion": "leniderm loci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC26808-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levocetirizina-diclorhidrato-005--jarabe-la-sante-7703763997299/p",
+    "fecha_hora_scraping": "2021-06-14 04:18:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOCETIRIZINA DICLORHIDRATO 0.05 % JARABE LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/LEVOCETIRIZINA_DICLORHIDRATO_005__JARABE_LA_SANTE.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$44.950",
+        "precioPorSku js-PUM": "Mililitro a $449,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0014984"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

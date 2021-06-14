@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallas-higienicas-nosotras-maternidadtoallas-higienicas-buenas-noches-7702027440106/p",
+    "fecha_hora_scraping": "2021-06-13 23:14:03",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toallas higienicas nosotras maternidad+toallas higienicas buenas noches",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallas_higienicas_nosotras_maternidadtoallas_higienicas_buenas_noches.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$16.650",
+        "precioPorSku js-PUM": "Unidad a $1.280,77"
+    },
+    "descripcion": "of toall hig nosotras mate10+buenoch3u",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00586-10CO /NSOA02"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

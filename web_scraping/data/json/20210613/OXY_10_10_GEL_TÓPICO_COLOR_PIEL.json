@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oxy-10-10-gel-topico-color-piel-310742039535/p",
+    "fecha_hora_scraping": "2021-06-14 08:39:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "OXY 10 10% GEL T\u00d3PICO COLOR PIEL",
+    "nombre_imagen": "./web_scraping/data/img/OXY_10_10_GEL_T\u00d3PICO_COLOR_PIEL.jpg",
+    "presentacion": "CAJA X 30 G",
+    "precio": {
+        "bestPrice": "$20.800",
+        "precioPorSku js-PUM": "Gramo a $693,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 G"
+        ],
+        [
+            "Concentracion",
+            "10 G/ML"
+        ],
+        [
+            "Principio activo",
+            "BENZOILO PEROXIDO"
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-013311-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

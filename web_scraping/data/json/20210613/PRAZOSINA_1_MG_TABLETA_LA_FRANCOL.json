@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prazosina-1-mg-tableta-la-francol-7702207573846/p",
+    "fecha_hora_scraping": "2021-06-14 04:13:12",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRAZOSINA 1 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/PRAZOSINA_1_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$7.100",
+        "precioPorSku js-PUM": "Tableta a $236,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "PRAZOSINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-012990-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

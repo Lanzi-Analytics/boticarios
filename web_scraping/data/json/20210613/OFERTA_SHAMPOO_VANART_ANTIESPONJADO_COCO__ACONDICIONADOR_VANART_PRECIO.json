@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-shampoo-vanart-antiesponjado-coco--acondicionador-vanart-precio-650240039058/p",
+    "fecha_hora_scraping": "2021-06-13 23:37:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "OFERTA SHAMPOO VANART ANTIESPONJADO COCO + ACONDICIONADOR VANART PRECIO",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_SHAMPOO_VANART_ANTIESPONJADO_COCO__ACONDICIONADOR_VANART_PRECIO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$23.900",
+        "precioPorSku js-PUM": "Unidad a $23.900,00"
+    },
+    "descripcion": "OFERTA SHAMPOO VANART ANTIESPONJADO COCO + ACONDICIONADOR VANART PRECIO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93135-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

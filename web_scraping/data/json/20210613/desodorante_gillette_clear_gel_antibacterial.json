@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7500435128315desodorante-gillette-clear-gel-antibacterialhigiene-y-cuidado-personaldesodorantesprocter--gamble-7500435128315/p",
+    "fecha_hora_scraping": "2021-06-14 05:23:03",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante gillette clear gel antibacterial",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_gillette_clear_gel_antibacterial.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "PrevPrice": "Antes:$31.800",
+        "bestPrice": "$25.440",
+        "precioPorSku js-PUM": "Gramo a $12.720,00"
+    },
+    "descripcion": "desodorante gillette clear gel antibacterial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77292-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterex-total-pague5-lleve6-fresa-y-vainilla-7707190471742/p",
+    "fecha_hora_scraping": "2021-06-14 02:05:18",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "enterex total pague:5 lleve:6 fresa y vainilla",
+    "nombre_imagen": "./web_scraping/data/img/enterex_total_pague5_lleve6_fresa_y_vainilla.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$45.850",
+        "precioPorSku js-PUM": "Mililitro a $38,69"
+    },
+    "descripcion": "enterex total pague:5 lleve:6 fresa y vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "AMAREY NOVA MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000811-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

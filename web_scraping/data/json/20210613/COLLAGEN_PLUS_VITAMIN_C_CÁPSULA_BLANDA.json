@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/collagen-plus-vitamin-c-capsula-blanda-665716186600/p",
+    "fecha_hora_scraping": "2021-06-14 04:45:30",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "COLLAGEN PLUS VITAMIN C C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/COLLAGEN_PLUS_VITAMIN_C_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$33.600",
+        "precioPorSku js-PUM": "Capsula a $560,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003176"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

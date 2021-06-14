@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-nivea-body-reafirmante-q-10-4005900491060/p",
+    "fecha_hora_scraping": "2021-06-14 01:41:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "crema nivea body reafirmante q 10",
+    "nombre_imagen": "./web_scraping/data/img/crema_nivea_body_reafirmante_q_10.jpg",
+    "presentacion": "BOTELLA X 1000 ML",
+    "precio": {
+        "bestPrice": "$41.300",
+        "precioPorSku js-PUM": "Mililitro a $41,30"
+    },
+    "descripcion": "crema nivea body reafirmante q 10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 1000 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36786-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

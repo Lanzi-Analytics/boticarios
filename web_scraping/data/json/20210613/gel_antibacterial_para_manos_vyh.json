@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-antibacterial-para-manos-vyh-7709967420809/p",
+    "fecha_hora_scraping": "2021-06-14 09:27:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "gel antibacterial para manos vyh",
+    "nombre_imagen": "./web_scraping/data/img/gel_antibacterial_para_manos_vyh.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$12.350",
+        "precioPorSku js-PUM": "Mililitro a $24,70"
+    },
+    "descripcion": "gel antibacterial para manos vyh",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VISION AND HEALTH LAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99262-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stamyl-forte-300-mg100-mg-tableta-recubierta-7703454122993/p",
+    "fecha_hora_scraping": "2021-06-14 01:03:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "STAMYL FORTE 300 MG/100 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/STAMYL_FORTE_300_MG100_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$50.050",
+        "precioPorSku js-PUM": "Tableta a $2.502,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "PANCREATINA 3 NF SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014182"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

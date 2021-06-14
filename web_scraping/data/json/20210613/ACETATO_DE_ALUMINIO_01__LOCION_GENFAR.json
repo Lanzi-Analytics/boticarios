@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acetato-de-aluminio-01--locion-genfar-7705959006709/p",
+    "fecha_hora_scraping": "2021-06-14 00:20:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACETATO DE ALUMINIO 0.1 % LOCION GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/ACETATO_DE_ALUMINIO_01__LOCION_GENFAR.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$8.900",
+        "precioPorSku js-PUM": "Mililitro a $74,17"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "1.18 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-002965-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

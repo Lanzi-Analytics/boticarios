@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hilo-dental-expanding-floss-70942302401/p",
+    "fecha_hora_scraping": "2021-06-14 01:37:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "HILO DENTAL EXPANDING FLOSS",
+    "nombre_imagen": "./web_scraping/data/img/HILO_DENTAL_EXPANDING_FLOSS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Unidad a $9.650,00"
+    },
+    "descripcion": "hilo dental expanding floss",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016924"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

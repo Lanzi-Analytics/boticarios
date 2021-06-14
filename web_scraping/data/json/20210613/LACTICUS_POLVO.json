@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lacticus-polvo-7702771870693/p",
+    "fecha_hora_scraping": "2021-06-14 02:11:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LACTICUS POLVO",
+    "nombre_imagen": "./web_scraping/data/img/LACTICUS_POLVO.jpg",
+    "presentacion": "CAJA X 10 SOB",
+    "precio": {
+        "bestPrice": "$21.000",
+        "precioPorSku js-PUM": "Unidad a $2.100,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 SOB"
+        ],
+        [
+            "Concentracion",
+            "19 MG"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003757"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

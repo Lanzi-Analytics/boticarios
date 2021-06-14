@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aquasol-b6-capsula-blanda-7707355055503/p",
+    "fecha_hora_scraping": "2021-06-14 08:03:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AQUASOL B6 CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/AQUASOL_B6_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$52.600",
+        "precioPorSku js-PUM": "Capsula a $1.753,33"
+    },
+    "descripcion": "AQUASOL B6 CAPSULA BLANDA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0000313-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

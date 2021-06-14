@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-platano-maduro-ramo-7702914158909/p",
+    "fecha_hora_scraping": "2021-06-13 23:39:33",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas platano maduro ramo",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_platano_maduro_ramo.jpg",
+    "presentacion": "PAQUETE X 40 G",
+    "precio": {
+        "bestPrice": "$1.550",
+        "precioPorSku js-PUM": "Gramo a $38,75"
+    },
+    "descripcion": "pasabocas platano maduro ramo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 40 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS RAMO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAR21I504"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

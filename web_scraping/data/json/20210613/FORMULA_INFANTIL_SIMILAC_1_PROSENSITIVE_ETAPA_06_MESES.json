@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-similac-1-prosensitive-etapa-0-6-meses-7703186031860/p",
+    "fecha_hora_scraping": "2021-06-13 23:30:36",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL SIMILAC 1 PROSENSITIVE ETAPA 0-6 MESES",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_SIMILAC_1_PROSENSITIVE_ETAPA_06_MESES.jpg",
+    "presentacion": "CAJA X 1400 G",
+    "precio": {
+        "bestPrice": "$118.400",
+        "precioPorSku js-PUM": "Gramo a $84,57"
+    },
+    "descripcion": "formula infantil similac 1 prosensitive",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002862-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

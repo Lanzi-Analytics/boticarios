@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-pequenin-extraproteccion-etapa-5-7707181105984/p",
+    "fecha_hora_scraping": "2021-06-14 06:21:08",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1ALES PEQUE\u00d1IN EXTRAPROTECCI\u00d3N ETAPA 5",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_PEQUE\u00d1IN_EXTRAPROTECCI\u00d3N_ETAPA_5.jpg",
+    "presentacion": "EMPAQUE X 10 UN",
+    "precio": {
+        "bestPrice": "$12.100",
+        "precioPorSku js-PUM": "Unidad a $1.210,00"
+    },
+    "descripcion": "pa\u00f1l peq extraprotec et5 x 10 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "205V-003106"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

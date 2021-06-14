@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-palette-pops-sombras-naturalista-309973100015/p",
+    "fecha_hora_scraping": "2021-06-14 09:25:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL PALETTE POPS sombras naturalista",
+    "nombre_imagen": "./web_scraping/data/img/AL_PALETTE_POPS_sombras_naturalista.jpg",
+    "presentacion": "CONTENEDOR X 5G",
+    "precio": {
+        "bestPrice": "$67.700",
+        "precioPorSku js-PUM": "Gramo a $15.044,44"
+    },
+    "descripcion": "al palette pops sombras naturalista",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 5G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83800-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

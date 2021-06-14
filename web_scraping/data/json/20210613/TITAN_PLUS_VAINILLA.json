@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/titan-plus-vainilla-814465011989/p",
+    "fecha_hora_scraping": "2021-06-14 05:29:08",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "TITAN PLUS VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/TITAN_PLUS_VAINILLA.jpg",
+    "presentacion": "BOLSA X 2 Libra",
+    "precio": {
+        "bestPrice": "$56.300",
+        "precioPorSku js-PUM": "Unidad a $28.150,00"
+    },
+    "descripcion": "titan plus vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 2 Libra"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "DIOSMINA"
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD06I1505"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

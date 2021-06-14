@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-eucerin-piel-sensible-4005800631702/p",
+    "fecha_hora_scraping": "2021-06-14 03:38:56",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "LABIAL EUCERIN PIEL SENSIBLE",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_EUCERIN_PIEL_SENSIBLE.jpg",
+    "presentacion": "BARRA X 4,8 G",
+    "precio": {
+        "bestPrice": "$26.850",
+        "precioPorSku js-PUM": "Gramo a $5.593,75"
+    },
+    "descripcion": "labial eucerin piel sensible",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 4,8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC42345-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

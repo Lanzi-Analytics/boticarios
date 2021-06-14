@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-agua-micelar-3760019121963/p",
+    "fecha_hora_scraping": "2021-06-13 23:40:12",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN AGUA MICELAR",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_AGUA_MICELAR.jpg",
+    "presentacion": "BOTELLA X 250 ML",
+    "precio": {
+        "bestPrice": "$56.500",
+        "precioPorSku js-PUM": "Mililitro a $226,00"
+    },
+    "descripcion": "soskin agua micelar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69432-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

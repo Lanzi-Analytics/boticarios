@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-despigmen-p3-crema-dia-spf50-8430795008721/p",
+    "fecha_hora_scraping": "2021-06-14 00:01:19",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE DESPIGMEN P3 CREMA D\u00cdA SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_DESPIGMEN_P3_CREMA_D\u00cdA_SPF50.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$130.400",
+        "precioPorSku js-PUM": "Mililitro a $4.346,67"
+    },
+    "descripcion": "atache despigmen p3 crema d\u00eda spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92801-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

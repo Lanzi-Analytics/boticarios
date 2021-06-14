@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-pequenin-premium-touch-etapa-5-7702026146689/p",
+    "fecha_hora_scraping": "2021-06-14 03:51:59",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1ALES PEQUENIN PREMIUM TOUCH ETAPA 5",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_PEQUENIN_PREMIUM_TOUCH_ETAPA_5.jpg",
+    "presentacion": "PAQUETE X 26 UN",
+    "precio": {
+        "bestPrice": "$29.850",
+        "precioPorSku js-PUM": "Unidad a $1.148,08"
+    },
+    "descripcion": "pa\u00f1ales pequenin premium touch etapa 5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 26 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05986-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

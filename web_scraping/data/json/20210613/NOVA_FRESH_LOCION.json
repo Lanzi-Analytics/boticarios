@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nova-fresh-locion-7707206270321/p",
+    "fecha_hora_scraping": "2021-06-14 05:39:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NOVA FRESH LOCION",
+    "nombre_imagen": "./web_scraping/data/img/NOVA_FRESH_LOCION.jpg",
+    "presentacion": "FRASCO X 160 ML",
+    "precio": {
+        "bestPrice": "$74.150",
+        "precioPorSku js-PUM": "Mililitro a $463,44"
+    },
+    "descripcion": "nova fresh locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 160 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC35645-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

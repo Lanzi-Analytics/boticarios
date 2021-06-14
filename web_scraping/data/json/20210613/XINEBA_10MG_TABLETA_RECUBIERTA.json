@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xineba-10mg-tableta-recubierta-7707184600493/p",
+    "fecha_hora_scraping": "2021-06-14 08:12:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "XINEBA 10MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/XINEBA_10MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$70.200",
+        "precioPorSku js-PUM": "Tableta a $2.340,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "ROSUVASTATINA CALCICA"
+        ],
+        [
+            "Laboratorio",
+            "CLOSTER PHARMA SAS EN REORGANIZACIO"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013668"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

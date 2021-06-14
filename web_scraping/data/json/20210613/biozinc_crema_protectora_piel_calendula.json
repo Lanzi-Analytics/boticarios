@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biozinc-crema-protectora-piel-calendula-7707145301490/p",
+    "fecha_hora_scraping": "2021-06-14 07:38:57",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "biozinc crema protectora piel calendula",
+    "nombre_imagen": "./web_scraping/data/img/biozinc_crema_protectora_piel_calendula.jpg",
+    "presentacion": "FRASCO X 20 GR",
+    "precio": {
+        "bestPrice": "$3.850",
+        "precioPorSku js-PUM": "Gramo a $192,50"
+    },
+    "descripcion": "biozinc crema protectora piel calendula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 GR"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS DISANFER SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC43422-99CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

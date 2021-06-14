@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stratamed-gel-7640140193342/p",
+    "fecha_hora_scraping": "2021-06-14 06:30:24",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "STRATAMED GEL",
+    "nombre_imagen": "./web_scraping/data/img/STRATAMED_GEL.jpg",
+    "presentacion": "TUBO X 10 G",
+    "precio": {
+        "bestPrice": "$102.500",
+        "precioPorSku js-PUM": "Gramo a $10.250,00"
+    },
+    "descripcion": "STRATAMED GEL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020DM-0021172"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

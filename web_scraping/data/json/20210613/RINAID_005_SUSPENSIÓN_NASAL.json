@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rinaid-005-suspension-nasal-7702057012427/p",
+    "fecha_hora_scraping": "2021-06-14 00:03:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RINAID 0.05% SUSPENSI\u00d3N NASAL",
+    "nombre_imagen": "./web_scraping/data/img/RINAID_005_SUSPENSI\u00d3N_NASAL.jpg",
+    "presentacion": "FRASCO X 10G",
+    "precio": {
+        "bestPrice": "$56.900",
+        "precioPorSku js-PUM": "Gramo a $5.690,00"
+    },
+    "descripcion": "RINAID 0.05% SUSPENSI\u00d3N NASAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "MOMETASONA FUROATO ANHIDRA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0014581-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallitas-humedas-winny-avena-y-miel-precio-especial-7701021145963/p",
+    "fecha_hora_scraping": "2021-06-14 01:42:45",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "oferta toallitas h\u00famedas winny avena y miel precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallitas_h\u00famedas_winny_avena_y_miel_precio_especial.jpg",
+    "presentacion": "PAQUETE X 80 UN",
+    "precio": {
+        "bestPrice": "$15.600",
+        "precioPorSku js-PUM": "Unidad a $130,00"
+    },
+    "descripcion": "of toall hum winny avenaymiel 80+40 pe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 80 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44914-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

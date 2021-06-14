@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fresh-skin-ultra-hidratante-7707183820410/p",
+    "fecha_hora_scraping": "2021-06-14 08:50:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "FRESH SKIN ULTRA HIDRATANTE",
+    "nombre_imagen": "./web_scraping/data/img/FRESH_SKIN_ULTRA_HIDRATANTE.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "PrevPrice": "Antes:$133.600",
+        "bestPrice": "$100.200",
+        "precioPorSku js-PUM": "Mililitro a $668,00"
+    },
+    "descripcion": "fresh skin ultra hidratante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89116-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-antifluido-kis-7707249358390/p",
+    "fecha_hora_scraping": "2021-06-14 05:23:36",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "tapabocas antifluido kis",
+    "nombre_imagen": "./web_scraping/data/img/tapabocas_antifluido_kis.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$5.050",
+        "precioPorSku js-PUM": "Unidad a $5.050,00"
+    },
+    "descripcion": "tapabocas antifluido kis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KAMEX INTERNATIONAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "N/A N/A"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

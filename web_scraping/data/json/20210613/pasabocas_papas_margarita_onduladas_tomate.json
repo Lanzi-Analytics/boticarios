@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-papas-margarita-onduladas-tomate-7702189053848/p",
+    "fecha_hora_scraping": "2021-06-14 03:07:36",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas papas margarita onduladas tomate",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_papas_margarita_onduladas_tomate.jpg",
+    "presentacion": "PAQUETE X 105 G",
+    "precio": {
+        "bestPrice": "$3.550",
+        "precioPorSku js-PUM": "Gramo a $33,81"
+    },
+    "descripcion": "pasabocas papas margarita onduladas tomate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 105 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD21I37210"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

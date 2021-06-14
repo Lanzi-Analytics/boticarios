@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/entresto-200-mg-comprimido-recubierto-7612797544174/p",
+    "fecha_hora_scraping": "2021-06-14 08:44:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ENTRESTO 200 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/ENTRESTO_200_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 60 TAB",
+    "precio": {
+        "bestPrice": "$286.300",
+        "precioPorSku js-PUM": "Tableta a $4.771,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "102,8 MG"
+        ],
+        [
+            "Principio activo",
+            "SACUBITRILO VALSART\u00c1N S\u00d3DICO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017322"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

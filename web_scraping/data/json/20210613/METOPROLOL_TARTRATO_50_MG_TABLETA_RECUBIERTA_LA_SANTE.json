@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metoprolol-tartrato-50-mg-tableta-recubierta-la-sante-7703763178025/p",
+    "fecha_hora_scraping": "2021-06-14 06:14:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METOPROLOL TARTRATO 50 MG TABLETA RECUBIERTA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/METOPROLOL_TARTRATO_50_MG_TABLETA_RECUBIERTA_LA_SANTE.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$2.650",
+        "precioPorSku js-PUM": "Tableta a $265,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "METOPROLOL TARTRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001712-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

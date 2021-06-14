@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7896116866219yasmin-3-mg003-mg-comprimido-recubiertomedicamentosformuladosbayer-7896116866219/p",
+    "fecha_hora_scraping": "2021-06-14 10:26:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "YASMIN 3 MG/0.03 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/YASMIN_3_MG003_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 21 COM",
+    "precio": {
+        "bestPrice": "$24.400",
+        "precioPorSku js-PUM": "Comprimido a $1.161,90"
+    },
+    "descripcion": "yasmin 3 mg/0.03 mg comprimido recubierto",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 COM"
+        ],
+        [
+            "Concentracion",
+            "3 MG 0,03 MG"
+        ],
+        [
+            "Principio activo",
+            "DROSPIRENONA ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-015030-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

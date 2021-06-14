@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sol-or-gel-repair-spf40-7704190000231/p",
+    "fecha_hora_scraping": "2021-06-14 04:24:11",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "SOLOR GEL REPAIR PROTECTOR SOLAR SPF40+",
+    "nombre_imagen": "./web_scraping/data/img/SOLOR_GEL_REPAIR_PROTECTOR_SOLAR_SPF40.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$55.250",
+        "precioPorSku js-PUM": "Gramo a $920,83"
+    },
+    "descripcion": "protector solar sol-or gel repair spf40",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIFARMA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73656-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/castera-agua-thermal-7704232001912/p",
+    "fecha_hora_scraping": "2021-06-14 04:18:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CASTERA AGUA THERMAL",
+    "nombre_imagen": "./web_scraping/data/img/CASTERA_AGUA_THERMAL.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$22.650",
+        "precioPorSku js-PUM": "Mililitro a $453,00"
+    },
+    "descripcion": "castera agua thermal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82917-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

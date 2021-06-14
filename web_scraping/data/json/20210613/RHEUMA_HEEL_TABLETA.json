@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rheuma-heel-tableta-7707336721489/p",
+    "fecha_hora_scraping": "2021-06-14 07:11:45",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "RHEUMA HEEL TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/RHEUMA_HEEL_TABLETA.jpg",
+    "presentacion": "FRASCO X 50 COM",
+    "precio": {
+        "bestPrice": "$51.950",
+        "precioPorSku js-PUM": "Comprimido a $1.039,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 COM"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2018-0000698-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gotabiotic-d-solucion-oftalmica-7795368002010/p",
+    "fecha_hora_scraping": "2021-06-14 09:05:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GOTABIOTIC D SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/GOTABIOTIC_D_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$46.500",
+        "precioPorSku js-PUM": "Mililitro a $9.300,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "3 MG/ML 0.2 MG/ML 0.05 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TOBRAMICINA NEFAZOLINA CLORHIDRATO DEXAMETASONA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004325-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

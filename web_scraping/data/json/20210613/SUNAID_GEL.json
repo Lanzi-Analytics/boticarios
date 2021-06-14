@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunaid-gel-7707206270017/p",
+    "fecha_hora_scraping": "2021-06-14 02:23:29",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "SUNAID GEL",
+    "nombre_imagen": "./web_scraping/data/img/SUNAID_GEL.jpg",
+    "presentacion": "FRASCO X 70 G",
+    "precio": {
+        "bestPrice": "$93.400",
+        "precioPorSku js-PUM": "Gramo a $1.334,29"
+    },
+    "descripcion": "sunaid gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 70 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC928-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

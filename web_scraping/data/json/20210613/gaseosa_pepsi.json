@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-pepsi-7702090031966/p",
+    "fecha_hora_scraping": "2021-06-14 04:51:16",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa pepsi",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_pepsi.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Mililitro a $4,38"
+    },
+    "descripcion": "gaseosa pepsi",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "19M11496"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

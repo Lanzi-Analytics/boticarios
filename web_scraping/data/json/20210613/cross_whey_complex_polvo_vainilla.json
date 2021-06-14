@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cross-whey-complex-polvo-vainilla-7707368890221/p",
+    "fecha_hora_scraping": "2021-06-13 23:47:29",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "cross whey complex polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/cross_whey_complex_polvo_vainilla.jpg",
+    "presentacion": "FRASCO X 1362 G",
+    "precio": {
+        "bestPrice": "$59.000",
+        "precioPorSku js-PUM": "Gramo a $43,32"
+    },
+    "descripcion": "cross whey complex polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 1362 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I89315"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

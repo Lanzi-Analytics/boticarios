@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/risperdal-1-mg-tableta-recubierta-7501109901609/p",
+    "fecha_hora_scraping": "2021-06-14 09:21:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RISPERDAL 1 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/RISPERDAL_1_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$8.200",
+        "precioPorSku js-PUM": "Tableta a $410,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "RISPERIDONA"
+        ],
+        [
+            "Laboratorio",
+            "JANSSEN CILAG SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-015090-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/3401346673335naos-colombiadermocosmeticabellezabioderma-sensibio-gel-contorno-de-ojosbioderma-biodemar-bioderm-3401346673335/p",
+    "fecha_hora_scraping": "2021-06-14 07:15:18",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA SENSIBIO GEL CONTORNO DE OJOS",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_SENSIBIO_GEL_CONTORNO_DE_OJOS.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$98.700",
+        "precioPorSku js-PUM": "Mililitro a $6.580,00"
+    },
+    "descripcion": "bioderma sensibio gel contorno de ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89204-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

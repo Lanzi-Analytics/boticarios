@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057079482tecnoquimicasformuladosmedicamentosomeprazol-20mg-capsula-dura-tecnoquimicasomeprazol-7702057079482/p",
+    "fecha_hora_scraping": "2021-06-14 02:52:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OMEPRAZOL 20MG CAPSULA DURA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/OMEPRAZOL_20MG_CAPSULA_DURA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$7.350",
+        "precioPorSku js-PUM": "Tableta a $525,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "OMEPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002008-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

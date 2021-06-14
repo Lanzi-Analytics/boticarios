@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/freelace-hw-graphite-black-acc-6901443296064/p",
+    "fecha_hora_scraping": "2021-06-14 05:38:25",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "freelace hw graphite black acc",
+    "nombre_imagen": "./web_scraping/data/img/freelace_hw_graphite_black_acc.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$269.900",
+        "bestPrice": "$202.425",
+        "precioPorSku js-PUM": "Unidad a $202.425"
+    },
+    "descripcion": "freelace hw graphite black acc",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA DE COMERCIO SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

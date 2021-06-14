@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-nino-oral-b-mickey-3014260019723/p",
+    "fecha_hora_scraping": "2021-06-14 02:06:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental oral-b kids mickey",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_oralb_kids_mickey.jpg",
+    "presentacion": "PAQUETE X 1 UN",
+    "precio": {
+        "bestPrice": "$4.050",
+        "precioPorSku js-PUM": "Unidad a $4.050,00"
+    },
+    "descripcion": "cepillo dent infant nino oral b mickey",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

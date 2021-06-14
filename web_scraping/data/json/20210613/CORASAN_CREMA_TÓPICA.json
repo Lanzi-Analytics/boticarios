@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corasan-crema-topica-7706309001191/p",
+    "fecha_hora_scraping": "2021-06-14 05:59:09",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CORASAN CREMA T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/CORASAN_CREMA_T\u00d3PICA.jpg",
+    "presentacion": "TUBO X 20G",
+    "precio": {
+        "bestPrice": "$16.600",
+        "precioPorSku js-PUM": "Gramo a $830,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20G"
+        ],
+        [
+            "Concentracion",
+            "1 G 0,1 G 0,05 G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL GENTAMICINA SULFATO BETAMETASONA DIPROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0001625-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goma-sin-azucar-trident-18s-yerbabuena-306g-7506105606060/p",
+    "fecha_hora_scraping": "2021-06-13 23:29:13",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMA SIN AZUCAR TRIDENT 18S YERBABUENA 30.6G",
+    "nombre_imagen": "./web_scraping/data/img/GOMA_SIN_AZUCAR_TRIDENT_18S_YERBABUENA_306G.jpg",
+    "presentacion": "PAQUETE X30,6G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $104,58"
+    },
+    "descripcion": "GOMA SIN AZUCAR TRIDENT 18S YERBABUENA 30.6G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X30,6G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I172614"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

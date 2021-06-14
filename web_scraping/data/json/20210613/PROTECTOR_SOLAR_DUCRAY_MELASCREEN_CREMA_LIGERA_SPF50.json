@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-ducray-melascreen-crema-ligera-spf50-3282770049503/p",
+    "fecha_hora_scraping": "2021-06-13 23:20:42",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR DUCRAY MELASCREEN CREMA LIGERA SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_DUCRAY_MELASCREEN_CREMA_LIGERA_SPF50.jpg",
+    "presentacion": "FRASCO X 40 ML",
+    "precio": {
+        "bestPrice": "$94.750",
+        "precioPorSku js-PUM": "Mililitro a $2.368,75"
+    },
+    "descripcion": "protector solar ducray melascreen crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC35166-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

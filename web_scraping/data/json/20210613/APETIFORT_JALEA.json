@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707232094038natural-freshlynaturalesmedicamentosapetifort-jalea-7707232094038/p",
+    "fecha_hora_scraping": "2021-06-14 07:54:13",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "APETIFORT JALEA",
+    "nombre_imagen": "./web_scraping/data/img/APETIFORT_JALEA.jpg",
+    "presentacion": "FRASCO X 300 G",
+    "precio": {
+        "bestPrice": "$27.700",
+        "precioPorSku js-PUM": "Gramo a $92,33"
+    },
+    "descripcion": "apetifort jalea",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000527-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

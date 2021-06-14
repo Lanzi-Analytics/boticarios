@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acid-mantle-jabon-7702123003137/p",
+    "fecha_hora_scraping": "2021-06-14 01:31:56",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ACID MANTLE JABON",
+    "nombre_imagen": "./web_scraping/data/img/ACID_MANTLE_JABON.jpg",
+    "presentacion": "BARRA X 90 G",
+    "precio": {
+        "bestPrice": "$6.700",
+        "precioPorSku js-PUM": "Gramo a $74,44"
+    },
+    "descripcion": "acid mantle jabon",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36752-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

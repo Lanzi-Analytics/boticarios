@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-headshoulders-2-en-1-suave-y-manejable-7500435019828/p",
+    "fecha_hora_scraping": "2021-06-14 07:47:46",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo head & shoulders suave y manejable 2 en 1",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_head__shoulders_suave_y_manejable_2_en_1.jpg",
+    "presentacion": "BOTELLA X 375 ML",
+    "precio": {
+        "bestPrice": "$20.750",
+        "precioPorSku js-PUM": "Mililitro a $55,33"
+    },
+    "descripcion": "hs shamp 2in1 suave y manejable 375ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 375 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80020-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

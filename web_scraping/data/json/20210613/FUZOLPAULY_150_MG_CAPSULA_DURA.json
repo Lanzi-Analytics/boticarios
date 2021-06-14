@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fuzolpauly-150-mg-capsula-dura-7703178000188/p",
+    "fecha_hora_scraping": "2021-06-14 09:47:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FUZOLPAULY 150 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/FUZOLPAULY_150_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 1 CAP",
+    "precio": {
+        "bestPrice": "$47.700",
+        "precioPorSku js-PUM": "Capsula a $47.700,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "FLUCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-013725-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

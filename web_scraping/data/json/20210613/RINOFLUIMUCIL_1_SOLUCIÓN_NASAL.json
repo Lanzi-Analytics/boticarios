@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rinofluimucil-1-solucion-nasal-7703445120021/p",
+    "fecha_hora_scraping": "2021-06-14 04:10:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RINOFLUIMUCIL 1% SOLUCI\u00d3N NASAL",
+    "nombre_imagen": "./web_scraping/data/img/RINOFLUIMUCIL_1_SOLUCI\u00d3N_NASAL.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$25.350",
+        "precioPorSku js-PUM": "Mililitro a $2.535,00"
+    },
+    "descripcion": "rinofluimucil 1% soluci\u00f3n nasal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "N-ACETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "ZAMBON COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0007038-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/afelius-kids-emulsion-7707355051093/p",
+    "fecha_hora_scraping": "2021-06-14 03:32:03",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "AFELIUS KIDS EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/AFELIUS_KIDS_EMULSION.jpg",
+    "presentacion": "TUBO X 90 G",
+    "precio": {
+        "PrevPrice": "Antes:$65.250",
+        "bestPrice": "$42.412",
+        "precioPorSku js-PUM": "Gramo a $471,24"
+    },
+    "descripcion": "afelius kids emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00923-04.EC"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

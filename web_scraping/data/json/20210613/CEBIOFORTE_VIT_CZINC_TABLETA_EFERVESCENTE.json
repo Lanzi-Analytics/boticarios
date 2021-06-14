@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cebioforte-vit-czinc-tableta-efervescente-7702418005754/p",
+    "fecha_hora_scraping": "2021-06-14 03:50:02",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CEBIOFORTE VIT C+ZINC TABLETA EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/CEBIOFORTE_VIT_CZINC_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "TUBO X 10 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$18.750",
+        "bestPrice": "$15.000",
+        "precioPorSku js-PUM": "Tableta a $1.500,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTIPLES COMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0002224"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

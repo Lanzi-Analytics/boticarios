@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-seven-up-7702090031973/p",
+    "fecha_hora_scraping": "2021-06-13 23:22:34",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa seven-up",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_sevenup.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$1.600",
+        "precioPorSku js-PUM": "Mililitro a $4,00"
+    },
+    "descripcion": "gaseosa seven-up",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "19L03300"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

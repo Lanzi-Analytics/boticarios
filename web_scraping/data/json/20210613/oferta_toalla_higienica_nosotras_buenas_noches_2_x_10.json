@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toalla-higienica-nosotras-buenas-noches-2-x-10-7702027402821/p",
+    "fecha_hora_scraping": "2021-06-14 05:11:24",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toalla higienica nosotras buenas noches 2 x 10",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toalla_higienica_nosotras_buenas_noches_2_x_10.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$19.400",
+        "precioPorSku js-PUM": "Unidad a $970,00"
+    },
+    "descripcion": "oferta toalla higienica nosotras buenas noches 2 x 10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02193-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

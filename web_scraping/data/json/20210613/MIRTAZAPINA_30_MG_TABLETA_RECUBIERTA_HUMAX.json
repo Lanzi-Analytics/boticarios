@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mirtazapina-30-mg-tableta-recubierta-humax-7707288824092/p",
+    "fecha_hora_scraping": "2021-06-14 04:59:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MIRTAZAPINA 30 MG TABLETA RECUBIERTA HUMAX",
+    "nombre_imagen": "./web_scraping/data/img/MIRTAZAPINA_30_MG_TABLETA_RECUBIERTA_HUMAX.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$15.450",
+        "precioPorSku js-PUM": "Tableta a $515,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "MIRTAZAPINA"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013910-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

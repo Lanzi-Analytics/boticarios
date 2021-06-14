@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunglass-polvo-compacto-natural-7707183820076/p",
+    "fecha_hora_scraping": "2021-06-13 23:09:08",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "sunglass polvo compacto natural",
+    "nombre_imagen": "./web_scraping/data/img/sunglass_polvo_compacto_natural.jpg",
+    "presentacion": "ESTUCHE X 12 G",
+    "precio": {
+        "PrevPrice": "Antes:$109.400",
+        "bestPrice": "$82.050",
+        "precioPorSku js-PUM": "Gramo a $6.837,50"
+    },
+    "descripcion": "sunglass polvo compacto natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ESTUCHE X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69986-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/veracef-250-mg5-ml-polvo-para-suspension-oral-7707351599735/p",
+    "fecha_hora_scraping": "2021-06-14 10:20:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VERACEF 250 MG/5 ML POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/VERACEF_250_MG5_ML_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 80 ML",
+    "precio": {
+        "bestPrice": "$58.500",
+        "precioPorSku js-PUM": "Mililitro a $731,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 ML"
+        ],
+        [
+            "Concentracion",
+            "5 G"
+        ],
+        [
+            "Principio activo",
+            "CEFRADINA"
+        ],
+        [
+            "Laboratorio",
+            "AXON PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0016015-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

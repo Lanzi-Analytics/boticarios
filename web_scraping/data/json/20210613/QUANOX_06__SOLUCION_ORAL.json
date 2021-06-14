@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707355054995quanox-06--solucion-oralmedicamentosformuladossiegfriedivermectina-7707355054995/p",
+    "fecha_hora_scraping": "2021-06-14 00:56:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "QUANOX 0.6 % SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/QUANOX_06__SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "PrevPrice": "Antes:$28.400",
+        "bestPrice": "$19.880",
+        "precioPorSku js-PUM": "Mililitro a $3.976,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "IVERMECTINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0007746-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

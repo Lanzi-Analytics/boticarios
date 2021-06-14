@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neuro-15-fosforo-nf-capsula-blanda-7706440000671/p",
+    "fecha_hora_scraping": "2021-06-14 00:41:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEURO 15 FOSFORO NF C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/NEURO_15_FOSFORO_NF_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10CAP",
+    "precio": {
+        "bestPrice": "$81.400",
+        "precioPorSku js-PUM": "Capsula a $4.070,00"
+    },
+    "descripcion": "neuro 15 fosforo nf c\u00e1psula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0000318-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

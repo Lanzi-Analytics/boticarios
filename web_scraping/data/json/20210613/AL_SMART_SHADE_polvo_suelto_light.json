@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-smart-shade-polvo-suelto-light-309975353013/p",
+    "fecha_hora_scraping": "2021-06-14 06:22:48",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL SMART SHADE polvo suelto light",
+    "nombre_imagen": "./web_scraping/data/img/AL_SMART_SHADE_polvo_suelto_light.jpg",
+    "presentacion": "CONTENEDOR X 28G",
+    "precio": {
+        "bestPrice": "$66.550",
+        "precioPorSku js-PUM": "Gramo a $2.351,59"
+    },
+    "descripcion": "al smart shade polvo suelto light",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 28G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NS0057382-13C0"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

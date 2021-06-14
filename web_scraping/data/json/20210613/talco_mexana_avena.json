@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/talco-mexana-avena-7702123008958/p",
+    "fecha_hora_scraping": "2021-06-14 05:42:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "talco mexana avena",
+    "nombre_imagen": "./web_scraping/data/img/talco_mexana_avena.jpg",
+    "presentacion": "ENVASE X 150 G",
+    "precio": {
+        "bestPrice": "$15.300",
+        "precioPorSku js-PUM": "Gramo a $102,00"
+    },
+    "descripcion": "talco mexana avena 150g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 150 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40634-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

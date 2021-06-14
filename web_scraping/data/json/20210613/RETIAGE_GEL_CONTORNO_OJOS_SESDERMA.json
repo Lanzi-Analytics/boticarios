@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979417336retiage-gel-contorno-ojos-sesdermabellezadermocosmetica-8429979417336/p",
+    "fecha_hora_scraping": "2021-06-14 04:04:34",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "RETIAGE GEL CONTORNO OJOS SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/RETIAGE_GEL_CONTORNO_OJOS_SESDERMA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$119.650",
+        "precioPorSku js-PUM": "Mililitro a $7.976,67"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC62407-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diapo-care-crema-8714651003755/p",
+    "fecha_hora_scraping": "2021-06-14 05:50:01",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "DIAPO-CARE CREMA",
+    "nombre_imagen": "./web_scraping/data/img/DIAPOCARE_CREMA.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $732,50"
+    },
+    "descripcion": "diapo-care crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69290-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

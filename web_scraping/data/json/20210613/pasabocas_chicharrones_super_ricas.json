@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-chicharrones-super-ricas-7702152007038/p",
+    "fecha_hora_scraping": "2021-06-14 04:54:23",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas chicharrones super ricas",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_chicharrones_super_ricas.jpg",
+    "presentacion": "PAQUETE X 50 G",
+    "precio": {
+        "bestPrice": "$3.400",
+        "precioPorSku js-PUM": "Gramo a $68,00"
+    },
+    "descripcion": "pasabocas chicharrones super ricas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

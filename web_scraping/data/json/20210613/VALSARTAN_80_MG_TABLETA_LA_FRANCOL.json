@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/valsartan-80-mg-tableta-la-francol-7706569021021/p",
+    "fecha_hora_scraping": "2021-06-14 09:49:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VALSARTAN 80 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/VALSARTAN_80_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$12.100",
+        "precioPorSku js-PUM": "Tableta a $864,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "80 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2006M-0005601"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

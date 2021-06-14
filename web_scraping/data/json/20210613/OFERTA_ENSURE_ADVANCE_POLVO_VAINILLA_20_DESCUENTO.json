@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-ensure-advance-polvo-vainilla-20-descuento-7703186032157/p",
+    "fecha_hora_scraping": "2021-06-14 04:38:33",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA ENSURE ADVANCE POLVO VAINILLA 20% DESCUENTO",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ENSURE_ADVANCE_POLVO_VAINILLA_20_DESCUENTO.jpg",
+    "presentacion": "TARRO X 1.250 G",
+    "precio": {
+        "bestPrice": "$119.750",
+        "precioPorSku js-PUM": "Gramo a $95,80"
+    },
+    "descripcion": "oferta ensure advance polvo vainilla 20% descuento",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 1.250 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004359-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

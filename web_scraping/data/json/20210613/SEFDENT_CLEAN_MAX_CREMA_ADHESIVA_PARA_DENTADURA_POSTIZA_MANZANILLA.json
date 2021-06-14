@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sefdent-clean-max-crema-adhesiva-para-dentadura-postiza-manzanilla-7800014000170/p",
+    "fecha_hora_scraping": "2021-06-14 01:58:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "SEFDENT CLEAN MAX CREMA ADHESIVA PARA DENTADURA POSTIZA MANZANILLA",
+    "nombre_imagen": "./web_scraping/data/img/SEFDENT_CLEAN_MAX_CREMA_ADHESIVA_PARA_DENTADURA_POSTIZA_MANZANILLA.jpg",
+    "presentacion": "TUBO X 50G",
+    "precio": {
+        "bestPrice": "$30.450",
+        "precioPorSku js-PUM": "Gramo a $609,00"
+    },
+    "descripcion": "sefdent clean max crema adhesiva para dentadura postiza manzanilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AVALON PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0019913"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-avene-cleanance-spf50-3282770112634/p",
+    "fecha_hora_scraping": "2021-06-14 08:17:00",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR AVENE CLEANANCE SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_AVENE_CLEANANCE_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$103.250",
+        "precioPorSku js-PUM": "Mililitro a $2.065,00"
+    },
+    "descripcion": "protector solar avene cleanance spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69685-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

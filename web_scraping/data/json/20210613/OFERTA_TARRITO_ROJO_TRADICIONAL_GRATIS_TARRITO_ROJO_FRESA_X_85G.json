@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-tarrito-rojo-tradicional-gratis-tarrito-rojo-fresa-x-85g-7702560024559/p",
+    "fecha_hora_scraping": "2021-06-14 01:14:35",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA TARRITO ROJO TRADICIONAL GRATIS TARRITO ROJO FRESA X 85G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TARRITO_ROJO_TRADICIONAL_GRATIS_TARRITO_ROJO_FRESA_X_85G.jpg",
+    "presentacion": "TARRO X 330 G",
+    "precio": {
+        "bestPrice": "$16.200",
+        "precioPorSku js-PUM": "Gramo a $49,09"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 330 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0000556-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/wassertrol-unguento-oftalmico-7703197053141/p",
+    "fecha_hora_scraping": "2021-06-14 07:49:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "WASSERTROL UNGUENTO OFTALMICO",
+    "nombre_imagen": "./web_scraping/data/img/WASSERTROL_UNGUENTO_OFTALMICO.jpg",
+    "presentacion": "TUBO X 5 G",
+    "precio": {
+        "bestPrice": "$17.000",
+        "precioPorSku js-PUM": "Gramo a $3.400,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 5 G"
+        ],
+        [
+            "Concentracion",
+            "3.5 MG/G 1 MG/G 6000 UI/G"
+        ],
+        [
+            "Principio activo",
+            "NEOMICINA SULFATO DEXAMETASONA POLIMIXINA B SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0006341-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

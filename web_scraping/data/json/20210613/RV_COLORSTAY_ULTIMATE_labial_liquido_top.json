@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-ultimate-labial-liquido-top-309973174504/p",
+    "fecha_hora_scraping": "2021-06-14 05:45:00",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV COLORSTAY ULTIMATE labial liquido top",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_ULTIMATE_labial_liquido_top.jpg",
+    "presentacion": "TUBO X 3 ML",
+    "precio": {
+        "bestPrice": "$51.450",
+        "precioPorSku js-PUM": "Mililitro a $17.150,00"
+    },
+    "descripcion": "rv colorstay ultimate labial liquido top",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC35223-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

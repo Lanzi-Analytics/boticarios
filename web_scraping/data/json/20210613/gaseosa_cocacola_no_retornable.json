@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-coca-cola-no-retornable-7702535001752/p",
+    "fecha_hora_scraping": "2021-06-14 09:29:25",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa coca-cola no retornable",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_cocacola_no_retornable.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$2.900",
+        "precioPorSku js-PUM": "Mililitro a $4,83"
+    },
+    "descripcion": "gaseosa coca-cola no retornable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

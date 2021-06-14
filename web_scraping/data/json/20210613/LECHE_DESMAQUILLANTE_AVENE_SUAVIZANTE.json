@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leche-desmaquillante-avene-suavizante-3282770905113/p",
+    "fecha_hora_scraping": "2021-06-14 06:59:42",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "LECHE DESMAQUILLANTE AVENE SUAVIZANTE",
+    "nombre_imagen": "./web_scraping/data/img/LECHE_DESMAQUILLANTE_AVENE_SUAVIZANTE.jpg",
+    "presentacion": "TUBO X 200 ML",
+    "precio": {
+        "bestPrice": "$103.600",
+        "precioPorSku js-PUM": "Mililitro a $518,00"
+    },
+    "descripcion": "leche desmaquillante avene suavizante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "C-000725"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

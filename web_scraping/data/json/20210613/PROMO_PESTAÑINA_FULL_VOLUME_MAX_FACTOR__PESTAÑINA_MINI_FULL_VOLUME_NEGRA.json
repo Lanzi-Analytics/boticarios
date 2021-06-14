@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/promo-pestanina-full-volume-max-factor--pestanina-mini-full-volume-negra-7702044177832/p",
+    "fecha_hora_scraping": "2021-06-14 05:47:22",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PROMO PESTA\u00d1INA FULL VOLUME MAX FACTOR + PESTA\u00d1INA MINI FULL VOLUME NEGRA",
+    "nombre_imagen": "./web_scraping/data/img/PROMO_PESTA\u00d1INA_FULL_VOLUME_MAX_FACTOR__PESTA\u00d1INA_MINI_FULL_VOLUME_NEGRA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$25.350",
+        "precioPorSku js-PUM": "Mililitro a $1.207,14"
+    },
+    "descripcion": "promo pesta\u00f1ina full volume max factor + pesta\u00f1ina mini full volume negra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37902-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-nivea-aclarado-natural-4005808829675/p",
+    "fecha_hora_scraping": "2021-06-14 04:43:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante nivea aclarado natural",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_nivea_aclarado_natural.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "PrevPrice": "Antes:$16.850",
+        "bestPrice": "$13.480",
+        "precioPorSku js-PUM": "Mililitro a $89,87"
+    },
+    "descripcion": "desod nivea spray 150 ml aclarad natur",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSEC2028-08CE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-bronceador-tanga-spf3-7702113033472/p",
+    "fecha_hora_scraping": "2021-06-14 00:11:28",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "aceite bronceador tanga spf3+",
+    "nombre_imagen": "./web_scraping/data/img/aceite_bronceador_tanga_spf3.jpg",
+    "presentacion": "BOTELLA X 250 ML",
+    "precio": {
+        "PrevPrice": "Antes:$33.750",
+        "bestPrice": "$27.000",
+        "precioPorSku js-PUM": "Mililitro a $108,00"
+    },
+    "descripcion": "bronce tanga fsp3 acte 250ml.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 250 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC12037-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

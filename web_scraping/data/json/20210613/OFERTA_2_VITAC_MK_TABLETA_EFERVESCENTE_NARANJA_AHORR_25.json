@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-2-vitac-mk-tableta-efervescente-naranja-ahorr-25-7702057084202/p",
+    "fecha_hora_scraping": "2021-06-14 09:35:56",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA 2 VITAC MK TABLETA EFERVESCENTE NARANJA AHORR 25%",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_2_VITAC_MK_TABLETA_EFERVESCENTE_NARANJA_AHORR_25.jpg",
+    "presentacion": "TUBO X 20 TAB",
+    "precio": {
+        "bestPrice": "$21.900",
+        "precioPorSku js-PUM": "Tableta a $1.095,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 G"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0012932-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

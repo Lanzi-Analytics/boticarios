@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agrilax-suspension-oral-7709990680911/p",
+    "fecha_hora_scraping": "2021-06-14 05:10:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AGRILAX SUSPENSI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/AGRILAX_SUSPENSI\u00d3N_ORAL.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$46.450",
+        "precioPorSku js-PUM": "Mililitro a $129,03"
+    },
+    "descripcion": "agrilax suspensi\u00f3n oral",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "26.7 MG/ML 25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BICARBONATO SODIO ALGINATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "ADEXA PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013767"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

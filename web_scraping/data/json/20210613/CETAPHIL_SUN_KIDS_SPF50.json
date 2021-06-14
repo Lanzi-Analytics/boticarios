@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-sun-kids-spf50-7612076457430/p",
+    "fecha_hora_scraping": "2021-06-14 02:39:27",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "CETAPHIL SUN KIDS SPF50",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_SUN_KIDS_SPF50.jpg",
+    "presentacion": "FRASCO X 150 ML",
+    "precio": {
+        "bestPrice": "$115.250",
+        "precioPorSku js-PUM": "Mililitro a $768,33"
+    },
+    "descripcion": "cetaphil sun kids spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56357-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

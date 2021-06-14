@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dermocalend-pomada-7709691190917/p",
+    "fecha_hora_scraping": "2021-06-14 03:26:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "DERMOCALEND POMADA",
+    "nombre_imagen": "./web_scraping/data/img/DERMOCALEND_POMADA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "PrevPrice": "Antes:$76.300",
+        "bestPrice": "$57.225",
+        "precioPorSku js-PUM": "Gramo a $953,75"
+    },
+    "descripcion": "dermocalend pomada",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC95970-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

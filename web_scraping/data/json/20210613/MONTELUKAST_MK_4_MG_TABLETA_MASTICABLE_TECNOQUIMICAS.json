@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/montelukast-mk-4-mg-tableta-masticable-tecnoquimicas-7702057709273/p",
+    "fecha_hora_scraping": "2021-06-14 09:23:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MONTELUKAST MK 4 MG TABLETA MASTICABLE TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/MONTELUKAST_MK_4_MG_TABLETA_MASTICABLE_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$32.850",
+        "precioPorSku js-PUM": "Tableta a $1.095,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "4 MG"
+        ],
+        [
+            "Principio activo",
+            "MONTELUKAST SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008719"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

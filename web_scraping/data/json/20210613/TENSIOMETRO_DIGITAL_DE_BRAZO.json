@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tensiometro-digital-de-brazo-7707228368853/p",
+    "fecha_hora_scraping": "2021-06-14 06:03:03",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TENSIOMETRO DIGITAL DE BRAZO",
+    "nombre_imagen": "./web_scraping/data/img/TENSIOMETRO_DIGITAL_DE_BRAZO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$165.700",
+        "bestPrice": "$124.275",
+        "precioPorSku js-PUM": "Unidad a $124.275"
+    },
+    "descripcion": "tensiometro digital de brazo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007522"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

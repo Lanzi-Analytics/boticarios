@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flexalen-gel-7709990201468/p",
+    "fecha_hora_scraping": "2021-06-14 05:45:12",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "FLEXALEN GEL",
+    "nombre_imagen": "./web_scraping/data/img/FLEXALEN_GEL.jpg",
+    "presentacion": "TUBO X 80 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $940,00"
+    },
+    "descripcion": "flexalen gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 80 G"
+        ],
+        [
+            "Concentracion",
+            "N/A MG"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALLEN PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64513-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

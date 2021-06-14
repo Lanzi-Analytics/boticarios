@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/belarina-2mg002-mg-tableta-4032129037649/p",
+    "fecha_hora_scraping": "2021-06-14 08:49:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BELARINA 2MG/0.02 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/BELARINA_2MG002_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$23.500",
+        "precioPorSku js-PUM": "Tableta a $839,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0.02 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORMADINONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0012107-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/durex-condon-clasico-7501159731133/p",
-    "fecha_hora_scraping": "2021-06-13 19:20:02",
+    "fecha_hora_scraping": "2021-06-14 03:10:00",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
     "titulo": "DUREX CONDON CLASICO",
     "nombre_imagen": "./web_scraping/data/img/DUREX_CONDON_CLASICO.jpg",
     "presentacion": "CAJA X 3 UN",
     "precio": {
-        "PrevPrice": "Antes:$6.755",
-        "bestPrice": "$5.066",
-        "precioPorSku js-PUM": "Unidad a $1.688,67"
+        "bestPrice": "$6.755",
+        "precioPorSku js-PUM": "Unidad a $2.251,67"
     },
     "descripcion": "DUREX CONDON CLASICO",
     "atributos": [

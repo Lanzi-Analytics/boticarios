@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lactulax-667-g100-ml-jarabe-7703889041272/p",
+    "fecha_hora_scraping": "2021-06-14 04:14:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LACTULAX 66.7 G/100 ML JARABE",
+    "nombre_imagen": "./web_scraping/data/img/LACTULAX_667_G100_ML_JARABE.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$6.229",
+        "precioPorSku js-PUM": "Unidad a $6.229,17"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "667 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LACTULOSA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-012354-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

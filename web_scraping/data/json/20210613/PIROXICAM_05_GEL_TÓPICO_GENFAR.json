@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/piroxicam-05-gel-topico-genfar-7702605102358/p",
+    "fecha_hora_scraping": "2021-06-14 04:49:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PIROXICAM 0.5% GEL T\u00d3PICO GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/PIROXICAM_05_GEL_T\u00d3PICO_GENFAR.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$12.600",
+        "precioPorSku js-PUM": "Gramo a $315,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "PIROXICAM"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-007123-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

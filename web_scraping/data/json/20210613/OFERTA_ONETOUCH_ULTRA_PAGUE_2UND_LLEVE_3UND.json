@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-onetouch-ultra-pague-2und-lleve-3und-7702031021162/p",
+    "fecha_hora_scraping": "2021-06-14 09:27:43",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "OFERTA ONETOUCH ULTRA PAGUE: 2UND LLEVE: 3UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ONETOUCH_ULTRA_PAGUE_2UND_LLEVE_3UND.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "PrevPrice": "Antes:$154.650",
+        "bestPrice": "$115.987",
+        "precioPorSku js-PUM": "Unidad a $4.639,48"
+    },
+    "descripcion": "oferta onetouch ultra pague: 2und lleve:",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS TIRAS DE GLUCOMTERIA"
+        ],
+        [
+            "Laboratorio",
+            "OPERANDO MEDICOS & QUIRURGICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017RD-0000050-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

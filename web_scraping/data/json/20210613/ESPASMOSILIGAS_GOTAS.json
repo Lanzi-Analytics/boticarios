@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/espasmo-siligas-gotas-7706310000039/p",
+    "fecha_hora_scraping": "2021-06-14 04:47:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESPASMO-SILIGAS GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/ESPASMOSILIGAS_GOTAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$33.450",
+        "precioPorSku js-PUM": "Mililitro a $3.345,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "66 MG/ML 10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DIMETILPOLISILOXANO PAPAVERINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0000977-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

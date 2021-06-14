@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-maybelline-color-sensational-made-for-all-fuchsia-for-me-41554564860/p",
+    "fecha_hora_scraping": "2021-06-14 00:45:52",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL MAYBELLINE COLOR SENSATIONAL MADE FOR ALL FUCHSIA FOR ME",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_MAYBELLINE_COLOR_SENSATIONAL_MADE_FOR_ALL_FUCHSIA_FOR_ME.jpg",
+    "presentacion": "UNIDAD X 4.2 G",
+    "precio": {
+        "bestPrice": "$30.100",
+        "precioPorSku js-PUM": "Gramo a $7.166,67"
+    },
+    "descripcion": "labial maybelline color sensational made for all fuchsia for me",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4.2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC62472-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/valcote-er-500-mg-tableta-de-liberacion-prolongada-7703186027283/p",
+    "fecha_hora_scraping": "2021-06-13 23:08:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VALCOTE ER 500 MG TABLETA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/VALCOTE_ER_500_MG_TABLETA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$108.300",
+        "precioPorSku js-PUM": "Tableta a $3.610,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "VALPROICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018046"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bye-bye-repelente-locion-ninos-7707288824504/p",
+    "fecha_hora_scraping": "2021-06-13 23:23:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BYE-BYE REPELENTE LOCION NI\u00d1OS",
+    "nombre_imagen": "./web_scraping/data/img/BYEBYE_REPELENTE_LOCION_NI\u00d1OS.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$11.350",
+        "precioPorSku js-PUM": "Mililitro a $94,58"
+    },
+    "descripcion": "bye-bye repelente locion ni\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "10 %"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59288-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

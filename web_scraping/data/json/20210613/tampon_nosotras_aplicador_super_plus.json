@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampon-nosotras-aplicador-super-plus-7702026147198/p",
+    "fecha_hora_scraping": "2021-06-14 05:09:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "tampon nosotras aplicador super plus",
+    "nombre_imagen": "./web_scraping/data/img/tampon_nosotras_aplicador_super_plus.jpg",
+    "presentacion": "CAJA X 8 UN",
+    "precio": {
+        "bestPrice": "$14.100",
+        "precioPorSku js-PUM": "Unidad a $1.762,50"
+    },
+    "descripcion": "tampon nosotras aplicador super plus",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05566-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

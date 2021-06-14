@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-schweppes-ginger-400ml-pet-7702535010273/p",
+    "fecha_hora_scraping": "2021-06-14 08:43:11",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "GASEOSA SCHWEPPES GINGER 400ML PET",
+    "nombre_imagen": "./web_scraping/data/img/GASEOSA_SCHWEPPES_GINGER_400ML_PET.jpg",
+    "presentacion": "BOTELLA X 400ML",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Mililitro a $4,25"
+    },
+    "descripcion": "GASEOSA SCHWEPPES GINGER 400ML PET",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004484-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

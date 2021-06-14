@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trimetoprim-sulfametoxazol-f-suspension-80-400-mg5-ml-gef-7702605102679/p",
+    "fecha_hora_scraping": "2021-06-14 10:34:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRIMETOPRIM SULFAMETOXAZOL F. SUSPENSION 80-400 MG/5 ML GEF",
+    "nombre_imagen": "./web_scraping/data/img/TRIMETOPRIM_SULFAMETOXAZOL_F_SUSPENSION_80400_MG5_ML_GEF.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$14.800",
+        "precioPorSku js-PUM": "Mililitro a $123,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML 16 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SULFAMETOXAZOL TRIMETOPRIM"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-001679-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

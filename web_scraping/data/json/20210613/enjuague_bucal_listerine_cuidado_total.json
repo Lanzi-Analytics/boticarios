@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-listerine-cuidado-total-7702035833839/p",
+    "fecha_hora_scraping": "2021-06-14 03:29:25",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "enjuague bucal listerine cuidado total",
+    "nombre_imagen": "./web_scraping/data/img/enjuague_bucal_listerine_cuidado_total.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "PrevPrice": "Antes:$21.450",
+        "bestPrice": "$18.232",
+        "precioPorSku js-PUM": "Mililitro a $36,46"
+    },
+    "descripcion": "enjuag bucal listerine 500 ml cuid tot",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA NSC2008CO27535"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

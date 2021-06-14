@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/set-de-infusion-con-buretra-7707228367481/p",
+    "fecha_hora_scraping": "2021-06-14 07:06:17",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "SET DE INFUSI\u00d3N CON BURETRA",
+    "nombre_imagen": "./web_scraping/data/img/SET_DE_INFUSI\u00d3N_CON_BURETRA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$3.300",
+        "precioPorSku js-PUM": "Mililitro a $22,00"
+    },
+    "descripcion": "SET DE INFUSI\u00d3N CON BURETRA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0019177"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bano-liquido-almipro-syndet-7709880588495/p",
+    "fecha_hora_scraping": "2021-06-14 05:47:28",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "ba\u00f1o liquido almipro syndet",
+    "nombre_imagen": "./web_scraping/data/img/ba\u00f1o_liquido_almipro_syndet.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$22.800",
+        "precioPorSku js-PUM": "Mililitro a $57,00"
+    },
+    "descripcion": "ba\u00f1o liquido almipro syndet",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FARMACIA DROGUERIA SAN JORGE LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55125-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

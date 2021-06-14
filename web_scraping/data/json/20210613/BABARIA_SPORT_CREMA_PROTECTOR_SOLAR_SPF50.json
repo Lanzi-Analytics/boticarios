@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-sport-crema-protector-solar-spf50-8410412028080/p",
+    "fecha_hora_scraping": "2021-06-14 00:02:38",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "BABARIA SPORT CREMA PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_SPORT_CREMA_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$12.550",
+        "precioPorSku js-PUM": "Mililitro a $167,33"
+    },
+    "descripcion": "babaria sport crema protector solar spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86736-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

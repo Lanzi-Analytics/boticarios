@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ketesse-50-mg2-ml-solucion-inyectable-7708548830044/p",
+    "fecha_hora_scraping": "2021-06-14 05:27:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KETESSE 50 MG/2 ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/KETESSE_50_MG2_ML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$54.650",
+        "precioPorSku js-PUM": "Unidad a $18.216,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DEXKETOPROFENO TROMETAMOL"
+        ],
+        [
+            "Laboratorio",
+            "A MENARINI LATIN AMERICA S L U SUCU"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016834"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chupo-calma-sin-botella-7612367021951/p",
+    "fecha_hora_scraping": "2021-06-13 23:42:24",
+    "breadcumb": "colsubsidio|mamas y bebes|accesorios",
+    "titulo": "CHUPO CALMA SIN BOTELLA",
+    "nombre_imagen": "./web_scraping/data/img/CHUPO_CALMA_SIN_BOTELLA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $108.170,00"
+    },
+    "descripcion": "chupo calma sin botella",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AREOLA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

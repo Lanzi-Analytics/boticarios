@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cebion-1g-tableta-efervecente-naranja-2-x-1-7702418005969/p",
+    "fecha_hora_scraping": "2021-06-14 04:39:01",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA CEBION 1G TABLETA EFERVECENTE NARANJA 2 X 1",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CEBION_1G_TABLETA_EFERVECENTE_NARANJA_2_X_1.jpg",
+    "presentacion": "TUBO X 10 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Tableta a $1.515,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 G"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-004037R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

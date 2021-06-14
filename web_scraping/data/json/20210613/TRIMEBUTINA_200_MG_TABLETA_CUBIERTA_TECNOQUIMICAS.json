@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trimebutina-200-mg-tableta-cubierta-tecnoquimicas-7702057075903/p",
+    "fecha_hora_scraping": "2021-06-14 09:18:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRIMEBUTINA 200 MG TABLETA CUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/TRIMEBUTINA_200_MG_TABLETA_CUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 15 TAB",
+    "precio": {
+        "bestPrice": "$9.175",
+        "precioPorSku js-PUM": "Tableta a $611,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 15 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "TRIMEBUTINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002364-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

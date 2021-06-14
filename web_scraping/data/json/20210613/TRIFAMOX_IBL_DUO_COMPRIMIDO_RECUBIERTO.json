@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trifamox-ibl-duo-comprimido-recubierto-7703158009811/p",
+    "fecha_hora_scraping": "2021-06-14 07:36:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRIFAMOX IBL DUO COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/TRIFAMOX_IBL_DUO_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$139.300",
+        "precioPorSku js-PUM": "Tableta a $9.950,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "875 MG 125 MG"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO SULBACTAM PIVOXIL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAGO DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004136-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

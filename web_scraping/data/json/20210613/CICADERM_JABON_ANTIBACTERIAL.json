@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicaderm-jabon-antibacterial-7707173604259/p",
+    "fecha_hora_scraping": "2021-06-14 06:59:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CICADERM JABON ANTIBACTERIAL",
+    "nombre_imagen": "./web_scraping/data/img/CICADERM_JABON_ANTIBACTERIAL.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "$24.500",
+        "precioPorSku js-PUM": "Gramo a $245,00"
+    },
+    "descripcion": "cicaderm jabon antibacterial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50509-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057735654tecnoquimicassuplementosnutricion-y-vida-saludableoferta-kola-granulada-mk-bolsa-x-330g--135g-7702057735654/p",
+    "fecha_hora_scraping": "2021-06-14 07:49:18",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA KOLA GRANULADA MK BOLSA X 330G + 135G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_KOLA_GRANULADA_MK_BOLSA_X_330G__135G.jpg",
+    "presentacion": "BOLSA X 465 G",
+    "precio": {
+        "bestPrice": "$15.750",
+        "precioPorSku js-PUM": "Gramo a $47,73"
+    },
+    "descripcion": "oferta kola granulada mk bolsa x 330g + 135g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 465 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0002008"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

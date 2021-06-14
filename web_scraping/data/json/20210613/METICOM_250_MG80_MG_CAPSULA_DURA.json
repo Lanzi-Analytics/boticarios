@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/meticom-250-mg80-mg-capsula-dura-7707334710140/p",
+    "fecha_hora_scraping": "2021-06-14 06:07:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METICOM 250 MG/80 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/METICOM_250_MG80_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 40 CAP",
+    "precio": {
+        "bestPrice": "$51.000",
+        "precioPorSku js-PUM": "Capsula a $1.275,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 40 CAP"
+        ],
+        [
+            "Concentracion",
+            "250 MG 80 MG"
+        ],
+        [
+            "Principio activo",
+            "CARBON ACTIVADO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "NEVOX FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-014578-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

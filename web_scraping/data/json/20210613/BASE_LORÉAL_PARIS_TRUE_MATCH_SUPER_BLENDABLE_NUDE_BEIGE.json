@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-loreal-paris-true-match-super-blendable-nude-beige-71249078600/p",
+    "fecha_hora_scraping": "2021-06-14 08:49:17",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE L'OR\u00c9AL PARIS TRUE MATCH SUPER BLENDABLE NUDE BEIGE",
+    "nombre_imagen": "./web_scraping/data/img/BASE_LOR\u00c9AL_PARIS_TRUE_MATCH_SUPER_BLENDABLE_NUDE_BEIGE.jpg",
+    "presentacion": "UNIDAD X 30 ML",
+    "precio": {
+        "bestPrice": "$52.050",
+        "precioPorSku js-PUM": "Mililitro a $1.735,00"
+    },
+    "descripcion": "base l'or\u00e9al paris true match super blendable nude beige",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68273-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

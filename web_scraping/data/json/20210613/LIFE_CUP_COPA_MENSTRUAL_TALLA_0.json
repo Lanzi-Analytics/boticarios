@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/life-cup-copa-mestrual-talla-0-7709172955356/p",
+    "fecha_hora_scraping": "2021-06-14 09:42:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "LIFE CUP COPA MENSTRUAL TALLA 0",
+    "nombre_imagen": "./web_scraping/data/img/LIFE_CUP_COPA_MENSTRUAL_TALLA_0.jpg",
+    "presentacion": "CAJA X 1 UN",
+    "precio": {
+        "bestPrice": "$84.400",
+        "precioPorSku js-PUM": "Unidad a $84.400,00"
+    },
+    "descripcion": "life cup copa menstrual talla 0",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LIFE CO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019020477"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

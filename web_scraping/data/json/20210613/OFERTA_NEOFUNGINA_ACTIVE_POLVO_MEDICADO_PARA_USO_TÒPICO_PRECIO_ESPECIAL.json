@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-neofungina-active-polvo-medicado-para-uso-topico-precio-especial-7706142707182/p",
+    "fecha_hora_scraping": "2021-06-14 08:12:24",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "OFERTA NEOFUNGINA ACTIVE POLVO MEDICADO PARA USO T\u00d2PICO PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_NEOFUNGINA_ACTIVE_POLVO_MEDICADO_PARA_USO_T\u00d2PICO_PRECIO_ESPECIAL.jpg",
+    "presentacion": "FRASCO X 140 G",
+    "precio": {
+        "bestPrice": "$27.800",
+        "precioPorSku js-PUM": "Gramo a $198,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 140 G"
+        ],
+        [
+            "Concentracion",
+            "20 G 2 G"
+        ],
+        [
+            "Principio activo",
+            "UNDECILENATO ZINC UNDECILENICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NEO LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-003107-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

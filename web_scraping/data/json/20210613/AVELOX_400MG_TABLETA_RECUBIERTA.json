@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avelox-400mg-tableta-recubierta-7702123408932/p",
+    "fecha_hora_scraping": "2021-06-14 02:23:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AVELOX 400MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/AVELOX_400MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 7TAB",
+    "precio": {
+        "bestPrice": "$189.900",
+        "precioPorSku js-PUM": "Comprimido a $27.128,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "MOXIFLOXACINO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-13626-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

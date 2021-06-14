@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lisalgil-2-g5-ml-solucion-inyectable-7703381003150/p",
+    "fecha_hora_scraping": "2021-06-14 10:33:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LISALGIL 2 G/5 ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/LISALGIL_2_G5_ML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$9.417",
+        "precioPorSku js-PUM": "Unidad a $9.416,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "0.4 G/ML"
+        ],
+        [
+            "Principio activo",
+            "DIPIRONA MAGNESIO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-007568-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

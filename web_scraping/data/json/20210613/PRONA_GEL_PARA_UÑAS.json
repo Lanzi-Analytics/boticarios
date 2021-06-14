@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prona-gel-para-unas-7707206270086/p",
+    "fecha_hora_scraping": "2021-06-13 23:07:35",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|u\u00f1as",
+    "titulo": "PRONA GEL PARA U\u00d1AS",
+    "nombre_imagen": "./web_scraping/data/img/PRONA_GEL_PARA_U\u00d1AS.jpg",
+    "presentacion": "FRASCO X 8 G",
+    "precio": {
+        "bestPrice": "$30.950",
+        "precioPorSku js-PUM": "Gramo a $3.868,75"
+    },
+    "descripcion": "prona gel para u\u00f1as",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC459351-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

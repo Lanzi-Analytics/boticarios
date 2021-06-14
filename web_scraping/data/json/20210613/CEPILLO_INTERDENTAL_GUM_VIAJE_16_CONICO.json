@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-interdental-gum-viaje-16-conico-7630019900225/p",
+    "fecha_hora_scraping": "2021-06-14 08:01:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CEPILLO INTERDENTAL GUM VIAJE 1.6 CONICO",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_INTERDENTAL_GUM_VIAJE_16_CONICO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$15.600",
+        "precioPorSku js-PUM": "Unidad a $15.600,00"
+    },
+    "descripcion": "cepillo interdental gum viaje 1.6 conico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LISADO BACTERIANO LIOFILIZADO"
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016919"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

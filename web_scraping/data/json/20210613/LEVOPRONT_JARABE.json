@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levopront-jarabe-4029733000633/p",
+    "fecha_hora_scraping": "2021-06-14 01:13:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOPRONT JARABE",
+    "nombre_imagen": "./web_scraping/data/img/LEVOPRONT_JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$53.600",
+        "precioPorSku js-PUM": "Mililitro a $446,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LEVODROPROPIZINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAGO DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-13520-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

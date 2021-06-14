@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/etoricoxib-90-mg-tableta-cubierta-tecnoquimicas-7702057062514/p",
+    "fecha_hora_scraping": "2021-06-13 23:44:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ETORICOXIB 90 MG TABLETA CUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/ETORICOXIB_90_MG_TABLETA_CUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$48.800",
+        "precioPorSku js-PUM": "Tableta a $3.485,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "90 MG"
+        ],
+        [
+            "Principio activo",
+            "ETORICOXIB"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015023"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

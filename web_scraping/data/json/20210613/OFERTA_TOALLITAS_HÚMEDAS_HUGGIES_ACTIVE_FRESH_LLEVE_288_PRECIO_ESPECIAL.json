@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallitas-humedas-huggies-active-fresh-lleve-288-precio-especial-7702425804531/p",
+    "fecha_hora_scraping": "2021-06-14 05:31:22",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA TOALLITAS H\u00daMEDAS HUGGIES ACTIVE FRESH LLEVE: 288 PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TOALLITAS_H\u00daMEDAS_HUGGIES_ACTIVE_FRESH_LLEVE_288_PRECIO_ESPECIAL.jpg",
+    "presentacion": "PAQUETE X 288 UN",
+    "precio": {
+        "bestPrice": "$19.550",
+        "precioPorSku js-PUM": "Unidad a $67,88"
+    },
+    "descripcion": "f-toa hum hug actfrsh x288  oferta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 288 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

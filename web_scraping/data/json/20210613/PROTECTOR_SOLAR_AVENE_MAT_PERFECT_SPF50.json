@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-avene-mat-perfect-spf50-3282770104592/p",
+    "fecha_hora_scraping": "2021-06-14 08:15:31",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR AVENE MAT PERFECT SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_AVENE_MAT_PERFECT_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$107.750",
+        "precioPorSku js-PUM": "Mililitro a $2.155,00"
+    },
+    "descripcion": "protector solar avene mat perfect spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52205-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

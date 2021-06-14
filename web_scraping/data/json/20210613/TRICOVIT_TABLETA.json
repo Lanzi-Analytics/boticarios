@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tricovit-tableta-8030082001864/p",
+    "fecha_hora_scraping": "2021-06-14 00:45:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRICOVIT TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/TRICOVIT_TABLETA.jpg",
+    "presentacion": "CAJA X 60 TAB",
+    "precio": {
+        "bestPrice": "$133.750",
+        "precioPorSku js-PUM": "Tableta a $2.229,17"
+    },
+    "descripcion": "tricovit tableta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUIPHAR DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003961"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

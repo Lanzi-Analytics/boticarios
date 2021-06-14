@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-intimo-suave-nivea-4005808538553/p",
+    "fecha_hora_scraping": "2021-06-14 06:31:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "jabon \u00edntimo suave nivea",
+    "nombre_imagen": "./web_scraping/data/img/jabon_\u00edntimo_suave_nivea.jpg",
+    "presentacion": "BOTELLA X 250 ML",
+    "precio": {
+        "bestPrice": "$16.600",
+        "precioPorSku js-PUM": "Mililitro a $66,40"
+    },
+    "descripcion": "jabon intimo nivea 250 ml calmante alo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 250 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC36631-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

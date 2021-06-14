@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venlafaxina-75-mg-tableta-liberacion-prolongada-tecnoquimicas-7702057061906/p",
+    "fecha_hora_scraping": "2021-06-14 00:48:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VENLAFAXINA 75 MG TABLETA LIBERACION PROLONGADA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/VENLAFAXINA_75_MG_TABLETA_LIBERACION_PROLONGADA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 7 TAB",
+    "precio": {
+        "bestPrice": "$5.450",
+        "precioPorSku js-PUM": "Tableta a $778,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 TAB"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "VENLAFAXINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0012110-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

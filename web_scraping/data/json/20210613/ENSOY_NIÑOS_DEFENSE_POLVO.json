@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-ninos-defense-polvo-7702870053294/p",
+    "fecha_hora_scraping": "2021-06-14 07:23:04",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY NI\u00d1OS DEFENSE POLVO",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_NI\u00d1OS_DEFENSE_POLVO.jpg",
+    "presentacion": "LATA X 900 G",
+    "precio": {
+        "bestPrice": "$85.900",
+        "precioPorSku js-PUM": "Gramo a $95,44"
+    },
+    "descripcion": "ensoy ni\u00f1os defense polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV16I71314"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

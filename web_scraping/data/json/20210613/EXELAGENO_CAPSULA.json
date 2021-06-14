@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/exelageno-capsula-8436043011482/p",
+    "fecha_hora_scraping": "2021-06-14 01:16:48",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "EXELAGENO CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/EXELAGENO_CAPSULA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$89.250",
+        "precioPorSku js-PUM": "Capsula a $2.975,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2017-0004119"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tensiometro-automatico-de-brazo-homelife-lf7-master-6947679701477/p",
+    "fecha_hora_scraping": "2021-06-14 06:55:31",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TENSIOMETRO AUTOMATICO DE BRAZO HOMELIFE LF7 MASTER",
+    "nombre_imagen": "./web_scraping/data/img/TENSIOMETRO_AUTOMATICO_DE_BRAZO_HOMELIFE_LF7_MASTER.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$251.350",
+        "bestPrice": "$188.512",
+        "precioPorSku js-PUM": "Unidad a $188.512"
+    },
+    "descripcion": "tensiometro automatico de brazo homelife",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DISTRIBUIDORA GLX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016556"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

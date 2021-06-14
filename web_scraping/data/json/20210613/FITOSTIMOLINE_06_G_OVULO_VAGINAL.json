@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fitostimoline-06-g-ovulo-vaginal-7704232000458/p",
+    "fecha_hora_scraping": "2021-06-14 03:27:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FITOSTIMOLINE 0.6 G OVULO VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/FITOSTIMOLINE_06_G_OVULO_VAGINAL.jpg",
+    "presentacion": "CAJA X 6 OVU",
+    "precio": {
+        "bestPrice": "$72.900",
+        "precioPorSku js-PUM": "OVULO a $12.150,00"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 OVU"
+        ],
+        [
+            "Concentracion",
+            "1500 MG/G 1000 MG/G"
+        ],
+        [
+            "Principio activo",
+            "TRITICUM VULGARE 2-FENOXIETANOL"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2012-0001958"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

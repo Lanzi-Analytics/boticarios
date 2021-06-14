@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703153034368gumivit-vitamina-c--zinc-gomasnutricion-y-vida-saludablevitaminasprocapsmulticomponentes-7703153034368/p",
+    "fecha_hora_scraping": "2021-06-13 23:47:33",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GUMIVIT VITAMINA C + ZINC GOMAS",
+    "nombre_imagen": "./web_scraping/data/img/GUMIVIT_VITAMINA_C__ZINC_GOMAS.jpg",
+    "presentacion": "BOLSA X 12 SOB",
+    "precio": {
+        "bestPrice": "$14.550",
+        "precioPorSku js-PUM": "Sobre a $1.212,50"
+    },
+    "descripcion": "gumivit vitamina c + zinc gomas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 12 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAK16I3212"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

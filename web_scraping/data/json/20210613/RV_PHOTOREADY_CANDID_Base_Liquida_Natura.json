@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-photoready-candid-base-liquida-natura-309970007034/p",
+    "fecha_hora_scraping": "2021-06-14 06:44:43",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV PHOTOREADY CANDID Base Liquida Natura",
+    "nombre_imagen": "./web_scraping/data/img/RV_PHOTOREADY_CANDID_Base_Liquida_Natura.jpg",
+    "presentacion": "TUBO X 22 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.827,27"
+    },
+    "descripcion": "rv photoready candid base liquida natura",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 22 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91205-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

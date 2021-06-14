@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/4015630070855accu-chek-tiras-activeequipos-de-cuidado-en-casamedicion-y-diagnosticoroche-4015630070855/p",
+    "fecha_hora_scraping": "2021-06-14 10:08:07",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "ACCU CHEK TIRAS ACTIVE",
+    "nombre_imagen": "./web_scraping/data/img/ACCU_CHEK_TIRAS_ACTIVE.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "bestPrice": "$105.450",
+        "precioPorSku js-PUM": "Unidad a $2.109,00"
+    },
+    "descripcion": "accu chek tiras active",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS TIRAS DE GLUCOMTERIA"
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS ROCHE SA"
+        ],
+        [
+            "Registro Invima",
+            "2013RD-0002502"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

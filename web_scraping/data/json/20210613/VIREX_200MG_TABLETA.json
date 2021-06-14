@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/virex-200mg-tableta-7703258113043/p",
+    "fecha_hora_scraping": "2021-06-14 05:41:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VIREX 200MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/VIREX_200MG_TABLETA.jpg",
+    "presentacion": "CAJA X 35 TAB",
+    "precio": {
+        "bestPrice": "$70.550",
+        "precioPorSku js-PUM": "Tableta a $2.015,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 35 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "ACICLOVIR"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-010426-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

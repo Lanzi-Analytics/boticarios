@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sensikin-crema-dental-8470002191709/p",
+    "fecha_hora_scraping": "2021-06-14 00:06:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "SENSIKIN CREMA DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/SENSIKIN_CREMA_DENTAL.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$29.900",
+        "precioPorSku js-PUM": "Mililitro a $398,67"
+    },
+    "descripcion": "sensikin crema dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCLIN PHARMA S.A."
+        ],
+        [
+            "Registro Invima",
+            "NSOC82076-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

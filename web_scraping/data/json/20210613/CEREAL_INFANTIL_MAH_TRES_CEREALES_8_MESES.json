@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cereal-infantil-mah-tres-cereales-8-meses-854688003194/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:17",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "CEREAL INFANTIL MAH! TRES CEREALES +8 MESES",
+    "nombre_imagen": "./web_scraping/data/img/CEREAL_INFANTIL_MAH_TRES_CEREALES_8_MESES.jpg",
+    "presentacion": "CAJA X 210 G",
+    "precio": {
+        "bestPrice": "$16.150",
+        "precioPorSku js-PUM": "Gramo a $76,90"
+    },
+    "descripcion": "cereal infantil mah! tres cereales +8 me",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 210 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MAH! COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA10I99214"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

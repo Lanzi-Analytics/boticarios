@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/unguento-emoliente-7707222420199/p",
+    "fecha_hora_scraping": "2021-06-14 00:14:56",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UNGUENTO EMOLIENTE",
+    "nombre_imagen": "./web_scraping/data/img/UNGUENTO_EMOLIENTE.jpg",
+    "presentacion": "FRASCO X 500 G",
+    "precio": {
+        "bestPrice": "$62.900",
+        "precioPorSku js-PUM": "Gramo a $125,80"
+    },
+    "descripcion": "unguento emoliente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC04940-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ipran-20-mg-tableta-recubierta-7707189520819/p",
+    "fecha_hora_scraping": "2021-06-14 05:08:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IPRAN 20 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/IPRAN_20_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$305.550",
+        "precioPorSku js-PUM": "Tableta a $15.277,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ESCITALOPRAM OXALATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004330-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/podometro-radio-fm-ref-pdm-200-31262056283/p",
+    "fecha_hora_scraping": "2021-06-14 04:49:53",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "PODOMETRO RADIO FM REF PDM-200",
+    "nombre_imagen": "./web_scraping/data/img/PODOMETRO_RADIO_FM_REF_PDM200.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$130.600",
+        "bestPrice": "$97.950",
+        "precioPorSku js-PUM": "Unidad a $97.950"
+    },
+    "descripcion": "podometro radio fm ref pdm-200",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MECANELECTRO SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

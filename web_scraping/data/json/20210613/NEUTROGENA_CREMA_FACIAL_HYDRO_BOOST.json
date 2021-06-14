@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neutrogena-crema-facial-hydro-boost-7891010882983/p",
+    "fecha_hora_scraping": "2021-06-14 07:02:02",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEUTROGENA CREMA FACIAL HYDRO BOOST",
+    "nombre_imagen": "./web_scraping/data/img/NEUTROGENA_CREMA_FACIAL_HYDRO_BOOST.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$44.850",
+        "precioPorSku js-PUM": "Gramo a $897,00"
+    },
+    "descripcion": "neutrogena crema facial hydro boost",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71633-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

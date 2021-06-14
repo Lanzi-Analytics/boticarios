@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-colgate-360-sensitive-pro-alivio-x-2-7509546074405/p",
+    "fecha_hora_scraping": "2021-06-13 23:25:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL COLGATE 360 SENSITIVE PRO ALIVIO X 2",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_COLGATE_360_SENSITIVE_PRO_ALIVIO_X_2.jpg",
+    "presentacion": "CAJA X 2UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $12.250,00"
+    },
+    "descripcion": "CEPILLO DENTAL COLGATE 360 SENSITIVE PRO ALIVIO X 2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001268"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

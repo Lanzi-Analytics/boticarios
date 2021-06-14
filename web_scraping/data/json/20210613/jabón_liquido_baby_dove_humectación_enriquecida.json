@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-liquido-baby-dove-humectacion-enriquecida-7891150025981/p",
+    "fecha_hora_scraping": "2021-06-14 02:38:38",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "jab\u00f3n liquido baby dove humectaci\u00f3n enriquecida",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_liquido_baby_dove_humectaci\u00f3n_enriquecida.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$12.750",
+        "precioPorSku js-PUM": "Mililitro a $63,75"
+    },
+    "descripcion": "dove baby jab liq h enr x200ml exp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69875-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

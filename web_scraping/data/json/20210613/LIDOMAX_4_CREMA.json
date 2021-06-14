@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lidomax-4-crema-7707208110489/p",
+    "fecha_hora_scraping": "2021-06-14 09:06:28",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "LIDOMAX 4% CREMA",
+    "nombre_imagen": "./web_scraping/data/img/LIDOMAX_4_CREMA.jpg",
+    "presentacion": "TUBO X 5 G",
+    "precio": {
+        "bestPrice": "$22.900",
+        "precioPorSku js-PUM": "Gramo a $4.580,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 5 G"
+        ],
+        [
+            "Concentracion",
+            "4 G"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA"
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012574-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

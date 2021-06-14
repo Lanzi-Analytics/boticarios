@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-contorno-de-ojos-nivea-cellular-4005900046338/p",
+    "fecha_hora_scraping": "2021-06-14 00:39:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema contorno de ojos nivea cellular",
+    "nombre_imagen": "./web_scraping/data/img/crema_contorno_de_ojos_nivea_cellular.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$56.250",
+        "precioPorSku js-PUM": "Mililitro a $3.750,00"
+    },
+    "descripcion": "nvisage cellular ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57056-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/durafex-forte-500-mg-capsula-blanda-7702057771904/p",
+    "fecha_hora_scraping": "2021-06-14 02:53:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DURAFEX FORTE 500 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/DURAFEX_FORTE_500_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 6 CAP",
+    "precio": {
+        "bestPrice": "$15.100",
+        "precioPorSku js-PUM": "Capsula a $2.516,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "NAPROXENO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016135"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

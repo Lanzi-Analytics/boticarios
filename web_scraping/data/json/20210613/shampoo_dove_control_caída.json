@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-dove-control-caida-7891150019423/p",
+    "fecha_hora_scraping": "2021-06-14 06:19:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo dove control ca\u00edda",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_dove_control_ca\u00edda.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$19.900",
+        "precioPorSku js-PUM": "Mililitro a $49,75"
+    },
+    "descripcion": "shampoo dove control caida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC09157-12PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

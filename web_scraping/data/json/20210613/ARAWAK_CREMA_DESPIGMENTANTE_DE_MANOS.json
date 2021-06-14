@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-crema-despigmentante-de-manos-7707016405708/p",
+    "fecha_hora_scraping": "2021-06-14 06:49:36",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ARAWAK CREMA DESPIGMENTANTE DE MANOS",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_CREMA_DESPIGMENTANTE_DE_MANOS.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$28.250",
+        "precioPorSku js-PUM": "Gramo a $470,83"
+    },
+    "descripcion": "arawak crema despigmentante de manos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC67529-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

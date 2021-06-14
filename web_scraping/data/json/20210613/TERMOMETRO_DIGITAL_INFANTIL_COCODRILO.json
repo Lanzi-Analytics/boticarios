@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/termometro-digital-infantil-cocodrilo-7707228363797/p",
+    "fecha_hora_scraping": "2021-06-14 07:34:03",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TERMOMETRO DIGITAL INFANTIL COCODRILO",
+    "nombre_imagen": "./web_scraping/data/img/TERMOMETRO_DIGITAL_INFANTIL_COCODRILO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$29.300",
+        "bestPrice": "$21.975",
+        "precioPorSku js-PUM": "Unidad a $21.975"
+    },
+    "descripcion": "termometro digital infantil cocodrilo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0000869"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

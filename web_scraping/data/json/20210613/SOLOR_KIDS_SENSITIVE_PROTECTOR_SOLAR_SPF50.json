@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sol-or-kids-sensitive-spf50-7704190000248/p",
+    "fecha_hora_scraping": "2021-06-14 02:47:12",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "SOLOR KIDS SENSITIVE PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/SOLOR_KIDS_SENSITIVE_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$61.000",
+        "precioPorSku js-PUM": "Gramo a $610,00"
+    },
+    "descripcion": "protector solar sol-or kids sensitive sp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIFARMA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73455-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

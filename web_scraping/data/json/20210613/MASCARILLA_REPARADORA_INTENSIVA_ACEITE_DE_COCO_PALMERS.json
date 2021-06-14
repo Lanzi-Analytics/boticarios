@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mascarilla-reparadora-intensiva-aceite-de-coco-palmers-10181033155/p",
+    "fecha_hora_scraping": "2021-06-14 09:33:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "MASCARILLA REPARADORA INTENSIVA ACEITE DE COCO PALMERS",
+    "nombre_imagen": "./web_scraping/data/img/MASCARILLA_REPARADORA_INTENSIVA_ACEITE_DE_COCO_PALMERS.jpg",
+    "presentacion": "SOB X 60 G",
+    "precio": {
+        "bestPrice": "$19.850",
+        "precioPorSku js-PUM": "Gramo a $330,83"
+    },
+    "descripcion": "mascarilla reparadora intensiva aceite d",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOB X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80708-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

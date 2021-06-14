@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/brocriptin-10mg5mg-tableta-masticable-7702870716670/p",
+    "fecha_hora_scraping": "2021-06-14 03:56:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BROCRIPTIN 10MG/5MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/BROCRIPTIN_10MG5MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$194.350",
+        "precioPorSku js-PUM": "Tableta a $6.478,33"
+    },
+    "descripcion": "BROCRIPTIN 10MG/5MG TABLETA MASTICABLE",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "MONTELUKAST SODIO LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018870"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

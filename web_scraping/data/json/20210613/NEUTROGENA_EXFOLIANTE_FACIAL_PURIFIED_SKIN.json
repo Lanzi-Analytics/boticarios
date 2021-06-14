@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neutrogena-exfoliante-facial-purified-skin-7891010245191/p",
+    "fecha_hora_scraping": "2021-06-14 03:04:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEUTROGENA EXFOLIANTE FACIAL PURIFIED SKIN",
+    "nombre_imagen": "./web_scraping/data/img/NEUTROGENA_EXFOLIANTE_FACIAL_PURIFIED_SKIN.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$35.300",
+        "precioPorSku js-PUM": "Gramo a $353,00"
+    },
+    "descripcion": "neutrogena exfoliante facial purified sk",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82189-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

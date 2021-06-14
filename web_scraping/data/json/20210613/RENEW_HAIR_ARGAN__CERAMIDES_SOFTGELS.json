@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/renew-hair-argan--ceramides-softgels-665716270484/p",
+    "fecha_hora_scraping": "2021-06-14 04:00:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "RENEW HAIR ARGAN & CERAMIDES SOFTGELS",
+    "nombre_imagen": "./web_scraping/data/img/RENEW_HAIR_ARGAN__CERAMIDES_SOFTGELS.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $402,50"
+    },
+    "descripcion": "renew hair argan & ceramides softgels",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79497-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

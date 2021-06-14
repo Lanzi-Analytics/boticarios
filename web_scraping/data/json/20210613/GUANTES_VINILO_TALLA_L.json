@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-vinilo-talla-l-7707228362035/p",
+    "fecha_hora_scraping": "2021-06-14 09:07:24",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES VINILO TALLA L",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_VINILO_TALLA_L.jpg",
+    "presentacion": "CAJA X 24 UN",
+    "precio": {
+        "bestPrice": "$13.900",
+        "precioPorSku js-PUM": "Unidad a $579,17"
+    },
+    "descripcion": "guantes vinilo talla l",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 24 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0017506"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

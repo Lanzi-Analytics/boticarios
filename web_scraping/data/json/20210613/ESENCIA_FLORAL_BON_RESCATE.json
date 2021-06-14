@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esencia-floral-bon-rescate-7707232090313/p",
+    "fecha_hora_scraping": "2021-06-14 07:49:35",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ESENCIA FLORAL BON RESCATE",
+    "nombre_imagen": "./web_scraping/data/img/ESENCIA_FLORAL_BON_RESCATE.jpg",
+    "presentacion": "FRASCO X 25 ML",
+    "precio": {
+        "bestPrice": "$15.650",
+        "precioPorSku js-PUM": "Mililitro a $626,00"
+    },
+    "descripcion": "esencia floral bon rescate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 25 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

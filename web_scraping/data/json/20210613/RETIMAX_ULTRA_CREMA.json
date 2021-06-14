@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retimax-ultra-crema-7707327210305/p",
+    "fecha_hora_scraping": "2021-06-14 01:42:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RETIMAX ULTRA CREMA",
+    "nombre_imagen": "./web_scraping/data/img/RETIMAX_ULTRA_CREMA.jpg",
+    "presentacion": "TUBO X 150 ML",
+    "precio": {
+        "bestPrice": "$83.100",
+        "precioPorSku js-PUM": "Mililitro a $554,00"
+    },
+    "descripcion": "retimax ultra crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC60069-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

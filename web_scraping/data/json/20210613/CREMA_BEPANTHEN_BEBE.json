@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-bepanthen-bebe-7702123008453/p",
+    "fecha_hora_scraping": "2021-06-14 01:15:04",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CREMA BEPANTHEN BEBE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_BEPANTHEN_BEBE.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$35.250",
+        "precioPorSku js-PUM": "Gramo a $352,50"
+    },
+    "descripcion": "crema bepanthen bebe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC1367-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

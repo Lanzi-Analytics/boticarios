@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-hyaluron-filler--elasticity-contorno-de-ojos-4005900650412/p",
+    "fecha_hora_scraping": "2021-06-14 05:15:16",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN HYALURON FILLER + ELASTICITY CONTORNO DE OJOS",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_HYALURON_FILLER__ELASTICITY_CONTORNO_DE_OJOS.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $10.470,00"
+    },
+    "descripcion": "EUCERIN HYALURON FILLER + ELASTICITY CONTORNO DE OJOS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92240-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

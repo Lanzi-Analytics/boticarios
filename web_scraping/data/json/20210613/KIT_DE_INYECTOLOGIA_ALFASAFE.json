@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-de-inyectologia-alfasafe-7707228360338/p",
+    "fecha_hora_scraping": "2021-06-14 02:56:34",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "KIT DE INYECTOLOGIA ALFASAFE",
+    "nombre_imagen": "./web_scraping/data/img/KIT_DE_INYECTOLOGIA_ALFASAFE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.100,00"
+    },
+    "descripcion": "kit de inyectologia alfasafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A            N/A            N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0001797R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

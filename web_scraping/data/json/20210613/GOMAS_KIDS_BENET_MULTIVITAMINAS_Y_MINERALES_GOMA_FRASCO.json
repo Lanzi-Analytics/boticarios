@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gomas-kids-benet-multivitaminas-y-minerales-goma-frasco-7709885591483/p",
+    "fecha_hora_scraping": "2021-06-14 09:08:25",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GOMAS KIDS BENET MULTIVITAMINAS Y MINERALES GOMA FRASCO",
+    "nombre_imagen": "./web_scraping/data/img/GOMAS_KIDS_BENET_MULTIVITAMINAS_Y_MINERALES_GOMA_FRASCO.jpg",
+    "presentacion": "FRASCO X 150 G",
+    "precio": {
+        "bestPrice": "$20.000",
+        "precioPorSku js-PUM": "Gramo a $133,33"
+    },
+    "descripcion": "gomas kids benet multivitaminas y minerales goma frasco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007882-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cranberry-capsula-814465010388/p",
+    "fecha_hora_scraping": "2021-06-14 07:07:47",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CRANBERRY CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/CRANBERRY_CAPSULA.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "$45.850",
+        "precioPorSku js-PUM": "Capsula a $458,50"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "140 MG"
+        ],
+        [
+            "Principio activo",
+            "CRANBERRY"
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2013-0002180"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

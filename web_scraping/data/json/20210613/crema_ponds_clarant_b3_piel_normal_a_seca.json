@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-clarant-b3-piel-normal-a-seca-7501056330255/p",
+    "fecha_hora_scraping": "2021-06-14 02:23:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema ponds clarant b3 piel normal a seca",
+    "nombre_imagen": "./web_scraping/data/img/crema_ponds_clarant_b3_piel_normal_a_seca.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$17.400",
+        "precioPorSku js-PUM": "Gramo a $348,00"
+    },
+    "descripcion": "ponds cr clarant b3 seca 12x50gr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

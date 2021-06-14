@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-nestogeno-kids-etapa-3-7501059297739/p",
+    "fecha_hora_scraping": "2021-06-14 03:42:19",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NESTOGENO LCOMFORTIS FORMULA INFANTIL ETAPA 3",
+    "nombre_imagen": "./web_scraping/data/img/NESTOGENO_LCOMFORTIS_FORMULA_INFANTIL_ETAPA_3.jpg",
+    "presentacion": "LATA X 800 G",
+    "precio": {
+        "bestPrice": "$35.250",
+        "precioPorSku js-PUM": "Gramo a $44,06"
+    },
+    "descripcion": "formula infantil nestogeno kids etapa 3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I76114"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

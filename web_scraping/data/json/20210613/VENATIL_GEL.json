@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venatil-gel-7704232001554/p",
+    "fecha_hora_scraping": "2021-06-14 02:28:10",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "VENATIL GEL",
+    "nombre_imagen": "./web_scraping/data/img/VENATIL_GEL.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$54.650",
+        "precioPorSku js-PUM": "Mililitro a $1.093,00"
+    },
+    "descripcion": "venatil gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC39833-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

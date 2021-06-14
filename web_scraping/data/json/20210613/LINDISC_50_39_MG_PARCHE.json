@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lindisc-50-39-mg-parche-7795320018936/p",
+    "fecha_hora_scraping": "2021-06-14 02:50:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LINDISC 50 3.9 MG PARCHE",
+    "nombre_imagen": "./web_scraping/data/img/LINDISC_50_39_MG_PARCHE.jpg",
+    "presentacion": "CAJA X 4 UN",
+    "precio": {
+        "bestPrice": "$17.150",
+        "precioPorSku js-PUM": "Unidad a $4.287,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 UN"
+        ],
+        [
+            "Concentracion",
+            "3.8 MG"
+        ],
+        [
+            "Principio activo",
+            "ESTRADIOL HEMIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-006611-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

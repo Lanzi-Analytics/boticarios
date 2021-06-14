@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/5016533653199formula-infantil-neocate-junior-neutro-etapa-1mamas-y-bebesformulas-infantilesdanone-5016533653199/p",
+    "fecha_hora_scraping": "2021-06-14 00:26:17",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL NEOCATE JUNIOR NEUTRO ETAPA 1",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_NEOCATE_JUNIOR_NEUTRO_ETAPA_1.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$96.800",
+        "precioPorSku js-PUM": "Gramo a $242,00"
+    },
+    "descripcion": "formula infantil neocate junior neutro etapa 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DANONE BABY NUTRITION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009886-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

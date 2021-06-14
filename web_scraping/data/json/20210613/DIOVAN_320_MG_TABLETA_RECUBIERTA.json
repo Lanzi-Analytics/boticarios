@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diovan-320-mg-tableta-recubierta-7612797029909/p",
+    "fecha_hora_scraping": "2021-06-14 09:36:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIOVAN 320 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DIOVAN_320_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$41.700",
+        "precioPorSku js-PUM": "Tableta a $2.978,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "320 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0003295-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

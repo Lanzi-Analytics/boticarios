@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pediasure-vainilla-ninos-7703186030290/p",
+    "fecha_hora_scraping": "2021-06-14 01:12:45",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PEDIASURE VAINILLA NI\u00d1OS",
+    "nombre_imagen": "./web_scraping/data/img/PEDIASURE_VAINILLA_NI\u00d1OS.jpg",
+    "presentacion": "BOTELLA X 237 ML",
+    "precio": {
+        "bestPrice": "$7.200",
+        "precioPorSku js-PUM": "Mililitro a $30,38"
+    },
+    "descripcion": "pediasure vainilla ni\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "PERINDOPRIL ARGININA INDAPAMIDA"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004217-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

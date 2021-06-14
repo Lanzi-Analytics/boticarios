@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/astymin-capsulas-8906061480275/p",
+    "fecha_hora_scraping": "2021-06-14 07:26:34",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "astymin c\u00e1psulas",
+    "nombre_imagen": "./web_scraping/data/img/astymin_c\u00e1psulas.jpg",
+    "presentacion": "CAJA X 30 CAPSULAS",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $1.021,67"
+    },
+    "descripcion": "astymin c\u00e1psulas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAPSULAS"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "L & R FARMACEUTICA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003410"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

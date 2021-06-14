@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiras-reactivas-one-touch-select-plus-7613427011707/p",
+    "fecha_hora_scraping": "2021-06-14 01:10:24",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TIRAS REACTIVAS ONE TOUCH SELECT PLUS",
+    "nombre_imagen": "./web_scraping/data/img/TIRAS_REACTIVAS_ONE_TOUCH_SELECT_PLUS.jpg",
+    "presentacion": "TIRAS X 25 UN",
+    "precio": {
+        "PrevPrice": "Antes:$76.750",
+        "bestPrice": "$57.562",
+        "precioPorSku js-PUM": "Unidad a $2.302,48"
+    },
+    "descripcion": "TIRAS REACTIVAS ONE TOUCH SELECT PLUS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TIRAS X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS TIRAS DE GLUCOMTERIA"
+        ],
+        [
+            "Laboratorio",
+            "OPERANDO MEDICOS & QUIRURGICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015RD-0003359"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nestogeno-formula-infantil-comfort-total-7501058648280/p",
+    "fecha_hora_scraping": "2021-06-14 05:10:39",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NESTOGENO FORMULA INFANTIL COMFORT TOTAL",
+    "nombre_imagen": "./web_scraping/data/img/NESTOGENO_FORMULA_INFANTIL_COMFORT_TOTAL.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$29.500",
+        "precioPorSku js-PUM": "Gramo a $73,75"
+    },
+    "descripcion": "nestogeno formula infantil comfort total",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009858-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

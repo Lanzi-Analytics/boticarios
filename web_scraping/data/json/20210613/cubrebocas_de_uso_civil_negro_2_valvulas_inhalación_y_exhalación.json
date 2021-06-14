@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cubrebocas-de-uso-civil-negro-2-valvulas-inhalacion-y-exhalacion-7707228369249/p",
+    "fecha_hora_scraping": "2021-06-14 04:31:51",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "cubrebocas de uso civil negro 2 valvulas inhalaci\u00f3n y exhalaci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/cubrebocas_de_uso_civil_negro_2_valvulas_inhalaci\u00f3n_y_exhalaci\u00f3n.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "PrevPrice": "Antes:$14.100",
+        "bestPrice": "$9.870",
+        "precioPorSku js-PUM": "Unidad a $9.870,00"
+    },
+    "descripcion": "cubrebocas de uso civil negro 2 valvulas inhalaci\u00f3n y exhalaci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "NO REQUIERE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

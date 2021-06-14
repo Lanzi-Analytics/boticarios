@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/monogafas-de-seguridad-kis-7707249358512/p",
+    "fecha_hora_scraping": "2021-06-13 23:33:16",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "monogafas de seguridad kis",
+    "nombre_imagen": "./web_scraping/data/img/monogafas_de_seguridad_kis.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$41.750",
+        "precioPorSku js-PUM": "Unidad a $41750,00"
+    },
+    "descripcion": "monogafas de seguridad kis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KAMEX"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

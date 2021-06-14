@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-detodito-mix-7702189054050/p",
+    "fecha_hora_scraping": "2021-06-14 02:40:17",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas detodito mix",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_detodito_mix.jpg",
+    "presentacion": "PAQUETE X 150 G",
+    "precio": {
+        "PrevPrice": "Antes:$4.950",
+        "bestPrice": "$3.465",
+        "precioPorSku js-PUM": "Gramo a $23,10"
+    },
+    "descripcion": "pasabocas detodito mix",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 150 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA08I10902"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

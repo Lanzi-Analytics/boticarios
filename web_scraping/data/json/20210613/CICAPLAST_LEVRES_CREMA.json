@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicaplast-levres-crema-30106659/p",
+    "fecha_hora_scraping": "2021-06-14 10:35:57",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CICAPLAST LEVRES CREMA",
+    "nombre_imagen": "./web_scraping/data/img/CICAPLAST_LEVRES_CREMA.jpg",
+    "presentacion": "TUBO X 7,5 ML",
+    "precio": {
+        "bestPrice": "$27.450",
+        "precioPorSku js-PUM": "Mililitro a $3.660,00"
+    },
+    "descripcion": "cicaplast levres crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 7,5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "TRIMEBUTINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC64664-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

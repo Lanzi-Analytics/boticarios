@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7500435128650acondicionador-pantene-pro-v-micelar-x-400-mlhigiene-y-cuidado-personalcuidado-del-cabelloprocter--gamble-7500435128650/p",
+    "fecha_hora_scraping": "2021-06-14 01:07:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "ACONDICIONADOR PANTENE PRO-V MICELAR\u00a0 X 400 ML",
+    "nombre_imagen": "./web_scraping/data/img/ACONDICIONADOR_PANTENE_PROV_MICELAR_X_400_ML.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "PrevPrice": "Antes:$20.150",
+        "bestPrice": "$15.112",
+        "precioPorSku js-PUM": "Mililitro a $37,78"
+    },
+    "descripcion": "acondicionador pantene pro-v micelar\u00a0 x 400 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82034-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

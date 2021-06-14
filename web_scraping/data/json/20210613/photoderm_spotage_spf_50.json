@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/photoderm-spot-age-spf-50-3701129801178/p",
+    "fecha_hora_scraping": "2021-06-14 04:59:41",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "photoderm spot-age spf 50+",
+    "nombre_imagen": "./web_scraping/data/img/photoderm_spotage_spf_50.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$108.050",
+        "precioPorSku js-PUM": "Mililitro a $2.701,25"
+    },
+    "descripcion": "photoderm spot-age spf 50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91711-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-crema-reafirmantee-busto-gluteo-7707016493392/p",
+    "fecha_hora_scraping": "2021-06-14 04:09:14",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ARAWAK CREMA REAFIRMANTEE BUSTO-GLUTEO",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_CREMA_REAFIRMANTEE_BUSTOGLUTEO.jpg",
+    "presentacion": "FRASCO X 400 G",
+    "precio": {
+        "bestPrice": "$21.400",
+        "precioPorSku js-PUM": "Gramo a $53,50"
+    },
+    "descripcion": "arawak crema reafirmantee busto-gluteo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC48641-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

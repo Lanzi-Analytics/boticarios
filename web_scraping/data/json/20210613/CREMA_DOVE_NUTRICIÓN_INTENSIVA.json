@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dove-nutricion-intensiva-7501056346195/p",
+    "fecha_hora_scraping": "2021-06-13 23:15:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "CREMA DOVE NUTRICI\u00d3N INTENSIVA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DOVE_NUTRICI\u00d3N_INTENSIVA.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$19.550",
+        "precioPorSku js-PUM": "Mililitro a $48,88"
+    },
+    "descripcion": "dove cr nutricion intensiva 12x400ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC45947-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

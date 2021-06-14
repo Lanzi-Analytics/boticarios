@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biogaia-protectis-suspension-oral-7702207112946/p",
+    "fecha_hora_scraping": "2021-06-14 10:06:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BIOGAIA PROTECTIS SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/BIOGAIA_PROTECTIS_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$77.750",
+        "precioPorSku js-PUM": "Mililitro a $15.550,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2012-0002435"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

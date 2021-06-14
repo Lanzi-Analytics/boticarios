@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolcettina-15--solucion-oftalmica-7702207700440/p",
+    "fecha_hora_scraping": "2021-06-14 07:56:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DOLCETTINA 1.5 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/DOLCETTINA_15__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$114.150",
+        "precioPorSku js-PUM": "Mililitro a $11.415,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "15 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BEPOTASTINA BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016252"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

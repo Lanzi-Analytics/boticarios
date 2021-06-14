@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-antiedad-eucerin-hyaluron-filler-noche-4005800024023/p",
+    "fecha_hora_scraping": "2021-06-14 08:13:03",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CREMA ANTIEDAD EUCERIN HYALURON-FILLER NOCHE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_ANTIEDAD_EUCERIN_HYALURONFILLER_NOCHE.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$169.450",
+        "precioPorSku js-PUM": "Mililitro a $3.389,00"
+    },
+    "descripcion": "crema antiedad eucerin hyaluron-filler n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC42349-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

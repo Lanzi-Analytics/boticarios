@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/te-fuze-tea-mango-manzana-7702535018651/p",
+    "fecha_hora_scraping": "2021-06-14 08:42:02",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "t\u00e9 fuze tea mango-manzana",
+    "nombre_imagen": "./web_scraping/data/img/t\u00e9_fuze_tea_mangomanzana.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$2.000",
+        "precioPorSku js-PUM": "Mililitro a $5,00"
+    },
+    "descripcion": "t\u00e9 fuze tea mango-manzana",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD13I91615"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

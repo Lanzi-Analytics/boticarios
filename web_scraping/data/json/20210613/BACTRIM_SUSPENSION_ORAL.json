@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bactrim-suspension-oral-7896226501208/p",
+    "fecha_hora_scraping": "2021-06-14 06:20:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BACTRIM SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/BACTRIM_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$56.250",
+        "precioPorSku js-PUM": "Mililitro a $562,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML 8 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SULFAMETOXAZOL TRIMETOPRIM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-003833-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

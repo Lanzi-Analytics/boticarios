@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bepanthen-crema-humectante-7702123009740/p",
+    "fecha_hora_scraping": "2021-06-14 07:02:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "BEPANTHEN CREMA HUMECTANTE",
+    "nombre_imagen": "./web_scraping/data/img/BEPANTHEN_CREMA_HUMECTANTE.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$37.450",
+        "precioPorSku js-PUM": "Gramo a $374,50"
+    },
+    "descripcion": "bepanthen crema humectante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO HIDROXIDO SODIO CARBONATO SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC04017-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

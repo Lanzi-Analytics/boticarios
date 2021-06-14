@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamin-c--zinc-tableta-masticable-mandarina-7702605909285/p",
+    "fecha_hora_scraping": "2021-06-14 02:36:23",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITAMIN C + ZINC TABLETA MASTICABLE MANDARINA",
+    "nombre_imagen": "./web_scraping/data/img/VITAMIN_C__ZINC_TABLETA_MASTICABLE_MANDARINA.jpg",
+    "presentacion": "SOBRE X 12 TAB",
+    "precio": {
+        "bestPrice": "$8.950",
+        "precioPorSku js-PUM": "Unidad a $745,83"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003853"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

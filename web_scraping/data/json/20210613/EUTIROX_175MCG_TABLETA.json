@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eutirox-175mcg-tableta-7501298224312/p",
+    "fecha_hora_scraping": "2021-06-13 23:31:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EUTIROX 175MCG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/EUTIROX_175MCG_TABLETA.jpg",
+    "presentacion": "CAJA X 25TAB",
+    "precio": {
+        "bestPrice": "$90.000",
+        "precioPorSku js-PUM": "Tableta a $1.800,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25TAB"
+        ],
+        [
+            "Concentracion",
+            "175 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "LEVOTIROXINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012579-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

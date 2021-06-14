@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/3-ballerinas-te-polvo-781308001233/p",
+    "fecha_hora_scraping": "2021-06-14 03:33:51",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "3 BALLERINAS TE POLVO",
+    "nombre_imagen": "./web_scraping/data/img/3_BALLERINAS_TE_POLVO.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $823,33"
+    },
+    "descripcion": "3 ballerinas te polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2015-0002408"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

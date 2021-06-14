@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-maxylash-pestanas-largas-2und-precio-especial-7702870102008/p",
+    "fecha_hora_scraping": "2021-06-14 01:35:41",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "oferta maxylash pesta\u00f1as largas 2und precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_maxylash_pesta\u00f1as_largas_2und_precio_especial.jpg",
+    "presentacion": "TUBO X 10 G",
+    "precio": {
+        "bestPrice": "$20.150",
+        "precioPorSku js-PUM": "Gramo a $2.015,00"
+    },
+    "descripcion": "oferta maxylash pesta\u00f1as largas 2und precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC62503-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

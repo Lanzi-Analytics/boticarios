@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oximetazolina-0025--solucion-nasal-pediatrica-la-francol-77013217/p",
+    "fecha_hora_scraping": "2021-06-14 01:00:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OXIMETAZOLINA 0.025 % SOLUCION NASAL PEDIATRICA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/OXIMETAZOLINA_0025__SOLUCION_NASAL_PEDIATRICA_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$7.350",
+        "precioPorSku js-PUM": "Mililitro a $490,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "0.25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "OXIMETAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0004681-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

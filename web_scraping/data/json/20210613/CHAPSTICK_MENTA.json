@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/36600814617pfizercuidado-facialmedicamentoschapstick-menta-36600814617/p",
+    "fecha_hora_scraping": "2021-06-14 02:18:23",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CHAPSTICK MENTA",
+    "nombre_imagen": "./web_scraping/data/img/CHAPSTICK_MENTA.jpg",
+    "presentacion": "TUBO X 4,2 G",
+    "precio": {
+        "bestPrice": "$12.300",
+        "precioPorSku js-PUM": "Gramo a $410,00"
+    },
+    "descripcion": "chapstick menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4,2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44001-99CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

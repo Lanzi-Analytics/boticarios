@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/novalgina-500mg-gotas-7591044009225/p",
+    "fecha_hora_scraping": "2021-06-14 03:57:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NOVALGINA 500MG GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/NOVALGINA_500MG_GOTAS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$21.950",
+        "precioPorSku js-PUM": "Mililitro a $2.195,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "500,0 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "METAMIZOL SODIO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-001716-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

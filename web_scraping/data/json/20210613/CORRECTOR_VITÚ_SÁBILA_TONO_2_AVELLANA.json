@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corrector-vitu-sabila-tono-2-avellana-7702044211086/p",
+    "fecha_hora_scraping": "2021-06-14 10:30:44",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CORRECTOR VIT\u00da S\u00c1BILA TONO 2 AVELLANA",
+    "nombre_imagen": "./web_scraping/data/img/CORRECTOR_VIT\u00da_S\u00c1BILA_TONO_2_AVELLANA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.550",
+        "precioPorSku js-PUM": "Gramo a $2.137,50"
+    },
+    "descripcion": "corrector vit\u00fa s\u00e1bila tono 2 avellana",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC28965-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

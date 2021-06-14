@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-desmaquilladoras-nivea-visag-piel-seca-4005808185276/p",
+    "fecha_hora_scraping": "2021-06-14 05:01:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TOALLITAS DESMAQUILLADORAS NIVEA VISAG PIEL SECA",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_DESMAQUILLADORAS_NIVEA_VISAG_PIEL_SECA.jpg",
+    "presentacion": "PAQUETE X 25 UN",
+    "precio": {
+        "bestPrice": "$17.700",
+        "precioPorSku js-PUM": "Unidad a $708,00"
+    },
+    "descripcion": "toallita desmaq nivea visag x25 sec se",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 25 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSEC 1792-08CE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

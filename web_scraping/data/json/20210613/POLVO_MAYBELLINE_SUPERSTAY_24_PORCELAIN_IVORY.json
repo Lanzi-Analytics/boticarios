@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-maybelline-superstay-24-porcelain-ivory-7509552839333/p",
+    "fecha_hora_scraping": "2021-06-14 08:55:20",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO MAYBELLINE SUPERSTAY 24 PORCELAIN IVORY",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_MAYBELLINE_SUPERSTAY_24_PORCELAIN_IVORY.jpg",
+    "presentacion": "UNIDAD X 10 G",
+    "precio": {
+        "bestPrice": "$45.300",
+        "precioPorSku js-PUM": "Gramo a $4.530,00"
+    },
+    "descripcion": "polvo maybelline superstay 24 porcelain ivory",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83817-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

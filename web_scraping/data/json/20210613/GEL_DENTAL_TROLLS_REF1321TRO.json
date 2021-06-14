@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-dental-trolls-ref1321tro-70942003803/p",
+    "fecha_hora_scraping": "2021-06-14 00:39:58",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "GEL DENTAL TROLLS REF1321TRO",
+    "nombre_imagen": "./web_scraping/data/img/GEL_DENTAL_TROLLS_REF1321TRO.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$8.400",
+        "precioPorSku js-PUM": "Mililitro a $112,00"
+    },
+    "descripcion": "gel dental trolls ref1321tro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92243-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-autan-extraproteccion-aerosol-7591005996625/p",
+    "fecha_hora_scraping": "2021-06-14 00:22:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "repelente autan extraprotecci\u00f3n aerosol",
+    "nombre_imagen": "./web_scraping/data/img/repelente_autan_extraprotecci\u00f3n_aerosol.jpg",
+    "presentacion": "ENVASE X 165 ML",
+    "precio": {
+        "bestPrice": "$15.350",
+        "precioPorSku js-PUM": "Mililitro a $93,03"
+    },
+    "descripcion": "autan extra proteccion\u00a0 aerosol 165m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 165 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

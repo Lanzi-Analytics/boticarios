@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bolsa-para-agua-caliente-7702037202220/p",
+    "fecha_hora_scraping": "2021-06-14 05:54:56",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|fisioterapia y rehabilitaci\u00f3n",
+    "titulo": "BOLSA PARA AGUA CALIENTE",
+    "nombre_imagen": "./web_scraping/data/img/BOLSA_PARA_AGUA_CALIENTE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$23.100",
+        "precioPorSku js-PUM": "Unidad a $23.100,00"
+    },
+    "descripcion": "bolsa para agua caliente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ETERNA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

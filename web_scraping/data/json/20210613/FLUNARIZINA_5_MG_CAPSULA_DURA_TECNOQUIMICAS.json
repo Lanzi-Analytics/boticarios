@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flunarizina-5-mg-capsula-dura-tecnoquimicas-7702057072971/p",
+    "fecha_hora_scraping": "2021-06-14 07:03:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLUNARIZINA 5 MG CAPSULA DURA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/FLUNARIZINA_5_MG_CAPSULA_DURA_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 15 TAB",
+    "precio": {
+        "bestPrice": "$12.575",
+        "precioPorSku js-PUM": "Tableta a $838,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 15 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "FLUNARIZINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-002015-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

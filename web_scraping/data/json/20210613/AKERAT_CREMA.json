@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/akerat-crema-3282770413014/p",
+    "fecha_hora_scraping": "2021-06-14 01:17:58",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AKERAT CREMA",
+    "nombre_imagen": "./web_scraping/data/img/AKERAT_CREMA.jpg",
+    "presentacion": "TUBO X 200 ML",
+    "precio": {
+        "bestPrice": "$107.850",
+        "precioPorSku js-PUM": "Mililitro a $539,25"
+    },
+    "descripcion": "akerat crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC15721-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

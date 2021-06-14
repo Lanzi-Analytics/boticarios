@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ganoderma-lucidum-vitamina-c-zinc-7709990577754/p",
+    "fecha_hora_scraping": "2021-06-14 07:27:36",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "GANODERMA LUCIDUM VITAMINA C+ ZINC",
+    "nombre_imagen": "./web_scraping/data/img/GANODERMA_LUCIDUM_VITAMINA_C_ZINC.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$31.550",
+        "precioPorSku js-PUM": "Capsula a $525,83"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "C I NUTREO SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0001896"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

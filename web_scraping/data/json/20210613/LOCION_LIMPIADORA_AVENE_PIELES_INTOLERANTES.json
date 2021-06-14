@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-limpiadora-avene-pieles-intolerantes-3282771091839/p",
+    "fecha_hora_scraping": "2021-06-14 03:29:42",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "LOCION LIMPIADORA AVENE PIELES INTOLERANTES",
+    "nombre_imagen": "./web_scraping/data/img/LOCION_LIMPIADORA_AVENE_PIELES_INTOLERANTES.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$85.850",
+        "precioPorSku js-PUM": "Mililitro a $429,25"
+    },
+    "descripcion": "locion limpiadora avene pieles intoleran",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC805-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

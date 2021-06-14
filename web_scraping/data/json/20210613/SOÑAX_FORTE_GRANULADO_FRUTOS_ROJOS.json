@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sonax-forte-granulado-frutos-rojos-7702870999615/p",
+    "fecha_hora_scraping": "2021-06-14 01:15:19",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "SO\u00d1AX FORTE GRANULADO FRUTOS ROJOS",
+    "nombre_imagen": "./web_scraping/data/img/SO\u00d1AX_FORTE_GRANULADO_FRUTOS_ROJOS.jpg",
+    "presentacion": "CAJA X 10 SOB",
+    "precio": {
+        "bestPrice": "$22.750",
+        "precioPorSku js-PUM": "Sobre a $2.275,00"
+    },
+    "descripcion": "SO\u00d1AX FORTE GRANULADO FRUTOS ROJOS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2018-0002602"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

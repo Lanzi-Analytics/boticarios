@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-anti-pigment-dual-7319470066786/p",
+    "fecha_hora_scraping": "2021-06-14 10:09:55",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN ANTI-PIGMENT DUAL",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_ANTIPIGMENT_DUAL.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$177.900",
+        "precioPorSku js-PUM": "Mililitro a $5.930,00"
+    },
+    "descripcion": "eucerin anti-pigment dual",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN FENILEFRINA CLORHIDRATO CLORFENIRAMINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86957-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

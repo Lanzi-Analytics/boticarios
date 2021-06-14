@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/marigold-plant-calendula-gel-7709118965098/p",
+    "fecha_hora_scraping": "2021-06-14 02:28:56",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "MARIGOLD PLANT CALENDULA GEL",
+    "nombre_imagen": "./web_scraping/data/img/MARIGOLD_PLANT_CALENDULA_GEL.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$34.900",
+        "precioPorSku js-PUM": "Mililitro a $349,00"
+    },
+    "descripcion": "marigold plant calendula gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86417-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

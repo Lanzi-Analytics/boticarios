@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atacand-16-mg-comprimido-5000456013420/p",
+    "fecha_hora_scraping": "2021-06-14 07:46:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ATACAND 16 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/ATACAND_16_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 30 COM",
+    "precio": {
+        "bestPrice": "$30.500",
+        "precioPorSku js-PUM": "Comprimido a $1.016,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 COM"
+        ],
+        [
+            "Concentracion",
+            "16 MG"
+        ],
+        [
+            "Principio activo",
+            "CANDESARTAN CILEXETILO"
+        ],
+        [
+            "Laboratorio",
+            "ASTRAZENECA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-011860-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

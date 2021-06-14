@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7705959881214genfarformuladosmedicamentoscarvedilol-625-mg-tableta-genfarcarvedilol-7705959881214/p",
+    "fecha_hora_scraping": "2021-06-14 03:44:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CARVEDILOL 6.25 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/CARVEDILOL_625_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$6.750",
+        "precioPorSku js-PUM": "Tableta a $225,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "6,25 MG"
+        ],
+        [
+            "Principio activo",
+            "CARVEDILOL"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0010098-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

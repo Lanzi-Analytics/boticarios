@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/periokin-gel-dental-8470001590879/p",
+    "fecha_hora_scraping": "2021-06-14 10:23:24",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "PERIOKIN GEL DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/PERIOKIN_GEL_DENTAL.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$28.800",
+        "precioPorSku js-PUM": "Mililitro a $960,00"
+    },
+    "descripcion": "periokin gel dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "0,12 G"
+        ],
+        [
+            "Principio activo",
+            "CLORHEXIDINA DIGLUCONATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCLIN PHARMA S.A."
+        ],
+        [
+            "Registro Invima",
+            "NSOC75166-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,20 +1,20 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/lubricante-sen-intimo-crema-de-wisky-caliente-7707290879035/p",
-    "fecha_hora_scraping": "2021-06-13 19:21:40",
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707290879394quidecalubricantes-y-dispositivosmedicamentoslubricante-sen-intimo-crema-de-wisky-caliente-7707290879394/p",
+    "fecha_hora_scraping": "2021-06-14 01:39:50",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|lubricantes y dispositivos",
     "titulo": "LUBRICANTE SEN INTIMO CREMA DE WISKY CALIENTE",
     "nombre_imagen": "./web_scraping/data/img/LUBRICANTE_SEN_INTIMO_CREMA_DE_WISKY_CALIENTE.jpg",
-    "presentacion": "TUBO X 30 ML",
+    "presentacion": "TUBO X 5 ML",
     "precio": {
-        "PrevPrice": "Antes:$16.700",
-        "bestPrice": "$14.195",
-        "precioPorSku js-PUM": "Mililitro a $473,17"
+        "PrevPrice": "Antes:$9.750",
+        "bestPrice": "$8.287",
+        "precioPorSku js-PUM": "Mililitro a $1.657,40"
     },
     "descripcion": "lubricante sen intimo crema de wisky cal",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "TUBO X 30 ML"
+            "TUBO X 5 ML"
         ],
         [
             "Concentracion",

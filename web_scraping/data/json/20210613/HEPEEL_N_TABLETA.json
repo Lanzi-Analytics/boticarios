@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hepeel-n-tableta-7707336720864/p",
+    "fecha_hora_scraping": "2021-06-14 05:04:13",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "HEPEEL N TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/HEPEEL_N_TABLETA.jpg",
+    "presentacion": "FRASCO X 50 COM",
+    "precio": {
+        "bestPrice": "$57.800",
+        "precioPorSku js-PUM": "Comprimido a $1.156,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 COM"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2008-0000889"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

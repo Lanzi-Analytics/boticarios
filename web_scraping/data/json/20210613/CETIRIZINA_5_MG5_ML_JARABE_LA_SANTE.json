@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetirizina-5-mg5-ml-jarabe-la-sante-7703763610426/p",
+    "fecha_hora_scraping": "2021-06-14 07:31:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CETIRIZINA 5 MG/5 ML JARABE LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/CETIRIZINA_5_MG5_ML_JARABE_LA_SANTE.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$22.600",
+        "precioPorSku js-PUM": "Mililitro a $376,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-007295-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

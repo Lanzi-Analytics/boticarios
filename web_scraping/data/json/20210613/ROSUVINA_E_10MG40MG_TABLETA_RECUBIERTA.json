@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rosuvina-e-10mg40mg-tableta-recubierta-7704039127648/p",
+    "fecha_hora_scraping": "2021-06-14 06:21:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROSUVINA E 10MG/40MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ROSUVINA_E_10MG40MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$234.750",
+        "precioPorSku js-PUM": "Tableta a $8.383,93"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ROSUVASTATINA CALCICA EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LEGRAND SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013758-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionador-dove-factor-nutricion-60-7891150060852/p",
+    "fecha_hora_scraping": "2021-06-14 04:33:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "ACONDICIONADOR DOVE FACTOR NUTRICI\u00d3N 60",
+    "nombre_imagen": "./web_scraping/data/img/ACONDICIONADOR_DOVE_FACTOR_NUTRICI\u00d3N_60.jpg",
+    "presentacion": "FRASCO X 170 ML",
+    "precio": {
+        "bestPrice": "$20.500",
+        "precioPorSku js-PUM": "Mililitro a $120,59"
+    },
+    "descripcion": "dove super ac 60 factor nutric",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 170 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86045-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sildenafilo-25-mg-tableta-recubierta-gef-7702605105670/p",
+    "fecha_hora_scraping": "2021-06-13 23:40:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SILDENAFILO 25 MG TABLETA RECUBIERTA GEF",
+    "nombre_imagen": "./web_scraping/data/img/SILDENAFILO_25_MG_TABLETA_RECUBIERTA_GEF.jpg",
+    "presentacion": "CAJA X 4 TAB",
+    "precio": {
+        "bestPrice": "$9.700",
+        "precioPorSku js-PUM": "Tableta a $2.425,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "SILDENAFILO CITRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018099"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

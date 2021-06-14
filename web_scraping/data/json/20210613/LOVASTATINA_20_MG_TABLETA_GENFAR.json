@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lovastatina-20-mg-tableta-genfar-7702605101702/p",
+    "fecha_hora_scraping": "2021-06-14 05:55:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LOVASTATINA 20 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/LOVASTATINA_20_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$7.700",
+        "precioPorSku js-PUM": "Tableta a $770,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "LOVASTATINA"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003810-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

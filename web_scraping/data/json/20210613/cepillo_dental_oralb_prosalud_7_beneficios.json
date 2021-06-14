@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cepillo-dental-oral-b-pro-salud-2x1-7501001100285/p",
+    "fecha_hora_scraping": "2021-06-14 03:12:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental oral-b pro-salud 7 beneficios",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_oralb_prosalud_7_beneficios.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$17.200",
+        "precioPorSku js-PUM": "Unidad a $17.200,00"
+    },
+    "descripcion": "cepillo dental suave oral-b cross action",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

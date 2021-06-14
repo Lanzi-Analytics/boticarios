@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidrocortisona-1--crema-la-francol-7706569000194/p",
+    "fecha_hora_scraping": "2021-06-14 08:51:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIDROCORTISONA 1 % CREMA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/HIDROCORTISONA_1__CREMA_LA_FRANCOL.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$4.850",
+        "precioPorSku js-PUM": "Gramo a $323,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "HIDROCORTISONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-014387-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

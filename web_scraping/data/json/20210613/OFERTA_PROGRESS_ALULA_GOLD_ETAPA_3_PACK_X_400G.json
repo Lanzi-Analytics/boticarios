@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-progress-alula-gold-etapa-3-pack-x-400g-7707859328486/p",
+    "fecha_hora_scraping": "2021-06-14 10:08:45",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "OFERTA PROGRESS ALULA GOLD ETAPA 3 PACK X 400G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PROGRESS_ALULA_GOLD_ETAPA_3_PACK_X_400G.jpg",
+    "presentacion": "TARRO X 1.600 G",
+    "precio": {
+        "bestPrice": "$113.550",
+        "precioPorSku js-PUM": "Gramo a $70,97"
+    },
+    "descripcion": "oferta progress gold etapa 3 pack x 400g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 1.600 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SANULAC NUTRICION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I10111"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

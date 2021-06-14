@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-dove-mencare-clinical-79400296023/p",
+    "fecha_hora_scraping": "2021-06-14 06:59:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "ANTITRANSPIRANTE DOVE MEN+CARE CLINICAL",
+    "nombre_imagen": "./web_scraping/data/img/ANTITRANSPIRANTE_DOVE_MENCARE_CLINICAL.jpg",
+    "presentacion": "EMPAQUE X 48 G",
+    "precio": {
+        "bestPrice": "$22.550",
+        "precioPorSku js-PUM": "Gramo a $469,79"
+    },
+    "descripcion": "desodorante dove clinical men+care",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 48 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54784-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

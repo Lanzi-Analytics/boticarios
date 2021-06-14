@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7509552836677crema-para-peinar-elvive-dream-longhigiene-y-cuidado-personalcuidado-del-cabellona-7509552836677/p",
+    "fecha_hora_scraping": "2021-06-14 03:40:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "CREMA PARA PEINAR ELVIVE DREAM LONG",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PARA_PEINAR_ELVIVE_DREAM_LONG.jpg",
+    "presentacion": "FRASCO X 300 X ML",
+    "precio": {
+        "PrevPrice": "Antes:$17.450",
+        "bestPrice": "$12.215",
+        "precioPorSku js-PUM": "Mililitro a $40,72"
+    },
+    "descripcion": "crema para peinar elvive dream long",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88903-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

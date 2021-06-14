@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/salufit-natural-sin-lactosa-7702870050552/p",
+    "fecha_hora_scraping": "2021-06-14 05:23:53",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "SALUFIT NATURAL SIN LACTOSA",
+    "nombre_imagen": "./web_scraping/data/img/SALUFIT_NATURAL_SIN_LACTOSA.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $154,38"
+    },
+    "descripcion": "salufit natural sin lactosa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV10I19604"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

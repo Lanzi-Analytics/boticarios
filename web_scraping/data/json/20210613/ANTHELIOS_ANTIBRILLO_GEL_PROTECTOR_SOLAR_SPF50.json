@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anthelios-xl-gel-toque-seco-spf50-3337875546430/p",
+    "fecha_hora_scraping": "2021-06-14 04:14:31",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "ANTHELIOS ANTIBRILLO GEL PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/ANTHELIOS_ANTIBRILLO_GEL_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$103.650",
+        "precioPorSku js-PUM": "Mililitro a $2.073,00"
+    },
+    "descripcion": "anthelios xl gel toque seco spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52496-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

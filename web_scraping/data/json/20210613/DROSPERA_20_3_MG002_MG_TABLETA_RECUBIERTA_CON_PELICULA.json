@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/drospera-20-3-mg002-mg-tableta-recubierta-con-pelicula-8437009433638/p",
+    "fecha_hora_scraping": "2021-06-14 01:16:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DROSPERA 20 3 MG/0.02 MG TABLETA RECUBIERTA CON PELICULA",
+    "nombre_imagen": "./web_scraping/data/img/DROSPERA_20_3_MG002_MG_TABLETA_RECUBIERTA_CON_PELICULA.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$25.350",
+        "precioPorSku js-PUM": "Tableta a $905,36"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "3 MG 0,02 MG"
+        ],
+        [
+            "Principio activo",
+            "DROSPIRENONA ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016961"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

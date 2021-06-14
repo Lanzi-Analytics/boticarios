@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-lubriderm-extrahumectante-7501007531120/p",
+    "fecha_hora_scraping": "2021-06-14 01:15:49",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "CREMA LUBRIDERM EXTRAHUMECTANTE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_LUBRIDERM_EXTRAHUMECTANTE.jpg",
+    "presentacion": "FRASCO X 750 ML",
+    "precio": {
+        "bestPrice": "$35.600",
+        "precioPorSku js-PUM": "Mililitro a $47,47"
+    },
+    "descripcion": "crema lubriderm valvula con per",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 750 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC1996CO2849"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

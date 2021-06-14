@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-en-barra-altex-accion-limpiadora-7702057105228/p",
+    "fecha_hora_scraping": "2021-06-14 07:12:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "JAB\u00d3N EN BARRA ALTEX ACCI\u00d3N LIMPIADORA",
+    "nombre_imagen": "./web_scraping/data/img/JAB\u00d3N_EN_BARRA_ALTEX_ACCI\u00d3N_LIMPIADORA.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "$8.900",
+        "precioPorSku js-PUM": "Gramo a $89,00"
+    },
+    "descripcion": "altex accion limpiadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC49684-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rifaximina-200mg-tableta-recubierta-tecnoquimicas-7702057700935/p",
+    "fecha_hora_scraping": "2021-06-14 09:20:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RIFAXIMINA 200MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/RIFAXIMINA_200MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$27.200",
+        "precioPorSku js-PUM": "Tableta a $2.266,67"
+    },
+    "descripcion": "RIFAXIMINA 200MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "RIFAXIMINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019259"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

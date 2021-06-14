@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidroxicina-clorhidrato-25-mg-tableta-la-sante-7703763202010/p",
+    "fecha_hora_scraping": "2021-06-14 02:57:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIDROXICINA CLORHIDRATO 25 MG TABLETA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/HIDROXICINA_CLORHIDRATO_25_MG_TABLETA_LA_SANTE.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Tableta a $277,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "HIDROXICINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0001991-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

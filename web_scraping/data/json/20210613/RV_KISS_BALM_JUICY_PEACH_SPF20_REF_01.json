@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-kiss-balm-juicy-peach-spf20-ref-01-309971879159/p",
+    "fecha_hora_scraping": "2021-06-14 04:25:59",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV KISS BALM JUICY PEACH SPF20 REF 01",
+    "nombre_imagen": "./web_scraping/data/img/RV_KISS_BALM_JUICY_PEACH_SPF20_REF_01.jpg",
+    "presentacion": "TUBO X 3G",
+    "precio": {
+        "bestPrice": "$10.550",
+        "precioPorSku js-PUM": "Gramo a $4.057,69"
+    },
+    "descripcion": "balsamo labial revlon kiss juicy peach r",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 3G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76757-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acetato-de-aluminio-kids-7705959885311/p",
+    "fecha_hora_scraping": "2021-06-13 23:36:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ACETATO DE ALUMINIO KIDS",
+    "nombre_imagen": "./web_scraping/data/img/ACETATO_DE_ALUMINIO_KIDS.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$9.000",
+        "precioPorSku js-PUM": "Mililitro a $75,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "1,18 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018301"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

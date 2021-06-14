@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-cicatricure-crema--contorno-de-ojos-blur-filler-crema-x-15g-650240053665/p",
+    "fecha_hora_scraping": "2021-06-14 10:27:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "KIT CICATRICURE CREMA + CONTORNO DE OJOS BLUR FILLER CREMA X 15G",
+    "nombre_imagen": "./web_scraping/data/img/KIT_CICATRICURE_CREMA__CONTORNO_DE_OJOS_BLUR_FILLER_CREMA_X_15G.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $83.200,00"
+    },
+    "descripcion": "kit cicatricure crema + contorno de ojos blur filler crema x 15g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78849-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

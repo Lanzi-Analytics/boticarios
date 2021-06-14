@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flumex-1-mgml-suspension-oftalmica-7707236672119/p",
+    "fecha_hora_scraping": "2021-06-14 06:15:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLUMEX 1 MG/ML SUSPENSION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/FLUMEX_1_MGML_SUSPENSION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$39.450",
+        "precioPorSku js-PUM": "Mililitro a $7.890,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "FLUOROMETOLONA"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-014883-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

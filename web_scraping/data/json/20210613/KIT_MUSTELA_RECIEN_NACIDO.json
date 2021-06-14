@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-mustela-recien-nacido-7709306253044/p",
+    "fecha_hora_scraping": "2021-06-14 01:09:28",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "KIT MUSTELA RECIEN NACIDO",
+    "nombre_imagen": "./web_scraping/data/img/KIT_MUSTELA_RECIEN_NACIDO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $150.450,00"
+    },
+    "descripcion": "kit mustela recien nacido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57411-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

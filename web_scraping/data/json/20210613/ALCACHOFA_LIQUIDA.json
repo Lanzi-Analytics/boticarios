@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcachofa-liquida-7707176460029/p",
+    "fecha_hora_scraping": "2021-06-14 07:50:14",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ALCACHOFA LIQUIDA",
+    "nombre_imagen": "./web_scraping/data/img/ALCACHOFA_LIQUIDA.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$16.900",
+        "precioPorSku js-PUM": "Mililitro a $281,67"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "250 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALCACHOFA HOJA DESHID"
+        ],
+        [
+            "Laboratorio",
+            "FUNDACI LABORATORIO FARMACOLOGIA VE"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-0001847"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

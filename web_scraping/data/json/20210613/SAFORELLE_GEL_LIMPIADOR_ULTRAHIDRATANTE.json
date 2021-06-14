@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/saforelle-gel-limpiador-ultrahidratante-7703153039196/p",
+    "fecha_hora_scraping": "2021-06-14 03:27:21",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SAFORELLE GEL LIMPIADOR ULTRAHIDRATANTE",
+    "nombre_imagen": "./web_scraping/data/img/SAFORELLE_GEL_LIMPIADOR_ULTRAHIDRATANTE.jpg",
+    "presentacion": "FRASCO X 100ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $664,00"
+    },
+    "descripcion": "saforelle gel limpiador ultrahidratante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66864-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

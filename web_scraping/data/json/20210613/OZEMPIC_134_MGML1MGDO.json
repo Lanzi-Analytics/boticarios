@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ozempic-134-mgml1mgdo-7709438991081/p",
+    "fecha_hora_scraping": "2021-06-14 04:10:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OZEMPIC 1.34 MG/ML(1MG/DO)",
+    "nombre_imagen": "./web_scraping/data/img/OZEMPIC_134_MGML1MGDO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$750.200",
+        "precioPorSku js-PUM": "Mililitro a $250.066,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "1,34 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SEMAGLUTIDA"
+        ],
+        [
+            "Laboratorio",
+            "NOVO NORDISK COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019473"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

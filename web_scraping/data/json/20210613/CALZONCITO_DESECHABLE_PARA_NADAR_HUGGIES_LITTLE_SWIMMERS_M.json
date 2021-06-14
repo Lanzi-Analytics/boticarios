@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calzoncito-desechable-para-nadar-huggies-little-swimmers-m-7751493008327/p",
+    "fecha_hora_scraping": "2021-06-14 05:49:10",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CALZONCITO DESECHABLE PARA NADAR HUGGIES LITTLE SWIMMERS M",
+    "nombre_imagen": "./web_scraping/data/img/CALZONCITO_DESECHABLE_PARA_NADAR_HUGGIES_LITTLE_SWIMMERS_M.jpg",
+    "presentacion": "EMPAQUE X 10 UN",
+    "precio": {
+        "bestPrice": "$22.500",
+        "precioPorSku js-PUM": "Unidad a $2.045,45"
+    },
+    "descripcion": "hug little swimmers m x11",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

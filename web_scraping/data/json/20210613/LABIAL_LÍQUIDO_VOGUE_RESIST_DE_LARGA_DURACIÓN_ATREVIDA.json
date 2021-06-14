@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-liquido-vogue-resist-de-larga-duracion-atrevida-7509552840636/p",
+    "fecha_hora_scraping": "2021-06-14 07:05:55",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL L\u00cdQUIDO VOGUE RESIST DE LARGA DURACI\u00d3N ATREVIDA",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_L\u00cdQUIDO_VOGUE_RESIST_DE_LARGA_DURACI\u00d3N_ATREVIDA.jpg",
+    "presentacion": "UNIDAD X 3 ML",
+    "precio": {
+        "bestPrice": "$17.150",
+        "precioPorSku js-PUM": "Mililitro a $5.716,67"
+    },
+    "descripcion": "labial l\u00edquido vogue resist de larga duraci\u00f3n atrevida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 3 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92572-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

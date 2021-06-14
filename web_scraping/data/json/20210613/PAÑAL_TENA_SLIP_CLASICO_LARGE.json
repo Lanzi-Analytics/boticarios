@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-tena-slip-clasico-large-7702027479724/p",
+    "fecha_hora_scraping": "2021-06-14 06:39:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1AL TENA SLIP CLASICO LARGE",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_TENA_SLIP_CLASICO_LARGE.jpg",
+    "presentacion": "PAQUETE X 9 UN",
+    "precio": {
+        "bestPrice": "$21.550",
+        "precioPorSku js-PUM": "Unidad a $2.394,44"
+    },
+    "descripcion": "pa\u00f1al tena basic large",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 9 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA04565-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

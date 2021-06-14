@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/secnidazol-1-g-tableta-tecnoquimicas-7702057075651/p",
+    "fecha_hora_scraping": "2021-06-14 04:49:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SECNIDAZOL 1 G TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/SECNIDAZOL_1_G_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$27.300",
+        "precioPorSku js-PUM": "Tableta a $13.650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "1000 MG"
+        ],
+        [
+            "Principio activo",
+            "SECNIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-13540-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

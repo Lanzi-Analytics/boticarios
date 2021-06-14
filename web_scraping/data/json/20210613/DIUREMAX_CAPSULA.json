@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diuremax-capsula-7707232096933/p",
+    "fecha_hora_scraping": "2021-06-14 10:36:02",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "DIUREMAX CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/DIUREMAX_CAPSULA.jpg",
+    "presentacion": "FRASCO X 50 CAP",
+    "precio": {
+        "bestPrice": "$28.150",
+        "precioPorSku js-PUM": "Capsula a $563,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ORTIGA HOJA"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2012-0001913"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

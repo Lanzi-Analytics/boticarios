@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-stayfree-adapt-plus-ultradelgada-super-pack-x24und-7702031414896/p",
+    "fecha_hora_scraping": "2021-06-14 03:18:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas stayfree adapt plus ultradelgada s\u00faper pack x24und",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_stayfree_adapt_plus_ultradelgada_s\u00faper_pack_x24und.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$4.300",
+        "precioPorSku js-PUM": "Unidad a $358,33"
+    },
+    "descripcion": "st adapt plus ultradelg x2 x12 verde",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sol-or-locion-piel-grasa-spf35-7704190355621/p",
+    "fecha_hora_scraping": "2021-06-14 04:43:45",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "SOLOR LOCI\u00d3N PIEL GRASA PROTECTOR SOLAR SPF35+",
+    "nombre_imagen": "./web_scraping/data/img/SOLOR_LOCI\u00d3N_PIEL_GRASA_PROTECTOR_SOLAR_SPF35.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$72.950",
+        "precioPorSku js-PUM": "Mililitro a $607,92"
+    },
+    "descripcion": "protector solar sol-or locion piel grasa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIFARMA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44104-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

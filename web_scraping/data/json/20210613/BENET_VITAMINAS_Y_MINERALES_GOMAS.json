@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-vitaminas-y-minerales-gomas-7709097931374/p",
+    "fecha_hora_scraping": "2021-06-14 02:40:06",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "BENET VITAMINAS Y MINERALES GOMAS",
+    "nombre_imagen": "./web_scraping/data/img/BENET_VITAMINAS_Y_MINERALES_GOMAS.jpg",
+    "presentacion": "FRASCO X 150 G",
+    "precio": {
+        "bestPrice": "$22.750",
+        "precioPorSku js-PUM": "Gramo a $151,67"
+    },
+    "descripcion": "benet vitaminas y minerales gomas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005507-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

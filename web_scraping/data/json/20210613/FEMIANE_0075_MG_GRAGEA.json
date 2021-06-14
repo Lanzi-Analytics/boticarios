@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/femiane-0075-mg-gragea-7896116882028/p",
+    "fecha_hora_scraping": "2021-06-13 23:57:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEMIANE 0.075 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/FEMIANE_0075_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 21 GRG",
+    "precio": {
+        "bestPrice": "$45.800",
+        "precioPorSku js-PUM": "Gragea a $2.180,95"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 GRG"
+        ],
+        [
+            "Concentracion",
+            "75 \u00b5G 20 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "GESTODENO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-006011-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterex-db-cal-pague5-lleve-6-vainilla-7707190471766/p",
+    "fecha_hora_scraping": "2021-06-14 03:18:23",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "enterex db-cal pague:5 lleve 6 vainilla",
+    "nombre_imagen": "./web_scraping/data/img/enterex_dbcal_pague5_lleve_6_vainilla.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$46.650",
+        "precioPorSku js-PUM": "Mililitro a $39,37"
+    },
+    "descripcion": "enterex db-cal pague:5 lleve 6 vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "AMAREY NOVA MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005914-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

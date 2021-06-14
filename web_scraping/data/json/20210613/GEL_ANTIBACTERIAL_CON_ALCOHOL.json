@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-antibacterial-con-alcohol-7707372347650/p",
+    "fecha_hora_scraping": "2021-06-14 02:44:03",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "GEL ANTIBACTERIAL CON ALCOHOL",
+    "nombre_imagen": "./web_scraping/data/img/GEL_ANTIBACTERIAL_CON_ALCOHOL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$8.750",
+        "precioPorSku js-PUM": "Mililitro a $72,92"
+    },
+    "descripcion": "gel antibacterial con alcohol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "I LAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

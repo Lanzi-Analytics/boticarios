@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7506205811081mead-johnson-nutritionformulas-infantilesmamas-y-bebesformula-infantil-enfagrow-premium-vainilla-7506205811081/p",
+    "fecha_hora_scraping": "2021-06-14 02:16:25",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAGROW PREMIUM VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAGROW_PREMIUM_VAINILLA.jpg",
+    "presentacion": "BOLSA X 550 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $74,73"
+    },
+    "descripcion": "formula infantil enfagrow premium vainil",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 550 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I20404"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

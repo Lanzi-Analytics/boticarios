@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-seda-dental-reach-cera-pague-35metros-lleve-50metros-7702031777977/p",
+    "fecha_hora_scraping": "2021-06-14 09:30:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "oferta seda dental reach cera pague: 35metros lleve: 50metros",
+    "nombre_imagen": "./web_scraping/data/img/oferta_seda_dental_reach_cera_pague_35metros_lleve_50metros.jpg",
+    "presentacion": "EMPAQUE X 50 MET",
+    "precio": {
+        "bestPrice": "$9.250",
+        "precioPorSku js-PUM": "Metro a $185,00"
+    },
+    "descripcion": "of seda dental reach menta p 35 ll 50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 50 MET"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "SIN"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

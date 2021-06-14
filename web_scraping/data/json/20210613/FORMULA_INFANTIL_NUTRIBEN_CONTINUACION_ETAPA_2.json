@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-nutriben-continuacion-etapa-2-7703546729000/p",
+    "fecha_hora_scraping": "2021-06-14 02:32:36",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL NUTRIBEN CONTINUACION ETAPA 2",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_NUTRIBEN_CONTINUACION_ETAPA_2.jpg",
+    "presentacion": "TARRO X 900 G",
+    "precio": {
+        "bestPrice": "$81.150",
+        "precioPorSku js-PUM": "Gramo a $90,17"
+    },
+    "descripcion": "formula infantil nutriben continuacion e",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I66013"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

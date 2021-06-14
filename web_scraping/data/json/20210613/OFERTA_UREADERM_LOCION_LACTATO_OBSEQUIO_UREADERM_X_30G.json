@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-ureaderm-locion-lactato-obsequio-ureaderm-x-30g-7703281003571/p",
+    "fecha_hora_scraping": "2021-06-14 08:16:54",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA UREADERM LOCION LACTATO OBSEQUIO UREADERM X 30G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_UREADERM_LOCION_LACTATO_OBSEQUIO_UREADERM_X_30G.jpg",
+    "presentacion": "FRASCO X 225 G",
+    "precio": {
+        "bestPrice": "$106.400",
+        "precioPorSku js-PUM": "Gramo a $472,89"
+    },
+    "descripcion": "oferta ureaderm locion lactato obsequio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 225 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33488-96CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

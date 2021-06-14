@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seda-dental-reach-cera-expansion-plus-7891010038892/p",
+    "fecha_hora_scraping": "2021-06-14 06:43:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "seda dental reach cera expansion plus",
+    "nombre_imagen": "./web_scraping/data/img/seda_dental_reach_cera_expansion_plus.jpg",
+    "presentacion": "EMPAQUE X 50 MET",
+    "precio": {
+        "bestPrice": "$12.150",
+        "precioPorSku js-PUM": "Metro a $243,00"
+    },
+    "descripcion": "hilo dent con cera reach flo menta 50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 50 MET"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

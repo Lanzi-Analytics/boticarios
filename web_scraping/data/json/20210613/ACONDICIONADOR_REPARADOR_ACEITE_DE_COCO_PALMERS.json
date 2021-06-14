@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionador-reparador-aceite-de-coco-palmers-10181033087/p",
+    "fecha_hora_scraping": "2021-06-13 23:46:06",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "ACONDICIONADOR REPARADOR ACEITE DE COCO PALMERS",
+    "nombre_imagen": "./web_scraping/data/img/ACONDICIONADOR_REPARADOR_ACEITE_DE_COCO_PALMERS.jpg",
+    "presentacion": "TUBO X 250 ML",
+    "precio": {
+        "bestPrice": "$44.550",
+        "precioPorSku js-PUM": "Mililitro a $178,20"
+    },
+    "descripcion": "acondicionador reparador aceite de coco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "160 N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80366-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

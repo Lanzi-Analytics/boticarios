@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-advance-liquido-chocolate-7703186031303/p",
+    "fecha_hora_scraping": "2021-06-14 03:22:32",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE ADVANCE LIQUIDO CHOCOLATE",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_ADVANCE_LIQUIDO_CHOCOLATE.jpg",
+    "presentacion": "BOTELLA X 237 ML",
+    "precio": {
+        "bestPrice": "$7.550",
+        "precioPorSku js-PUM": "Mililitro a $31,86"
+    },
+    "descripcion": "ensure advance liquido chocolate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I178915"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

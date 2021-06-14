@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lip-smacker-pink-lemonade-50051810608/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:48",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "LIP SMACKER PINK LEMONADE",
+    "nombre_imagen": "./web_scraping/data/img/LIP_SMACKER_PINK_LEMONADE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $20.050,00"
+    },
+    "descripcion": "lip smacker pink lemonade",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARBELCOR SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90132-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

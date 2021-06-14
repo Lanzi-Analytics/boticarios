@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-stay-off-familiar-7706800002956/p",
+    "fecha_hora_scraping": "2021-06-14 03:48:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "REPELENTE STAY OFF FAMILIAR",
+    "nombre_imagen": "./web_scraping/data/img/REPELENTE_STAY_OFF_FAMILIAR.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $63,00"
+    },
+    "descripcion": "REPELENTE STAY OFF FAMILIAR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC65248-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

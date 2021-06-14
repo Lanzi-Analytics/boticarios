@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/virosupril-5--crema-7703281001416/p",
+    "fecha_hora_scraping": "2021-06-14 09:06:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "VIROSUPRIL 5 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/VIROSUPRIL_5__CREMA.jpg",
+    "presentacion": "TUBO X 5 G",
+    "precio": {
+        "bestPrice": "$78.650",
+        "precioPorSku js-PUM": "Gramo a $15.730,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 5 G"
+        ],
+        [
+            "Concentracion",
+            "50 MG/G"
+        ],
+        [
+            "Principio activo",
+            "IMIQUIMOD"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0006825-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

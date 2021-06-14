@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fucicort-20-mg1-mg-crema-5702191011401/p",
+    "fecha_hora_scraping": "2021-06-14 02:58:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FUCICORT 20 MG/1 MG CREMA",
+    "nombre_imagen": "./web_scraping/data/img/FUCICORT_20_MG1_MG_CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$73.200",
+        "precioPorSku js-PUM": "Gramo a $4.880,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G 1 MG/G"
+        ],
+        [
+            "Principio activo",
+            "FUSIDICO ACIDO HEMIHIDRATO BETAMETASONA VALERATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-011593-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

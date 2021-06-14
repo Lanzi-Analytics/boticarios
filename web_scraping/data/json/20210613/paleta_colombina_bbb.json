@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-colombina-bbb-7702149093662/p",
+    "fecha_hora_scraping": "2021-06-14 00:30:45",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta colombina bbb",
+    "nombre_imagen": "./web_scraping/data/img/paleta_colombina_bbb.jpg",
+    "presentacion": "UNIDAD X 80 G",
+    "precio": {
+        "bestPrice": "$1.600",
+        "precioPorSku js-PUM": "Gramo a $20,00"
+    },
+    "descripcion": "paleta colombina bbb",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 80 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD09I9106"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

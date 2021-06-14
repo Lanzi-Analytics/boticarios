@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolni-k-5--solucion-bucal-7705028000027/p",
+    "fecha_hora_scraping": "2021-06-14 07:29:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "DOLNI-K 5 % SOLUCION BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/DOLNIK_5__SOLUCION_BUCAL.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$27.500",
+        "precioPorSku js-PUM": "Mililitro a $152,78"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "POTASIO NITRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FARPAG SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-011686-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

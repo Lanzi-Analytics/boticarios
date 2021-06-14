@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guardian-recolector-cortopunzantes-1000001848228/p",
+    "fecha_hora_scraping": "2021-06-13 23:41:20",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUARDIAN RECOLECTOR CORTOPUNZANTES",
+    "nombre_imagen": "./web_scraping/data/img/GUARDIAN_RECOLECTOR_CORTOPUNZANTES.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$2.800",
+        "precioPorSku js-PUM": "Tarro a $2.800,00"
+    },
+    "descripcion": "guardian recolector cortopunzantes",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ARCANAS TRADING CO SAS CI"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

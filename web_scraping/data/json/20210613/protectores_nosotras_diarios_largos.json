@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-nosotras-diarios-largos-7702027440946/p",
+    "fecha_hora_scraping": "2021-06-14 05:58:12",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores nosotras diarios largos",
+    "nombre_imagen": "./web_scraping/data/img/protectores_nosotras_diarios_largos.jpg",
+    "presentacion": "PAQUETE X 50 UN",
+    "precio": {
+        "bestPrice": "$10.600",
+        "precioPorSku js-PUM": "Unidad a $212,00"
+    },
+    "descripcion": "protectores nosotras diarios largos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA01532-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

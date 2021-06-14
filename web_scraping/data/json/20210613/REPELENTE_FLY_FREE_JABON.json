@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-fly-free-jabon-7707232092065/p",
+    "fecha_hora_scraping": "2021-06-14 01:49:47",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "REPELENTE FLY FREE JABON",
+    "nombre_imagen": "./web_scraping/data/img/REPELENTE_FLY_FREE_JABON.jpg",
+    "presentacion": "BARRA X 50 G",
+    "precio": {
+        "bestPrice": "$12.650",
+        "precioPorSku js-PUM": "Gramo a $253,00"
+    },
+    "descripcion": "repelente fly free jabon",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2005CO16425"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

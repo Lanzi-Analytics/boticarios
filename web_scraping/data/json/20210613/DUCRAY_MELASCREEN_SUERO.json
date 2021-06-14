@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ducray-melascreen-suero-3282770049527/p",
+    "fecha_hora_scraping": "2021-06-14 04:44:40",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DUCRAY MELASCREEN SUERO",
+    "nombre_imagen": "./web_scraping/data/img/DUCRAY_MELASCREEN_SUERO.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$183.950",
+        "precioPorSku js-PUM": "Mililitro a $6.131,67"
+    },
+    "descripcion": "ducray melascreen suero",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73745-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

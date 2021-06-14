@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dent-deepclea-sonic-1un-ref4100l-70942002332/p",
+    "fecha_hora_scraping": "2021-06-14 07:32:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENT DEEPCLEA SONIC 1UN REF4100L",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENT_DEEPCLEA_SONIC_1UN_REF4100L.jpg",
+    "presentacion": "CAJA X 1 UN",
+    "precio": {
+        "bestPrice": "$39.650",
+        "precioPorSku js-PUM": "Unidad a $39.650,00"
+    },
+    "descripcion": "cepillo dent deepclea sonic 1un ref4100l",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

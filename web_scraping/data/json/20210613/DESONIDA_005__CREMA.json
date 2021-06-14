@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desonida-005--crema-7707355050232/p",
+    "fecha_hora_scraping": "2021-06-14 08:28:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "DESONIDA 0.05 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/DESONIDA_005__CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "PrevPrice": "Antes:$14.700",
+        "bestPrice": "$10.290",
+        "precioPorSku js-PUM": "Gramo a $686,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "DESONIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-012263-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

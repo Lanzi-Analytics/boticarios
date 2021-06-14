@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladerm-cicatripiel-crema-7707210530862/p",
+    "fecha_hora_scraping": "2021-06-14 02:53:57",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADERM CICATRIPIEL CREMA",
+    "nombre_imagen": "./web_scraping/data/img/CALADERM_CICATRIPIEL_CREMA.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$34.200",
+        "precioPorSku js-PUM": "Gramo a $855,00"
+    },
+    "descripcion": "caladerm cicatripiel crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88623-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

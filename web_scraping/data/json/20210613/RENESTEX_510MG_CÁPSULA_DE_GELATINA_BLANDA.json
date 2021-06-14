@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/renestex-510mg-capsula-de-gelatina-blanda-7703153039257/p",
+    "fecha_hora_scraping": "2021-06-14 00:07:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RENESTEX 5/10MG C\u00c1PSULA DE GELATINA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/RENESTEX_510MG_C\u00c1PSULA_DE_GELATINA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$167.800",
+        "precioPorSku js-PUM": "Tableta a $5.593,33"
+    },
+    "descripcion": "RENESTEX 5/10MG C\u00c1PSULA DE GELATINA BLANDA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "MONTELUKAST SODIO LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0019600"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

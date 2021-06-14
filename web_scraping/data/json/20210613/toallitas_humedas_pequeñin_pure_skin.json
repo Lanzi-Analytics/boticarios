@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-pequenin-pure-skin-7702026034276/p",
+    "fecha_hora_scraping": "2021-06-14 05:55:59",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "toallitas humedas peque\u00f1in pure skin",
+    "nombre_imagen": "./web_scraping/data/img/toallitas_humedas_peque\u00f1in_pure_skin.jpg",
+    "presentacion": "PAQUETE X 30 UN",
+    "precio": {
+        "bestPrice": "$6.550",
+        "precioPorSku js-PUM": "Unidad a $218,33"
+    },
+    "descripcion": "toallitas humedas peque\u00f1in pure skin",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75110-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

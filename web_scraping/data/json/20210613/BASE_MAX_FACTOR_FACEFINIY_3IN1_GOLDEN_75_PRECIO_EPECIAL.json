@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-max-factor-facefiniy-3in1-golden-75-precio-epecial-7702044216678/p",
+    "fecha_hora_scraping": "2021-06-14 00:30:40",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE MAX FACTOR FACEFINIY 3IN1 GOLDEN #75 PRECIO EPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/BASE_MAX_FACTOR_FACEFINIY_3IN1_GOLDEN_75_PRECIO_EPECIAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.563,33"
+    },
+    "descripcion": "base max factor facefiniy 3in1 golden #75 precio epecial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50376-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

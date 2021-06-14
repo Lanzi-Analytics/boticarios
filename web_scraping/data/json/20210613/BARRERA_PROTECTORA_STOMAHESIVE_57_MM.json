@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/768455049141boston-medicalaccesorios-medicosequipos-de-cuidado-en-casabarrera-protectora-stomahesive-57-mm-768455049141/p",
+    "fecha_hora_scraping": "2021-06-13 23:36:39",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BARRERA PROTECTORA STOMAHESIVE 57 MM",
+    "nombre_imagen": "./web_scraping/data/img/BARRERA_PROTECTORA_STOMAHESIVE_57_MM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $31.350,00"
+    },
+    "descripcion": "barrera protectora stomahesive 57 mm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0000028-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

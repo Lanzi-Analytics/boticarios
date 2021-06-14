@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-baby-dove-humentacion-enriquecida-7891150025929/p",
+    "fecha_hora_scraping": "2021-06-14 07:53:55",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "shampoo baby dove humentaci\u00f3n enriquecida",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_baby_dove_humentaci\u00f3n_enriquecida.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$15.200",
+        "precioPorSku js-PUM": "Mililitro a $76,00"
+    },
+    "descripcion": "dove baby sh h enriq x200ml exp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69877-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

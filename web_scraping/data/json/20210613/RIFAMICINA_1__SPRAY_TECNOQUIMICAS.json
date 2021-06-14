@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rifamicina-1--spray-tecnoquimicas-7702057071073/p",
+    "fecha_hora_scraping": "2021-06-14 05:16:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RIFAMICINA 1 % SPRAY TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/RIFAMICINA_1__SPRAY_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$25.300",
+        "precioPorSku js-PUM": "Mililitro a $1.265,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "RIFAMICINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003480-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

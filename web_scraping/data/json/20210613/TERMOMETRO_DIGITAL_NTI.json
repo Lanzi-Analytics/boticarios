@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707355400457termometro-digital-ntiequipos-de-cuidado-en-casamedicion-y-diagnosticona-7707355400457/p",
+    "fecha_hora_scraping": "2021-06-14 06:13:43",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TERMOMETRO DIGITAL NTI",
+    "nombre_imagen": "./web_scraping/data/img/TERMOMETRO_DIGITAL_NTI.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$14.300",
+        "bestPrice": "$10.725",
+        "precioPorSku js-PUM": "Unidad a $10.725"
+    },
+    "descripcion": "termometro digital nti",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "N T I NEW TRADE INTERNACIONAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0010925"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

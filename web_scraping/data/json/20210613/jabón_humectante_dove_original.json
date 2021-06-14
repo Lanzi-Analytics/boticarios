@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-humectante-dove-original-7891150046481/p",
+    "fecha_hora_scraping": "2021-06-14 07:52:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "jab\u00f3n humectante dove original",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_humectante_dove_original.jpg",
+    "presentacion": "UN X 90 G",
+    "precio": {
+        "bestPrice": "$9.250",
+        "precioPorSku js-PUM": "Gramo a $34,26"
+    },
+    "descripcion": "jabon dove original x 3 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UN X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC22324-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

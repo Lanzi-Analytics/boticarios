@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venda-strapping-forz-sport-25m-x-6cm-7707210530879/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:12",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "VENDA STRAPPING FORZ SPORT 2.5M X 6CM",
+    "nombre_imagen": "./web_scraping/data/img/VENDA_STRAPPING_FORZ_SPORT_25M_X_6CM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$27.950",
+        "precioPorSku js-PUM": "Unidad a $27.950,00"
+    },
+    "descripcion": "venda strapping forz sport 2.5m x 6cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016645"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

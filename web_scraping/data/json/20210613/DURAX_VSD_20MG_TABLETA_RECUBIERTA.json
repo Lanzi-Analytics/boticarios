@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/durax-vsd-20mg-tableta-recubierta-7702870473900/p",
+    "fecha_hora_scraping": "2021-06-14 07:49:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DURAX VSD 20MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DURAX_VSD_20MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 12 TAB",
+    "precio": {
+        "bestPrice": "$332.700",
+        "precioPorSku js-PUM": "Tableta a $27.725,00"
+    },
+    "descripcion": "DURAX VSD 20MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "TADALAFILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015785"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

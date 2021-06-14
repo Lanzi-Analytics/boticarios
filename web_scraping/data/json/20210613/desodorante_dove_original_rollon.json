@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-dove-original-roll-on-78924468/p",
+    "fecha_hora_scraping": "2021-06-14 00:04:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante dove original roll-on",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_dove_original_rollon.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$11.800",
+        "precioPorSku js-PUM": "Mililitro a $236,00"
+    },
+    "descripcion": "desod dove roll on 50 ml original",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO26782"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

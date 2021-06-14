@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metronidazol-500mg-tableta-la-sante-7703763250127/p",
+    "fecha_hora_scraping": "2021-06-14 04:20:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METRONIDAZOL 500MG TABLETA LA SANT\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/METRONIDAZOL_500MG_TABLETA_LA_SANT\u00c9.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$1.995",
+        "precioPorSku js-PUM": "Tableta a $199,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-002041-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

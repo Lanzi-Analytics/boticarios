@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-rasurar-gillette-prestobarba-mujer-3014260328597/p",
+    "fecha_hora_scraping": "2021-06-14 06:15:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar gillette prestobarba mujer",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_gillette_prestobarba_mujer.jpg",
+    "presentacion": "PAQUETE X 1 UN",
+    "precio": {
+        "PrevPrice": "Antes:$3.000",
+        "bestPrice": "$2.400",
+        "precioPorSku js-PUM": "Unidad a $2.400,00"
+    },
+    "descripcion": "maquina gillette prestobarba mujer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92523-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

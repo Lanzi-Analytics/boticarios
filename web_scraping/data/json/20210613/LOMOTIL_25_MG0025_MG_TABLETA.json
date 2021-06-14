@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lomotil-25-mg0025-mg-tableta-7861073963530/p",
+    "fecha_hora_scraping": "2021-06-14 04:23:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LOMOTIL 2.5 MG/0.025 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/LOMOTIL_25_MG0025_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 4 TAB",
+    "precio": {
+        "bestPrice": "$7.000",
+        "precioPorSku js-PUM": "Tableta a $1.750,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "2.5 MG 0.025 MG"
+        ],
+        [
+            "Principio activo",
+            "DIFENOXILATO HIDROCLORURO ATROPINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009518-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-facial-teatrical-humectante-650240032677/p",
+    "fecha_hora_scraping": "2021-06-14 08:18:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TEATRICAL HUMECTANTE 100 G",
+    "nombre_imagen": "./web_scraping/data/img/TEATRICAL_HUMECTANTE_100_G.jpg",
+    "presentacion": "POTE X 100 G",
+    "precio": {
+        "bestPrice": "$8.650",
+        "precioPorSku js-PUM": "Gramo a $86,50"
+    },
+    "descripcion": "posee activos de protecci\u00f3n antioxidante para ayudar a la piel a lucir m\u00e1s tersa y radiante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82062-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/spasmopriv-plus-200-mg-capsula-dura-7707670346515/p",
+    "fecha_hora_scraping": "2021-06-14 07:25:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SPASMOPRIV PLUS 200 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/SPASMOPRIV_PLUS_200_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$69.300",
+        "precioPorSku js-PUM": "Capsula a $6.930,00"
+    },
+    "descripcion": "SPASMOPRIV PLUS 200 MG CAPSULA DURA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "FENOVERINA"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0001947-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

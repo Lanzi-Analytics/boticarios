@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-corporal-lubriderm-piel-sensible-7702035468451/p",
+    "fecha_hora_scraping": "2021-06-14 04:46:27",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "crema corporal lubriderm piel sensible",
+    "nombre_imagen": "./web_scraping/data/img/crema_corporal_lubriderm_piel_sensible.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$16.050",
+        "precioPorSku js-PUM": "Mililitro a $80,25"
+    },
+    "descripcion": "crema lubriderm piel sensible",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

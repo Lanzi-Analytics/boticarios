@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mialgilox-2-mg400-mg-capsula-dura-7709990680935/p",
+    "fecha_hora_scraping": "2021-06-13 23:16:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MIALGILOX 2 MG/400 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/MIALGILOX_2_MG400_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "bestPrice": "$58.850",
+        "precioPorSku js-PUM": "Capsula a $2.942,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 2 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO TIZANIDINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ADEXA PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017954"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

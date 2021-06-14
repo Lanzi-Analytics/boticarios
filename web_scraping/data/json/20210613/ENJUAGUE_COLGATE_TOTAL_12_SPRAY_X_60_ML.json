@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-colgate-total-12-spray-x-60-ml-7509546664774/p",
+    "fecha_hora_scraping": "2021-06-14 05:17:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "ENJUAGUE COLGATE TOTAL 12 SPRAY X 60 ML",
+    "nombre_imagen": "./web_scraping/data/img/ENJUAGUE_COLGATE_TOTAL_12_SPRAY_X_60_ML.jpg",
+    "presentacion": "FRASCO X 60ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $153,33"
+    },
+    "descripcion": "ENJUAGUE COLGATE TOTAL 12 SPRAY X 60 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01011-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

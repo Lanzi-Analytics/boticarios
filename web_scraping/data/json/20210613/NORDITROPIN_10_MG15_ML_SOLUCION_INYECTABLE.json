@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/norditropin-10-mg15-ml-solucion-inyectable-7709990220766/p",
+    "fecha_hora_scraping": "2021-06-14 03:24:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NORDITROPIN 10 MG/1.5 ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/NORDITROPIN_10_MG15_ML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$301.450",
+        "precioPorSku js-PUM": "Mililitro a $200.966,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "SOMATROPINA"
+        ],
+        [
+            "Laboratorio",
+            "NOVO NORDISK COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003651-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

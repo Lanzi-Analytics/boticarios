@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-ultra-humectante-7897930761674/p",
+    "fecha_hora_scraping": "2021-06-14 03:04:27",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CETAPHIL ULTRA HUMECTANTE",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_ULTRA_HUMECTANTE.jpg",
+    "presentacion": "TUBO X 226 G",
+    "precio": {
+        "bestPrice": "$95.350",
+        "precioPorSku js-PUM": "Gramo a $421,90"
+    },
+    "descripcion": "cetaphil ultra humectante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 226 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC25993-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/systane-ultra-solucion-oftalmica-300651431483/p",
+    "fecha_hora_scraping": "2021-06-14 08:11:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYSTANE ULTRA SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/SYSTANE_ULTRA_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$39.300",
+        "precioPorSku js-PUM": "Mililitro a $3.930,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "4 MG/ML 3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 400 PROPILENGLICOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0010275"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

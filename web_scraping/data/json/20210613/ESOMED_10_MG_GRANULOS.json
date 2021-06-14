@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esomed-10-mg-granulos-7703546022811/p",
+    "fecha_hora_scraping": "2021-06-14 05:45:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESOMED 10 MG GRANULOS",
+    "nombre_imagen": "./web_scraping/data/img/ESOMED_10_MG_GRANULOS.jpg",
+    "presentacion": "CAJA X 28 SOB",
+    "precio": {
+        "bestPrice": "$137.650",
+        "precioPorSku js-PUM": "Unidad a $4.916,07"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 SOB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "ESOMEPRAZOL MAGNESIO TRIHID"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016459"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

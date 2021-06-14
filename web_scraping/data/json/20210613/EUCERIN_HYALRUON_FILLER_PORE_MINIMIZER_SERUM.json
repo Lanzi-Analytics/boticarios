@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-hyalruon-filler-pore-minimizer-serum-7501054550211/p",
+    "fecha_hora_scraping": "2021-06-14 06:44:54",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN HYALRUON FILLER PORE MINIMIZER SERUM",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_HYALRUON_FILLER_PORE_MINIMIZER_SERUM.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $5.190,00"
+    },
+    "descripcion": "EUCERIN HYALRUON FILLER PORE MINIMIZER SERUM",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01275-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

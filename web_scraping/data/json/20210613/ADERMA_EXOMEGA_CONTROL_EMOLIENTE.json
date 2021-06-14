@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/a-derma-exomega-control-emoliente-3282770073577/p",
+    "fecha_hora_scraping": "2021-06-14 01:18:56",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "A-DERMA EXOMEGA CONTROL EMOLIENTE",
+    "nombre_imagen": "./web_scraping/data/img/ADERMA_EXOMEGA_CONTROL_EMOLIENTE.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$99.698",
+        "precioPorSku js-PUM": "Mililitro a $249,25"
+    },
+    "descripcion": "a-derma exomega control emoliente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86317-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

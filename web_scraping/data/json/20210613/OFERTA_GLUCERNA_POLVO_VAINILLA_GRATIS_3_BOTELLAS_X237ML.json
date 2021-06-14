@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-glucerna-polvo-vainilla-gratis-3-botellas-x237ml-7703186032478/p",
+    "fecha_hora_scraping": "2021-06-13 23:21:33",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA GLUCERNA POLVO VAINILLA GRATIS 3 BOTELLAS X237ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_GLUCERNA_POLVO_VAINILLA_GRATIS_3_BOTELLAS_X237ML.jpg",
+    "presentacion": "TARRO X 900 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $103,00"
+    },
+    "descripcion": "oferta glucerna polvo vainilla gratis 3 botellas x237ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001023-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

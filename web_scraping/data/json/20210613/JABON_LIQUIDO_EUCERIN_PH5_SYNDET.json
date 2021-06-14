@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-liquido-eucerin-ph5-syndet-7804955036182/p",
+    "fecha_hora_scraping": "2021-06-14 04:29:14",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "JABON LIQUIDO EUCERIN PH5 SYNDET",
+    "nombre_imagen": "./web_scraping/data/img/JABON_LIQUIDO_EUCERIN_PH5_SYNDET.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$62.250",
+        "precioPorSku js-PUM": "Mililitro a $249,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44403-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

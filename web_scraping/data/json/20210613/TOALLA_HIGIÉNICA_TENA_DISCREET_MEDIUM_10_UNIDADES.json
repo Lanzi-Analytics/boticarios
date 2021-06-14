@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-para-goteo-de-orina-tena-mujer-medium-7702027470226/p",
+    "fecha_hora_scraping": "2021-06-13 23:06:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "TOALLA HIGI\u00c9NICA TENA DISCREET MEDIUM 10 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/TOALLA_HIGI\u00c9NICA_TENA_DISCREET_MEDIUM_10_UNIDADES.jpg",
+    "presentacion": "EMPAQUE X 10 UN",
+    "precio": {
+        "bestPrice": "$9.100",
+        "precioPorSku js-PUM": "Unidad a $910,00"
+    },
+    "descripcion": "TOALLA HIGI\u00c9NICA TENA DISCREET MEDIUM",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

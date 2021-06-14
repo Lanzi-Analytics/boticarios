@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/preventia-complex-capsula-blanda-7703153033873/p",
+    "fecha_hora_scraping": "2021-06-14 06:10:42",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PREVENTIA COMPLEX CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/PREVENTIA_COMPLEX_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$35.200",
+        "precioPorSku js-PUM": "Capsula a $1.173,33"
+    },
+    "descripcion": "preventia complex capsula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DIABETRICS HEALTHCARE SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004366"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

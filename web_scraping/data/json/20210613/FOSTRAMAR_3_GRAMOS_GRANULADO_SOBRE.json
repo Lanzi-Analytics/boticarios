@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fostramar-3-gramos-granulado-sobre-7707344270238/p",
+    "fecha_hora_scraping": "2021-06-14 03:03:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FOSTRAMAR 3 GRAMOS GRANULADO SOBRE",
+    "nombre_imagen": "./web_scraping/data/img/FOSTRAMAR_3_GRAMOS_GRANULADO_SOBRE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$49.650",
+        "precioPorSku js-PUM": "Unidad a $49.650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "3 G"
+        ],
+        [
+            "Principio activo",
+            "FOSFOMICINA TROMETAMOL"
+        ],
+        [
+            "Laboratorio",
+            "INBES PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014275"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

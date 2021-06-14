@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-gum-kids-paw-patrol-3-70942003469/p",
+    "fecha_hora_scraping": "2021-06-14 06:53:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL GUM KIDS PAW PATROL 3+",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_GUM_KIDS_PAW_PATROL_3.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$4.550",
+        "precioPorSku js-PUM": "Gramo a $91,00"
+    },
+    "descripcion": "crema dental gum kids paw patrol 3+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72639-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

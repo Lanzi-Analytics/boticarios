@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-maybelline-superstay-matte-ink-pinks-larga-duracion-ring-leader-41554577839/p",
+    "fecha_hora_scraping": "2021-06-14 09:54:53",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL MAYBELLINE SUPERSTAY MATTE INK PINKS LARGA DURACI\u00d3N RING LEADER",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_MAYBELLINE_SUPERSTAY_MATTE_INK_PINKS_LARGA_DURACI\u00d3N_RING_LEADER.jpg",
+    "presentacion": "UNIDAD X 5 ML",
+    "precio": {
+        "bestPrice": "$42.550",
+        "precioPorSku js-PUM": "Mililitro a $18.500,00"
+    },
+    "descripcion": "labial maybelline superstay matte ink pinks larga duraci\u00f3n ring leader",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79967-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

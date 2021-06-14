@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-clear-complexion-polvo-compacto-light-309976882024/p",
+    "fecha_hora_scraping": "2021-06-14 09:04:02",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL CLEAR COMPLEXION polvo compacto light",
+    "nombre_imagen": "./web_scraping/data/img/AL_CLEAR_COMPLEXION_polvo_compacto_light.jpg",
+    "presentacion": "CONTENEDOR X 10G",
+    "precio": {
+        "bestPrice": "$61.600",
+        "precioPorSku js-PUM": "Gramo a $6.222,22"
+    },
+    "descripcion": "al clear complexion polvo compacto light",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 10G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC 2006CO22089"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

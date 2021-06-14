@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dhems-serum-vitamina-c-7707208610682/p",
+    "fecha_hora_scraping": "2021-06-14 01:58:07",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DHEMS SERUM VITAMINA C",
+    "nombre_imagen": "./web_scraping/data/img/DHEMS_SERUM_VITAMINA_C.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$65.950",
+        "precioPorSku js-PUM": "Mililitro a $4.396,67"
+    },
+    "descripcion": "dhems serum vitamina c",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75383-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

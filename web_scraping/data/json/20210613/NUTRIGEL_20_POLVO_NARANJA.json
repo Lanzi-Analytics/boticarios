@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrigel-20-polvo-naranja-7703153031077/p",
+    "fecha_hora_scraping": "2021-06-14 03:38:45",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTRIGEL 2.0 POLVO NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/NUTRIGEL_20_POLVO_NARANJA.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "PrevPrice": "Antes:$86.800",
+        "bestPrice": "$69.440",
+        "precioPorSku js-PUM": "Unidad a $2.314,67"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003602"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

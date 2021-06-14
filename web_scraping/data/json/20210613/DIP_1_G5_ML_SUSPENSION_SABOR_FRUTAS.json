@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dip-1-g5-ml-suspension-sabor-frutas-7702418000841/p",
+    "fecha_hora_scraping": "2021-06-14 05:50:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIP 1 G/5 ML SUSPENSION SABOR FRUTAS",
+    "nombre_imagen": "./web_scraping/data/img/DIP_1_G5_ML_SUSPENSION_SABOR_FRUTAS.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$84.000",
+        "precioPorSku js-PUM": "Mililitro a $420,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "0.2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SUCRALFATO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-013579-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

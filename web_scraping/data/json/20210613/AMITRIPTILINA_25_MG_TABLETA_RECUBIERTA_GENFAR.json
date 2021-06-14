@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amitriptilina-25-mg-tableta-recubierta-genfar-7705959001209/p",
+    "fecha_hora_scraping": "2021-06-14 08:19:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMITRIPTILINA 25 MG TABLETA RECUBIERTA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/AMITRIPTILINA_25_MG_TABLETA_RECUBIERTA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$3.333",
+        "precioPorSku js-PUM": "Tableta a $333,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "AMITRIPTILINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-002794-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

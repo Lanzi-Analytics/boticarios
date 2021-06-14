@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-liquido-loreal-paris-infallible-les-macarons-mon-caramel-71249395547/p",
+    "fecha_hora_scraping": "2021-06-14 01:27:14",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL LIQUIDO L'OR\u00c9AL PARIS INFALLIBLE LES MACARONS MON CARAMEL",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_LIQUIDO_LOR\u00c9AL_PARIS_INFALLIBLE_LES_MACARONS_MON_CARAMEL.jpg",
+    "presentacion": "UNIDAD X 6.3 ML",
+    "precio": {
+        "bestPrice": "$52.050",
+        "precioPorSku js-PUM": "Mililitro a $8.261,90"
+    },
+    "descripcion": "labial liquido l'or\u00e9al paris infallible les macarons mon caramel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6.3 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94870-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

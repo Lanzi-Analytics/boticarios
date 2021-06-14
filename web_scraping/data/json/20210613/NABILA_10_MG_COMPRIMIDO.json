@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nabila-10-mg-comprimido-7730979091695/p",
+    "fecha_hora_scraping": "2021-06-14 07:49:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NABILA 10 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/NABILA_10_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$71.050",
+        "precioPorSku js-PUM": "Comprimido a $2.537,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "NEBIVOLOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010517-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

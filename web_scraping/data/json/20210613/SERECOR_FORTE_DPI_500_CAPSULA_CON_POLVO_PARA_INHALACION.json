@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/serecor-forte-dpi-500-capsula-con-polvo-para-inhalacion-7703546702553/p",
+    "fecha_hora_scraping": "2021-06-14 05:34:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SERECOR FORTE DPI 500 CAPSULA CON POLVO PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/SERECOR_FORTE_DPI_500_CAPSULA_CON_POLVO_PARA_INHALACION.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$80.800",
+        "precioPorSku js-PUM": "Capsula a $2.693,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG 50 MG"
+        ],
+        [
+            "Principio activo",
+            "FLUTICASONA PROPIONATO SALMETEROL XINAFOATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017465"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

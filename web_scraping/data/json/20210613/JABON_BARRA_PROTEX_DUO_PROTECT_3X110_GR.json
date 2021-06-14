@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-barra-protex-duo-protect-3x110-gr-7509546666495/p",
+    "fecha_hora_scraping": "2021-06-14 09:43:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JABON BARRA PROTEX DUO PROTECT 3X110 GR",
+    "nombre_imagen": "./web_scraping/data/img/JABON_BARRA_PROTEX_DUO_PROTECT_3X110_GR.jpg",
+    "presentacion": "UNIDAD X 330G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $28,79"
+    },
+    "descripcion": "JABON BARRA PROTEX DUO PROTECT 3X110 GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 330G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01069-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

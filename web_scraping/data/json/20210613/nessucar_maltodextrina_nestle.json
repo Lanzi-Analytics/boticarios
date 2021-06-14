@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nessucar-maltodextrina-nestle-7891000299227/p",
+    "fecha_hora_scraping": "2021-06-14 05:19:24",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "nessucar maltodextrina nestle",
+    "nombre_imagen": "./web_scraping/data/img/nessucar_maltodextrina_nestle.jpg",
+    "presentacion": "lLATA X 500 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $74,20"
+    },
+    "descripcion": "nessucar maltodextrina nestle",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "lLATA X 500 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004525-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

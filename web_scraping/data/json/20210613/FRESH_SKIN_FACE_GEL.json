@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fresh-skin-face-gel-7707183820038/p",
+    "fecha_hora_scraping": "2021-06-14 10:07:12",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "FRESH SKIN FACE GEL",
+    "nombre_imagen": "./web_scraping/data/img/FRESH_SKIN_FACE_GEL.jpg",
+    "presentacion": "FRASCO X 80 G",
+    "precio": {
+        "PrevPrice": "Antes:$82.100",
+        "bestPrice": "$61.575",
+        "precioPorSku js-PUM": "Gramo a $769,69"
+    },
+    "descripcion": "fresh skin face gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC11580-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

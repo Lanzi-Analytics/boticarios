@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/refresco-del-valle-fresa-7702535021798/p",
+    "fecha_hora_scraping": "2021-06-14 09:10:48",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "refresco del valle fresa",
+    "nombre_imagen": "./web_scraping/data/img/refresco_del_valle_fresa.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2,88"
+    },
+    "descripcion": "refresco del valle fresa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003666-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

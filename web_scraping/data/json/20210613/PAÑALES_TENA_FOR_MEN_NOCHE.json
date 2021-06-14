@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-tena-for-men-noche-7702027472046/p",
+    "fecha_hora_scraping": "2021-06-14 04:15:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1ALES TENA FOR MEN NOCHE",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_TENA_FOR_MEN_NOCHE.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$20.600",
+        "precioPorSku js-PUM": "Unidad a $2.060,00"
+    },
+    "descripcion": "pa\u00f1ales tena for men noche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

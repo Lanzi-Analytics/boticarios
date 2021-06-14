@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kin-gingivalcomplex-pasta-dental-8470001575890/p",
+    "fecha_hora_scraping": "2021-06-14 03:58:43",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "KIN GINGIVALCOMPLEX PASTA DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/KIN_GINGIVALCOMPLEX_PASTA_DENTAL.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$28.750",
+        "precioPorSku js-PUM": "Mililitro a $383,33"
+    },
+    "descripcion": "kin gingivalcomplex pasta dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCLIN PHARMA S.A."
+        ],
+        [
+            "Registro Invima",
+            "NSOC43088-11BO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

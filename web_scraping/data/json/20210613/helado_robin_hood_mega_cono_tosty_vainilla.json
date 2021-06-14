@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-robin-hood-mega-cono-tosty-vainilla-7702011092571/p",
+    "fecha_hora_scraping": "2021-06-14 08:39:04",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado robin hood mega cono tosty vainilla",
+    "nombre_imagen": "./web_scraping/data/img/helado_robin_hood_mega_cono_tosty_vainilla.jpg",
+    "presentacion": "UNIDAD X 115 G",
+    "precio": {
+        "bestPrice": "$2.150",
+        "precioPorSku js-PUM": "Gramo a $18,70"
+    },
+    "descripcion": "helado robin hood mega cono tosty vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 115 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD02M27193"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

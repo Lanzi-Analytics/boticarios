@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-energizante-monster-energy-regular-70847004707/p",
+    "fecha_hora_scraping": "2021-06-14 08:07:20",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "bebida energizante monster energy regular",
+    "nombre_imagen": "./web_scraping/data/img/bebida_energizante_monster_energy_regular.jpg",
+    "presentacion": "LATA X 473 ML",
+    "precio": {
+        "bestPrice": "$6.100",
+        "precioPorSku js-PUM": "Mililitro a $12,90"
+    },
+    "descripcion": "este producto solo podr\u00e1 ser comercializado, expendido y dirigido a poblaci\u00f3n mayor de 14 a\u00f1os,no es recomendado para personas sensibles a la cafe\u00edna por su elevado contenido 32mg/100 ml. la bebida energizante no previene los efectos generados por el consumo de bebidas alcoh\u00f3licas. no se recomienda el consumo de bebidas energizantes con bebidas alcoh\u00f3licas.(art. 13 \u2013 resoluci\u00f3n 4150 de 2009)\u201d",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 473 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA05153311"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

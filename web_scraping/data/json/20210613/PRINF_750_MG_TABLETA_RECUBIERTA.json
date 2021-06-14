@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prinf-750-mg-tableta-recubierta-7891317196448/p",
+    "fecha_hora_scraping": "2021-06-13 23:21:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRINF 750 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/PRINF_750_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 5 TAB",
+    "precio": {
+        "bestPrice": "$115.250",
+        "precioPorSku js-PUM": "Tableta a $23.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "750 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOFLOXACINA"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016968"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

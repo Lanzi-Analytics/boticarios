@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/finasterida-1-mg-tableta-recubierta-la-francol-7706569021601/p",
+    "fecha_hora_scraping": "2021-06-14 01:37:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FINASTERIDA 1 MG TABLETA RECUBIERTA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/FINASTERIDA_1_MG_TABLETA_RECUBIERTA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$94.050",
+        "precioPorSku js-PUM": "Tableta a $3.358,93"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "FINASTERIDE"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007836-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

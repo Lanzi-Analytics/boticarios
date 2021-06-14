@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stratum-10--locion-7707355050058/p",
+    "fecha_hora_scraping": "2021-06-14 03:53:12",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "STRATUM 10 % LOCION",
+    "nombre_imagen": "./web_scraping/data/img/STRATUM_10__LOCION.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$100.800",
+        "precioPorSku js-PUM": "Mililitro a $420,00"
+    },
+    "descripcion": "stratum 10 % locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC02626-95CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lagrimax-5mg-9-mg-solucion-oftalmica-7702207700501/p",
+    "fecha_hora_scraping": "2021-06-14 01:06:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LAGRIMAX 5MG/ 9 MG SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/LAGRIMAX_5MG_9_MG_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$42.400",
+        "precioPorSku js-PUM": "Mililitro a $4.240,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "9 MG/ML 5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "GLICERINA CARBOXIMETILCELULOSA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0016418-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

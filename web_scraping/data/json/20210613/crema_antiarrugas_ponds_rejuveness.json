@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-antiarrugas-ponds-rejuveness-7501056330484/p",
+    "fecha_hora_scraping": "2021-06-14 02:11:38",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema antiarrugas pond\u00b4s rejuveness",
+    "nombre_imagen": "./web_scraping/data/img/crema_antiarrugas_ponds_rejuveness.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$20.300",
+        "precioPorSku js-PUM": "Gramo a $406,00"
+    },
+    "descripcion": "crema ponds rejuveness",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

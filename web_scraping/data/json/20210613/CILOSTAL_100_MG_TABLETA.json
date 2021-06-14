@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cilostal-100-mg-tableta-7702418003521/p",
+    "fecha_hora_scraping": "2021-06-14 00:37:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CILOSTAL 100 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CILOSTAL_100_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$59.200",
+        "precioPorSku js-PUM": "Tableta a $1.973,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "CILOSTAZOL"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005006-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

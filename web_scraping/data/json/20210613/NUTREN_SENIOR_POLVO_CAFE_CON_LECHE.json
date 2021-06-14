@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutren-senior-polvo-cafe-con-leche-7891000302958/p",
+    "fecha_hora_scraping": "2021-06-14 04:40:08",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTREN SENIOR POLVO CAFE CON LECHE",
+    "nombre_imagen": "./web_scraping/data/img/NUTREN_SENIOR_POLVO_CAFE_CON_LECHE.jpg",
+    "presentacion": "LATA 370 G",
+    "precio": {
+        "bestPrice": "$47.300",
+        "precioPorSku js-PUM": "Mililitro a $236,50"
+    },
+    "descripcion": "nutren senior polvo cafe con leche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA 370 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009205-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

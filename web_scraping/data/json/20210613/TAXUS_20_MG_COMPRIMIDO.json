@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/taxus-20-mg-comprimido-7792219000829/p",
+    "fecha_hora_scraping": "2021-06-14 00:17:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TAXUS 20 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/TAXUS_20_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 30 COM",
+    "precio": {
+        "bestPrice": "$42.800",
+        "precioPorSku js-PUM": "Comprimido a $1.426,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 COM"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "TAMOXIFENO CITRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010M-011234-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

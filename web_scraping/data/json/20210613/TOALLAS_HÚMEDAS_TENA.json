@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-humedas-tena-7702027047961/p",
+    "fecha_hora_scraping": "2021-06-14 09:12:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "TOALLAS H\u00daMEDAS TENA",
+    "nombre_imagen": "./web_scraping/data/img/TOALLAS_H\u00daMEDAS_TENA.jpg",
+    "presentacion": "PAQUETE X 40 UN",
+    "precio": {
+        "bestPrice": "$12.100",
+        "precioPorSku js-PUM": "Unidad a $302,50"
+    },
+    "descripcion": "toallas h\u00famedas tena",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 40 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

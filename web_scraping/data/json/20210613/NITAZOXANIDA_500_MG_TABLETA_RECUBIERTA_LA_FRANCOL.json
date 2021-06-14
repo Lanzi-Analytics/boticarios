@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nitazoxanida-500-mg-tableta-recubierta-la-francol-7706569022806/p",
+    "fecha_hora_scraping": "2021-06-13 23:40:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NITAZOXANIDA 500 MG TABLETA RECUBIERTA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/NITAZOXANIDA_500_MG_TABLETA_RECUBIERTA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 6 TAB",
+    "precio": {
+        "bestPrice": "$22.400",
+        "precioPorSku js-PUM": "Tableta a $3.733,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "NITAZOXANIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0006213-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

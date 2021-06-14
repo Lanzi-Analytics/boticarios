@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/condon-durex-climax-mutuo-5052197036312/p",
-    "fecha_hora_scraping": "2021-06-13 19:23:55",
+    "fecha_hora_scraping": "2021-06-14 07:51:31",
     "breadcumb": "colsubsidio|medicamentos|salud sexual|preservativos",
     "titulo": "CONDON DUREX CLIMAX MUTUO",
     "nombre_imagen": "./web_scraping/data/img/CONDON_DUREX_CLIMAX_MUTUO.jpg",
     "presentacion": "CAJA X 3 UN",
     "precio": {
-        "PrevPrice": "Antes:$13.500",
-        "bestPrice": "$10.125",
-        "precioPorSku js-PUM": "Unidad a $3.375,00"
+        "bestPrice": "$13.500",
+        "precioPorSku js-PUM": "Unidad a $4.500,00"
     },
     "descripcion": "condon durex climax mutuo",
     "atributos": [

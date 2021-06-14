@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acido-acetilsalicilico-100-mg-tableta-la-francol-7706569283931/p",
+    "fecha_hora_scraping": "2021-06-14 10:37:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACIDO ACETILSALICILICO 100 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/ACIDO_ACETILSALICILICO_100_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$3.030",
+        "precioPorSku js-PUM": "Tableta a $303,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETIL SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018818"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

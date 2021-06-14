@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/figubelle-gel-moldeadora-de-abdomen-7702870100530/p",
+    "fecha_hora_scraping": "2021-06-14 06:55:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "FIGUBELLE GEL MOLDEADORA DE ABDOMEN",
+    "nombre_imagen": "./web_scraping/data/img/FIGUBELLE_GEL_MOLDEADORA_DE_ABDOMEN.jpg",
+    "presentacion": "TUBO X 150 G",
+    "precio": {
+        "bestPrice": "$40.150",
+        "precioPorSku js-PUM": "Gramo a $267,67"
+    },
+    "descripcion": "figubelle gel moldeadora de abdomen",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53000-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

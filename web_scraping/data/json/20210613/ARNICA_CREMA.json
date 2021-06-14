@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arnica-crema-7707176460371/p",
+    "fecha_hora_scraping": "2021-06-14 01:02:04",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ARNICA CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ARNICA_CREMA.jpg",
+    "presentacion": "POTE X 60 G",
+    "precio": {
+        "bestPrice": "$21.700",
+        "precioPorSku js-PUM": "Gramo a $361,67"
+    },
+    "descripcion": "arnica crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FUNDACI LABORATORIO FARMACOLOGIA VE"
+        ],
+        [
+            "Registro Invima",
+            "NSOC18842-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

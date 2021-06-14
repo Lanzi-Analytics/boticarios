@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hialtears-04--solucion-oftalmica-7707239276291/p",
+    "fecha_hora_scraping": "2021-06-14 02:42:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIALTEARS 0.4 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/HIALTEARS_04__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$36.900",
+        "precioPorSku js-PUM": "Mililitro a $3.690,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SODIO HIALURONATO"
+        ],
+        [
+            "Laboratorio",
+            "ESPECIALIDADES OFTALMOLOGICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0013308-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

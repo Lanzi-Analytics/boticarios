@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/deopies-talco-x-150-gr-7702113041897/p",
+    "fecha_hora_scraping": "2021-06-14 09:29:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "DEOPIES TALCO X 150 gr",
+    "nombre_imagen": "./web_scraping/data/img/DEOPIES_TALCO_X_150_gr.jpg",
+    "presentacion": "UNIDAD X150G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $96,67"
+    },
+    "descripcion": "DEOPIES TALCO X 150 gr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X150G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06466-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

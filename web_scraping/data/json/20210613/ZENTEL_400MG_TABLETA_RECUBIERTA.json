@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zentel-400mg-tableta-recubierta-7707172680681/p",
+    "fecha_hora_scraping": "2021-06-14 04:56:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZENTEL 400MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ZENTEL_400MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 1 TAB",
+    "precio": {
+        "bestPrice": "$17.050",
+        "precioPorSku js-PUM": "Tableta a $17.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "ALBENDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010117-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

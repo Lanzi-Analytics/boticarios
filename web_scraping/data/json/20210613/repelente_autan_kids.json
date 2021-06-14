@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-autan-kids-7591005980884/p",
+    "fecha_hora_scraping": "2021-06-14 00:04:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "repelente autan kids",
+    "nombre_imagen": "./web_scraping/data/img/repelente_autan_kids.jpg",
+    "presentacion": "BOTELLA X 90 G",
+    "precio": {
+        "bestPrice": "$9.950",
+        "precioPorSku js-PUM": "Unidad a $9.950,00"
+    },
+    "descripcion": "repelen autan*90g kids crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53746-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

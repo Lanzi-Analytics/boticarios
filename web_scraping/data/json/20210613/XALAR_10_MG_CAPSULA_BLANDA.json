@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xalar-10-mg-capsula-blanda-7703153023942/p",
+    "fecha_hora_scraping": "2021-06-14 06:19:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "XALAR 10 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/XALAR_10_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 90 CAP",
+    "precio": {
+        "bestPrice": "$207.450",
+        "precioPorSku js-PUM": "Capsula a $2.305,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 90 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "MONTELUKAST SODIO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003904-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

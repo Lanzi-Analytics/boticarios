@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-max-factor-pan-cake-true-beige-7-7702044007702/p",
+    "fecha_hora_scraping": "2021-06-14 07:09:58",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE MAX FACTOR PAN CAKE TRUE BEIGE #7",
+    "nombre_imagen": "./web_scraping/data/img/BASE_MAX_FACTOR_PAN_CAKE_TRUE_BEIGE_7.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.695,83"
+    },
+    "descripcion": "base max factor pan cake true beige #7",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC7419-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

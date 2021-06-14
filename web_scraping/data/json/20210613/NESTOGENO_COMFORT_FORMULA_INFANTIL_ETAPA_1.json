@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nestogeno-comfort-formula-infantil-etapa-1-7501058637901/p",
+    "fecha_hora_scraping": "2021-06-14 07:09:47",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NESTOGENO COMFORT FORMULA INFANTIL ETAPA 1",
+    "nombre_imagen": "./web_scraping/data/img/NESTOGENO_COMFORT_FORMULA_INFANTIL_ETAPA_1.jpg",
+    "presentacion": "CAJA X 1400 G",
+    "precio": {
+        "bestPrice": "$66.150",
+        "precioPorSku js-PUM": "Gramo a $47,25"
+    },
+    "descripcion": "nestogeno comfort formula infantil etapa 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002234-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

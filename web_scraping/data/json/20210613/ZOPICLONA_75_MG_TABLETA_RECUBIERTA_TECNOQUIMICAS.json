@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zopiclona-75-mg-tableta-recubierta-tecnoquimicas-7702057070458/p",
+    "fecha_hora_scraping": "2021-06-14 06:12:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZOPICLONA 7.5 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/ZOPICLONA_75_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$20.250",
+        "precioPorSku js-PUM": "Tableta a $2.025,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "7.5 MG"
+        ],
+        [
+            "Principio activo",
+            "ZOPICLONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010378"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

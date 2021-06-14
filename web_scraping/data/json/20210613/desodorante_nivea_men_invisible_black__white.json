@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-nivea-men-invisible-black--white-4005900036711/p",
+    "fecha_hora_scraping": "2021-06-14 06:54:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante nivea men invisible black & white",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_nivea_men_invisible_black__white.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "bestPrice": "$15.450",
+        "precioPorSku js-PUM": "Mililitro a $103,00"
+    },
+    "descripcion": "ndeo spray inv_blc & wht_pwr_ml 150ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52773-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

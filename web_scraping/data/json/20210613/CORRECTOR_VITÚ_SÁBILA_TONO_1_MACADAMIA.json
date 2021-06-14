@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corrector-vitu-sabila-tono-1-macadamia-7702044211079/p",
+    "fecha_hora_scraping": "2021-06-14 00:03:41",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CORRECTOR VIT\u00da S\u00c1BILA TONO 1 MACADAMIA",
+    "nombre_imagen": "./web_scraping/data/img/CORRECTOR_VIT\u00da_S\u00c1BILA_TONO_1_MACADAMIA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $2.137,50"
+    },
+    "descripcion": "corrector vit\u00fa s\u00e1bila tono 1 macadamia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC28965-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

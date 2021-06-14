@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alencal-vals-50-mg160-mg-tableta-recubierta-7707184600592/p",
+    "fecha_hora_scraping": "2021-06-14 10:35:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALENCAL VALS 50 MG/160 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ALENCAL_VALS_50_MG160_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$64.800",
+        "precioPorSku js-PUM": "Tableta a $2.160,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN LEVOAMLODIPINO NICOTINATO"
+        ],
+        [
+            "Laboratorio",
+            "CLOSTER PHARMA SAS EN REORGANIZACIO"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014108"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

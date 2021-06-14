@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-dove-deo-dermo-aclarant-78928503/p",
+    "fecha_hora_scraping": "2021-06-14 07:57:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "antitranspirante dove deo dermo aclarant",
+    "nombre_imagen": "./web_scraping/data/img/antitranspirante_dove_deo_dermo_aclarant.jpg",
+    "presentacion": "BOTELLA X 50 ML",
+    "precio": {
+        "bestPrice": "$11.100",
+        "precioPorSku js-PUM": "Mililitro a $222,00"
+    },
+    "descripcion": "dove deo rollon dermo aclarant 12x50ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC35321-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

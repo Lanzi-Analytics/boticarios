@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panitos-humedos-intimos-colsubsidio-7701009127110/p",
+    "fecha_hora_scraping": "2021-06-14 05:14:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "pa\u00f1itos h\u00famedos \u00edntimos colsubsidio",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1itos_h\u00famedos_\u00edntimos_colsubsidio.jpg",
+    "presentacion": "EMPAQUE X 30 UN",
+    "precio": {
+        "bestPrice": "$3.200",
+        "precioPorSku js-PUM": "Unidad a $160,00"
+    },
+    "descripcion": "pa\u00f1itos intimos colsubsidio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUSA LINEA INTIMA Y COSMETICA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008V-0004890"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113018912jabon-liquido-bacterion-bambu-repuestohigiene-y-cuidado-personaljabones-y-gel-antibacterialna-7702113018912/p",
+    "fecha_hora_scraping": "2021-06-14 03:56:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JABON LIQUIDO BACTERION BAMBU REPUESTO",
+    "nombre_imagen": "./web_scraping/data/img/JABON_LIQUIDO_BACTERION_BAMBU_REPUESTO.jpg",
+    "presentacion": "DOYPACK X 500 X ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $13,40"
+    },
+    "descripcion": "jabon liquido bacterion bambu repuesto",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "DOYPACK X 500 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82146-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

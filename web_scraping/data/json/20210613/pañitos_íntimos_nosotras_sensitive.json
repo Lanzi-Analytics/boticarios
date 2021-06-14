@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panitos-intimos-nosotras-sensitive-7702026177669/p",
+    "fecha_hora_scraping": "2021-06-13 23:07:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "pa\u00f1itos \u00edntimos nosotras sensitive",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1itos_\u00edntimos_nosotras_sensitive.jpg",
+    "presentacion": "EMPAQUE X 16 UN",
+    "precio": {
+        "bestPrice": "$5.350",
+        "precioPorSku js-PUM": "Unidad a $334,38"
+    },
+    "descripcion": "panitos intimos nosotras sensitive x16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 16 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

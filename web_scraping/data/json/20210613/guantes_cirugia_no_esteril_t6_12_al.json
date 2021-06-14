@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-cirugia-no-esteril-t6-12-al-7707228360017/p",
+    "fecha_hora_scraping": "2021-06-14 05:54:34",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "guantes cirugia no esteril t:6 1/2 al",
+    "nombre_imagen": "./web_scraping/data/img/guantes_cirugia_no_esteril_t6_12_al.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.150",
+        "precioPorSku js-PUM": "Unidad a $1.150,00"
+    },
+    "descripcion": "guantes cirugia no esteril t:6 1/2 al",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0002025-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

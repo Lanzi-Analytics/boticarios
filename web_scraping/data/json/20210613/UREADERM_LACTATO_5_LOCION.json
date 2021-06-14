@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ureaderm-lactato-5-locion-7703332003628/p",
+    "fecha_hora_scraping": "2021-06-14 01:24:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UREADERM LACTATO 5% LOCION",
+    "nombre_imagen": "./web_scraping/data/img/UREADERM_LACTATO_5_LOCION.jpg",
+    "presentacion": "FRASCO X 225 G",
+    "precio": {
+        "bestPrice": "$96.200",
+        "precioPorSku js-PUM": "Gramo a $427,56"
+    },
+    "descripcion": "ureaderm lactato 5% locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 225 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSCO33488-96CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cono-robin-hood-colombina-cookies--cream-7702011090782/p",
+    "fecha_hora_scraping": "2021-06-14 04:03:48",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "cono robin hood colombina cookies & cream",
+    "nombre_imagen": "./web_scraping/data/img/cono_robin_hood_colombina_cookies__cream.jpg",
+    "presentacion": "UNIDAD X 90 G",
+    "precio": {
+        "bestPrice": "$1.850",
+        "precioPorSku js-PUM": "Gramo a $20,56"
+    },
+    "descripcion": "cono robin hood colombina cookies & cream",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD02M27193"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

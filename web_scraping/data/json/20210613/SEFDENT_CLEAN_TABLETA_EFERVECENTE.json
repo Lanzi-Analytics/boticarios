@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sefdent-clean-tableta-efervecente-8901117162778/p",
+    "fecha_hora_scraping": "2021-06-14 10:03:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "SEFDENT CLEAN TABLETA EFERVECENTE",
+    "nombre_imagen": "./web_scraping/data/img/SEFDENT_CLEAN_TABLETA_EFERVECENTE.jpg",
+    "presentacion": "CAJA X 4TAB",
+    "precio": {
+        "bestPrice": "$13.750",
+        "precioPorSku js-PUM": "Tableta a $429,69"
+    },
+    "descripcion": "sefdent clean tableta efervecente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AVALON PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

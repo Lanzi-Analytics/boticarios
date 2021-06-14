@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/celebrex-200mg-capsula-dura-7703283401290/p",
+    "fecha_hora_scraping": "2021-06-14 00:32:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CELEBREX 200MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/CELEBREX_200MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$30.000",
+        "precioPorSku js-PUM": "Comprimido a $1.000,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "CELECOXIB"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-012710-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dermatrex-crema-7707173600312/p",
+    "fecha_hora_scraping": "2021-06-13 23:40:55",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "DERMATREX CREMA",
+    "nombre_imagen": "./web_scraping/data/img/DERMATREX_CREMA.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$33.500",
+        "precioPorSku js-PUM": "Gramo a $1.675,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G 1 MG/G 0.4 MG/G"
+        ],
+        [
+            "Principio activo",
+            "KETOCONAZOL GENTAMICINA SULFATO DEXAMETASONA"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-013107- R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

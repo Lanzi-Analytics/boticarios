@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/751273787630healty-americanaturalesmedicamentoscollagen-peptides-1500-mg-and-vitamin-c-complex-751273787630/p",
+    "fecha_hora_scraping": "2021-06-14 07:13:02",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "COLLAGEN PEPTIDES 1500 MG AND VITAMIN C COMPLEX",
+    "nombre_imagen": "./web_scraping/data/img/COLLAGEN_PEPTIDES_1500_MG_AND_VITAMIN_C_COMPLEX.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$64.200",
+        "precioPorSku js-PUM": "Capsula a $1.070,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003810"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

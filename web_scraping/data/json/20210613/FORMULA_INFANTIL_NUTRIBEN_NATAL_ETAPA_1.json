@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-nutriben-natal-etapa-1-7703546722902/p",
+    "fecha_hora_scraping": "2021-06-14 03:06:57",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL NUTRIBEN NATAL ETAPA 1",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_NUTRIBEN_NATAL_ETAPA_1.jpg",
+    "presentacion": "TARRO X 900 G",
+    "precio": {
+        "bestPrice": "$89.150",
+        "precioPorSku js-PUM": "Gramo a $99,06"
+    },
+    "descripcion": "formula infantil nutriben natal etapa 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I66213"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

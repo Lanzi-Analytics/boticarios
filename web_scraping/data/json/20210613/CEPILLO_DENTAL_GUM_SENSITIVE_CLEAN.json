@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-gum-sensitive-clean-70942125925/p",
+    "fecha_hora_scraping": "2021-06-14 06:12:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL GUM SENSITIVE CLEAN",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_GUM_SENSITIVE_CLEAN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$13.400",
+        "precioPorSku js-PUM": "Unidad a $13.400,00"
+    },
+    "descripcion": "cepillo dental gum sensitive clean",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

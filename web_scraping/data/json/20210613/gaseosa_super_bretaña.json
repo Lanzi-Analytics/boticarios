@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-super-bretana-7702090020847/p",
+    "fecha_hora_scraping": "2021-06-14 02:18:28",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa super breta\u00f1a",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_super_breta\u00f1a.jpg",
+    "presentacion": "BOTELLA X 300 ML",
+    "precio": {
+        "bestPrice": "$1.900",
+        "precioPorSku js-PUM": "Mililitro a $6,33"
+    },
+    "descripcion": "gaseosa super breta\u00f1a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 300 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

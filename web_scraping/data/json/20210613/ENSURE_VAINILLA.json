@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-vainilla-7703186030306/p",
+    "fecha_hora_scraping": "2021-06-14 05:40:20",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_VAINILLA.jpg",
+    "presentacion": "BOTELLA X 237 ML",
+    "precio": {
+        "bestPrice": "$7.550",
+        "precioPorSku js-PUM": "Mililitro a $31,86"
+    },
+    "descripcion": "ensure vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LACOSAMIDA"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-006275-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

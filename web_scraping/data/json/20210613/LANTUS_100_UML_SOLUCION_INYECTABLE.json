@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lantus-100-uml-solucion-inyectable-7591044106245/p",
+    "fecha_hora_scraping": "2021-06-14 02:48:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LANTUS 100 U/ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/LANTUS_100_UML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$94.450",
+        "precioPorSku js-PUM": "Mililitro a $9.445,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "100 UI/ML"
+        ],
+        [
+            "Principio activo",
+            "INSULINA GLARGINA"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0000394-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

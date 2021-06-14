@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/masajeador-percusi-calor-ref-hhp-350a-31262054067/p",
+    "fecha_hora_scraping": "2021-06-14 00:20:19",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|fisioterapia y rehabilitaci\u00f3n",
+    "titulo": "MASAJEADOR PERCUSI CALOR REF HHP-350A",
+    "nombre_imagen": "./web_scraping/data/img/MASAJEADOR_PERCUSI_CALOR_REF_HHP350A.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$122.500",
+        "bestPrice": "$91.875",
+        "precioPorSku js-PUM": "Unidad a $91.875"
+    },
+    "descripcion": "masajeador percusi calor ref hhp-350a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MECANELECTRO SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

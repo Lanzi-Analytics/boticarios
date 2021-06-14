@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lactyferrin-defense-colutorio-uso-diario-8429979461704/p",
+    "fecha_hora_scraping": "2021-06-13 23:05:23",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "lactyferrin defense colutorio uso diario",
+    "nombre_imagen": "./web_scraping/data/img/lactyferrin_defense_colutorio_uso_diario.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$56.450",
+        "precioPorSku js-PUM": "Mililitro a $112,90"
+    },
+    "descripcion": "lactyferrin defense colutorio uso diario",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99248-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

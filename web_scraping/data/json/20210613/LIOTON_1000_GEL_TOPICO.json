@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lioton-1000-gel-topico-7708548830280/p",
+    "fecha_hora_scraping": "2021-06-14 08:51:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LIOTON 1000 GEL TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/LIOTON_1000_GEL_TOPICO.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$81.650",
+        "precioPorSku js-PUM": "Gramo a $1.633,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "1000 UI/G"
+        ],
+        [
+            "Principio activo",
+            "HEPARINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "A MENARINI LATIN AMERICA S L U SUCU"
+        ],
+        [
+            "Registro Invima",
+            "2010M-13740-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

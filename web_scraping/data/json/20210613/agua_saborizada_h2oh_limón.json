@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-saborizada-h2oh-limon-7702090027884/p",
+    "fecha_hora_scraping": "2021-06-13 23:23:24",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "agua saborizada h2oh! lim\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/agua_saborizada_h2oh_lim\u00f3n.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$2.700",
+        "precioPorSku js-PUM": "Mililitro a $4,50"
+    },
+    "descripcion": "agua saborizada h2oh! lim\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD19I30008"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

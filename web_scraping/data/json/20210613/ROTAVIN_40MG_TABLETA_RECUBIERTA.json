@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rotavin-40mg-tableta-recubierta-8903726242612/p",
+    "fecha_hora_scraping": "2021-06-14 04:20:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROTAVIN 40MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ROTAVIN_40MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$80.450",
+        "precioPorSku js-PUM": "Tableta a $2.681,67"
+    },
+    "descripcion": "ROTAVIN 40MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "ROSUVASTATINA CALCICA"
+        ],
+        [
+            "Laboratorio",
+            "SEVEN PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019278"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

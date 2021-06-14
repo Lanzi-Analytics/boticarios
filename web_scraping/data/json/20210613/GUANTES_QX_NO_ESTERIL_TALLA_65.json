@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-qx-no-esteril-talla-65-7707270363042/p",
+    "fecha_hora_scraping": "2021-06-14 07:27:31",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES QX NO ESTERIL TALLA 6.5",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_QX_NO_ESTERIL_TALLA_65.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$800",
+        "precioPorSku js-PUM": "Unidad a $800,00"
+    },
+    "descripcion": "guantes qx no esteril talla 6.5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROTEX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0001987-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

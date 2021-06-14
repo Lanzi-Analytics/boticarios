@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atidex-alargador-pestanas-7707239275751/p",
+    "fecha_hora_scraping": "2021-06-14 00:49:03",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "ATIDEX ALARGADOR PESTA\u00d1AS",
+    "nombre_imagen": "./web_scraping/data/img/ATIDEX_ALARGADOR_PESTA\u00d1AS.jpg",
+    "presentacion": "FRASCO X 3 ML",
+    "precio": {
+        "bestPrice": "$54.700",
+        "precioPorSku js-PUM": "Mililitro a $18.233,33"
+    },
+    "descripcion": "atidex alargador pesta\u00f1as",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 3 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ESPECIALIDADES OFTALMOLOGICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55476-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

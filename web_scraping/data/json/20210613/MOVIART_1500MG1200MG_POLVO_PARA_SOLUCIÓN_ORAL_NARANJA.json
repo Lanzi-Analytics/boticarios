@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/moviart-1500mg1200mg-polvo-para-solucion-oral-naranja-7703234103679/p",
+    "fecha_hora_scraping": "2021-06-14 06:04:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MOVIART 1500MG/1200MG POLVO PARA SOLUCI\u00d3N ORAL NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/MOVIART_1500MG1200MG_POLVO_PARA_SOLUCI\u00d3N_ORAL_NARANJA.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "$144.650",
+        "precioPorSku js-PUM": "Unidad a $4.821,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "1500 MG 1200 MG"
+        ],
+        [
+            "Principio activo",
+            "GLUCOSAMINA SULFATO POTASIO CONDROITINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0013316-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

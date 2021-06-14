@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fixamicin-suspension-otica-7702057013158/p",
+    "fecha_hora_scraping": "2021-06-14 09:47:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FIXAMICIN SUSPENSION OTICA",
+    "nombre_imagen": "./web_scraping/data/img/FIXAMICIN_SUSPENSION_OTICA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$24.800",
+        "precioPorSku js-PUM": "Mililitro a $1.653,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML 1,538 MG/ML 0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "NEOMICINA SULFATO COLISTINA SULFATO HIDROCORTISONA ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012611-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

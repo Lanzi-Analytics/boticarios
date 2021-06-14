@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-tostacos-picante-familiar-7702914159401/p",
+    "fecha_hora_scraping": "2021-06-13 23:52:05",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas tostacos picante familiar",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_tostacos_picante_familiar.jpg",
+    "presentacion": "PAQUETE X 200 G",
+    "precio": {
+        "bestPrice": "$4.500",
+        "precioPorSku js-PUM": "Gramo a $22,50"
+    },
+    "descripcion": "pasabocas tostacos picante familiar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 200 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS RAMO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD08I35703"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

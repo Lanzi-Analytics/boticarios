@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-nosotras-extraproteccion-invisible-rapisec-7702027042935/p",
+    "fecha_hora_scraping": "2021-06-13 23:53:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas nosotras extraprotecci\u00f3n invisible rapisec",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_nosotras_extraprotecci\u00f3n_invisible_rapisec.jpg",
+    "presentacion": "PAQUETE X 8 UN",
+    "precio": {
+        "bestPrice": "$6.600",
+        "precioPorSku js-PUM": "Unidad a $825,00"
+    },
+    "descripcion": "toalla hig nosot extraprot inv rapis x",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

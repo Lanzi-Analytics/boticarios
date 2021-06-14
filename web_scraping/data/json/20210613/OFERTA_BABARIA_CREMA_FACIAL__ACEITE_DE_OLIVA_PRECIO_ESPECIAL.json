@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-babaria-crema-facial--aceite-de-oliva-precio-especial-8410412550017/p",
+    "fecha_hora_scraping": "2021-06-14 01:43:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "OFERTA BABARIA CREMA FACIAL + ACEITE DE OLIVA PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_BABARIA_CREMA_FACIAL__ACEITE_DE_OLIVA_PRECIO_ESPECIAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$41.800",
+        "precioPorSku js-PUM": "Unidad a $41.800,00"
+    },
+    "descripcion": "oferta babaria crema facial + aceite de oliva precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC65119-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-anti-frizz-orgnx-aceite-moringa-67545057944/p",
+    "fecha_hora_scraping": "2021-06-14 00:27:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "CREMA ANTI-FRIZZ ORGNX ACEITE MORINGA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_ANTIFRIZZ_ORGNX_ACEITE_MORINGA.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$48.300",
+        "precioPorSku js-PUM": "Mililitro a $193,20"
+    },
+    "descripcion": "crema anti-frizz orgnx aceite moringa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90511-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutribaby-premiun-formula-infantil-7798181640223/p",
+    "fecha_hora_scraping": "2021-06-14 06:25:40",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NUTRIBABY PREMIUN F\u00d3RMULA INFANTIL",
+    "nombre_imagen": "./web_scraping/data/img/NUTRIBABY_PREMIUN_F\u00d3RMULA_INFANTIL.jpg",
+    "presentacion": "TARRO X 900G",
+    "precio": {
+        "PrevPrice": "Antes:$102.150",
+        "bestPrice": "$76.612",
+        "precioPorSku js-PUM": "Gramo a $85,12"
+    },
+    "descripcion": "nutribaby premiun f\u00f3rmula infantil",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I13713"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

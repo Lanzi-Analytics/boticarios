@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-pequenin-acolchamax-7702026034153/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:09",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "toallitas humedas peque\u00f1in acolchamax",
+    "nombre_imagen": "./web_scraping/data/img/toallitas_humedas_peque\u00f1in_acolchamax.jpg",
+    "presentacion": "BOLSA X 24 UN",
+    "precio": {
+        "bestPrice": "$4.450",
+        "precioPorSku js-PUM": "Unidad a $185,42"
+    },
+    "descripcion": "toa hum peq acolchamax x24",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 24 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

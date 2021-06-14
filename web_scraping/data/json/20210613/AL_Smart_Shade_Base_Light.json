@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-smart-shade-base-light-309975603019/p",
+    "fecha_hora_scraping": "2021-06-14 03:32:14",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL Smart Shade Base\u00a0 Light",
+    "nombre_imagen": "./web_scraping/data/img/AL_Smart_Shade_Base_Light.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.036,67"
+    },
+    "descripcion": "al smart shade base\u00a0 light",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76726-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

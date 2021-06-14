@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-alergibon-clear-7703281004158/p",
+    "fecha_hora_scraping": "2021-06-14 00:20:14",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "JABON ALERGIBON CLEAR",
+    "nombre_imagen": "./web_scraping/data/img/JABON_ALERGIBON_CLEAR.jpg",
+    "presentacion": "BARRA X 90 G",
+    "precio": {
+        "bestPrice": "$16.650",
+        "precioPorSku js-PUM": "Gramo a $185,00"
+    },
+    "descripcion": "jabon alergibon clear",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01934-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

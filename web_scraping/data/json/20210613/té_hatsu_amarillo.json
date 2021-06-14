@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/te-hatsu-amarillo-7707362397672/p",
+    "fecha_hora_scraping": "2021-06-14 00:07:36",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "t\u00e9 hatsu amarillo",
+    "nombre_imagen": "./web_scraping/data/img/t\u00e9_hatsu_amarillo.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$3.850",
+        "precioPorSku js-PUM": "Mililitro a $9,63"
+    },
+    "descripcion": "t\u00e9 hatsu amarillo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

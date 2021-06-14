@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zolpant-40-mg-tableta-gastroresistente-8903726171332/p",
+    "fecha_hora_scraping": "2021-06-14 02:33:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZOLPANT 40 MG TABLETA GASTRORESISTENTE",
+    "nombre_imagen": "./web_scraping/data/img/ZOLPANT_40_MG_TABLETA_GASTRORESISTENTE.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$95.450",
+        "precioPorSku js-PUM": "Tableta a $3.181,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "PANTOPRAZOL SODIO"
+        ],
+        [
+            "Laboratorio",
+            "SEVEN PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016510"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

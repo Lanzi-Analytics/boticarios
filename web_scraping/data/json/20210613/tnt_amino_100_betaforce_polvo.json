@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tnt-amino-100-beta-force-polvo-7707368890818/p",
+    "fecha_hora_scraping": "2021-06-14 02:22:39",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "tnt amino 100 beta-force polvo",
+    "nombre_imagen": "./web_scraping/data/img/tnt_amino_100_betaforce_polvo.jpg",
+    "presentacion": "TARRO X 450 G",
+    "precio": {
+        "bestPrice": "$89.000",
+        "precioPorSku js-PUM": "Gramo a $197,78"
+    },
+    "descripcion": "tnt amino 100 beta-force polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 450 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000549-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

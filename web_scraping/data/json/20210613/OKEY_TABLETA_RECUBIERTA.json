@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/okey-tableta-recubierta-7702870999844/p",
+    "fecha_hora_scraping": "2021-06-14 04:35:00",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "OKEY TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/OKEY_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$56.050",
+        "precioPorSku js-PUM": "Tableta a $1.868,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "HYPERICUM PERFORATUM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011M-14201-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

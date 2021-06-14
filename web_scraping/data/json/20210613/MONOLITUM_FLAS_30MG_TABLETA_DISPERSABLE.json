@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/monolitum-flas-30mg-tableta-dispersable-8435214412431/p",
+    "fecha_hora_scraping": "2021-06-14 09:05:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MONOLITUM FLAS 30MG TABLETA DISPERSABLE",
+    "nombre_imagen": "./web_scraping/data/img/MONOLITUM_FLAS_30MG_TABLETA_DISPERSABLE.jpg",
+    "presentacion": "CAJA X 7COM",
+    "precio": {
+        "bestPrice": "$57.150",
+        "precioPorSku js-PUM": "Tableta a $4.082,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7COM"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "LANSOPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "B C N MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015536"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

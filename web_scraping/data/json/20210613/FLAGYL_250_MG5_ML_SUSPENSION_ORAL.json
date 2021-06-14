@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flagyl-250-mg5-ml-suspension-oral-7591044403153/p",
+    "fecha_hora_scraping": "2021-06-14 06:04:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLAGYL 250 MG/5 ML SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/FLAGYL_250_MG5_ML_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$42.200",
+        "precioPorSku js-PUM": "Mililitro a $351,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "5 %"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0000405-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

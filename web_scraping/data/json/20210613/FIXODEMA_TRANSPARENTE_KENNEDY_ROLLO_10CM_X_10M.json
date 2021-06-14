@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/6944884800056industria-tecnica-de-maderasaccesorios-medicosequipos-de-cuidado-en-casafixodema-transparente-kennedy-rollo-10cm-x-10m-6944884800056/p",
+    "fecha_hora_scraping": "2021-06-14 01:19:25",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "FIXODEMA TRANSPARENTE KENNEDY ROLLO 10CM X 10M",
+    "nombre_imagen": "./web_scraping/data/img/FIXODEMA_TRANSPARENTE_KENNEDY_ROLLO_10CM_X_10M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $55.900,00"
+    },
+    "descripcion": "fixodema transparente kennedy rollo 10cm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA TECNICA DE MADERAS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001178"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

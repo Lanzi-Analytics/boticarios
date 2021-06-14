@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leche-klim-clasica-fortificada-x-840g-7702024185635/p",
+    "fecha_hora_scraping": "2021-06-13 23:04:56",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "LECHE KLIM CLASICA FORTIFICADA X 840G",
+    "nombre_imagen": "./web_scraping/data/img/LECHE_KLIM_CLASICA_FORTIFICADA_X_840G.jpg",
+    "presentacion": "BOLSA X 840G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $32,02"
+    },
+    "descripcion": "LECHE KLIM CLASICA FORTIFICADA X 840G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 840G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA\u00d102I13114"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

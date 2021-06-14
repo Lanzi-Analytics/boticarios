@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pediasure-vainilla-pack-4und-x-237ml-7703186031259/p",
+    "fecha_hora_scraping": "2021-06-14 10:01:47",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PEDIASURE VAINILLA PACK 4UND X 237ML",
+    "nombre_imagen": "./web_scraping/data/img/PEDIASURE_VAINILLA_PACK_4UND_X_237ML.jpg",
+    "presentacion": "PACK X 4 Botellas",
+    "precio": {
+        "bestPrice": "$26.800",
+        "precioPorSku js-PUM": "Mililitro a $28,27"
+    },
+    "descripcion": "oferta pediasure vainilla pack 4und x 237ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PACK X 4 Botellas"
+        ],
+        [
+            "Concentracion",
+            "N/A N  N  N"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004217-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

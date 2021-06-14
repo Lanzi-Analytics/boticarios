@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-repelente-autan-spr-extra-gratis-cr6-7591005992856/p",
+    "fecha_hora_scraping": "2021-06-14 00:57:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "oferta repelente autan spr extra gratis cr6",
+    "nombre_imagen": "./web_scraping/data/img/oferta_repelente_autan_spr_extra_gratis_cr6.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$16.050",
+        "precioPorSku js-PUM": "Mililitro a $61,73"
+    },
+    "descripcion": "of rep autan spr extra p 200ml gtr cr6",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53745-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

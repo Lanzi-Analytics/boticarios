@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-brisa-7702535010327/p",
+    "fecha_hora_scraping": "2021-06-13 23:05:13",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "agua brisa",
+    "nombre_imagen": "./web_scraping/data/img/agua_brisa.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Mililitro a $2,92"
+    },
+    "descripcion": "agua brisa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAA19M07493"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tinox-25-mg-tableta-7707189520239/p",
+    "fecha_hora_scraping": "2021-06-14 06:51:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TINOX 25 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/TINOX_25_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$32.900",
+        "precioPorSku js-PUM": "Tableta a $1.096,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "2,5 MG"
+        ],
+        [
+            "Principio activo",
+            "TIBOLONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002907-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mbm-cpi-regenerador-epidermico-8470001630599/p",
+    "fecha_hora_scraping": "2021-06-14 04:21:44",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "MbM CPI REGENERADOR EPIDERMICO",
+    "nombre_imagen": "./web_scraping/data/img/MbM_CPI_REGENERADOR_EPIDERMICO.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$70.000",
+        "precioPorSku js-PUM": "Mililitro a $2.333,33"
+    },
+    "descripcion": "mbm cpi regenerador epidermico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85806-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

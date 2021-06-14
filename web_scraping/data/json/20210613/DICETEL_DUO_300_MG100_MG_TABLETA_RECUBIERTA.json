@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dicetel-duo-300-mg100-mg-tableta-recubierta-7702870072233/p",
+    "fecha_hora_scraping": "2021-06-14 00:42:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DICETEL DUO 300 MG/100 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DICETEL_DUO_300_MG100_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 24 TAB",
+    "precio": {
+        "bestPrice": "$183.200",
+        "precioPorSku js-PUM": "Tableta a $7.633,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 24 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "DIMETICONA PINAVERIO BROMURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017223"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

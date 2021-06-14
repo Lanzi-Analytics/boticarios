@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-cars-gum-ref4060-70942003575/p",
+    "fecha_hora_scraping": "2021-06-14 09:07:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL CARS GUM REF4060",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_CARS_GUM_REF4060.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.750",
+        "precioPorSku js-PUM": "Unidad a $9.750,00"
+    },
+    "descripcion": "cepillo dental cars gum ref4060",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

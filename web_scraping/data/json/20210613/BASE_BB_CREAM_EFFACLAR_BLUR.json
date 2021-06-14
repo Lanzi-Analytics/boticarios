@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-bb-cream-effaclar-blur-3337872420207/p",
+    "fecha_hora_scraping": "2021-06-14 02:32:30",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BASE BB CREAM EFFACLAR BLUR",
+    "nombre_imagen": "./web_scraping/data/img/BASE_BB_CREAM_EFFACLAR_BLUR.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$128.550",
+        "precioPorSku js-PUM": "Mililitro a $4.285,00"
+    },
+    "descripcion": "base bb cream effaclar blur",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63420-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

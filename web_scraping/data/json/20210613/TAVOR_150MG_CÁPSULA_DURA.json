@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tavor-150mg-capsula-dura-7792219000775/p",
+    "fecha_hora_scraping": "2021-06-14 08:45:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TAVOR 150MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/TAVOR_150MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 2 CAP",
+    "precio": {
+        "bestPrice": "$72.050",
+        "precioPorSku js-PUM": "Capsula a $36.025,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "FLUCONAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-011828-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

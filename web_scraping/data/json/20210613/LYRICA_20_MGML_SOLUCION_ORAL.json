@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lyrica-20-mgml-solucion-oral-7703283404581/p",
+    "fecha_hora_scraping": "2021-06-14 05:44:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LYRICA 20 MG/ML SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/LYRICA_20_MGML_SOLUCION_ORAL.jpg",
+    "presentacion": "FRASCO X 105 ML",
+    "precio": {
+        "bestPrice": "$80.850",
+        "precioPorSku js-PUM": "Mililitro a $770,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 105 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0015434-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tegretol-2--suspension-oral-7702635710592/p",
+    "fecha_hora_scraping": "2021-06-14 04:59:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TEGRETOL 2 % SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/TEGRETOL_2__SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$7.500",
+        "precioPorSku js-PUM": "Mililitro a $75,00"
+    },
+    "descripcion": "TEGRETOL 2 % SUSPENSION ORAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CARBAMAZEPINA"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-010996-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

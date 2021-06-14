@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitaday-once-1-day-751273780013/p",
+    "fecha_hora_scraping": "2021-06-14 06:35:29",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VITADAY ONCE 1 DAY",
+    "nombre_imagen": "./web_scraping/data/img/VITADAY_ONCE_1_DAY.jpg",
+    "presentacion": "FRASCO X 60 TAB",
+    "precio": {
+        "bestPrice": "$52.250",
+        "precioPorSku js-PUM": "Tableta a $870,83"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0003012"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703763295241omeprazol-20mg-capsula-de-liberacion-retardada-medicamentosformulados-7703763295241/p",
+    "fecha_hora_scraping": "2021-06-14 09:39:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OMEPRAZOL 20MG CAPSULA DE LIBERACI\u00d3N RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/OMEPRAZOL_20MG_CAPSULA_DE_LIBERACI\u00d3N_RETARDADA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$7.150",
+        "precioPorSku js-PUM": "Capsula a $238,33"
+    },
+    "descripcion": "ESTE PRODUCTO ES UN MEDICAMENTO. NO EXCEDER SU CONSUMO. LEER INDICACIONES Y CONTRAINDICACIONES. SI LOS S\u00cdNTOMAS PERSISTEN, CONSULTAR AL M\u00c9DICO. VENTA BAJO F\u00d3RMULA M\u00c9DICA.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "OMEPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-007230-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

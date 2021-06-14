@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-personal-de-proteccion-begut-7707282991134/p",
+    "fecha_hora_scraping": "2021-06-14 01:43:08",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "KIT PERSONAL DE PROTECCI\u00d3N BEGUT",
+    "nombre_imagen": "./web_scraping/data/img/KIT_PERSONAL_DE_PROTECCI\u00d3N_BEGUT.jpg",
+    "presentacion": "KIT X 1 UN",
+    "precio": {
+        "bestPrice": "$22.000",
+        "precioPorSku js-PUM": "Unidad a $22.000,00"
+    },
+    "descripcion": "kit personal de protecci\u00f3n begut",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "KIT X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SEVENPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0006551"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

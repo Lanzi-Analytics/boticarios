@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/balsamo-para-estrias-palmers-10181040764/p",
+    "fecha_hora_scraping": "2021-06-14 00:52:26",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "BALSAMO PARA ESTRIAS PALMERS",
+    "nombre_imagen": "./web_scraping/data/img/BALSAMO_PARA_ESTRIAS_PALMERS.jpg",
+    "presentacion": "FRASCO X 125 G",
+    "precio": {
+        "bestPrice": "$58.450",
+        "precioPorSku js-PUM": "Gramo a $467,60"
+    },
+    "descripcion": "balsamo para estrias palmers",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 125 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC80369-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

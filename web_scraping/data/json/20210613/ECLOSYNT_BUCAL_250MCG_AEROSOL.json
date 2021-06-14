@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eclosynt-bucal-250mcg-aerosol-7707274721084/p",
+    "fecha_hora_scraping": "2021-06-14 09:24:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ECLOSYNT BUCAL 250MCG AEROSOL",
+    "nombre_imagen": "./web_scraping/data/img/ECLOSYNT_BUCAL_250MCG_AEROSOL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$30.050",
+        "precioPorSku js-PUM": "Unidad a $30.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "50 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "BECLOMETASONA DIPROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008643"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

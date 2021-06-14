@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calcitral-d-600mg400ui-granulado-naranja-7707355053769/p",
+    "fecha_hora_scraping": "2021-06-13 23:06:57",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CALCITRAL D 600MG/400UI GRANULADO NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/CALCITRAL_D_600MG400UI_GRANULADO_NARANJA.jpg",
+    "presentacion": "CAJA X 15 SOB",
+    "precio": {
+        "bestPrice": "$40.450",
+        "precioPorSku js-PUM": "Sobre a $2.696,67"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 SOB"
+        ],
+        [
+            "Concentracion",
+            "600 MG 400 UI"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CITRATO VITAMINA D"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2009-0001007"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

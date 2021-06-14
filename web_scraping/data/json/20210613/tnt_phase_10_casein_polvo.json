@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tnt-phase-10-casein-polvo-7707330815108/p",
+    "fecha_hora_scraping": "2021-06-14 07:56:50",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "tnt phase 10 casein polvo",
+    "nombre_imagen": "./web_scraping/data/img/tnt_phase_10_casein_polvo.jpg",
+    "presentacion": "FRASCO X 1320 G",
+    "precio": {
+        "bestPrice": "$105.000",
+        "precioPorSku js-PUM": "Gramo a $79,55"
+    },
+    "descripcion": "tnt phase 10 casein polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 1320 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I89315"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

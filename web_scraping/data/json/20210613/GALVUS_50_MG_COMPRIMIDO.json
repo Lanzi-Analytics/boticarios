@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/galvus-50-mg-comprimido-7702635712961/p",
+    "fecha_hora_scraping": "2021-06-14 09:22:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GALVUS 50 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/GALVUS_50_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$49.750",
+        "precioPorSku js-PUM": "Unidad a $1.776,79"
+    },
+    "descripcion": "GALVUS 50 MG COMPRIMIDO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "VILDAGLIPTINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008064"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

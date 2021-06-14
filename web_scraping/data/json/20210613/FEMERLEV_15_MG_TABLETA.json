@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/femerlev-15-mg-tableta-7709990329827/p",
+    "fecha_hora_scraping": "2021-06-13 23:17:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEMERLEV 1.5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/FEMERLEV_15_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 1 TAB",
+    "precio": {
+        "bestPrice": "$16.000",
+        "precioPorSku js-PUM": "Tableta a $16.000,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "1,5 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL"
+        ],
+        [
+            "Laboratorio",
+            "I D PHARMA LAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011664-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

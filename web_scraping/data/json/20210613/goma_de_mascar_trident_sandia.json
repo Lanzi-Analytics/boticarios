@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goma-de-mascar-trident-sandia-7702133862793/p",
+    "fecha_hora_scraping": "2021-06-14 10:15:26",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "GOMA DE MASCAR TRIDENT SANDIA",
+    "nombre_imagen": "./web_scraping/data/img/GOMA_DE_MASCAR_TRIDENT_SANDIA.jpg",
+    "presentacion": "PAQUETE X 6 UN",
+    "precio": {
+        "bestPrice": "$1.500",
+        "precioPorSku js-PUM": "Gramo a $150,00"
+    },
+    "descripcion": "goma de mascar trident sandia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 6 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV16149707"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

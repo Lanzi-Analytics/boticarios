@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-antipanalitis-desitin-creamy-7702031927433/p",
+    "fecha_hora_scraping": "2021-06-14 06:43:36",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "crema antipa\u00f1alitis desitin creamy",
+    "nombre_imagen": "./web_scraping/data/img/crema_antipa\u00f1alitis_desitin_creamy.jpg",
+    "presentacion": "TUBO X 57 G",
+    "precio": {
+        "bestPrice": "$19.150",
+        "precioPorSku js-PUM": "Gramo a $335,96"
+    },
+    "descripcion": "creamy desitin antipanalitis 57 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 57 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC34661-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

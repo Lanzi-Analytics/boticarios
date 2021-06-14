@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sonda-nelaton-no5-medex-7707221291752/p",
+    "fecha_hora_scraping": "2021-06-14 02:18:56",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "SONDA NELATON No5 MEDEX",
+    "nombre_imagen": "./web_scraping/data/img/SONDA_NELATON_No5_MEDEX.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $587,00"
+    },
+    "descripcion": "sonda nelaton no5 medex",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEDITEC S A"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0001689-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

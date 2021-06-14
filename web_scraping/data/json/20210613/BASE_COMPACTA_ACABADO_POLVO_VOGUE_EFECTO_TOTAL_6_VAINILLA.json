@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-compacta-acabado-polvo-vogue-efecto-total-6-vainilla-7509552841244/p",
+    "fecha_hora_scraping": "2021-06-14 03:22:10",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE COMPACTA ACABADO POLVO VOGUE EFECTO TOTAL 6 VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/BASE_COMPACTA_ACABADO_POLVO_VOGUE_EFECTO_TOTAL_6_VAINILLA.jpg",
+    "presentacion": "UNIDAD X 14 G",
+    "precio": {
+        "bestPrice": "$11.300",
+        "precioPorSku js-PUM": "Gramo a $807,14"
+    },
+    "descripcion": "base compacta acabado polvo vogue efecto total 6 vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 14 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91487-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/travad-colonpeg-polvo-para-solucion-oral-cereza-7702057015138/p",
+    "fecha_hora_scraping": "2021-06-14 08:32:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAVAD COLONPEG POLVO PARA SOLUCI\u00d3N ORAL CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/TRAVAD_COLONPEG_POLVO_PARA_SOLUCI\u00d3N_ORAL_CEREZA.jpg",
+    "presentacion": "CAJA X 4 SOB",
+    "precio": {
+        "bestPrice": "$59.500",
+        "precioPorSku js-PUM": "Sobre a $14.875,00"
+    },
+    "descripcion": "TRAVAD COLONPEG POLVO PARA SOLUCI\u00d3N ORAL CEREZA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 SOB"
+        ],
+        [
+            "Concentracion",
+            "105 G 1,43 G 2,8 G"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 3350 BICARBONATO SODIO CLORURO SODIO CLORURO POTASIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019493"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

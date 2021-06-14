@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-loreal-paris-super-liner-perfect-slim-intense-black-3600522059592/p",
+    "fecha_hora_scraping": "2021-06-14 06:02:12",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR L'OR\u00c9AL PARIS SUPER LINER PERFECT SLIM INTENSE BLACK",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_LOR\u00c9AL_PARIS_SUPER_LINER_PERFECT_SLIM_INTENSE_BLACK.jpg",
+    "presentacion": "UNIDAD X 9.7 G",
+    "precio": {
+        "bestPrice": "$49.150",
+        "precioPorSku js-PUM": "Mililitro a $49.150,00"
+    },
+    "descripcion": "delineador l'or\u00e9al paris super liner perfect slim intense black",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9.7 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68269-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

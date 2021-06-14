@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tricovit-forte-locion-capilar-8030082000287/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRICOVIT FORTE LOCI\u00d3N CAPILAR",
+    "nombre_imagen": "./web_scraping/data/img/TRICOVIT_FORTE_LOCI\u00d3N_CAPILAR.jpg",
+    "presentacion": "CAJA X 10FCO",
+    "precio": {
+        "bestPrice": "$181.200",
+        "precioPorSku js-PUM": "Mililitro a $2.265,00"
+    },
+    "descripcion": "tricovit forte loci\u00f3n capilar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10FCO"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUIPHAR DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC18309-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tratamiento-pantene-ampolla-7506195196687/p",
+    "fecha_hora_scraping": "2021-06-14 00:03:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "AMPOLLA CAPILAR PANTENE PRO-V RESTAURACION",
+    "nombre_imagen": "./web_scraping/data/img/AMPOLLA_CAPILAR_PANTENE_PROV_RESTAURACION.jpg",
+    "presentacion": "AMPOLLA X 15 ML",
+    "precio": {
+        "PrevPrice": "Antes:$8.200",
+        "bestPrice": "$6.150",
+        "precioPorSku js-PUM": "Mililitro a $410,00"
+    },
+    "descripcion": "ampolla capilar pantene pro-v restauracion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "AMPOLLA X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004528-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

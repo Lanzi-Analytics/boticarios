@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zyrtec-10-mg-tableta-recubierta-7707172689325/p",
+    "fecha_hora_scraping": "2021-06-14 04:05:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZYRTEC 10 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ZYRTEC_10_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$64.200",
+        "precioPorSku js-PUM": "Unidad a $10.700,00"
+    },
+    "descripcion": "ZYRTEC 10 MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-013253-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

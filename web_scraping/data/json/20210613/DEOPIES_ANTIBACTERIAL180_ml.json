@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/deopies-antibacterial180-ml-7702113014310/p",
+    "fecha_hora_scraping": "2021-06-14 10:34:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "DEOPIES ANTIBACTERIAL180 ml",
+    "nombre_imagen": "./web_scraping/data/img/DEOPIES_ANTIBACTERIAL180_ml.jpg",
+    "presentacion": "UNIDAD X180ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $63,89"
+    },
+    "descripcion": "DEOPIES ANTIBACTERIAL180 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X180ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06560-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

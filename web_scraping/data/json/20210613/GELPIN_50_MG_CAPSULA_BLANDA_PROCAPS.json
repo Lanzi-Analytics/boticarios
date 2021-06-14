@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703153015398procapsformuladosmedicamentosgelpin-50-mg-capsula-blanda-procapssildenafilo-citrato-7703153015398/p",
+    "fecha_hora_scraping": "2021-06-14 04:43:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GELPIN 50 MG CAPSULA BLANDA PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/GELPIN_50_MG_CAPSULA_BLANDA_PROCAPS.jpg",
+    "presentacion": "CAJA X 2 CAP",
+    "precio": {
+        "bestPrice": "$4.650",
+        "precioPorSku js-PUM": "Capsula a $2.325,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 CAP"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "SILDENAFILO CITRATO"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0003937-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

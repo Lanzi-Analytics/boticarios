@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acetato-de-aluminio-0015-g-locion-la-francol-7706569001351/p",
+    "fecha_hora_scraping": "2021-06-14 02:30:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACETATO DE ALUMINIO 0.015 G LOCION LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/ACETATO_DE_ALUMINIO_0015_G_LOCION_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$8.700",
+        "precioPorSku js-PUM": "Mililitro a $72,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000498-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-intimo-nosotras-herbal-7702026177119/p",
+    "fecha_hora_scraping": "2021-06-14 01:30:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "jab\u00f3n \u00edntimo nosotras herbal",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_\u00edntimo_nosotras_herbal.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$15.400",
+        "precioPorSku js-PUM": "Mililitro a $77,00"
+    },
+    "descripcion": "jabon intimo nosotras herbal x200ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

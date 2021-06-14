@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-winny-gold-etapa-3-bolsax30-toallitas-x10-avena-y-miel-7701021118103/p",
+    "fecha_hora_scraping": "2021-06-14 05:42:35",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1AL WINNY GOLD ETAPA 3 BOLSAx30+ TOALLITAS X10 AVENA Y MIEL",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_WINNY_GOLD_ETAPA_3_BOLSAx30_TOALLITAS_X10_AVENA_Y_MIEL.jpg",
+    "presentacion": "BOLSA X 30UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $996,67"
+    },
+    "descripcion": "PA\u00d1AL WINNY GOLD ETAPA 3 BOLSAx30+ TOALLITAS X10 AVENA Y MIEL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 30UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02379-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

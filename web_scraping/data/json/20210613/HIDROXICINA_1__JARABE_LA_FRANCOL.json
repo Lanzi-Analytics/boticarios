@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidroxicina-1--jarabe-la-francol-7706569000675/p",
+    "fecha_hora_scraping": "2021-06-14 02:16:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIDROXICINA 1 % JARABE LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/HIDROXICINA_1__JARABE_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$6.850",
+        "precioPorSku js-PUM": "Mililitro a $57,08"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "2.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIDROXICINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-013721-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

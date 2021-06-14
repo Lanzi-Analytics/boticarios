@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infntil-similac-ar-reflujo-etapa-0-12-meses-8427030004938/p",
+    "fecha_hora_scraping": "2021-06-14 06:33:21",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFNTIL SIMILAC AR REFLUJO ETAPA 0-12 MESES",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFNTIL_SIMILAC_AR_REFLUJO_ETAPA_012_MESES.jpg",
+    "presentacion": "FRASCO X 375 G",
+    "precio": {
+        "bestPrice": "$41.900",
+        "precioPorSku js-PUM": "Gramo a $111,73"
+    },
+    "descripcion": "formula infntil similac ar reflujo etapa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 375 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I57012"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

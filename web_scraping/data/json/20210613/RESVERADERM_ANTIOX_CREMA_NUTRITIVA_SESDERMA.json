@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979433251resveraderm-antiox-crema-nutritiva-sesdermabellezadermocosmetica-8429979433251/p",
+    "fecha_hora_scraping": "2021-06-14 04:30:38",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "RESVERADERM ANTIOX CREMA NUTRITIVA SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/RESVERADERM_ANTIOX_CREMA_NUTRITIVA_SESDERMA.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$174.200",
+        "precioPorSku js-PUM": "Mililitro a $3.484,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87672-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bio-collagen-premium-biotin-814465012528/p",
+    "fecha_hora_scraping": "2021-06-14 05:59:54",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "BIO COLLAGEN PREMIUM BIOTIN",
+    "nombre_imagen": "./web_scraping/data/img/BIO_COLLAGEN_PREMIUM_BIOTIN.jpg",
+    "presentacion": "TARRO X 270 G",
+    "precio": {
+        "bestPrice": "$91.200",
+        "precioPorSku js-PUM": "Gramo a $337,78"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 270 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2017-0004025"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

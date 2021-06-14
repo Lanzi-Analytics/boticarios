@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ptallen-plus-colageno-hidrolizado-7709990201437/p",
+    "fecha_hora_scraping": "2021-06-14 09:32:52",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "P.TALLEN PLUS COLAGENO HIDROLIZADO",
+    "nombre_imagen": "./web_scraping/data/img/PTALLEN_PLUS_COLAGENO_HIDROLIZADO.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $8.598,73"
+    },
+    "descripcion": "p.tallen plus colageno hidrolizado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A MG"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALLEN PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004738-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

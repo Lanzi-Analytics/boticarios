@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979414588sensyses-cleanser-lightening-desmaquillante-limpiador-sesdermabellezadermocosmetica-8429979414588/p",
+    "fecha_hora_scraping": "2021-06-14 03:18:12",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SENSYSES CLEANSER LIGHTENING DESMAQUILLANTE-LIMPIADOR SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/SENSYSES_CLEANSER_LIGHTENING_DESMAQUILLANTELIMPIADOR_SESDERMA.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$68.950",
+        "precioPorSku js-PUM": "Mililitro a $344,75"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC61018-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

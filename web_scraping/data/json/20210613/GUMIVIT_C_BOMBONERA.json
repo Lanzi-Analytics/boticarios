@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703153019396gumivit-c-bomboneranutricion-y-vida-saludablevitaminasprocaps-7703153019396/p",
+    "fecha_hora_scraping": "2021-06-14 00:26:36",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GUMIVIT C BOMBONERA",
+    "nombre_imagen": "./web_scraping/data/img/GUMIVIT_C_BOMBONERA.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$798",
+        "precioPorSku js-PUM": "Unidad a $797,78"
+    },
+    "descripcion": "gumivit c bombonera",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAK16I1504"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

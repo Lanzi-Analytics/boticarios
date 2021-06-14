@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babyskin-crema-antipanalitis-7703281000303/p",
+    "fecha_hora_scraping": "2021-06-14 10:30:09",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "BABYSKIN CREMA ANTIPA\u00d1ALITIS",
+    "nombre_imagen": "./web_scraping/data/img/BABYSKIN_CREMA_ANTIPA\u00d1ALITIS.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$23.400",
+        "precioPorSku js-PUM": "Gramo a $390,00"
+    },
+    "descripcion": "babyskin crema antipa\u00f1alitis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33422-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

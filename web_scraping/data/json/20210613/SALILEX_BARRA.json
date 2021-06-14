@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/salilex-barra-7703281003946/p",
+    "fecha_hora_scraping": "2021-06-14 09:40:46",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "SALILEX BARRA",
+    "nombre_imagen": "./web_scraping/data/img/SALILEX_BARRA.jpg",
+    "presentacion": "BARRA X 120 G",
+    "precio": {
+        "bestPrice": "$48.250",
+        "precioPorSku js-PUM": "Gramo a $402,08"
+    },
+    "descripcion": "salilex barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06299-97CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

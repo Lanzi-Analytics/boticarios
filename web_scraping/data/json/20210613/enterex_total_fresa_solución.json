@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enterex-total-fresa-solucion-612197211260/p",
+    "fecha_hora_scraping": "2021-06-14 03:59:38",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "enterex total fresa soluci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/enterex_total_fresa_soluci\u00f3n.jpg",
+    "presentacion": "BOTELLA X 237 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $38,61"
+    },
+    "descripcion": "enterex total fresa soluci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 237 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "AMAREY NOVA MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000810-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

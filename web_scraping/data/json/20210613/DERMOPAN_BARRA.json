@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dermopan-barra-3282771111216/p",
+    "fecha_hora_scraping": "2021-06-14 02:03:50",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DERMOPAN BARRA",
+    "nombre_imagen": "./web_scraping/data/img/DERMOPAN_BARRA.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "$36.950",
+        "precioPorSku js-PUM": "Gramo a $369,50"
+    },
+    "descripcion": "dermopan barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC15734-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

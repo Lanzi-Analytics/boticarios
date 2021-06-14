@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amoxicilina-250-mg-polvo-para-suspension-tecnoquimicas-7702057070519/p",
+    "fecha_hora_scraping": "2021-06-14 06:54:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMOXICILINA 250 MG POLVO PARA SUSPENSION TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/AMOXICILINA_250_MG_POLVO_PARA_SUSPENSION_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 45 ML",
+    "precio": {
+        "bestPrice": "$5.250",
+        "precioPorSku js-PUM": "Mililitro a $116,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 45 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-000667-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

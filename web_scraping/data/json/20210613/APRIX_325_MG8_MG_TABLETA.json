@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aprix-325-mg8-mg-tableta-7703546083225/p",
+    "fecha_hora_scraping": "2021-06-14 07:54:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "APRIX 325 MG/8 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/APRIX_325_MG8_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$20.450",
+        "precioPorSku js-PUM": "Tableta a $1.022,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 8 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001890-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-liquido-loreal-paris-infallible-pro-matte-liquid-lipstick-petal-potion-71249358832/p",
+    "fecha_hora_scraping": "2021-06-13 23:16:56",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL L\u00cdQUIDO L'OR\u00c9AL PARIS INFALLIBLE PRO MATTE LIQUID LIPSTICK PETAL POTION",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_L\u00cdQUIDO_LOR\u00c9AL_PARIS_INFALLIBLE_PRO_MATTE_LIQUID_LIPSTICK_PETAL_POTION.jpg",
+    "presentacion": "UNIDAD X 6.3 ML",
+    "precio": {
+        "bestPrice": "$52.050",
+        "precioPorSku js-PUM": "Mililitro a $8.261,90"
+    },
+    "descripcion": "labial l\u00edquido l'or\u00e9al paris infallible pro matte liquid lipstick petal potion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6.3 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97930-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

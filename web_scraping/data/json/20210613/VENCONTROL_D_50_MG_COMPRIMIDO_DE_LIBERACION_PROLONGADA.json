@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vencontrol-d-50-mg-comprimido-de-liberacion-prolongada-7705959870669/p",
+    "fecha_hora_scraping": "2021-06-14 08:45:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VENCONTROL D 50 MG COMPRIMIDO DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/VENCONTROL_D_50_MG_COMPRIMIDO_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$45.800",
+        "precioPorSku js-PUM": "Tableta a $1.526,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "DESVENLAFAXINA SUCCIN HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016023"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

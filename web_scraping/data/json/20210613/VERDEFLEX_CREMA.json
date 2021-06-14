@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/verdeflex-crema-7707176463532/p",
+    "fecha_hora_scraping": "2021-06-14 00:21:28",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VERDEFLEX CREMA",
+    "nombre_imagen": "./web_scraping/data/img/VERDEFLEX_CREMA.jpg",
+    "presentacion": "TUBO X 80 G",
+    "precio": {
+        "bestPrice": "$21.400",
+        "precioPorSku js-PUM": "Gramo a $267,50"
+    },
+    "descripcion": "verdeflex crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 80 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FUNDACI LABORATORIO FARMACOLOGIA VE"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73320-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

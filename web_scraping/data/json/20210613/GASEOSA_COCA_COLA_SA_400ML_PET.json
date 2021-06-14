@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-coca-cola-sa-400ml-pet-7702535011119/p",
+    "fecha_hora_scraping": "2021-06-14 09:09:17",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "GASEOSA COCA COLA SA 400ML PET",
+    "nombre_imagen": "./web_scraping/data/img/GASEOSA_COCA_COLA_SA_400ML_PET.jpg",
+    "presentacion": "BOTELLA X 400ML",
+    "precio": {
+        "bestPrice": "$2.050",
+        "precioPorSku js-PUM": "Mililitro a $5,13"
+    },
+    "descripcion": "GASEOSA COCA COLA SA 400ML PET",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003403-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

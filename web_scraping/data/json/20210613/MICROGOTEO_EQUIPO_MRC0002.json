@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/microgoteo-equipo-mrc-0002-7707141363225/p",
+    "fecha_hora_scraping": "2021-06-14 02:42:36",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "MICROGOTEO EQUIPO MRC-0002",
+    "nombre_imagen": "./web_scraping/data/img/MICROGOTEO_EQUIPO_MRC0002.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.650,00"
+    },
+    "descripcion": "microgoteo equipo mrc-0002",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAXTER SA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-00718-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

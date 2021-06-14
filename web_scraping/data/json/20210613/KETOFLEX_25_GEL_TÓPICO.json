@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ketoflex-2-5-gel-topico-7709990374988/p",
+    "fecha_hora_scraping": "2021-06-14 03:29:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KETOFLEX 2.5% GEL T\u00d3PICO",
+    "nombre_imagen": "./web_scraping/data/img/KETOFLEX_25_GEL_T\u00d3PICO.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$21.450",
+        "precioPorSku js-PUM": "Gramo a $429,00"
+    },
+    "descripcion": "ketoflex 2.5% gel t\u00f3pico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "25 MG/G"
+        ],
+        [
+            "Principio activo",
+            "KETOPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015608"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/travad-pik-polvo-para-solucion-oral-7702057014148/p",
+    "fecha_hora_scraping": "2021-06-14 09:14:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAVAD PIK POLVO PARA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/TRAVAD_PIK_POLVO_PARA_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 2 SOB",
+    "precio": {
+        "bestPrice": "$66.350",
+        "precioPorSku js-PUM": "Gramo a $4.121,12"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 SOB"
+        ],
+        [
+            "Concentracion",
+            "12 G 10 MG 3,5 G"
+        ],
+        [
+            "Principio activo",
+            "CITRICO ACIDO ANHIDRO MAGNESIO OXIDO PICOSULFATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018109"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

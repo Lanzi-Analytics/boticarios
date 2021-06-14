@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tegretol-retard-400mg-gragea-7896261001848/p",
+    "fecha_hora_scraping": "2021-06-14 09:42:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TEGRETOL RETARD 400MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/TEGRETOL_RETARD_400MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$14.350",
+        "precioPorSku js-PUM": "Tableta a $717,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "CARBAMAZEPINA"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-012068-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

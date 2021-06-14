@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tensiometro-digital-muneca-alfasafe-7707228368860/p",
+    "fecha_hora_scraping": "2021-06-13 23:56:28",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "TENSIOMETRO DIGITAL MU\u00d1ECA ALFASAFE",
+    "nombre_imagen": "./web_scraping/data/img/TENSIOMETRO_DIGITAL_MU\u00d1ECA_ALFASAFE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$90.650",
+        "precioPorSku js-PUM": "Unidad a $90.650,00"
+    },
+    "descripcion": "tensiometro digital mu\u00f1eca alfasafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007522"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

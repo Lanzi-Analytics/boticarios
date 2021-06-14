@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esodex-20mg-capsula-dura-7709990680966/p",
+    "fecha_hora_scraping": "2021-06-14 08:57:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESODEX 20MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/ESODEX_20MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 14 CAP",
+    "precio": {
+        "bestPrice": "$61.950",
+        "precioPorSku js-PUM": "Capsula a $4.425,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ESOMEPRAZOL MAGNESIO TRIHID"
+        ],
+        [
+            "Laboratorio",
+            "ADEXA PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013765"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

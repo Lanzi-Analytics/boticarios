@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-stayfree-nocturna-con-alas-nocturna-7891010025878/p",
+    "fecha_hora_scraping": "2021-06-14 01:06:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas stayfree nocturna con alas nocturna",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_stayfree_nocturna_con_alas_nocturna.jpg",
+    "presentacion": "PAQUETE X 8 UN",
+    "precio": {
+        "bestPrice": "$4.100",
+        "precioPorSku js-PUM": "Unidad a $512,50"
+    },
+    "descripcion": "toalla hig stayfree alas nocturna ag x",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

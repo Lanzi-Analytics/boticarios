@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-caladerm-clear-plus-pague1-lleve2-7707210531081/p",
+    "fecha_hora_scraping": "2021-06-13 23:52:21",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA CALADERM CLEAR PLUS PAGUE:1 LLEVE:2",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CALADERM_CLEAR_PLUS_PAGUE1_LLEVE2.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$18.300",
+        "precioPorSku js-PUM": "Gramo a $152,50"
+    },
+    "descripcion": "oferta caladerm clear plus pague:1 lleve:2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76781-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

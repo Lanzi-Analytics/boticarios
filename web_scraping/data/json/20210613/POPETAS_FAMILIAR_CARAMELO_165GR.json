@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/popetas-familiar-caramelo-165gr-7702354934316/p",
+    "fecha_hora_scraping": "2021-06-14 03:20:58",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "POPETAS FAMILIAR CARAMELO 165GR",
+    "nombre_imagen": "./web_scraping/data/img/POPETAS_FAMILIAR_CARAMELO_165GR.jpg",
+    "presentacion": "BOLSA X 165 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $20,61"
+    },
+    "descripcion": "POPETAS FAMILIAR CARAMELO 165GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 165 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAE0813313"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

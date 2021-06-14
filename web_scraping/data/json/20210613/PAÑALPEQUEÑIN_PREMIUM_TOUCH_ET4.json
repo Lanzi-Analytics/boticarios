@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panalpequenin-premium-touch-et4-7702026146658/p",
+    "fecha_hora_scraping": "2021-06-14 03:09:43",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1ALPEQUE\u00d1IN PREMIUM TOUCH ET4",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALPEQUE\u00d1IN_PREMIUM_TOUCH_ET4.jpg",
+    "presentacion": "PAQUETE X 28 UN",
+    "precio": {
+        "bestPrice": "$29.150",
+        "precioPorSku js-PUM": "Unidad a $1.041,07"
+    },
+    "descripcion": "pa\u00f1alpeque\u00f1in premium touch et4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 28 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA07512-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

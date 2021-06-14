@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pirimed-shampo-7703332003550/p",
+    "fecha_hora_scraping": "2021-06-14 08:03:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "PIRIMED SHAMPO",
+    "nombre_imagen": "./web_scraping/data/img/PIRIMED_SHAMPO.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$56.650",
+        "precioPorSku js-PUM": "Mililitro a $472,08"
+    },
+    "descripcion": "pirimed shampo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC5540-88CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

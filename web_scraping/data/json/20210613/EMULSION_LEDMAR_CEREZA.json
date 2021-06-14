@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/emulsion-ledmar-cereza-7707016401656/p",
+    "fecha_hora_scraping": "2021-06-14 03:29:58",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "EMULSION LEDMAR CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/EMULSION_LEDMAR_CEREZA.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$6.750",
+        "precioPorSku js-PUM": "Mililitro a $27,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2010-0001634"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

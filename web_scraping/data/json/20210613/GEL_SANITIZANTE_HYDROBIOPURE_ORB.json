@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-sanitizante--hydrobiopure-orb-7709691190924/p",
+    "fecha_hora_scraping": "2021-06-14 00:29:28",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "GEL SANITIZANTE- HYDROBIOPURE ORB",
+    "nombre_imagen": "./web_scraping/data/img/GEL_SANITIZANTE_HYDROBIOPURE_ORB.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "PrevPrice": "Antes:$23.250",
+        "bestPrice": "$11.625",
+        "precioPorSku js-PUM": "Mililitro a $48,44"
+    },
+    "descripcion": "gel sanitizante- hydrobiopure orb",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

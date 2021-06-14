@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrilever-light-polvo-7708916282413/p",
+    "fecha_hora_scraping": "2021-06-14 00:55:16",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTRILEVER LIGHT POLVO",
+    "nombre_imagen": "./web_scraping/data/img/NUTRILEVER_LIGHT_POLVO.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$33.500",
+        "precioPorSku js-PUM": "Gramo a $83,75"
+    },
+    "descripcion": "nutrilever light polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VARAN FARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD10I91915"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

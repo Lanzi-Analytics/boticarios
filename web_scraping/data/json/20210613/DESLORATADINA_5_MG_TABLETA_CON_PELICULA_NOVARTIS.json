@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desloratadina-5-mg-tableta-con-pelicula-novartis-8901109315014/p",
+    "fecha_hora_scraping": "2021-06-14 00:27:29",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DESLORATADINA 5 MG TABLETA CON PELICULA NOVARTIS",
+    "nombre_imagen": "./web_scraping/data/img/DESLORATADINA_5_MG_TABLETA_CON_PELICULA_NOVARTIS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$11.950",
+        "precioPorSku js-PUM": "Tableta a $1.195,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "DESLORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010403"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

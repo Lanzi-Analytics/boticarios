@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vadiral-1-g-tableta-recubierta-7707189521120/p",
+    "fecha_hora_scraping": "2021-06-14 08:19:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VADIRAL 1 G TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/VADIRAL_1_G_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 5 TAB",
+    "precio": {
+        "bestPrice": "$129.550",
+        "precioPorSku js-PUM": "Tableta a $25.910,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "1000 MG"
+        ],
+        [
+            "Principio activo",
+            "VALACICLOVIR CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007742-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

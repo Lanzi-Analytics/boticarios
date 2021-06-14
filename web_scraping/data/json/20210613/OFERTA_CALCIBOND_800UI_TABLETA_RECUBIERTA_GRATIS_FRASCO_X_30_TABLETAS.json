@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-calcibond-800ui-tableta-recubierta-gratis-frasco-x-30-tabletas-7703454123174/p",
+    "fecha_hora_scraping": "2021-06-14 01:34:38",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA CALCIBOND 800UI TABLETA RECUBIERTA GRATIS FRASCO X 30 TABLETAS",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CALCIBOND_800UI_TABLETA_RECUBIERTA_GRATIS_FRASCO_X_30_TABLETAS.jpg",
+    "presentacion": "FRASCO X 60 TAB",
+    "precio": {
+        "bestPrice": "$91.100",
+        "precioPorSku js-PUM": "Tableta a $1.518,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "315 MG 800 UI"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CITRATO VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014237-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

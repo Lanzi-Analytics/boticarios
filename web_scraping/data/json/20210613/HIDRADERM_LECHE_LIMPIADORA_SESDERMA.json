@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8470002507616hidraderm-leche-limpiadora-sesdermabellezadermocosmetica-8470002507616/p",
+    "fecha_hora_scraping": "2021-06-14 04:25:42",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "HIDRADERM LECHE LIMPIADORA SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/HIDRADERM_LECHE_LIMPIADORA_SESDERMA.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$81.700",
+        "precioPorSku js-PUM": "Mililitro a $408,50"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC28940-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

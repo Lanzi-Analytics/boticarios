@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gynets-4mg-tableta-recubierta-7702870545577/p",
+    "fecha_hora_scraping": "2021-06-13 23:26:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GYNETS 4MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/GYNETS_4MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$36.300",
+        "precioPorSku js-PUM": "Tableta a $1.296,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "4 MG"
+        ],
+        [
+            "Principio activo",
+            "DROSPIRENONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019511"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

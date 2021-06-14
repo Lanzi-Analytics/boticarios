@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-intimo-nosotras-herbal-200-ml--jabon-sensitive-130-ml-7702026183004/p",
+    "fecha_hora_scraping": "2021-06-14 10:35:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "OFERTA JABON INTIMO NOSOTRAS HERBAL 200 ML + JABON SENSITIVE 130 ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_JABON_INTIMO_NOSOTRAS_HERBAL_200_ML__JABON_SENSITIVE_130_ML.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$20.300",
+        "precioPorSku js-PUM": "Mililitro a $101,50"
+    },
+    "descripcion": "oferta jabon intimo nosotras herbal 200 ml + jabon sensitive 130 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87140-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

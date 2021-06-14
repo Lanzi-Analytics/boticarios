@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hemofolic-capsula-blanda-8436043012168/p",
+    "fecha_hora_scraping": "2021-06-14 01:49:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "HEMOFOLIC C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/HEMOFOLIC_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$42.150",
+        "precioPorSku js-PUM": "Capsula a $1.405,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004434"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapabocas-reutilizable-en-neopreno-infantil-7707249358468/p",
+    "fecha_hora_scraping": "2021-06-14 10:23:07",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "tapabocas reutilizable en neopreno infantil",
+    "nombre_imagen": "./web_scraping/data/img/tapabocas_reutilizable_en_neopreno_infantil.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$7.500",
+        "precioPorSku js-PUM": "Unidad a $7.500,00"
+    },
+    "descripcion": "tapabocas reutilizable en neopreno infantil",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KAMEX INTERNATIONAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

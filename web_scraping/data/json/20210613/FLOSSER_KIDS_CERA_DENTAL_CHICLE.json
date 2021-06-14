@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flosser-kids-cera-dental-chicle-7702314316299/p",
+    "fecha_hora_scraping": "2021-06-14 05:41:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "FLOSSER KIDS CERA DENTAL CHICLE",
+    "nombre_imagen": "./web_scraping/data/img/FLOSSER_KIDS_CERA_DENTAL_CHICLE.jpg",
+    "presentacion": "UNIDAD X 40UN",
+    "precio": {
+        "bestPrice": "$11.250",
+        "precioPorSku js-PUM": "Unidad a $281,25"
+    },
+    "descripcion": "flosser kids cera dental chicle",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 40UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016095"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

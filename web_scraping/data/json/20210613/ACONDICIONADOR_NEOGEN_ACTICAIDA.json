@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionador-neogen-acticaida-7707183820342/p",
+    "fecha_hora_scraping": "2021-06-13 23:34:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "ACONDICIONADOR NEOGEN ACTICAIDA",
+    "nombre_imagen": "./web_scraping/data/img/ACONDICIONADOR_NEOGEN_ACTICAIDA.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$123.900",
+        "precioPorSku js-PUM": "Mililitro a $495,60"
+    },
+    "descripcion": "acondicionador neogen acticaida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85887-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

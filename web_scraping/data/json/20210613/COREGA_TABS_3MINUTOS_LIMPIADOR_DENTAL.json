@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corega-tabs-3minutos-limpiador-dental-7794640171420/p",
+    "fecha_hora_scraping": "2021-06-14 08:41:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "COREGA TABS 3MINUTOS LIMPIADOR DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/COREGA_TABS_3MINUTOS_LIMPIADOR_DENTAL.jpg",
+    "presentacion": "BLISTER X 6 TAB",
+    "precio": {
+        "bestPrice": "$3.870",
+        "precioPorSku js-PUM": "Tableta a $645,00"
+    },
+    "descripcion": "corega tabs 3minutos limpiador dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 6 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2017016472"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

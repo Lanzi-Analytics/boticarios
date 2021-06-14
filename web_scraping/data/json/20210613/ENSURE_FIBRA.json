@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-fibra-7703186029843/p",
+    "fecha_hora_scraping": "2021-06-14 06:34:51",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE FIBRA",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_FIBRA.jpg",
+    "presentacion": "LATA X 240 ML",
+    "precio": {
+        "bestPrice": "$10.400",
+        "precioPorSku js-PUM": "Mililitro a $43,88"
+    },
+    "descripcion": "ensure fibra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I186115"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

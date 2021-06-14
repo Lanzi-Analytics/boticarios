@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neutrogena-toallitas-purified-skin-7891010245221/p",
+    "fecha_hora_scraping": "2021-06-14 08:10:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEUTROGENA TOALLITAS PURIFIED SKIN",
+    "nombre_imagen": "./web_scraping/data/img/NEUTROGENA_TOALLITAS_PURIFIED_SKIN.jpg",
+    "presentacion": "BOLSA X 25 UN",
+    "precio": {
+        "bestPrice": "$26.850",
+        "precioPorSku js-PUM": "Unidad a $1.074,00"
+    },
+    "descripcion": "neutrogena toallitas purified skin",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82797-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

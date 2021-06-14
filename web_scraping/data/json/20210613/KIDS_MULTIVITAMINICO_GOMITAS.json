@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kids-multivitaminico-gomitas-811726001659/p",
+    "fecha_hora_scraping": "2021-06-13 23:55:58",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "KIDS MULTIVITAMINICO GOMITAS",
+    "nombre_imagen": "./web_scraping/data/img/KIDS_MULTIVITAMINICO_GOMITAS.jpg",
+    "presentacion": "FRASCO X 60 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $495,83"
+    },
+    "descripcion": "kids multivitaminico gomitas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRIME HEALTH SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I14914"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-curaprox-soft-ref1560-7612412156003/p",
+    "fecha_hora_scraping": "2021-06-14 05:16:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental curaprox soft ref1560",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_curaprox_soft_ref1560.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$26.450",
+        "precioPorSku js-PUM": "Unidad a $26.450,00"
+    },
+    "descripcion": "cepillo dent cs 1560 soft curaprox",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LAMOSAN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0006985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

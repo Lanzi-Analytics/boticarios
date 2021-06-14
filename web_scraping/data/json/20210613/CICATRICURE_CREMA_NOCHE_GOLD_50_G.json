@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicatricure-gold-lift-crema-noche-7798140259398/p",
+    "fecha_hora_scraping": "2021-06-13 23:50:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CICATRICURE CREMA NOCHE GOLD 50 G",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_CREMA_NOCHE_GOLD_50_G.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$75.000",
+        "precioPorSku js-PUM": "Gramo a $1.500,00"
+    },
+    "descripcion": "CICATRICURE GOLD LIFT CREMA NOCHE",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94797-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

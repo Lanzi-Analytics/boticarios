@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dhems-booster-vitamina-c-emulsion-7707208613119/p",
+    "fecha_hora_scraping": "2021-06-14 08:29:06",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "dhems booster vitamina c emulsi\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/dhems_booster_vitamina_c_emulsi\u00f3n.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$76.809",
+        "precioPorSku js-PUM": "Mililitro a $1.536,18"
+    },
+    "descripcion": "dhems booster vitamina c emulsi\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC96166-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

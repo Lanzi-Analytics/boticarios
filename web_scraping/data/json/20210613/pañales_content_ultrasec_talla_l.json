@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-content-ultrasec-talla-l-7701021112415/p",
+    "fecha_hora_scraping": "2021-06-14 01:44:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1ALES CONTENT ULTRASEC TALLA L",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_CONTENT_ULTRASEC_TALLA_L.jpg",
+    "presentacion": "BOLSA X9 UN",
+    "precio": {
+        "bestPrice": "$21.150",
+        "precioPorSku js-PUM": "Unidad a $2.350,00"
+    },
+    "descripcion": "f-f-pa\u00f1al content ultrasec l bolx9",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X9 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05905-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

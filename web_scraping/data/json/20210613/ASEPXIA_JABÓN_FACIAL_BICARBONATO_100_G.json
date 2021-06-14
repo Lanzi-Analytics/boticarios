@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-bicarbonato-jabon-en-barra-650240036965/p",
+    "fecha_hora_scraping": "2021-06-13 23:59:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "ASEPXIA JAB\u00d3N FACIAL BICARBONATO 100 G",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_JAB\u00d3N_FACIAL_BICARBONATO_100_G.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.150",
+        "precioPorSku js-PUM": "Unidad a $9.150,00"
+    },
+    "descripcion": "ayuda a combatir las imperfecciones de la piel. recomendado para piel mixta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC88957-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

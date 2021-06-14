@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-labial-crema-de-limon-7706976000671/p",
+    "fecha_hora_scraping": "2021-06-14 05:56:27",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "PROTECTOR LABIAL CREMA DE LIMON",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_LABIAL_CREMA_DE_LIMON.jpg",
+    "presentacion": "BARRA X 4,6 G",
+    "precio": {
+        "bestPrice": "$5.100",
+        "precioPorSku js-PUM": "Gramo a $1.108,70"
+    },
+    "descripcion": "protector labial crema de limon",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 4,6 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS MEREY LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO24124"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/careta-para-proteccion-kis-7707249358444/p",
+    "fecha_hora_scraping": "2021-06-13 23:40:45",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "careta para proteccion kis",
+    "nombre_imagen": "./web_scraping/data/img/careta_para_proteccion_kis.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "$24.200",
+        "precioPorSku js-PUM": "Unidad a $24250,00"
+    },
+    "descripcion": "careta para proteccion kis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KAMEX"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

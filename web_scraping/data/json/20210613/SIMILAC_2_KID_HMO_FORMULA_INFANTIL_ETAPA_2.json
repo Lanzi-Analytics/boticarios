@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/similac-2-kid-hmo-formula-infantil-etapa-2-5099864011203/p",
+    "fecha_hora_scraping": "2021-06-14 05:02:15",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "SIMILAC 2 KID HMO FORMULA INFANTIL ETAPA 2",
+    "nombre_imagen": "./web_scraping/data/img/SIMILAC_2_KID_HMO_FORMULA_INFANTIL_ETAPA_2.jpg",
+    "presentacion": "LATA X 1800 G",
+    "precio": {
+        "bestPrice": "$128.600",
+        "precioPorSku js-PUM": "Gramo a $71,44"
+    },
+    "descripcion": "similac 2 kid hmo formula infantil etapa 2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 1800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002861-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

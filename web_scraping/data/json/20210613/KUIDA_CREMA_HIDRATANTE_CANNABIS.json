@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kuida-crema-hidratante-cannabis-7709897077395/p",
+    "fecha_hora_scraping": "2021-06-14 10:30:04",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "KUIDA CREMA HIDRATANTE CANNABIS",
+    "nombre_imagen": "./web_scraping/data/img/KUIDA_CREMA_HIDRATANTE_CANNABIS.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$65.500",
+        "precioPorSku js-PUM": "Mililitro a $1.310,00"
+    },
+    "descripcion": "kuida crema hidratante cannabis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KHIRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87284-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

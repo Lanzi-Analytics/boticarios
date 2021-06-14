@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/reloj-huawei-gt2-46mm-classic-cafe-6901443320530/p",
+    "fecha_hora_scraping": "2021-06-14 02:39:44",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "RELOJ HUAWEI GT2 (46MM) CLASSIC CAFE",
+    "nombre_imagen": "./web_scraping/data/img/RELOJ_HUAWEI_GT2_46MM_CLASSIC_CAFE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$799.900",
+        "bestPrice": "$599.925",
+        "precioPorSku js-PUM": "Unidad a $599.925"
+    },
+    "descripcion": "reloj wuawei gt2 (46mm) classic cafe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA DE COMERCIO SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

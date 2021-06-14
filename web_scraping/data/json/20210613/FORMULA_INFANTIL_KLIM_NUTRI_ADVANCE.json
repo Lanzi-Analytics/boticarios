@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-klim-nutri-advance-7613037029260/p",
+    "fecha_hora_scraping": "2021-06-13 23:28:11",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "FORMULA INFANTIL KLIM NUTRI ADVANCE",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_KLIM_NUTRI_ADVANCE.jpg",
+    "presentacion": "LATA X 800 G",
+    "precio": {
+        "bestPrice": "$44.800",
+        "precioPorSku js-PUM": "Gramo a $56,00"
+    },
+    "descripcion": "formula infantil klim nutri advance",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007954-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

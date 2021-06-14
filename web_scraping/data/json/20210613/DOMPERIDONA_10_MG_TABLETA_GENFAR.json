@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/domperidona-10-mg-tableta-genfar-7702605105984/p",
+    "fecha_hora_scraping": "2021-06-14 07:31:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DOMPERIDONA 10 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/DOMPERIDONA_10_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$825",
+        "precioPorSku js-PUM": "Tableta a $82,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "DOMPERIDONA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008392"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

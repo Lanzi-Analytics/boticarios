@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-aloha-mango-biche-7702402054324/p",
+    "fecha_hora_scraping": "2021-06-13 23:20:57",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "PALETA ALOHA MANGO BICHE",
+    "nombre_imagen": "./web_scraping/data/img/PALETA_ALOHA_MANGO_BICHE.jpg",
+    "presentacion": "UNIDAD X 65 G",
+    "precio": {
+        "bestPrice": "$1.600",
+        "precioPorSku js-PUM": "Gramo a $24,62"
+    },
+    "descripcion": "paleta aloha mango biche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 65 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001117-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

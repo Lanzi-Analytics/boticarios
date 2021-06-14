@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tratamiento-pantene-restauracion-7501006740219/p",
+    "fecha_hora_scraping": "2021-06-14 00:23:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "mascarilla intensiva pantene pro-v restauraci\u00f3n x 300 ml",
+    "nombre_imagen": "./web_scraping/data/img/mascarilla_intensiva_pantene_prov_restauraci\u00f3n_x_300_ml.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$19.350",
+        "precioPorSku js-PUM": "Mililitro a $64,50"
+    },
+    "descripcion": "tratamiento pantene 300 ml restauracio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

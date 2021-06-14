@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-fresh-mandarina-15l-7702535020371/p",
+    "fecha_hora_scraping": "2021-06-14 07:43:01",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "JUGO FRESH MANDARINA 1.5L",
+    "nombre_imagen": "./web_scraping/data/img/JUGO_FRESH_MANDARINA_15L.jpg",
+    "presentacion": "BOTELLA X 1500ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1,73"
+    },
+    "descripcion": "JUGO FRESH MANDARINA 1.5L",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 1500ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003140-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

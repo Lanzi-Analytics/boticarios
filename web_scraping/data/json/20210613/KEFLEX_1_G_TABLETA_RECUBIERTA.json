@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/keflex-1-g-tableta-recubierta-7703454121989/p",
+    "fecha_hora_scraping": "2021-06-14 10:32:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KEFLEX 1 G TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/KEFLEX_1_G_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$116.750",
+        "precioPorSku js-PUM": "Tableta a $11.675,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 G"
+        ],
+        [
+            "Principio activo",
+            "CEFALEXINA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011187-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

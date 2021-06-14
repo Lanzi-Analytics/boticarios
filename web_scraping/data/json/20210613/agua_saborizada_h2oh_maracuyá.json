@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-saborizada-h2oh-maracuya-7702090029154/p",
+    "fecha_hora_scraping": "2021-06-14 07:21:43",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "agua saborizada h2oh! maracuy\u00e1",
+    "nombre_imagen": "./web_scraping/data/img/agua_saborizada_h2oh_maracuy\u00e1.jpg",
+    "presentacion": "BOTELLA X 600 ML",
+    "precio": {
+        "bestPrice": "$2.700",
+        "precioPorSku js-PUM": "Mililitro a $4,50"
+    },
+    "descripcion": "agua saborizada h2oh! maracuy\u00e1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 600 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD19I30008"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

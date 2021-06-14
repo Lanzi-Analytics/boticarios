@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nebivolol-5-mg-tableta-tecnoquimicas-7702057709099/p",
+    "fecha_hora_scraping": "2021-06-14 10:07:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEBIVOLOL 5 MG TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/NEBIVOLOL_5_MG_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$41.050",
+        "precioPorSku js-PUM": "Tableta a $1.368,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "NEBIVOLOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017055"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

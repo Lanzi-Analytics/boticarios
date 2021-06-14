@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hyzaar-50-mg125-mg-tableta-7897337715683/p",
+    "fecha_hora_scraping": "2021-06-14 04:30:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HYZAAR 50 MG/12.5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/HYZAAR_50_MG125_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$351.350",
+        "precioPorSku js-PUM": "Tableta a $11.711,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG 12.5 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN POTASICO HIDROCLOROTIAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2007M-007109-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

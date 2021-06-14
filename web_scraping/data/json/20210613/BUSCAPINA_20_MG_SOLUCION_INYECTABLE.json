@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/buscapina-20-mg-solucion-inyectable-7703202221091/p",
+    "fecha_hora_scraping": "2021-06-14 09:01:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BUSCAPINA 20 MG SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/BUSCAPINA_20_MG_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$11.567",
+        "precioPorSku js-PUM": "Unidad a $11.566,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-000559-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

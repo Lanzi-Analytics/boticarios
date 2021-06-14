@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-glucometro-accu-chek-perfoma-nano-4015630981861/p",
+    "fecha_hora_scraping": "2021-06-14 09:56:28",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "KIT GLUCOMETRO ACCU-CHEK PERFOMA NANO",
+    "nombre_imagen": "./web_scraping/data/img/KIT_GLUCOMETRO_ACCUCHEK_PERFOMA_NANO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $103.950,00"
+    },
+    "descripcion": "kit glucometro accu-chek perfoma nano",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "AGENTES DIAGNOSTICOS"
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS ROCHE SA"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002602"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

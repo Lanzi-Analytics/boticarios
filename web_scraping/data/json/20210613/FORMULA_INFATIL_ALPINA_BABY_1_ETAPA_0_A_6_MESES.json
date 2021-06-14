@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infatil-alpina-baby-1-etapa-0-a-6-meses-7702001103973/p",
+    "fecha_hora_scraping": "2021-06-14 04:28:28",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFATIL ALPINA BABY 1 ETAPA 0 A 6 MESES",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFATIL_ALPINA_BABY_1_ETAPA_0_A_6_MESES.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$27.400",
+        "precioPorSku js-PUM": "Gramo a $68,50"
+    },
+    "descripcion": "formula infatil alpina baby 1 etapa 0 a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALPINA PRODUCTOS ALIMENTICIOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I17315"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

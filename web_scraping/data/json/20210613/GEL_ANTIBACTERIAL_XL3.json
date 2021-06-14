@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-antibacterial-xl-3-650240053719/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:43",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "GEL ANTIBACTERIAL XL-3",
+    "nombre_imagen": "./web_scraping/data/img/GEL_ANTIBACTERIAL_XL3.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$9.900",
+        "precioPorSku js-PUM": "Mililitro a $99,00"
+    },
+    "descripcion": "especialmente formulado para la limpieza en seco de las manos cuando el agua, el jab\u00edn y la toalla no est\u00e1n disponibles. con glicerina y mentol, ingredientes con propiedades humectantes y refrescante que ayudan a proteger tu piel.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99395-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

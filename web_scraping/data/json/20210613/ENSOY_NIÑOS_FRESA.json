@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-ninos-fresa-7702870050453/p",
+    "fecha_hora_scraping": "2021-06-14 05:01:17",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY NI\u00d1OS FRESA",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_NI\u00d1OS_FRESA.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$37.050",
+        "precioPorSku js-PUM": "Gramo a $92,63"
+    },
+    "descripcion": "ensoy ni\u00f1os fresa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV10I18804"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-despigmentador-cutaneo-diurno-7707016405814/p",
+    "fecha_hora_scraping": "2021-06-14 07:12:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK DESPIGMENTADOR CUTANEO DIURNO",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_DESPIGMENTADOR_CUTANEO_DIURNO.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$37.850",
+        "precioPorSku js-PUM": "Gramo a $630,83"
+    },
+    "descripcion": "arawak despigmentador cutaneo diurno",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76545-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

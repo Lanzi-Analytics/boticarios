@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-lubriderm-restauracion-7702031280316/p",
+    "fecha_hora_scraping": "2021-06-14 07:09:30",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "CREMA LUBRIDERM RESTAURACI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_LUBRIDERM_RESTAURACI\u00d3N.jpg",
+    "presentacion": "ENVASE X 240 ML",
+    "precio": {
+        "bestPrice": "$22.400",
+        "precioPorSku js-PUM": "Mililitro a $93,33"
+    },
+    "descripcion": "lubriderm restauracion 12x240 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 240 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

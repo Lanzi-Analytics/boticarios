@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-hydrance-emulsion-hidratante-legere-uv-spf30-3282770208788/p",
+    "fecha_hora_scraping": "2021-06-14 09:05:15",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "avene hydrance emulsion hidratante legere uv spf30",
+    "nombre_imagen": "./web_scraping/data/img/avene_hydrance_emulsion_hidratante_legere_uv_spf30.jpg",
+    "presentacion": "FRASCO X 40 ML",
+    "precio": {
+        "bestPrice": "$105.554",
+        "precioPorSku js-PUM": "Mililitro a $2.638,85"
+    },
+    "descripcion": "avene hydrance emulsion hidratante legere uv spf30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98631-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

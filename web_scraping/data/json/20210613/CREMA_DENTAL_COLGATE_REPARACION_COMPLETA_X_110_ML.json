@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-reparacion-completa-x-110-ml-7891024036433/p",
+    "fecha_hora_scraping": "2021-06-13 23:31:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE REPARACION COMPLETA X 110 ML",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_REPARACION_COMPLETA_X_110_ML.jpg",
+    "presentacion": "CAJA X 110ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $247,27"
+    },
+    "descripcion": "CREMA DENTAL COLGATE REPARACION COMPLETA X 110 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 110ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78204-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

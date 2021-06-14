@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladerm-gel-7707210531289/p",
+    "fecha_hora_scraping": "2021-06-14 07:28:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADERM GEL",
+    "nombre_imagen": "./web_scraping/data/img/CALADERM_GEL.jpg",
+    "presentacion": "FRASCO X 110 G",
+    "precio": {
+        "bestPrice": "$11.750",
+        "precioPorSku js-PUM": "Gramo a $106,82"
+    },
+    "descripcion": "caladerm gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 110 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99523-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

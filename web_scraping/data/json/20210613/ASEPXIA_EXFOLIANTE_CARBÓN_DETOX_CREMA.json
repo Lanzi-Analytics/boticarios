@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-exfoliante-carbon-detox-crema-7798140259435/p",
+    "fecha_hora_scraping": "2021-06-14 03:32:54",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ASEPXIA EXFOLIANTE CARB\u00d3N DETOX CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_EXFOLIANTE_CARB\u00d3N_DETOX_CREMA.jpg",
+    "presentacion": "TUBO X 120 G",
+    "precio": {
+        "bestPrice": "$24.100",
+        "precioPorSku js-PUM": "Gramo a $200,83"
+    },
+    "descripcion": "ASEPXIA EXFOLIANTE CARB\u00d3N DETOX CREMA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93943-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-maybelline-the-falsies-lash-lift-a-prueba-de-agua-41554578492/p",
+    "fecha_hora_scraping": "2021-06-14 07:08:16",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAYBELLINE THE FALSIES LASH LIFT A PRUEBA DE AGUA",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAYBELLINE_THE_FALSIES_LASH_LIFT_A_PRUEBA_DE_AGUA.jpg",
+    "presentacion": "UNIDAD X 8.6 ML",
+    "precio": {
+        "bestPrice": "$40.650",
+        "precioPorSku js-PUM": "Mililitro a $4.234,38"
+    },
+    "descripcion": "pesta\u00f1ina maybelline the falsies lash lift a prueba de agua",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 8.6 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC96626-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

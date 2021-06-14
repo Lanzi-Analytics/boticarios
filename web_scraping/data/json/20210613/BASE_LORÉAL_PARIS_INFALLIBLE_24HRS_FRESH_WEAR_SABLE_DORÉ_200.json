@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-loreal-paris-infallible-24hrs-fresh-wear-sable-dore-200-3600523614509/p",
+    "fecha_hora_scraping": "2021-06-14 00:30:06",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE L'OR\u00c9AL PARIS INFALLIBLE 24HRS FRESH WEAR SABLE DOR\u00c9 200",
+    "nombre_imagen": "./web_scraping/data/img/BASE_LOR\u00c9AL_PARIS_INFALLIBLE_24HRS_FRESH_WEAR_SABLE_DOR\u00c9_200.jpg",
+    "presentacion": "UNIDAD X 30 ML",
+    "precio": {
+        "bestPrice": "$67.900",
+        "precioPorSku js-PUM": "Mililitro a $2.263,33"
+    },
+    "descripcion": "base l'or\u00e9al paris infallible 24hrs fresh wear sable dor\u00e9 200",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87300-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

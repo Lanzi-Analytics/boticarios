@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/travad-enema-7702057011994/p",
+    "fecha_hora_scraping": "2021-06-14 02:43:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAVAD ENEMA",
+    "nombre_imagen": "./web_scraping/data/img/TRAVAD_ENEMA.jpg",
+    "presentacion": "BOLSA X 133 ML",
+    "precio": {
+        "bestPrice": "$17.400",
+        "precioPorSku js-PUM": "Mililitro a $130,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 133 ML"
+        ],
+        [
+            "Concentracion",
+            "160 MG/ML 60 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SODIO FOSFATO BASICO SODIO FOSFATO DIBASICO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-002067-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

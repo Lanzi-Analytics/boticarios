@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-care-free-regular-7702031504474/p",
+    "fecha_hora_scraping": "2021-06-14 07:35:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores care free regular",
+    "nombre_imagen": "./web_scraping/data/img/protectores_care_free_regular.jpg",
+    "presentacion": "EMPAQUE X 60 UN",
+    "precio": {
+        "bestPrice": "$7.900",
+        "precioPorSku js-PUM": "Unidad a $131,67"
+    },
+    "descripcion": "protector care free regular",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 60 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

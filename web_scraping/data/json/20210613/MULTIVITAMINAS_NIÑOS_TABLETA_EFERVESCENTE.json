@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/multivitaminas-ninos-tableta-efervescente-4022679137517/p",
+    "fecha_hora_scraping": "2021-06-14 07:44:08",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "MULTIVITAMINAS NI\u00d1OS TABLETA EFERVESCENTE",
+    "nombre_imagen": "./web_scraping/data/img/MULTIVITAMINAS_NI\u00d1OS_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "TUBO X 20 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$23.500",
+        "bestPrice": "$19.975",
+        "precioPorSku js-PUM": "Tableta a $998,75"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMARIS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004343"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-desinfectantes-expert-aroma-fresco-canister-x30-un-7501071907548/p",
+    "fecha_hora_scraping": "2021-06-14 06:16:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "TOALLITAS DESINFECTANTES CLOROX EXPERT AROMA FRESCO CANISTER X30 UN",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_DESINFECTANTES_CLOROX_EXPERT_AROMA_FRESCO_CANISTER_X30_UN.jpg",
+    "presentacion": "PAQUETE X 30UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $400,00"
+    },
+    "descripcion": "TOALLITAS DESINFECTANTES EXPERT AROMA FRESCO CANISTER X30 UN",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOH08678-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

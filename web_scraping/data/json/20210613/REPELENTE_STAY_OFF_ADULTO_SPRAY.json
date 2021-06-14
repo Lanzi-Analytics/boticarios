@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-stay-off-adulto-spray-7706800002888/p",
+    "fecha_hora_scraping": "2021-06-14 09:06:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "REPELENTE STAY OFF ADULTO SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/REPELENTE_STAY_OFF_ADULTO_SPRAY.jpg",
+    "presentacion": "ENVASE X 160 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $107,50"
+    },
+    "descripcion": "REPELENTE STAY OFF ADULTO SPRAY",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 160 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

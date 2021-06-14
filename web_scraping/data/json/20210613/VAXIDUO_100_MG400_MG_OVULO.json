@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vaxiduo-100-mg400-mg-ovulo-7703153024307/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:12",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VAXIDUO 100 MG/400 MG OVULO",
+    "nombre_imagen": "./web_scraping/data/img/VAXIDUO_100_MG400_MG_OVULO.jpg",
+    "presentacion": "CAJA X 7 OVU",
+    "precio": {
+        "bestPrice": "$108.450",
+        "precioPorSku js-PUM": "OVULO a $15.492,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 OVU"
+        ],
+        [
+            "Concentracion",
+            "400 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "KETOCONAZOL CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010347-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

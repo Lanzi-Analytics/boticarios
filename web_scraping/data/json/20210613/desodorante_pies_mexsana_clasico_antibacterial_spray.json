@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-pies-mexsana-clasico-antibacterial-spray-7702123011545/p",
+    "fecha_hora_scraping": "2021-06-14 03:06:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "desodorante pies mexsana clasico antibacterial spray",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_pies_mexsana_clasico_antibacterial_spray.jpg",
+    "presentacion": "ENVASE X 260 ML",
+    "precio": {
+        "bestPrice": "$16.500",
+        "precioPorSku js-PUM": "Mililitro a $63,46"
+    },
+    "descripcion": "mexsana antibacterial spray x 260 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 260 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85956-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

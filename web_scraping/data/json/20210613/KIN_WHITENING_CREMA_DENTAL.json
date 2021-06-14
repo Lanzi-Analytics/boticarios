@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kin-whitening-crema-dental-8436026211694/p",
+    "fecha_hora_scraping": "2021-06-14 03:25:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "KIN WHITENING CREMA DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/KIN_WHITENING_CREMA_DENTAL.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$31.600",
+        "precioPorSku js-PUM": "Mililitro a $421,33"
+    },
+    "descripcion": "kin whitening crema dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCLIN PHARMA S.A."
+        ],
+        [
+            "Registro Invima",
+            "NSOC38104-09PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

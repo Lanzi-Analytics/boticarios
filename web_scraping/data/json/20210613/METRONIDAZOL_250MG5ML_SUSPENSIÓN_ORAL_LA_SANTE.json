@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metronidazol-250mg5ml-suspension-oral-la-sante-7703763310333/p",
+    "fecha_hora_scraping": "2021-06-14 00:59:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METRONIDAZOL 250MG/5ML SUSPENSI\u00d3N ORAL LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/METRONIDAZOL_250MG5ML_SUSPENSI\u00d3N_ORAL_LA_SANTE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$11.050",
+        "precioPorSku js-PUM": "Mililitro a $92,08"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL BENZOILO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005437-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

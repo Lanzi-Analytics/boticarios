@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-fly-free-extreme-spray-7707232092898/p",
+    "fecha_hora_scraping": "2021-06-13 23:58:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "REPELENTE FLY FREE EXTREME SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/REPELENTE_FLY_FREE_EXTREME_SPRAY.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$20.050",
+        "precioPorSku js-PUM": "Mililitro a $167,08"
+    },
+    "descripcion": "repelente fly free extreme spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC26211-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

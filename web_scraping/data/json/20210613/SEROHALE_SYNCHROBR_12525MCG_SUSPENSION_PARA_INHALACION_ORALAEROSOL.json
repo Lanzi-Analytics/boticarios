@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/serohale-synchrobr-12525mcg-suspension-para-inhalacion-oralaerosol-8901117249776/p",
+    "fecha_hora_scraping": "2021-06-14 08:05:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SEROHALE SYNCHROBR 125/25MCG SUSPENSION PARA INHALACION ORAL(AEROSOL)",
+    "nombre_imagen": "./web_scraping/data/img/SEROHALE_SYNCHROBR_12525MCG_SUSPENSION_PARA_INHALACION_ORALAEROSOL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$90.300",
+        "precioPorSku js-PUM": "Unidad a $90.300,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "125 \u00b5G/D 25 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "FLUTICASONA PROPIONATO SALMETEROL"
+        ],
+        [
+            "Laboratorio",
+            "CIPLA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019171"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

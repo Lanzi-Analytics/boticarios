@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/geslutin-pnm-200-mg-capsula-blanda-7730979092715/p",
+    "fecha_hora_scraping": "2021-06-14 09:15:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GESLUTIN PNM 200 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/GESLUTIN_PNM_200_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "bestPrice": "$150.100",
+        "precioPorSku js-PUM": "Capsula a $7.505,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "PROGESTERONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0003610-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

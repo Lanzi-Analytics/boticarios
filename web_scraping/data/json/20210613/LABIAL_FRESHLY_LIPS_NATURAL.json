@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-freshly-lips-natural-7707232095219/p",
+    "fecha_hora_scraping": "2021-06-14 04:00:24",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "LABIAL FRESHLY LIPS NATURAL",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_FRESHLY_LIPS_NATURAL.jpg",
+    "presentacion": "BARRA X 5 G",
+    "precio": {
+        "bestPrice": "$10.200",
+        "precioPorSku js-PUM": "Gramo a $2.040,00"
+    },
+    "descripcion": "labial freshly lips natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO26626"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

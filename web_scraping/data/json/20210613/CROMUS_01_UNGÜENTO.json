@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cromus-01-ungento-7703153018504/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:12",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CROMUS 0.1% UNG\u00dcENTO",
+    "nombre_imagen": "./web_scraping/data/img/CROMUS_01_UNG\u00dcENTO.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$140.050",
+        "precioPorSku js-PUM": "Gramo a $4.668,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "1 MG/G"
+        ],
+        [
+            "Principio activo",
+            "TACROLIMUS HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005622-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

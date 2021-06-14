@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/brillo-vogue-efecto-gel-brillo-diamante-7509552803921/p",
+    "fecha_hora_scraping": "2021-06-14 05:44:25",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|u\u00f1as",
+    "titulo": "BRILLO VOGUE EFECTO GEL BRILLO DIAMANTE",
+    "nombre_imagen": "./web_scraping/data/img/BRILLO_VOGUE_EFECTO_GEL_BRILLO_DIAMANTE.jpg",
+    "presentacion": "UNIDAD X 14 ML",
+    "precio": {
+        "bestPrice": "$7.250",
+        "precioPorSku js-PUM": "Mililitro a $517,86"
+    },
+    "descripcion": "brillo vogue efecto gel brillo diamante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 14 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76698-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

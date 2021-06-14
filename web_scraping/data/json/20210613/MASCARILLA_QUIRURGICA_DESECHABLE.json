@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mascarilla-quirurgica-desechable-7708961326490/p",
+    "fecha_hora_scraping": "2021-06-14 06:54:25",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "MASCARILLA QUIRURGICA DESECHABLE",
+    "nombre_imagen": "./web_scraping/data/img/MASCARILLA_QUIRURGICA_DESECHABLE.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "bestPrice": "$13.500",
+        "precioPorSku js-PUM": "Unidad a $270,00"
+    },
+    "descripcion": "MASCARILLA QUIRURGICA DESECHABLE",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "I D PHARMA LAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nytax-500-mg-capsula-blanda-7703153012410/p",
+    "fecha_hora_scraping": "2021-06-14 04:31:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NYTAX 500 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/NYTAX_500_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 6 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$77.400",
+        "bestPrice": "$61.920",
+        "precioPorSku js-PUM": "Capsula a $10.320,00"
+    },
+    "descripcion": "NYTAX 500 MG CAPSULA BLANDA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "NITAZOXANIDA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0003216-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alfasafe-cateter-intravenoso-24gx19mm-7707228362615/p",
+    "fecha_hora_scraping": "2021-06-14 05:43:22",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "ALFASAFE CAT\u00c9TER INTRAVENOSO 24GX19MM",
+    "nombre_imagen": "./web_scraping/data/img/ALFASAFE_CAT\u00c9TER_INTRAVENOSO_24GX19MM.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$1.450",
+        "precioPorSku js-PUM": "Unidad a $1.450,00"
+    },
+    "descripcion": "ALFASAFE CAT\u00c9TER INTRAVENOSO 24GX19MM",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013385"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

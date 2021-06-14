@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/brillo-vitu-manteca-karite-1-arandano-ni-7702044210850/p",
+    "fecha_hora_scraping": "2021-06-14 06:30:11",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "BRILLO VIT\u00da MANTECA KARIT\u00c9 1 AR\u00c1NDANO NI",
+    "nombre_imagen": "./web_scraping/data/img/BRILLO_VIT\u00da_MANTECA_KARIT\u00c9_1_AR\u00c1NDANO_NI.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.150",
+        "precioPorSku js-PUM": "Mililitro a $1.525,00"
+    },
+    "descripcion": "brillo vit\u00fa manteca karit\u00e9 1 ar\u00e1ndano ni",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44455-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

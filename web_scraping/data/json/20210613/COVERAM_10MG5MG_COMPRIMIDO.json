@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/coveram-10mg5mg-comprimido-5391189220576/p",
+    "fecha_hora_scraping": "2021-06-14 01:50:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COVERAM 10MG/5MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/COVERAM_10MG5MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 30 COM",
+    "precio": {
+        "bestPrice": "$238.450",
+        "precioPorSku js-PUM": "Comprimido a $7.948,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 COM"
+        ],
+        [
+            "Concentracion",
+            "10 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "PERINDOPRIL ARGININA AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SERVIER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010376"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

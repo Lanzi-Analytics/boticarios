@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/filtrosol-gel-spf50-7703281001676/p",
+    "fecha_hora_scraping": "2021-06-14 01:02:15",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "FILTROSOL GEL SPF50",
+    "nombre_imagen": "./web_scraping/data/img/FILTROSOL_GEL_SPF50.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$61.550",
+        "precioPorSku js-PUM": "Gramo a $1.025,83"
+    },
+    "descripcion": "FILTROSOL GEL SPF50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55624-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

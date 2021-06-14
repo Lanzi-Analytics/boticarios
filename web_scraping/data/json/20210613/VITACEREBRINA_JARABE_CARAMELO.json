@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitacerebrina-jarabe-caramelo-7707056200042/p",
+    "fecha_hora_scraping": "2021-06-14 01:56:49",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "VITACEREBRINA JARABE CARAMELO",
+    "nombre_imagen": "./web_scraping/data/img/VITACEREBRINA_JARABE_CARAMELO.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$32.300",
+        "precioPorSku js-PUM": "Mililitro a $179,44"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FINLAY DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0002110"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

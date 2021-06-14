@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-7506205809132/p",
+    "fecha_hora_scraping": "2021-06-14 06:02:46",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAGROW PREMIUM",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAGROW_PREMIUM.jpg",
+    "presentacion": "CAJA X 1650 G",
+    "precio": {
+        "PrevPrice": "Antes:$119.350",
+        "bestPrice": "$95.480",
+        "precioPorSku js-PUM": "Gramo a $57,87"
+    },
+    "descripcion": "formula infantil enfagrow premium",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1650 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I20404"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

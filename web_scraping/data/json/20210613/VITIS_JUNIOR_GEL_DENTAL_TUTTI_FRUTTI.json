@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitis-junior-gel-dental-tutti-frutti-8427426048836/p",
+    "fecha_hora_scraping": "2021-06-14 04:56:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "VITIS JUNIOR GEL DENTAL TUTTI FRUTTI",
+    "nombre_imagen": "./web_scraping/data/img/VITIS_JUNIOR_GEL_DENTAL_TUTTI_FRUTTI.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$20.900",
+        "precioPorSku js-PUM": "Mililitro a $278,67"
+    },
+    "descripcion": "vitis junior gel dental tutti frutti",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC31731-17PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

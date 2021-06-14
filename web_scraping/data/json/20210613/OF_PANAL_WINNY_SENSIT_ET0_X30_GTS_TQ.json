@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pa\u00f1al-winny-gold-etapa-3-x26-toallitas-x-10-avena-y-miel-7701021144829/p",
+    "fecha_hora_scraping": "2021-06-14 03:51:42",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OF PANAL WINNY SENSIT ET0 X30 GTS TQ",
+    "nombre_imagen": "./web_scraping/data/img/OF_PANAL_WINNY_SENSIT_ET0_X30_GTS_TQ.jpg",
+    "presentacion": "PAQUETE X 30 UN",
+    "precio": {
+        "bestPrice": "$13.900",
+        "precioPorSku js-PUM": "Unidad a $463,33"
+    },
+    "descripcion": "PA\u00d1AL WINNY SENSIT ET0 X30 GTS TQ",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-2006V-001730R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

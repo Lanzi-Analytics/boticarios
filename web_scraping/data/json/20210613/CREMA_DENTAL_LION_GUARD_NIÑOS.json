@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-lion-guard-ninos-7502235820840/p",
+    "fecha_hora_scraping": "2021-06-14 06:28:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL LION GUARD NI\u00d1OS",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_LION_GUARD_NI\u00d1OS.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $120,67"
+    },
+    "descripcion": "crema dental lion guard ni\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72639-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

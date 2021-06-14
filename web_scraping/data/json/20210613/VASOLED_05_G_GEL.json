@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707016403919pronabellnaturalesmedicamentosvasoled-05-g-gelcastano-indias-7707016403919/p",
+    "fecha_hora_scraping": "2021-06-14 02:16:59",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VASOLED 0.5 G GEL",
+    "nombre_imagen": "./web_scraping/data/img/VASOLED_05_G_GEL.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$17.950",
+        "precioPorSku js-PUM": "Gramo a $299,17"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "5 G"
+        ],
+        [
+            "Principio activo",
+            "CASTA\u00d1O INDIAS"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2009-0001072"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

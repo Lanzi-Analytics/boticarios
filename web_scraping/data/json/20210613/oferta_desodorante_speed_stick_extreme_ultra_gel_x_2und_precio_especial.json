@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-desodorante-speed-stick-extreme-ultra-gel-x-2und-precio-especial-7702010972294/p",
+    "fecha_hora_scraping": "2021-06-13 23:52:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "oferta desodorante speed stick extreme ultra gel x 2und precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_desodorante_speed_stick_extreme_ultra_gel_x_2und_precio_especial.jpg",
+    "presentacion": "UN X 85 G",
+    "precio": {
+        "bestPrice": "$28.000",
+        "precioPorSku js-PUM": "Mililitro a $164,71"
+    },
+    "descripcion": "oft des mss gel xtreme ultra 85g 2u pe",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UN X 85 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38026-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

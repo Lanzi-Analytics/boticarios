@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kuida-contorno-ojos-cannabis-7709640597682/p",
+    "fecha_hora_scraping": "2021-06-14 10:26:07",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "KUIDA CONTORNO OJOS CANNABIS",
+    "nombre_imagen": "./web_scraping/data/img/KUIDA_CONTORNO_OJOS_CANNABIS.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$75.950",
+        "precioPorSku js-PUM": "Mililitro a $5.063,33"
+    },
+    "descripcion": "kuida contorno ojos cannabis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KHIRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87283-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

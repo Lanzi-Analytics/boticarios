@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-sensodyne-sen--enciasx100g-7501065064578/p",
+    "fecha_hora_scraping": "2021-06-14 03:07:03",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CREMA DENTAL SENSODYNE SEN & ENCIASX100G",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_SENSODYNE_SEN__ENCIASX100G.jpg",
+    "presentacion": "UNIDAD X 100 G",
+    "precio": {
+        "bestPrice": "$26.900",
+        "precioPorSku js-PUM": "Gramo a $269,00"
+    },
+    "descripcion": "CREMA DENTAL SENSODYNE SEN & ENCIASX100G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC96449-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-brisa-bidon-6-lt-7702535002650/p",
+    "fecha_hora_scraping": "2021-06-14 09:55:10",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "AGUA BRISA BIDON 6 LT",
+    "nombre_imagen": "./web_scraping/data/img/AGUA_BRISA_BIDON_6_LT.jpg",
+    "presentacion": "BOTELLA X 6000ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1,27"
+    },
+    "descripcion": "AGUA BRISA BIDON 6 LT",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 6000ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA19M07493"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

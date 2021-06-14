@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-para-ortodoncia-colsubsidio-7701009019620/p",
+    "fecha_hora_scraping": "2021-06-14 03:29:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "KIT PARA ORTODONCIA COLSUBSIDIO",
+    "nombre_imagen": "./web_scraping/data/img/KIT_PARA_ORTODONCIA_COLSUBSIDIO.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$12.500",
+        "precioPorSku js-PUM": "Unidad a $12.500,00"
+    },
+    "descripcion": "kit nuevo para ortodoncia colsubsidio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PLACECOL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

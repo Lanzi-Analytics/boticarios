@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tnt-cannibal-super-mass-7707330817218/p",
+    "fecha_hora_scraping": "2021-06-14 09:38:31",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "tnt cannibal super mass",
+    "nombre_imagen": "./web_scraping/data/img/tnt_cannibal_super_mass.jpg",
+    "presentacion": "TARRO X 4.8 LB",
+    "precio": {
+        "bestPrice": "$139.000",
+        "precioPorSku js-PUM": "Libra a $28.958,33"
+    },
+    "descripcion": "tnt cannibal super mass",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 4.8 LB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000549-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

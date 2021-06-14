@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-suelto-vitu-22-gramos-7702044249294/p",
+    "fecha_hora_scraping": "2021-06-14 08:12:07",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO SUELTO VITU 22 GRAMOS",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_SUELTO_VITU_22_GRAMOS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $563,64"
+    },
+    "descripcion": "polvo suelto vitu 22 gramos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82324-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

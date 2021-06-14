@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/650240053399oferta-cicatricure-crema-facial-antiarrugas--cicatricure-contorno-demedicamentoscuidado-facialgenomma-650240053399/p",
+    "fecha_hora_scraping": "2021-06-14 10:00:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "OFERTA CICATRICURE CREMA FACIAL ANTIARRUGAS + CICATRICURE CONTORNO DE",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CICATRICURE_CREMA_FACIAL_ANTIARRUGAS__CICATRICURE_CONTORNO_DE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $65.900,00"
+    },
+    "descripcion": "oferta cicatricure crema facial antiarrugas + cicatricure contorno de",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78849-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

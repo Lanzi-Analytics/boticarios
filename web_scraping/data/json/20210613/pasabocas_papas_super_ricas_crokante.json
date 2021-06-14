@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-papas-super-ricas-crokante-7702152006406/p",
+    "fecha_hora_scraping": "2021-06-14 00:12:30",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas papas super ricas crokante",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_papas_super_ricas_crokante.jpg",
+    "presentacion": "PAQUETE X 115 G",
+    "precio": {
+        "bestPrice": "$3.850",
+        "precioPorSku js-PUM": "Gramo a $33,48"
+    },
+    "descripcion": "pasabocas papas super ricas crokante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 115 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD08I47810"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

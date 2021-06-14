@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sertal-125-mg10-mg-comprimido-recubierto-7730698002712/p",
+    "fecha_hora_scraping": "2021-06-14 02:08:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SERTAL 125 MG/10 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/SERTAL_125_MG10_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 10 COM",
+    "precio": {
+        "bestPrice": "$23.500",
+        "precioPorSku js-PUM": "Comprimido a $2.350,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 COM"
+        ],
+        [
+            "Concentracion",
+            "10 MG 125 MG"
+        ],
+        [
+            "Principio activo",
+            "PROPINOX CLORHIDRATO CLONIXINATO LISINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-010556-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

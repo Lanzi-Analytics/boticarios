@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retnol-locion-7703319000169/p",
+    "fecha_hora_scraping": "2021-06-14 04:01:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RETNOL LOCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/RETNOL_LOCI\u00d3N.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $490,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "RETINOICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALDOQUIN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-015297-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

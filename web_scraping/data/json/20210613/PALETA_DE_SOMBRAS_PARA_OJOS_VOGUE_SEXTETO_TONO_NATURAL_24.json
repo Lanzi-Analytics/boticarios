@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-de-sombras-para-ojos-vogue-sexteto-tono-natural-24-7702433294560/p",
+    "fecha_hora_scraping": "2021-06-14 02:24:53",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PALETA DE SOMBRAS PARA OJOS VOGUE SEXTETO TONO NATURAL 24",
+    "nombre_imagen": "./web_scraping/data/img/PALETA_DE_SOMBRAS_PARA_OJOS_VOGUE_SEXTETO_TONO_NATURAL_24.jpg",
+    "presentacion": "UNIDAD X 6 G",
+    "precio": {
+        "bestPrice": "$15.250",
+        "precioPorSku js-PUM": "Gramo a $2.541,67"
+    },
+    "descripcion": "paleta de sombras para ojos vogue sexteto tono natural 24",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC39452-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

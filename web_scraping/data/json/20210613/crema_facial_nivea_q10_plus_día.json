@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-facial-nivea-q10-plus-dia-4005808553839/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema facial nivea q10 plus d\u00eda",
+    "nombre_imagen": "./web_scraping/data/img/crema_facial_nivea_q10_plus_d\u00eda.jpg",
+    "presentacion": "POTE X 50 ML",
+    "precio": {
+        "bestPrice": "$44.150",
+        "precioPorSku js-PUM": "Gramo a $883,00"
+    },
+    "descripcion": "nivea q10 plus dia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC46381-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

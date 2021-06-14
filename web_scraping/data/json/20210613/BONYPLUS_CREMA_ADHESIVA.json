@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bonyplus-crema-adhesiva-7709990319170/p",
+    "fecha_hora_scraping": "2021-06-14 09:32:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "BONYPLUS CREMA ADHESIVA",
+    "nombre_imagen": "./web_scraping/data/img/BONYPLUS_CREMA_ADHESIVA.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$27.050",
+        "precioPorSku js-PUM": "Gramo a $676,25"
+    },
+    "descripcion": "bonyplus crema adhesiva",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOKEMICAL SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007125"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

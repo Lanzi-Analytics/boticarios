@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-super-lustrous-labial-barra-blushed-309976954035/p",
+    "fecha_hora_scraping": "2021-06-14 00:24:05",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV SUPER LUSTROUS labial barra Blushed",
+    "nombre_imagen": "./web_scraping/data/img/RV_SUPER_LUSTROUS_labial_barra_Blushed.jpg",
+    "presentacion": "TUBO X 4G",
+    "precio": {
+        "bestPrice": "$33.600",
+        "precioPorSku js-PUM": "Gramo a $8.000,00"
+    },
+    "descripcion": "rv super lustrous labial barra blushed",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44425-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

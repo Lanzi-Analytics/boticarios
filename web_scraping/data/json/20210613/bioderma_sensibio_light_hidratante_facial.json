@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-sensibio-light-hidratante-facial-3401346673106/p",
+    "fecha_hora_scraping": "2021-06-14 03:01:22",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "bioderma sensibio light hidratante facial",
+    "nombre_imagen": "./web_scraping/data/img/bioderma_sensibio_light_hidratante_facial.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$83.750",
+        "precioPorSku js-PUM": "Mililitro a $2.093,75"
+    },
+    "descripcion": "bioderma sensibio light hidratante facial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63555-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

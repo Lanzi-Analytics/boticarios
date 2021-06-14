@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-intimo-nosotras-sensitive-x130ml-7702026181789/p",
+    "fecha_hora_scraping": "2021-06-14 04:37:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "OFERTA-JABON INTIMO NOSOTRAS SENSITIVE X130ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTAJABON_INTIMO_NOSOTRAS_SENSITIVE_X130ML.jpg",
+    "presentacion": "FRASCO X 130ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $76,15"
+    },
+    "descripcion": "OFERTA-JABON INTIMO NOSOTRAS SENSITIVE X130ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 130ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85789-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/talco-mexsana-lady-7702123011170/p",
+    "fecha_hora_scraping": "2021-06-14 08:40:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "talco mexsana lady",
+    "nombre_imagen": "./web_scraping/data/img/talco_mexsana_lady.jpg",
+    "presentacion": "ENVASE X 85 G",
+    "precio": {
+        "bestPrice": "$10.900",
+        "precioPorSku js-PUM": "Gramo a $128,24"
+    },
+    "descripcion": "lady mexsana talco x 85gr cosm co",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 85 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77248-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

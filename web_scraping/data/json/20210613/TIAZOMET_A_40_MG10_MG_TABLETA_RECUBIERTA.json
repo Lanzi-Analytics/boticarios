@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tiazomet-a-40-mg10-mg-tableta-recubierta-7707355054148/p",
+    "fecha_hora_scraping": "2021-06-14 01:04:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TIAZOMET A 40 MG/10 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/TIAZOMET_A_40_MG10_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$222.200",
+        "precioPorSku js-PUM": "Tableta a $7.935,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "ATORVASTATINA CALCICA EZETIMIBA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0011939-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

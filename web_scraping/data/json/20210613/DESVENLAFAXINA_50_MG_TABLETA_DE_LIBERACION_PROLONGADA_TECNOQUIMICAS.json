@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desvenlafaxina-50-mg-tableta-de-liberacion-prolongada-tecnoquimicas-7702057707002/p",
+    "fecha_hora_scraping": "2021-06-14 01:01:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DESVENLAFAXINA 50 MG TABLETA DE LIBERACION PROLONGADA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/DESVENLAFAXINA_50_MG_TABLETA_DE_LIBERACION_PROLONGADA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$30.850",
+        "precioPorSku js-PUM": "Tableta a $1.028,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "DESVENLAFAXINA SUCCIN HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015849"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

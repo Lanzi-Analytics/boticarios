@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/k-micot-1--solucion-topica-7707177970428/p",
+    "fecha_hora_scraping": "2021-06-14 08:38:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "K-MICOT 1 % SOLUCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/KMICOT_1__SOLUCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$37.700",
+        "precioPorSku js-PUM": "Mililitro a $1.256,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO INTERNACIONAL DE COLOMB"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008560"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

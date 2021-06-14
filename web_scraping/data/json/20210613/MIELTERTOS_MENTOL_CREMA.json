@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mieltertos-mentol-crema-7707232097428/p",
+    "fecha_hora_scraping": "2021-06-14 06:50:48",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "MIELTERTOS MENTOL CREMA",
+    "nombre_imagen": "./web_scraping/data/img/MIELTERTOS_MENTOL_CREMA.jpg",
+    "presentacion": "POTE X 60 G",
+    "precio": {
+        "bestPrice": "$13.550",
+        "precioPorSku js-PUM": "Gramo a $225,83"
+    },
+    "descripcion": "mieltertos mentol crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO27069"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-smiles-7509546079400/p",
+    "fecha_hora_scraping": "2021-06-14 05:54:06",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "crema dental colgate smiles",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_colgate_smiles.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$8.750",
+        "precioPorSku js-PUM": "Mililitro a $116,67"
+    },
+    "descripcion": "crema dental colgate smiles",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40680-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

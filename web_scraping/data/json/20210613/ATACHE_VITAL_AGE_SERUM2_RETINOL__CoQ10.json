@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-vital-age-serum2-retinol--coq10-8430795001104/p",
+    "fecha_hora_scraping": "2021-06-14 05:26:51",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE VITAL AGE SERUM2 RETINOL + CoQ10",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_VITAL_AGE_SERUM2_RETINOL__CoQ10.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $6.150,00"
+    },
+    "descripcion": "atache vital age serum2 retinol + coq10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75209-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

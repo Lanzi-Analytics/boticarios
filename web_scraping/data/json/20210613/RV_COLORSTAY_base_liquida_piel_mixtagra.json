@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-base-liquida-piel-mixtagra-309974700061/p",
+    "fecha_hora_scraping": "2021-06-14 10:30:14",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV COLORSTAY base liquida piel mixta/gra",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_base_liquida_piel_mixtagra.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$63.800",
+        "precioPorSku js-PUM": "Mililitro a $2.126,67"
+    },
+    "descripcion": "rv colorstay base liquida piel mixta/gra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55889-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

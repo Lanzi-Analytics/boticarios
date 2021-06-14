@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tratamiento-reparador-orgnx-coco-y-macadamia-67545038936/p",
+    "fecha_hora_scraping": "2021-06-14 02:37:25",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TRATAMIENTO REPARADOR ORGNX COCO Y MACADAMIA",
+    "nombre_imagen": "./web_scraping/data/img/TRATAMIENTO_REPARADOR_ORGNX_COCO_Y_MACADAMIA.jpg",
+    "presentacion": "FRASCO X 150 G",
+    "precio": {
+        "bestPrice": "$47.450",
+        "precioPorSku js-PUM": "Gramo a $316,33"
+    },
+    "descripcion": "tratamiento reparador orgnx coco y macad",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83407-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

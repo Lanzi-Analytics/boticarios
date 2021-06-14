@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/furomet-50-mcg-spray-nasal-8904091122059/p",
+    "fecha_hora_scraping": "2021-06-14 03:31:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FUROMET 50 MCG SPRAY NASAL",
+    "nombre_imagen": "./web_scraping/data/img/FUROMET_50_MCG_SPRAY_NASAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$69.850",
+        "precioPorSku js-PUM": "Tableta a $2.494,64"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "0,05 MG/D"
+        ],
+        [
+            "Principio activo",
+            "MOMETASONA FUROATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLENMARK PHARMACEUTICALS COLOM SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017660"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-coenzima-q10-7707016404107/p",
+    "fecha_hora_scraping": "2021-06-14 07:50:57",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CREMA COENZIMA Q10",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_COENZIMA_Q10.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$31.000",
+        "precioPorSku js-PUM": "Gramo a $620,00"
+    },
+    "descripcion": "crema coenzima q10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33971-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

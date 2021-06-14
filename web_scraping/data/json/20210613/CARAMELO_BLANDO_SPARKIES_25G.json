@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caramelo-blando-sparkies-25g-7702133879494/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:07",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "CARAMELO BLANDO SPARKIES 25G",
+    "nombre_imagen": "./web_scraping/data/img/CARAMELO_BLANDO_SPARKIES_25G.jpg",
+    "presentacion": "PAQUETE X25G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $40,00"
+    },
+    "descripcion": "CARAMELO BLANDO SPARKIES 25G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X25G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I173314"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

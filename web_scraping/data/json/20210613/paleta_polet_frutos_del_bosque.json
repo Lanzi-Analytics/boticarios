@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-polet-frutos-del-bosque-7702402054393/p",
+    "fecha_hora_scraping": "2021-06-14 08:57:32",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "paleta polet frutos del bosque",
+    "nombre_imagen": "./web_scraping/data/img/paleta_polet_frutos_del_bosque.jpg",
+    "presentacion": "UNIDAD X 70 G",
+    "precio": {
+        "bestPrice": "$3.200",
+        "precioPorSku js-PUM": "Gramo a $45,71"
+    },
+    "descripcion": "paleta polet frutos del bosque",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 70 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-002989-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

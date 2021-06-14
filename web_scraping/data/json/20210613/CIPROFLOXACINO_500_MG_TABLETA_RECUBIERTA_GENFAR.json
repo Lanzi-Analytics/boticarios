@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ciprofloxacino-500-mg-tableta-recubierta-genfar-7702605100743/p",
+    "fecha_hora_scraping": "2021-06-13 23:07:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CIPROFLOXACINO 500 MG TABLETA RECUBIERTA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/CIPROFLOXACINO_500_MG_TABLETA_RECUBIERTA_GENFAR.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$7.750",
+        "precioPorSku js-PUM": "Tableta a $775,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CIPROFLOXACINO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-001483-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tnt-megamass-polvo-chocolate-7709969236903/p",
+    "fecha_hora_scraping": "2021-06-14 00:59:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "tnt megamass polvo chocolate",
+    "nombre_imagen": "./web_scraping/data/img/tnt_megamass_polvo_chocolate.jpg",
+    "presentacion": "BOLSA X 3 LB",
+    "precio": {
+        "bestPrice": "$59.000",
+        "precioPorSku js-PUM": "Libra a $19.666,67"
+    },
+    "descripcion": "tnt megamass polvo chocolate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 3 LB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003082-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

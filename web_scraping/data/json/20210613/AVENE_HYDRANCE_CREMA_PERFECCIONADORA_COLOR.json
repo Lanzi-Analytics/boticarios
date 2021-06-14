@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-hydrance-crema-perfeccionadora-color-3282770049435/p",
+    "fecha_hora_scraping": "2021-06-13 23:48:59",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE HYDRANCE CREMA PERFECCIONADORA COLOR",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_HYDRANCE_CREMA_PERFECCIONADORA_COLOR.jpg",
+    "presentacion": "",
+    "precio": {
+        "bestPrice": "$109.350",
+        "precioPorSku js-PUM": ""
+    },
+    "descripcion": "avene hydrance crema perfeccionadora col",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            ""
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            ""
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

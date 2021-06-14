@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703153037857nutricion-y-vida-saludablesuplementosdiabetrics-healthcare-7703153037857/p",
+    "fecha_hora_scraping": "2021-06-14 00:57:05",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "PREVENTIA SOY VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/PREVENTIA_SOY_VAINILLA.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "PrevPrice": "Antes:$43.300",
+        "bestPrice": "$34.640",
+        "precioPorSku js-PUM": "Unidad a $5.773,33"
+    },
+    "descripcion": "preventia soy vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DIABETRICS HEALTHCARE SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAK01I11613"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

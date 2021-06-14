@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-flawless-radiance-derma-bb-beige-6001087368186/p",
+    "fecha_hora_scraping": "2021-06-14 03:30:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA PONDS FLAWLESS RADIANCE DERMA+ BB+ BEIGE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PONDS_FLAWLESS_RADIANCE_DERMA_BB_BEIGE.jpg",
+    "presentacion": "TUBO X 25 G",
+    "precio": {
+        "bestPrice": "$37.550",
+        "precioPorSku js-PUM": "Gramo a $1.502,00"
+    },
+    "descripcion": "crema ponds flawless radiance derma+ bb+ beige",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 25 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85181-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

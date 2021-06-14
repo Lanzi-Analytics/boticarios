@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guante-latex-exam-no-ester-talla-s-inverfarma-7707300930138/p",
+    "fecha_hora_scraping": "2021-06-14 04:40:02",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "guante latex exam no ester talla s inverfarma",
+    "nombre_imagen": "./web_scraping/data/img/guante_latex_exam_no_ester_talla_s_inverfarma.jpg",
+    "presentacion": "BOLSA X 1 Par",
+    "precio": {
+        "bestPrice": "$1.000",
+        "precioPorSku js-PUM": "Unidad a $1.000,00"
+    },
+    "descripcion": "guante latex exam no ester talla s inverfarma",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 Par"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INVERFARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0013622"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

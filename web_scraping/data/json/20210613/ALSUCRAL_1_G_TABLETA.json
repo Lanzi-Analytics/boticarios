@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alsucral-1-g-tableta-7704588000027/p",
+    "fecha_hora_scraping": "2021-06-14 02:32:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALSUCRAL 1 G TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ALSUCRAL_1_G_TABLETA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$26.050",
+        "precioPorSku js-PUM": "Tableta a $1.302,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "1000 MG"
+        ],
+        [
+            "Principio activo",
+            "SUCRALFATO"
+        ],
+        [
+            "Laboratorio",
+            "ROPSOHN THERAPEUTICS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010M-011598-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

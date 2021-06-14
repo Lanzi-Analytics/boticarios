@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-maybelline-colossal-waterproof-7702058280085/p",
+    "fecha_hora_scraping": "2021-06-14 02:32:46",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAYBELLINE COLOSSAL WATERPROOF",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAYBELLINE_COLOSSAL_WATERPROOF.jpg",
+    "presentacion": "UNIDAD X 9 ML",
+    "precio": {
+        "bestPrice": "$33.050",
+        "precioPorSku js-PUM": "Mililitro a $3.672,22"
+    },
+    "descripcion": "pesta\u00f1ina maybelline colossal waterproof",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33480-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

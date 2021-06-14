@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ibuprofeno-800-mg-capsula-blanda-tecnoquimicas-7702057863098/p",
+    "fecha_hora_scraping": "2021-06-14 03:07:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IBUPROFENO 800 MG CAPSULA BLANDA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/IBUPROFENO_800_MG_CAPSULA_BLANDA_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 10 CAP",
+    "precio": {
+        "bestPrice": "$8.400",
+        "precioPorSku js-PUM": "Capsula a $840,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "800 MG"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014634"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

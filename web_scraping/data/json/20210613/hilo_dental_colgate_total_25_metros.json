@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hilo-dental-colgate-total-25-metros-7891024183182/p",
+    "fecha_hora_scraping": "2021-06-14 10:25:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "hilo dental colgate total 25 metros",
+    "nombre_imagen": "./web_scraping/data/img/hilo_dental_colgate_total_25_metros.jpg",
+    "presentacion": "EMPAQUE X 25 MET",
+    "precio": {
+        "bestPrice": "$9.450",
+        "precioPorSku js-PUM": "Metro a $378,00"
+    },
+    "descripcion": "hilo dent colgate 25 mts total",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 25 MET"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

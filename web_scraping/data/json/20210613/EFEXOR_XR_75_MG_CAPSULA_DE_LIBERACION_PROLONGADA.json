@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/efexor-xr-75-mg-capsula-de-liberacion-prolongada-7703283403478/p",
+    "fecha_hora_scraping": "2021-06-14 04:25:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EFEXOR XR 75 MG CAPSULA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/EFEXOR_XR_75_MG_CAPSULA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$26.500",
+        "precioPorSku js-PUM": "Capsula a $883,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "VENLAFAXINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-012991-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-de-maquillaje-maybelline-full-coverage-natural-beige-41554541458/p",
+    "fecha_hora_scraping": "2021-06-14 04:33:13",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE DE MAQUILLAJE MAYBELLINE FULL COVERAGE NATURAL BEIGE",
+    "nombre_imagen": "./web_scraping/data/img/BASE_DE_MAQUILLAJE_MAYBELLINE_FULL_COVERAGE_NATURAL_BEIGE.jpg",
+    "presentacion": "UNIDAD X 30 ML",
+    "precio": {
+        "bestPrice": "$49.500",
+        "precioPorSku js-PUM": "Mililitro a $1.650,00"
+    },
+    "descripcion": "base de maquillaje maybelline full coverage natural beige",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83197-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

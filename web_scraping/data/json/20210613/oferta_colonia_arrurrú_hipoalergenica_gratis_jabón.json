@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-colonia-arrurru-hipoalergenica-gratis-jabon-7702277134855/p",
+    "fecha_hora_scraping": "2021-06-13 23:43:11",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "oferta colonia arrurr\u00fa hipoalergenica gratis jab\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/oferta_colonia_arrurr\u00fa_hipoalergenica_gratis_jab\u00f3n.jpg",
+    "presentacion": "BOTELLA X 120 ML",
+    "precio": {
+        "bestPrice": "$16.600",
+        "precioPorSku js-PUM": "Mililitro a $138,33"
+    },
+    "descripcion": "of col hipoalerge arru grt jab 120 m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

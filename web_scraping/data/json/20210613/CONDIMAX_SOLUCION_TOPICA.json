@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/condimax-solucion-topica-7707351591173/p",
+    "fecha_hora_scraping": "2021-06-14 05:40:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CONDIMAX SOLUCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/CONDIMAX_SOLUCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "PrevPrice": "Antes:$42.850",
+        "bestPrice": "$38.565",
+        "precioPorSku js-PUM": "Mililitro a $7.713,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "20 G"
+        ],
+        [
+            "Principio activo",
+            "PODOFILINA"
+        ],
+        [
+            "Laboratorio",
+            "QUIMICA SUIZA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010242-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

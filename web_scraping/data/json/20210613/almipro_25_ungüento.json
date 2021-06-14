@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/almipro-25-ungento-7701684000128/p",
+    "fecha_hora_scraping": "2021-06-14 10:27:30",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "ALMIPRO 25% UNG\u00dcENTO",
+    "nombre_imagen": "./web_scraping/data/img/ALMIPRO_25_UNG\u00dcENTO.jpg",
+    "presentacion": "POTE X 125",
+    "precio": {
+        "bestPrice": "$25.650",
+        "precioPorSku js-PUM": "Gramo a $205,20"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 125"
+        ],
+        [
+            "Concentracion",
+            "250 MG/G"
+        ],
+        [
+            "Principio activo",
+            "OXIDO ZINC"
+        ],
+        [
+            "Laboratorio",
+            "FARMACIA DROGUERIA SAN JORGE LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012313-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

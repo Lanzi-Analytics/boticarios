@@ -1,14 +1,13 @@
 {
     "url_producto": "https://www.drogueriascolsubsidio.com/gaviscon-doble-accion-sachet-sabor-menta-7702626211770/p",
-    "fecha_hora_scraping": "2021-06-13 18:03:38",
+    "fecha_hora_scraping": "2021-06-14 01:55:35",
     "breadcumb": "colsubsidio|medicamentos|venta libre|bienestar digestivo",
     "titulo": "GAVISCON DOBLE ACCION SACHET SABOR MENTA",
     "nombre_imagen": "./web_scraping/data/img/GAVISCON_DOBLE_ACCION_SACHET_SABOR_MENTA.jpg",
     "presentacion": "CAJA X 12 SACHET",
     "precio": {
-        "PrevPrice": "Antes:$26.050",
-        "bestPrice": "$22.142",
-        "precioPorSku js-PUM": "Unidad a $1.845,17"
+        "bestPrice": "$26.050",
+        "precioPorSku js-PUM": "Unidad a $2.170,83"
     },
     "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [

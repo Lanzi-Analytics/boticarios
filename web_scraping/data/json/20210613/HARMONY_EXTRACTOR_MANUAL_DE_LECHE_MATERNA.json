@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/harmony-extractor-manual-de-leche-materna-7612367044660/p",
+    "fecha_hora_scraping": "2021-06-14 00:11:38",
+    "breadcumb": "colsubsidio|mamas y bebes|accesorios",
+    "titulo": "HARMONY EXTRACTOR MANUAL DE LECHE MATERNA",
+    "nombre_imagen": "./web_scraping/data/img/HARMONY_EXTRACTOR_MANUAL_DE_LECHE_MATERNA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $236.530,00"
+    },
+    "descripcion": "harmony extractor manual de leche matern",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AREOLA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0010402"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

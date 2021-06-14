@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dermosupril-01--crema-7703281003762/p",
+    "fecha_hora_scraping": "2021-06-14 07:32:44",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "DERMOSUPRIL 0.1 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/DERMOSUPRIL_01__CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$20.250",
+        "precioPorSku js-PUM": "Gramo a $1.350,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "1 MG/G"
+        ],
+        [
+            "Principio activo",
+            "DESONIDA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0003940-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

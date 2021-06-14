@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colloplus-solucion-topica-7861073963455/p",
+    "fecha_hora_scraping": "2021-06-14 04:21:54",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "COLLOPLUS SOLUCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/COLLOPLUS_SOLUCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$26.000",
+        "precioPorSku js-PUM": "Mililitro a $2.600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "180.95 MG 45,2375 MG"
+        ],
+        [
+            "Principio activo",
+            "SALICILICO ACIDO LACTICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008763-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tamsulosina-04-mg-capsula-de-liberacion-prolongada-genfar-7705959013066/p",
+    "fecha_hora_scraping": "2021-06-14 02:10:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TAMSULOSINA 0.4 MG CAPSULA DE LIBERACION PROLONGADA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/TAMSULOSINA_04_MG_CAPSULA_DE_LIBERACION_PROLONGADA_GENFAR.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$61.700",
+        "precioPorSku js-PUM": "Capsula a $2.056,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "0.4 MG"
+        ],
+        [
+            "Principio activo",
+            "TAMSULOSINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008373"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

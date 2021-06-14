@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-maybelline-lash-sensational-washable-very-black-7702058226557/p",
+    "fecha_hora_scraping": "2021-06-13 23:26:17",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAYBELLINE LASH SENSATIONAL WASHABLE VERY BLACK",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAYBELLINE_LASH_SENSATIONAL_WASHABLE_VERY_BLACK.jpg",
+    "presentacion": "UNIDAD X 10 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $3.723,96"
+    },
+    "descripcion": "pesta\u00f1ina maybelline lash sensational washable very black",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC62474-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

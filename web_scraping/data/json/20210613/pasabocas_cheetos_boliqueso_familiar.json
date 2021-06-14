@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-cheetos-boliqueso-familiar-7702189045577/p",
+    "fecha_hora_scraping": "2021-06-14 07:55:37",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas cheetos boliqueso familiar",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_cheetos_boliqueso_familiar.jpg",
+    "presentacion": "PAQUETE X 160 G",
+    "precio": {
+        "bestPrice": "$3.250",
+        "precioPorSku js-PUM": "Gramo a $20,31"
+    },
+    "descripcion": "pasabocas cheetos boliqueso familiar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 160 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD21I45610"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

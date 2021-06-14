@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/wellbutrin-xl-300mg-tableta-de-liberacion-prolongada-7703363007121/p",
+    "fecha_hora_scraping": "2021-06-14 01:19:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "WELLBUTRIN XL 300MG TABLETA DE LIBERACI\u00d3N PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/WELLBUTRIN_XL_300MG_TABLETA_DE_LIBERACI\u00d3N_PROLONGADA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$107.700",
+        "precioPorSku js-PUM": "Tableta a $3.590,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "BUPROPION CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0006819-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

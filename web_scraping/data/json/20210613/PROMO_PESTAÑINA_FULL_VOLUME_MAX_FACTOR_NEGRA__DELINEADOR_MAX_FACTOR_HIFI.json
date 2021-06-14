@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/promo-pestanina-full-volume-max-factor-negra--delineador-max-factor-hi-fi-7702044174442/p",
+    "fecha_hora_scraping": "2021-06-14 09:36:35",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PROMO PESTA\u00d1INA FULL VOLUME MAX FACTOR NEGRA + DELINEADOR MAX FACTOR HI-FI",
+    "nombre_imagen": "./web_scraping/data/img/PROMO_PESTA\u00d1INA_FULL_VOLUME_MAX_FACTOR_NEGRA__DELINEADOR_MAX_FACTOR_HIFI.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.536,08"
+    },
+    "descripcion": "promo pesta\u00f1ina full volume max factor negra + delineador max factor hi-fi",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37902-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

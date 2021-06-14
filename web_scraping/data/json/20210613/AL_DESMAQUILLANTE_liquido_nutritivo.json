@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-desmaquillante-liquido-nutritivo-309974521024/p",
+    "fecha_hora_scraping": "2021-06-14 07:37:49",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL DESMAQUILLANTE liquido nutritivo",
+    "nombre_imagen": "./web_scraping/data/img/AL_DESMAQUILLANTE_liquido_nutritivo.jpg",
+    "presentacion": "FRASCO X 118 ML",
+    "precio": {
+        "bestPrice": "$31.300",
+        "precioPorSku js-PUM": "Mililitro a $265,25"
+    },
+    "descripcion": "al desmaquillante liquido nutritivo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 118 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO25224"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

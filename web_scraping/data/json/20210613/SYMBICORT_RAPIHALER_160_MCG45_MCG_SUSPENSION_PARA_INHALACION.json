@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/symbicort-rapihaler-160-mcg45-mcg-suspension-para-inhalacion-5000456021067/p",
+    "fecha_hora_scraping": "2021-06-14 02:15:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYMBICORT RAPIHALER 160 MCG/4.5 MCG SUSPENSION PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/SYMBICORT_RAPIHALER_160_MCG45_MCG_SUSPENSION_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$101.200",
+        "precioPorSku js-PUM": "Unidad a $101.200,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "160 \u00b5G/D 4,5 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "BUDESONIDA FORMOTEROL FUMARATO"
+        ],
+        [
+            "Laboratorio",
+            "ASTRAZENECA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012143-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

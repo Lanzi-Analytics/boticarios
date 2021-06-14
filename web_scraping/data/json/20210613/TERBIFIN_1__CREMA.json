@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/terbifin-1--crema-7707288822357/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TERBIFIN 1 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/TERBIFIN_1__CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$11.300",
+        "precioPorSku js-PUM": "Gramo a $753,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0010270-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

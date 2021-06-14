@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicatricure-gold-lift-contorno-duo-7798140253310/p",
+    "fecha_hora_scraping": "2021-06-14 05:15:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CICATRICURE CONTORNO OJOS GOLD 15 ML",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_CONTORNO_OJOS_GOLD_15_ML.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$74.850",
+        "precioPorSku js-PUM": "Gramo a $4.990,00"
+    },
+    "descripcion": "cicatricure gold lift contorno duo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00400-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

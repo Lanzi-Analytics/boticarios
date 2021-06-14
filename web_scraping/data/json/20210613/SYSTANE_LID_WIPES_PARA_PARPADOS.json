@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/systane-lid-wipes-para-parpados-300658052179/p",
+    "fecha_hora_scraping": "2021-06-14 02:11:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYSTANE LID WIPES PARA PARPADOS",
+    "nombre_imagen": "./web_scraping/data/img/SYSTANE_LID_WIPES_PARA_PARPADOS.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$60.350",
+        "precioPorSku js-PUM": "Unidad a $2.011,67"
+    },
+    "descripcion": "systane lid wipes para parpados",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53715-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

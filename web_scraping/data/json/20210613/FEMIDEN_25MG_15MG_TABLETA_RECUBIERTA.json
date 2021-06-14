@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/femiden-25mg-15mg-tableta-recubierta-7792183001464/p",
+    "fecha_hora_scraping": "2021-06-13 23:33:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEMIDEN 2.5MG /1.5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FEMIDEN_25MG_15MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$22.450",
+        "precioPorSku js-PUM": "Tableta a $801,79"
+    },
+    "descripcion": "FEMIDEN 2.5MG /1.5MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2,5 MG 1,5 MG"
+        ],
+        [
+            "Principio activo",
+            "NOMEGESTROL ACETATO ESTRADIOL HEMIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GADOR SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0019634"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-body-milk-reafirmante-8410412505024/p",
+    "fecha_hora_scraping": "2021-06-14 01:17:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BABARIA BODY MILK REAFIRMANTE",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_BODY_MILK_REAFIRMANTE.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$12.600",
+        "precioPorSku js-PUM": "Mililitro a $25,20"
+    },
+    "descripcion": "babaria body milk reafirmante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13160-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

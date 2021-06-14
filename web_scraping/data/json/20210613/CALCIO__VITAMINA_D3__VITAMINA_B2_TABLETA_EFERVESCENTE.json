@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calcio--vitamina-d3--vitamina-b2-tableta-efervescente-4022679136176/p",
+    "fecha_hora_scraping": "2021-06-14 00:24:34",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "\"CALCIO + VITAMINA D3 + VITAMINA B2 TABLETA EFERVESCENTE\n\"",
+    "nombre_imagen": "./web_scraping/data/img/CALCIO__VITAMINA_D3__VITAMINA_B2_TABLETA_EFERVESCENTE.jpg",
+    "presentacion": "TUBO X 20 TAB",
+    "precio": {
+        "bestPrice": "$21.350",
+        "precioPorSku js-PUM": "Tableta a $1.067,50"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PHARMARIS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0004310"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

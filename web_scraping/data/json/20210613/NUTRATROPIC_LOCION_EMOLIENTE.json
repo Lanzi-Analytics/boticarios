@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutratropic-locion-emoliente-8429420105935/p",
+    "fecha_hora_scraping": "2021-06-14 06:23:26",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "NUTRATROPIC LOCION EMOLIENTE",
+    "nombre_imagen": "./web_scraping/data/img/NUTRATROPIC_LOCION_EMOLIENTE.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$111.450",
+        "precioPorSku js-PUM": "Mililitro a $278,63"
+    },
+    "descripcion": "nutratropic locion emoliente",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70872-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

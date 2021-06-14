@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/epacor-465-mg375-mg-capsula-blanda-con-cubierta-enterica-7703153025335/p",
+    "fecha_hora_scraping": "2021-06-14 08:36:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EPACOR 465 MG/375 MG CAPSULA BLANDA CON CUBIERTA ENTERICA",
+    "nombre_imagen": "./web_scraping/data/img/EPACOR_465_MG375_MG_CAPSULA_BLANDA_CON_CUBIERTA_ENTERICA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$96.950",
+        "precioPorSku js-PUM": "Capsula a $3.231,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "465 MG 375 MG"
+        ],
+        [
+            "Principio activo",
+            "EICOSAPENTAENOICO ACIDO DOCOSAHEXAENOICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012478-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

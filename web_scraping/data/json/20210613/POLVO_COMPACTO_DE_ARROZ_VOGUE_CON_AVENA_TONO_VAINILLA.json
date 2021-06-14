@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-compacto-de-arroz-vogue-con-avena-tono-vainilla-7702433290838/p",
+    "fecha_hora_scraping": "2021-06-14 02:00:11",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO COMPACTO DE ARROZ VOGUE CON AVENA TONO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_COMPACTO_DE_ARROZ_VOGUE_CON_AVENA_TONO_VAINILLA.jpg",
+    "presentacion": "UNIDAD X 11 G",
+    "precio": {
+        "bestPrice": "$9.950",
+        "precioPorSku js-PUM": "Gramo a $904,55"
+    },
+    "descripcion": "polvo compacto de arroz vogue con avena tono vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 11 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50642-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

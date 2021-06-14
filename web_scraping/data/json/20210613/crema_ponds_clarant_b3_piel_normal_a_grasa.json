@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-clarant-b3-piel-normal-a-grasa-7501056330293/p",
+    "fecha_hora_scraping": "2021-06-14 08:20:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema ponds clarant b3 piel normal a grasa",
+    "nombre_imagen": "./web_scraping/data/img/crema_ponds_clarant_b3_piel_normal_a_grasa.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$17.500",
+        "precioPorSku js-PUM": "Gramo a $350,00"
+    },
+    "descripcion": "ponds cr clarant b3 grasa x50g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

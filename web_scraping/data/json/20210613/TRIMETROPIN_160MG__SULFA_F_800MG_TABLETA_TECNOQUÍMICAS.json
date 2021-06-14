@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trimetropin-160mg--sulfa-f-800mg-tableta-tecnoquimicas-7702057076016/p",
+    "fecha_hora_scraping": "2021-06-14 04:07:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRIMETROPIN 160MG + SULFA F 800MG TABLETA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/TRIMETROPIN_160MG__SULFA_F_800MG_TABLETA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$3.885",
+        "precioPorSku js-PUM": "Tableta a $388,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "800 MG 160 MG"
+        ],
+        [
+            "Principio activo",
+            "SULFAMETOXAZOL TRIMETOPRIM"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-007114-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

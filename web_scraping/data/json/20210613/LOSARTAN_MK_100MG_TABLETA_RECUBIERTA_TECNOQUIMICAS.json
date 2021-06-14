@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/losartan-mk-100mg-tableta-recubierta-tecnoquimicas-7702057710248/p",
+    "fecha_hora_scraping": "2021-06-14 10:17:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LOSARTAN MK 100MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LOSARTAN_MK_100MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$48.800",
+        "precioPorSku js-PUM": "Tableta a $1.626,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN POTASICO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012688-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

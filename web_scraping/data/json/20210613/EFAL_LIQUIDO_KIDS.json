@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/efal-liquido-kids-7707355051109/p",
+    "fecha_hora_scraping": "2021-06-14 00:31:29",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "EFAL LIQUIDO KIDS",
+    "nombre_imagen": "./web_scraping/data/img/EFAL_LIQUIDO_KIDS.jpg",
+    "presentacion": "FRASCO X 270 G",
+    "precio": {
+        "bestPrice": "$83.600",
+        "precioPorSku js-PUM": "Gramo a $309,63"
+    },
+    "descripcion": "efal liquido kids",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 270 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC60334-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ganfort-solucion-oftalmica-7707236675882/p",
+    "fecha_hora_scraping": "2021-06-14 01:44:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GANFORT SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/GANFORT_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 3 ML",
+    "precio": {
+        "bestPrice": "$81.700",
+        "precioPorSku js-PUM": "Mililitro a $27.233,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 3 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML 0,3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TIMOLOL MALEATO BIMATOPROST"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007162-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pantimedia-dama-no-varix-15-20-mmhg-transparente-talla-m-7707066063439/p",
+    "fecha_hora_scraping": "2021-06-14 10:26:02",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "PANTIMEDIA DAMA NO-VARIX 15-20 MMHG TRANSPARENTE TALLA M",
+    "nombre_imagen": "./web_scraping/data/img/PANTIMEDIA_DAMA_NOVARIX_1520_MMHG_TRANSPARENTE_TALLA_M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$111.600",
+        "bestPrice": "$89.280",
+        "precioPorSku js-PUM": "Unidad a $89.280"
+    },
+    "descripcion": "pantimedia dama no-varix 15-20 mmhg tran",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0003826-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

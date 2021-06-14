@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-facial-depilatoria-veet-piel-sensible-7702626206752/p",
+    "fecha_hora_scraping": "2021-06-14 08:44:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "CREMA FACIAL DEPILATORIA VEET PIEL SENSIBLE",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_FACIAL_DEPILATORIA_VEET_PIEL_SENSIBLE.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$10.027",
+        "precioPorSku js-PUM": "Mililitro a $334,23"
+    },
+    "descripcion": "crema facial depilatoria veet piel sensible",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC43477-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

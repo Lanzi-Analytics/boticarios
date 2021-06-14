@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vigamox-solucion-oftalmica-7612797411902/p",
+    "fecha_hora_scraping": "2021-06-14 01:16:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VIGAMOX SOLUCI\u00d3N OFT\u00c1LMICA",
+    "nombre_imagen": "./web_scraping/data/img/VIGAMOX_SOLUCI\u00d3N_OFT\u00c1LMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$24.900",
+        "precioPorSku js-PUM": "Mililitro a $4.980,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MOXIFLOXACINO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0003113-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

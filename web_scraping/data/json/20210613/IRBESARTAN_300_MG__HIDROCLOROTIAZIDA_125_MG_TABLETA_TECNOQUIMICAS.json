@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057069995tecnoquimicasformuladosmedicamentosirbesartan-300-mg--hidroclorotiazida-125-mg-tableta-tecnoquimicasirbesartan-hidroclorotiazida-7702057069995/p",
+    "fecha_hora_scraping": "2021-06-14 01:19:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IRBESARTAN 300 MG + HIDROCLOROTIAZIDA 12.5 MG TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/IRBESARTAN_300_MG__HIDROCLOROTIAZIDA_125_MG_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$65.250",
+        "precioPorSku js-PUM": "Tableta a $4.660,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "300 MG 12.5 MG"
+        ],
+        [
+            "Principio activo",
+            "IRBESARTAN HIDROCLOROTIAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011091-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

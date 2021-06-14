@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/talco-mexana-7702123008842/p",
+    "fecha_hora_scraping": "2021-06-14 06:05:30",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "talco mexana",
+    "nombre_imagen": "./web_scraping/data/img/talco_mexana.jpg",
+    "presentacion": "ENVASE X 85 G",
+    "precio": {
+        "bestPrice": "$9.300",
+        "precioPorSku js-PUM": "Gramo a $109,41"
+    },
+    "descripcion": "talco mexana 85g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 85 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70035-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

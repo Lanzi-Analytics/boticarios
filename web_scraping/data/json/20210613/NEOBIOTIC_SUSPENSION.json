@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057013783tecnoquimicasformuladosmedicamentosneobiotic-suspension-7702057013783/p",
+    "fecha_hora_scraping": "2021-06-14 08:59:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEOBIOTIC SUSPENSION",
+    "nombre_imagen": "./web_scraping/data/img/NEOBIOTIC_SUSPENSION.jpg",
+    "presentacion": "FRASCO X 4,5 ML",
+    "precio": {
+        "bestPrice": "$70.000",
+        "precioPorSku js-PUM": "Mililitro a $15.555,56"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 4,5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003952"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

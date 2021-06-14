@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stalevo-100mg--25mg--200mg-tableta-recubierta-con-pelicula-7702635707622/p",
+    "fecha_hora_scraping": "2021-06-14 06:17:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "STALEVO 100MG / 25MG / 200MG TABLETA RECUBIERTA CON PELICULA",
+    "nombre_imagen": "./web_scraping/data/img/STALEVO_100MG__25MG__200MG_TABLETA_RECUBIERTA_CON_PELICULA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$131.300",
+        "precioPorSku js-PUM": "Tableta a $4.376,67"
+    },
+    "descripcion": "STALEVO 100MG / 25MG / 200MG TABLETA RECUBIERTA CON PELICULA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG 100 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "ENTACAPONA LEVODOPA CARBIDOPA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004224-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

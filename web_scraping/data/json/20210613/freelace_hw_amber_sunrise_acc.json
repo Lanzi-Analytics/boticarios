@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/freelace-hw-amber-sunrise-acc-6901443296088/p",
+    "fecha_hora_scraping": "2021-06-13 23:55:22",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "freelace hw amber sunrise acc",
+    "nombre_imagen": "./web_scraping/data/img/freelace_hw_amber_sunrise_acc.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$269.900",
+        "bestPrice": "$202.425",
+        "precioPorSku js-PUM": "Unidad a $202.425"
+    },
+    "descripcion": "freelace hw amber sunrise acc",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA DE COMERCIO SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

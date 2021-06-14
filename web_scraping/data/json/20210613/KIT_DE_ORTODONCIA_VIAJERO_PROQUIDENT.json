@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-de-ortodoncia-viajero-proquident-7702314180586/p",
+    "fecha_hora_scraping": "2021-06-14 10:36:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "KIT DE ORTODONCIA VIAJERO PROQUIDENT",
+    "nombre_imagen": "./web_scraping/data/img/KIT_DE_ORTODONCIA_VIAJERO_PROQUIDENT.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$14.050",
+        "precioPorSku js-PUM": "Unidad a $14.050,00"
+    },
+    "descripcion": "kit de ortodoncia viajero proquident",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0001210-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

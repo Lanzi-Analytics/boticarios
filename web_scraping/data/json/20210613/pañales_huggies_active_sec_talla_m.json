@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-huggies-active-sec-talla-m-7702425801462/p",
+    "fecha_hora_scraping": "2021-06-14 07:29:03",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1ales huggies active sec talla m",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_huggies_active_sec_talla_m.jpg",
+    "presentacion": "PAQUETE X 30 UN",
+    "precio": {
+        "bestPrice": "$18.450",
+        "precioPorSku js-PUM": "Unidad a $615,00"
+    },
+    "descripcion": "f-pa\u00f1 hug actsec m 8x30 cap a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00184-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

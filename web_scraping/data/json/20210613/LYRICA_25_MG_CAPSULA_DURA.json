@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lyrica-25-mg-capsula-dura-7703283404024/p",
+    "fecha_hora_scraping": "2021-06-14 00:51:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LYRICA 25 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/LYRICA_25_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$15.100",
+        "precioPorSku js-PUM": "Capsula a $503,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013443-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

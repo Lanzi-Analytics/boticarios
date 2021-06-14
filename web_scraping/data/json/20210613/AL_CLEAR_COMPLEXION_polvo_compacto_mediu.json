@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-clear-complexion-polvo-compacto-mediu-309978919049/p",
+    "fecha_hora_scraping": "2021-06-14 01:05:22",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "AL CLEAR COMPLEXION polvo compacto mediu",
+    "nombre_imagen": "./web_scraping/data/img/AL_CLEAR_COMPLEXION_polvo_compacto_mediu.jpg",
+    "presentacion": "CONTENEDOR X 8 G",
+    "precio": {
+        "bestPrice": "$61.600",
+        "precioPorSku js-PUM": "Gramo a $7.700,00"
+    },
+    "descripcion": "al clear complexion polvo compacto mediu",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC22089-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

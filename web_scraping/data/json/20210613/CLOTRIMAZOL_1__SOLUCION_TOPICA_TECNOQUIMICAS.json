@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clotrimazol-1--solucion-topica-tecnoquimicas-7702057071943/p",
+    "fecha_hora_scraping": "2021-06-14 04:46:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLOTRIMAZOL 1 % SOLUCION TOPICA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CLOTRIMAZOL_1__SOLUCION_TOPICA_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$15.250",
+        "precioPorSku js-PUM": "Mililitro a $508,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-001539R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

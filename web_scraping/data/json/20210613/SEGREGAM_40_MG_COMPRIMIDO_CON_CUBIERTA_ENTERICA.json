@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/segregam-40-mg-comprimido-con-cubierta-enterica-7707204490868/p",
+    "fecha_hora_scraping": "2021-06-14 02:30:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SEGREGAM 40 MG COMPRIMIDO CON CUBIERTA ENTERICA",
+    "nombre_imagen": "./web_scraping/data/img/SEGREGAM_40_MG_COMPRIMIDO_CON_CUBIERTA_ENTERICA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$214.850",
+        "precioPorSku js-PUM": "Tableta a $7.673,21"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "PANTOPRAZOL SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005565-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

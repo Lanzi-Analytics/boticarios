@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/l-carnitine-healthy-sports-855600003971/p",
+    "fecha_hora_scraping": "2021-06-14 00:30:49",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "L-CARNITINE HEALTHY SPORTS",
+    "nombre_imagen": "./web_scraping/data/img/LCARNITINE_HEALTHY_SPORTS.jpg",
+    "presentacion": "FRASCO X 16 ML",
+    "precio": {
+        "bestPrice": "$77.950",
+        "precioPorSku js-PUM": "Mililitro a $164,74"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 16 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002981"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

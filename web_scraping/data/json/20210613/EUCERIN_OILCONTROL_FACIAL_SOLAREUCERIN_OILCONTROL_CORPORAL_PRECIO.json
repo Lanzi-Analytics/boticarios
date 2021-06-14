@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-oilcontrol-facial-solareucerin-oilcontrol-corporal-precio-7702003010644/p",
+    "fecha_hora_scraping": "2021-06-14 04:29:24",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN OILCONTROL FACIAL SOLAR+EUCERIN OILCONTROL CORPORAL PRECIO",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_OILCONTROL_FACIAL_SOLAREUCERIN_OILCONTROL_CORPORAL_PRECIO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $156.200,00"
+    },
+    "descripcion": "EUCERIN OILCONTROL FACIAL SOLAR+EUCERIN OILCONTROL CORPORAL PRECIO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97061-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

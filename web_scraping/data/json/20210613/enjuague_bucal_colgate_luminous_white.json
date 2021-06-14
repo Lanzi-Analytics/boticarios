@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-colgate-luminous-white-7891024179420/p",
+    "fecha_hora_scraping": "2021-06-14 03:31:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "enjuague bucal colgate luminous white",
+    "nombre_imagen": "./web_scraping/data/img/enjuague_bucal_colgate_luminous_white.jpg",
+    "presentacion": "BOTELLA X 250 ML",
+    "precio": {
+        "PrevPrice": "Antes:$10.550",
+        "bestPrice": "$7.385",
+        "precioPorSku js-PUM": "Mililitro a $29,54"
+    },
+    "descripcion": "enjuag buc colgate luminous white 250",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 250 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC45520-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

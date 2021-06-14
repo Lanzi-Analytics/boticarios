@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-biopronnabis-canabis-arnica-7707232092584/p",
+    "fecha_hora_scraping": "2021-06-14 06:59:10",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ACEITE BIOPRONNABIS CANABIS-ARNICA",
+    "nombre_imagen": "./web_scraping/data/img/ACEITE_BIOPRONNABIS_CANABISARNICA.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$24.550",
+        "precioPorSku js-PUM": "Mililitro a $102,29"
+    },
+    "descripcion": "aceite biopronnabis canabis-arnica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76055-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

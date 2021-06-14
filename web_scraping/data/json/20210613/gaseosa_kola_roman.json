@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-kola-roman-7702609006508/p",
+    "fecha_hora_scraping": "2021-06-14 09:15:27",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa kola roman",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_kola_roman.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Mililitro a $4,25"
+    },
+    "descripcion": "gaseosa kola roman",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD19M09196"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

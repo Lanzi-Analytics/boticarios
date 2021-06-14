@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-gillette-antibacterial-7500435113441/p",
+    "fecha_hora_scraping": "2021-06-14 10:09:27",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante gillette spray antibacterial",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_gillette_spray_antibacterial.jpg",
+    "presentacion": "FRASCO X 93 G",
+    "precio": {
+        "PrevPrice": "Antes:$16.750",
+        "bestPrice": "$13.400",
+        "precioPorSku js-PUM": "Gramo a $144,09"
+    },
+    "descripcion": "deo ap spray gillette antibact 93g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 93 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

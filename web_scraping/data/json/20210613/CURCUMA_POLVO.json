@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curcuma-polvo-7707232094663/p",
+    "fecha_hora_scraping": "2021-06-13 23:24:51",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CURCUMA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/CURCUMA_POLVO.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$18.100",
+        "precioPorSku js-PUM": "Gramo a $362,00"
+    },
+    "descripcion": "curcuma polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAE22I1113"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

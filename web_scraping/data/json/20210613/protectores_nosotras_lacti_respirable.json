@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-nosotras-lacti-respirable-7702027044014/p",
+    "fecha_hora_scraping": "2021-06-13 23:48:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores nosotras lacti respirable",
+    "nombre_imagen": "./web_scraping/data/img/protectores_nosotras_lacti_respirable.jpg",
+    "presentacion": "CAJA X 40 UN",
+    "precio": {
+        "bestPrice": "$19.450",
+        "precioPorSku js-PUM": "Unidad a $486,25"
+    },
+    "descripcion": "protect nosotras lacti respirab gel x4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 40 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sportive-con-colageno-hidrolizado-en-polvo-sabor-almendras-7709988634445/p",
+    "fecha_hora_scraping": "2021-06-13 23:19:21",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "sportive con colageno hidrolizado en polvo sabor almendras",
+    "nombre_imagen": "./web_scraping/data/img/sportive_con_colageno_hidrolizado_en_polvo_sabor_almendras.jpg",
+    "presentacion": "TARRO X 450 G",
+    "precio": {
+        "bestPrice": "$65.000",
+        "precioPorSku js-PUM": "Gramo a $144,44"
+    },
+    "descripcion": "sportive con colageno hidrolizado en polvo sabor almendras",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 450 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NATURLAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000549-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

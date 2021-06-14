@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/proclor-150-mg-capsula-dura-5600860331266/p",
+    "fecha_hora_scraping": "2021-06-14 03:21:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PROCLOR 150 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/PROCLOR_150_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 14 CAP",
+    "precio": {
+        "bestPrice": "$37.750",
+        "precioPorSku js-PUM": "Capsula a $2.696,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "ALTADIS FARMACEUTICA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017165"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

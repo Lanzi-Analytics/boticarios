@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/copitos-de-algodon-colsubsidio-7701009131179/p",
+    "fecha_hora_scraping": "2021-06-14 09:09:40",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "copitos de algod\u00f3n colsubsidio",
+    "nombre_imagen": "./web_scraping/data/img/copitos_de_algod\u00f3n_colsubsidio.jpg",
+    "presentacion": "PAQUETE X 200 UN",
+    "precio": {
+        "bestPrice": "$3.500",
+        "precioPorSku js-PUM": "Unidad a $17,50"
+    },
+    "descripcion": "copitos de algod\u00f3n colsubsidio 200und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 200 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TROPICAL DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007998"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

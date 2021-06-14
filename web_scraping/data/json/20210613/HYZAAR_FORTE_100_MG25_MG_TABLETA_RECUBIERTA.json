@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hyzaar-forte-100-mg25-mg-tableta-recubierta-7897337715485/p",
+    "fecha_hora_scraping": "2021-06-14 02:10:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HYZAAR FORTE 100 MG/25 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/HYZAAR_FORTE_100_MG25_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$422.900",
+        "precioPorSku js-PUM": "Tableta a $14.096,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "LOSARTAN POTASICO HIDROCLOROTIAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0002125-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

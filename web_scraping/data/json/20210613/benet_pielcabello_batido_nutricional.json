@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-piel-cabello-batido-nutricional-7709405580515/p",
+    "fecha_hora_scraping": "2021-06-14 06:00:11",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "benet piel-cabello batido nutricional",
+    "nombre_imagen": "./web_scraping/data/img/benet_pielcabello_batido_nutricional.jpg",
+    "presentacion": "BOLSA X 200 G",
+    "precio": {
+        "PrevPrice": "Antes:$23.400",
+        "bestPrice": "$17.550",
+        "precioPorSku js-PUM": "Gramo a $87,75"
+    },
+    "descripcion": "benet piel-cabello batido nutricional",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MAH! COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0010102-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

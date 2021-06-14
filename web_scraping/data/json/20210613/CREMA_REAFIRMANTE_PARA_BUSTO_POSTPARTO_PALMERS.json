@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-reafirmante-para-busto-postparto-palmers-10181040702/p",
+    "fecha_hora_scraping": "2021-06-14 03:34:25",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "CREMA REAFIRMANTE PARA BUSTO POSTPARTO PALMERS",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_REAFIRMANTE_PARA_BUSTO_POSTPARTO_PALMERS.jpg",
+    "presentacion": "TUBO X 125 G",
+    "precio": {
+        "bestPrice": "$63.650",
+        "precioPorSku js-PUM": "Gramo a $509,20"
+    },
+    "descripcion": "crema reafirmante para busto postparto p",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 125 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33300-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

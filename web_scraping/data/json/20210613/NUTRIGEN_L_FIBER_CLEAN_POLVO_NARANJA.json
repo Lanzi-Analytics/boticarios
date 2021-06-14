@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7709902291389nutrigen-l-fiber-clean-polvo-naranjanutricion-y-vida-saludablesuplementosna-7709902291389/p",
+    "fecha_hora_scraping": "2021-06-13 23:21:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTRIGEN L FIBER CLEAN POLVO NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/NUTRIGEN_L_FIBER_CLEAN_POLVO_NARANJA.jpg",
+    "presentacion": "TARRO X 700 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $57,14"
+    },
+    "descripcion": "nutrigen l fiber clean polvo naranja",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 700 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NATURLAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003082-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

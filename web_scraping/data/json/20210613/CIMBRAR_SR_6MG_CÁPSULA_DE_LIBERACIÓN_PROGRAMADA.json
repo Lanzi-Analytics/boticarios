@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7704232001387cimbrar-sr-6mg-capsula-de-liberacion-programadamedicamentosformuladoseuroetika-7704232001387/p",
+    "fecha_hora_scraping": "2021-06-14 08:46:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CIMBRAR SR 6MG C\u00c1PSULA DE LIBERACI\u00d3N PROGRAMADA",
+    "nombre_imagen": "./web_scraping/data/img/CIMBRAR_SR_6MG_C\u00c1PSULA_DE_LIBERACI\u00d3N_PROGRAMADA.jpg",
+    "presentacion": "CAJA X 5 TAB",
+    "precio": {
+        "bestPrice": "$66.450",
+        "precioPorSku js-PUM": "Tableta a $13.290,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "6 MG"
+        ],
+        [
+            "Principio activo",
+            "TIZANIDINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008584"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tecta-40-mg-tableta-de-liberacion-retardada-7501092720751/p",
+    "fecha_hora_scraping": "2021-06-14 09:35:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TECTA 40 MG TABLETA DE LIBERACION RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/TECTA_40_MG_TABLETA_DE_LIBERACION_RETARDADA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$245.400",
+        "precioPorSku js-PUM": "Tableta a $8.764,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "PANTOPRAZOL SODIO SESQUIHIDR"
+        ],
+        [
+            "Laboratorio",
+            "BAXALTA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012987-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

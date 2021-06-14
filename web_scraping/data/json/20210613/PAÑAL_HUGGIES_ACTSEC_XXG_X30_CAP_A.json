@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-huggies-actsec-xxg-x30-cap-a-7702425801677/p",
+    "fecha_hora_scraping": "2021-06-14 02:26:12",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "PA\u00d1AL HUGGIES ACTSEC XXG X30 CAP A",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_HUGGIES_ACTSEC_XXG_X30_CAP_A.jpg",
+    "presentacion": "PAQUETE X 30 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.250,00"
+    },
+    "descripcion": "PA\u00d1AL HUGGIES ACTSEC XXG X30 CAP A",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00184-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

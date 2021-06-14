@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-loreal-paris-infallible-pro-last-waterproof-black-noir-930-71249357248/p",
+    "fecha_hora_scraping": "2021-06-14 01:39:01",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR L'OR\u00c9AL PARIS INFALLIBLE PRO-LAST WATERPROOF BLACK NOIR 930",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_LOR\u00c9AL_PARIS_INFALLIBLE_PROLAST_WATERPROOF_BLACK_NOIR_930.jpg",
+    "presentacion": "UNIDAD X 1.2 G",
+    "precio": {
+        "bestPrice": "$41.950",
+        "precioPorSku js-PUM": "Gramo a $34.958,33"
+    },
+    "descripcion": "delineador l'or\u00e9al paris infallible pro-last waterproof black noir 930",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 1.2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97927-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/naprox-150mg5ml-suspension-oral-7707177972910/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NAPROX 150MG/5ML SUSPENSI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/NAPROX_150MG5ML_SUSPENSI\u00d3N_ORAL.jpg",
+    "presentacion": "FRASCO X 80 ML",
+    "precio": {
+        "bestPrice": "$10.700",
+        "precioPorSku js-PUM": "Mililitro a $133,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 ML"
+        ],
+        [
+            "Concentracion",
+            "3 G"
+        ],
+        [
+            "Principio activo",
+            "NAPROXENO BASE"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO INTERNACIONAL DE COLOMB"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008334"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrefort-plus-nfi-vainilla-7707232092928/p",
+    "fecha_hora_scraping": "2021-06-14 02:56:45",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "NUTREFORT PLUS NFI VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/NUTREFORT_PLUS_NFI_VAINILLA.jpg",
+    "presentacion": "TARRO X 1.000 G",
+    "precio": {
+        "bestPrice": "$49.600",
+        "precioPorSku js-PUM": "Gramo a $49,60"
+    },
+    "descripcion": "nutrefort plus nfi vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 1.000 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003138-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/victoza-6-mgml-solucion-inyectable-7709990220780/p",
+    "fecha_hora_scraping": "2021-06-14 01:14:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VICTOZA 6 MG/ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/VICTOZA_6_MGML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$160.000",
+        "precioPorSku js-PUM": "Unidad a $160.000,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LIRAGLUTIDA"
+        ],
+        [
+            "Laboratorio",
+            "NOVO NORDISK COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0014110-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

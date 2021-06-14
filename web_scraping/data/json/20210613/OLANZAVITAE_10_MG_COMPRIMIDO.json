@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/olanzavitae-10-mg-comprimido-7756281000088/p",
+    "fecha_hora_scraping": "2021-06-14 02:14:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OLANZAVITAE 10 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/OLANZAVITAE_10_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 14 COM",
+    "precio": {
+        "bestPrice": "$100.950",
+        "precioPorSku js-PUM": "Comprimido a $7.210,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 COM"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "OLANZAPINA"
+        ],
+        [
+            "Laboratorio",
+            "EUROPEAN PHARMA SOLUTIONS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016346"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

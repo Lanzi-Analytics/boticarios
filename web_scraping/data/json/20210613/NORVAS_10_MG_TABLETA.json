@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/norvas-10-mg-tableta-7703283129040/p",
+    "fecha_hora_scraping": "2021-06-14 06:46:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NORVAS 10 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/NORVAS_10_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$280.350",
+        "precioPorSku js-PUM": "Tableta a $9.345,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-004028-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

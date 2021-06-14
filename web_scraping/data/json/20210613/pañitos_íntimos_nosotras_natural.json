@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panitos-intimos-nosotras-natural-7702027043512/p",
+    "fecha_hora_scraping": "2021-06-14 07:33:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "pa\u00f1itos \u00edntimos nosotras natural",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1itos_\u00edntimos_nosotras_natural.jpg",
+    "presentacion": "EMPAQUE X 16 UN",
+    "precio": {
+        "bestPrice": "$5.200",
+        "precioPorSku js-PUM": "Unidad a $325,00"
+    },
+    "descripcion": "panitos intimos nosotras nat x16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 16 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hioscina-n-butilbromuro--acetaminofen-gotas-genfar-7705959010140/p",
+    "fecha_hora_scraping": "2021-06-14 01:43:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIOSCINA N-BUTILBROMURO + ACETAMINOFEN GOTAS GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/HIOSCINA_NBUTILBROMURO__ACETAMINOFEN_GOTAS_GENFAR.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$33.000",
+        "precioPorSku js-PUM": "Mililitro a $1.100,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN HIOSCINA N-BUTILBROMURO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-001746-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

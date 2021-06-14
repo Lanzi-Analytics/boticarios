@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/deslodex-d-capsula-dura-7703546671002/p",
+    "fecha_hora_scraping": "2021-06-14 00:35:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DESLODEX D CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/DESLODEX_D_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$73.900",
+        "precioPorSku js-PUM": "Capsula a $7.390,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG 2.5 MG"
+        ],
+        [
+            "Principio activo",
+            "FENILEFRINA CLORHIDRATO DESLORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011155-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

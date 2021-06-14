@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desinfectante-lysol-aerosol-brisa-de-la-manana-360-ml-7891035001031/p",
+    "fecha_hora_scraping": "2021-06-14 03:01:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "DESINFECTANTE LYSOL AEROSOL BRISA DE LA MA\u00d1ANA 360 ML",
+    "nombre_imagen": "./web_scraping/data/img/DESINFECTANTE_LYSOL_AEROSOL_BRISA_DE_LA_MA\u00d1ANA_360_ML.jpg",
+    "presentacion": "FRASCO X 360ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $35,83"
+    },
+    "descripcion": "DESINFECTANTE LYSOL AEROSOL BRISA DE LA MA\u00d1ANA 360 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECKITT BENCKISER COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOH08663-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

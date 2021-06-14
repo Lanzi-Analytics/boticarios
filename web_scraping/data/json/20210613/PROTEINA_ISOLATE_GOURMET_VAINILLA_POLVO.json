@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/proteina-isolate-gourmet-vainilla-polvo-814465012078/p",
+    "fecha_hora_scraping": "2021-06-14 08:04:14",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "PROTEINA ISOLATE GOURMET VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/PROTEINA_ISOLATE_GOURMET_VAINILLA_POLVO.jpg",
+    "presentacion": "BOLSA X 908 G",
+    "precio": {
+        "bestPrice": "$120.800",
+        "precioPorSku js-PUM": "Gramo a $133,04"
+    },
+    "descripcion": "proteina isolate gourmet vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 908 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I90115"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

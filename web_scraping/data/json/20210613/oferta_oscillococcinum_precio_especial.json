@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-oscillococcinum-precio-especial-7702207704820/p",
+    "fecha_hora_scraping": "2021-06-14 02:22:17",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "oferta oscillococcinum precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_oscillococcinum_precio_especial.jpg",
+    "presentacion": "CAJA X 6 UN",
+    "precio": {
+        "bestPrice": "$31.600",
+        "precioPorSku js-PUM": "Unidad a $28.700,00"
+    },
+    "descripcion": "oferta oscillococcinum precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "MH2007-0000697"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-ponds-s-humectante-piel-tersa-y-suave-7501056325442/p",
+    "fecha_hora_scraping": "2021-06-14 00:43:12",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema ponds s humectante piel tersa y suave",
+    "nombre_imagen": "./web_scraping/data/img/crema_ponds_s_humectante_piel_tersa_y_suave.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$14.200",
+        "precioPorSku js-PUM": "Gramo a $284,00"
+    },
+    "descripcion": "ponds cr s humectante nutritiva x50g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

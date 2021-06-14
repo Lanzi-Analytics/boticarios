@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/profenid-100-mg2-ml-solucion-inyectable-7591044401180/p",
+    "fecha_hora_scraping": "2021-06-14 03:05:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PROFENID 100 MG/2 ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/PROFENID_100_MG2_ML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$11.125",
+        "precioPorSku js-PUM": "Unidad a $11.125,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "KETOPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003014-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

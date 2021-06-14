@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/modulex-24-mcg-capsula-blanda-7707355055633/p",
+    "fecha_hora_scraping": "2021-06-14 03:09:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MODULEX 24 MCG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/MODULEX_24_MCG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "bestPrice": "$108.400",
+        "precioPorSku js-PUM": "Capsula a $5.420,00"
+    },
+    "descripcion": "modulex 24 mcg capsula blanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "24 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "LUBIPROSTONE"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012338-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

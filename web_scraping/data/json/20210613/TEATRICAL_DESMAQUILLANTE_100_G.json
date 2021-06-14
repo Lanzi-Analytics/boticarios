@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/650240035647genommacuidado-facialmedicamentoscrema-facial-teatrical-desmaquillanteibuprofeno-fenilefrina-clorhidrato-cetirizina-diclorhidratocrema-cara-tratamiento-hidratante-desmaquillante-650240035647/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TEATRICAL DESMAQUILLANTE 100 G",
+    "nombre_imagen": "./web_scraping/data/img/TEATRICAL_DESMAQUILLANTE_100_G.jpg",
+    "presentacion": "FRASCO X 100 G",
+    "precio": {
+        "bestPrice": "$12.300",
+        "precioPorSku js-PUM": "Gramo a $123,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68404-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

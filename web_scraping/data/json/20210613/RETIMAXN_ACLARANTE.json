@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retimaxn-aclarante-77016218/p",
+    "fecha_hora_scraping": "2021-06-14 07:41:37",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "RETIMAXN ACLARANTE",
+    "nombre_imagen": "./web_scraping/data/img/RETIMAXN_ACLARANTE.jpg",
+    "presentacion": "TUBO X 25 G",
+    "precio": {
+        "bestPrice": "$68.850",
+        "precioPorSku js-PUM": "Gramo a $2.754,00"
+    },
+    "descripcion": "retimaxn aclarante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 25 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "VALPROICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC27236-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

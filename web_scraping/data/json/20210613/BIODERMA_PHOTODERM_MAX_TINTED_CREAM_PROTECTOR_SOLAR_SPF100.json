@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-photoderm-max-teintee-protector-solar-spf100-3401353789678/p",
+    "fecha_hora_scraping": "2021-06-14 02:28:32",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA PHOTODERM MAX TINTED CREAM PROTECTOR SOLAR SPF100",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_PHOTODERM_MAX_TINTED_CREAM_PROTECTOR_SOLAR_SPF100.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$101.150",
+        "precioPorSku js-PUM": "Mililitro a $2.528,75"
+    },
+    "descripcion": "bioderma photoderm max teintee protector solar spf100+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41382-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/octodir-shampoo-7707206279515/p",
+    "fecha_hora_scraping": "2021-06-14 02:08:00",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "OCTODIR SHAMPOO",
+    "nombre_imagen": "./web_scraping/data/img/OCTODIR_SHAMPOO.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$55.400",
+        "precioPorSku js-PUM": "Mililitro a $461,67"
+    },
+    "descripcion": "octodir shampoo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44381-99CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

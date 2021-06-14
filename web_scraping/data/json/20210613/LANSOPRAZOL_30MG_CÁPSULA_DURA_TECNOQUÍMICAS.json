@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lansoprazol-30mg-capsula-dura-tecnoquimicas-7702057073893/p",
+    "fecha_hora_scraping": "2021-06-14 09:28:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LANSOPRAZOL 30MG C\u00c1PSULA DURA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LANSOPRAZOL_30MG_C\u00c1PSULA_DURA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CAJA X 7 CAP",
+    "precio": {
+        "bestPrice": "$5.700",
+        "precioPorSku js-PUM": "Capsula a $814,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 CAP"
+        ],
+        [
+            "Concentracion",
+            "30 MG"
+        ],
+        [
+            "Principio activo",
+            "LANSOPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-10465-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

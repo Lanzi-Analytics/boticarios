@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nevanac-suspension-oftalmica-7612797416891/p",
+    "fecha_hora_scraping": "2021-06-14 02:00:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEVANAC SUSPENSI\u00d3N OFT\u00c1LMICA",
+    "nombre_imagen": "./web_scraping/data/img/NEVANAC_SUSPENSI\u00d3N_OFT\u00c1LMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$51.400",
+        "precioPorSku js-PUM": "Mililitro a $10.280,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "NEPAFENACO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0006871-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-alergibon-avena-7703332003178/p",
+    "fecha_hora_scraping": "2021-06-14 00:44:48",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "JABON ALERGIBON AVENA",
+    "nombre_imagen": "./web_scraping/data/img/JABON_ALERGIBON_AVENA.jpg",
+    "presentacion": "BARRA X 90 G",
+    "precio": {
+        "bestPrice": "$16.900",
+        "precioPorSku js-PUM": "Gramo a $187,78"
+    },
+    "descripcion": "jabon alergibon avena",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC08320-92CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

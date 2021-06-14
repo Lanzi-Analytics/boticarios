@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-vitamina-c--zinc-tableta-efervescente-naranja-2und-ahorre-25-7702057701536/p",
+    "fecha_hora_scraping": "2021-06-14 07:16:56",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "OFERTA VITAMINA C + ZINC TABLETA EFERVESCENTE NARANJA 2UND AHORRE 25%",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_VITAMINA_C__ZINC_TABLETA_EFERVESCENTE_NARANJA_2UND_AHORRE_25.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$26.000",
+        "precioPorSku js-PUM": "Tableta a $1.300,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2012-0002272"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

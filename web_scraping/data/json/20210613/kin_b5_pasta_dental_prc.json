@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kin-b5-pasta-dental-prc-8436026213797/p",
+    "fecha_hora_scraping": "2021-06-14 06:38:41",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "kin b5 pasta dental prc",
+    "nombre_imagen": "./web_scraping/data/img/kin_b5_pasta_dental_prc.jpg",
+    "presentacion": "TUBO X 125 ML",
+    "precio": {
+        "bestPrice": "$41.650",
+        "precioPorSku js-PUM": "Mililitro a $333,20"
+    },
+    "descripcion": "kin b5 pasta dental prc",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 125 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCLIN PHARMA S.A."
+        ],
+        [
+            "Registro Invima",
+            "NSOC66680-18BO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

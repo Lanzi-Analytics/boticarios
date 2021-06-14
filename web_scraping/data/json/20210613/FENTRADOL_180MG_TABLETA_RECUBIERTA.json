@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fentradol-180mg-tableta-recubierta-7707346470179/p",
+    "fecha_hora_scraping": "2021-06-14 08:27:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FENTRADOL 180MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FENTRADOL_180MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10TAB",
+    "precio": {
+        "bestPrice": "$64.200",
+        "precioPorSku js-PUM": "Tableta a $6.420,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10TAB"
+        ],
+        [
+            "Concentracion",
+            "180 MG"
+        ],
+        [
+            "Principio activo",
+            "FEXOFENADINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008812"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

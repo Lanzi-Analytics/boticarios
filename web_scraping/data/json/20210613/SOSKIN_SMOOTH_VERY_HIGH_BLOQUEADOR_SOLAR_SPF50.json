@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-smooth-very-high-bloqueador-solar-spf50-3760019121727/p",
+    "fecha_hora_scraping": "2021-06-14 05:14:01",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN SMOOTH VERY HIGH BLOQUEADOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_SMOOTH_VERY_HIGH_BLOQUEADOR_SOLAR_SPF50.jpg",
+    "presentacion": "TUBO X 125 ML",
+    "precio": {
+        "bestPrice": "$98.200",
+        "precioPorSku js-PUM": "Mililitro a $785,60"
+    },
+    "descripcion": "soskin smooth very high bloqueador solar spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 125 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75868-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-calcitral-600mg-granulado-x-2und-70-descuento-7707355057286/p",
+    "fecha_hora_scraping": "2021-06-14 03:11:46",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "oferta calcitral 600mg granulado x 2und 70% descuento",
+    "nombre_imagen": "./web_scraping/data/img/oferta_calcitral_600mg_granulado_x_2und_70_descuento.jpg",
+    "presentacion": "CAJA X 15 SOBRES",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Sobre a $3.330,00"
+    },
+    "descripcion": "oferta calcitral 600mg granulado x 2und 70% descuento",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 SOBRES"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CITRATO TETRAHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2009-0001019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-pantene-restauracion-7501006721119/p",
+    "fecha_hora_scraping": "2021-06-14 09:41:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo pantene pro-v restauraci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_pantene_prov_restauraci\u00f3n.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$11.950",
+        "precioPorSku js-PUM": "Mililitro a $59,75"
+    },
+    "descripcion": "shamp pantene 200 ml restauracion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

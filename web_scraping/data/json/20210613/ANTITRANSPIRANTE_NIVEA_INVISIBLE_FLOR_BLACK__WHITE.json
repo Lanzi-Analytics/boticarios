@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antitranspirante-nivea-invisible-flor-black--white-4005900036643/p",
+    "fecha_hora_scraping": "2021-06-14 07:31:27",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "ANTITRANSPIRANTE NIVEA INVISIBLE FLOR BLACK & WHITE",
+    "nombre_imagen": "./web_scraping/data/img/ANTITRANSPIRANTE_NIVEA_INVISIBLE_FLOR_BLACK__WHITE.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "bestPrice": "$13.400",
+        "precioPorSku js-PUM": "Mililitro a $89,33"
+    },
+    "descripcion": "ndeo spray inv_blc & wht_clr_fm 150ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41623-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

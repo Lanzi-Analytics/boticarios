@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/topiramato-25mg-tableta-recubierta-novartis-9002260016846/p",
+    "fecha_hora_scraping": "2021-06-14 06:53:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TOPIRAMATO 25MG TABLETA RECUBIERTA NOVARTIS",
+    "nombre_imagen": "./web_scraping/data/img/TOPIRAMATO_25MG_TABLETA_RECUBIERTA_NOVARTIS.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$8.150",
+        "precioPorSku js-PUM": "Tableta a $407,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "TOPIRAMATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008067"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

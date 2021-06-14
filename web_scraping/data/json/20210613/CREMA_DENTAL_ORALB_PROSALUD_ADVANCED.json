@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-oral-b-pro-salud-advance-7500435116091/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CREMA DENTAL ORAL-B PRO-SALUD ADVANCED",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_ORALB_PROSALUD_ADVANCED.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "PrevPrice": "Antes:$13.800",
+        "bestPrice": "$10.350",
+        "precioPorSku js-PUM": "Mililitro a $5.175,00"
+    },
+    "descripcion": "crema dental oral-b pro-salud advance x 2 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

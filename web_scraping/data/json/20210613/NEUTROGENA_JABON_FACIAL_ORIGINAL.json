@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neutrogena-jabon-facial-original-7702031905240/p",
+    "fecha_hora_scraping": "2021-06-14 09:45:20",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEUTROGENA JABON FACIAL ORIGINAL",
+    "nombre_imagen": "./web_scraping/data/img/NEUTROGENA_JABON_FACIAL_ORIGINAL.jpg",
+    "presentacion": "BARRA X 99 G",
+    "precio": {
+        "bestPrice": "$14.250",
+        "precioPorSku js-PUM": "Gramo a $143,94"
+    },
+    "descripcion": "neutrogena jabon facial original",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 99 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC27740-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

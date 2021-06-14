@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neurobion-dc-10000-solucion-inyectable-7501298220185/p",
+    "fecha_hora_scraping": "2021-06-14 03:06:19",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEUROBION DC 10.000 SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/NEUROBION_DC_10000_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "CAJA X 3 UN",
+    "precio": {
+        "bestPrice": "$85.100",
+        "precioPorSku js-PUM": "Unidad a $28.366,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 UN"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 50 MG/ML 5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "PIRIDOXINA CLORHIDRATO TIAMINA CLORHIDRATO CIANOCOBALAMINA"
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012878-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

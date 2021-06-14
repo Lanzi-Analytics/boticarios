@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702057710163medicamentosformuladostecnoquimicaslovastatina-7702057710163/p",
+    "fecha_hora_scraping": "2021-06-14 02:04:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LOSARTAN 50MG TABLETA RECUBIERTA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LOSARTAN_50MG_TABLETA_RECUBIERTA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$15.750",
+        "precioPorSku js-PUM": "Tableta a $525,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "LOVASTATINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-010251-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

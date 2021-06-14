@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/resvenova-serum-activador-7707206270499/p",
+    "fecha_hora_scraping": "2021-06-14 07:00:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RESVENOVA SERUM ACTIVADOR",
+    "nombre_imagen": "./web_scraping/data/img/RESVENOVA_SERUM_ACTIVADOR.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$163.550",
+        "precioPorSku js-PUM": "Mililitro a $5.451,67"
+    },
+    "descripcion": "resvenova serum activador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63793-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

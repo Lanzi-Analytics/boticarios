@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-instant-wrinkle-smoothing-a-3760019121260/p",
+    "fecha_hora_scraping": "2021-06-14 06:29:26",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN INSTANT WRINKLE SMOOTHING A+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_INSTANT_WRINKLE_SMOOTHING_A.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$151.000",
+        "precioPorSku js-PUM": "Mililitro a $10.066,67"
+    },
+    "descripcion": "soskin instant wrinkle smoothing a+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69510-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

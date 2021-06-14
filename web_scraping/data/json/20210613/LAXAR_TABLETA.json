@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/laxar-tableta-7707237630231/p",
+    "fecha_hora_scraping": "2021-06-14 04:42:00",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "LAXAR TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/LAXAR_TABLETA.jpg",
+    "presentacion": "CAJA X 8 TAB",
+    "precio": {
+        "bestPrice": "$11.050",
+        "precioPorSku js-PUM": "Tableta a $1.381,25"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO EL MANA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2014-0002345"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

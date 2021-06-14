@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfagrow-premium-preescolar-7506205809460/p",
+    "fecha_hora_scraping": "2021-06-14 01:49:58",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAGROW PREMIUM PREESCOLAR",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAGROW_PREMIUM_PREESCOLAR.jpg",
+    "presentacion": "TARRO X 1.650 G",
+    "precio": {
+        "PrevPrice": "Antes:$117.000",
+        "bestPrice": "$93.600",
+        "precioPorSku js-PUM": "Gramo a $56.727,27"
+    },
+    "descripcion": "formula infantil enfagrow premium preesc",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 1.650 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I133612"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

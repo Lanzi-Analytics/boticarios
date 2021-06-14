@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulfaplata-1--crema-77011626/p",
+    "fecha_hora_scraping": "2021-06-14 00:48:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SULFAPLATA 1 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/SULFAPLATA_1__CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$24.000",
+        "precioPorSku js-PUM": "Gramo a $800,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "PLATA SULFADIAZINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-001338-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

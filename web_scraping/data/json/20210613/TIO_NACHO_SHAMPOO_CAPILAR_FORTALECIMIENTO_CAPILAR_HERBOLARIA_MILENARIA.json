@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tio-nacho-shampoo-capilar-fortalecimiento-capilar-herbolaria-milenaria-650240015670/p",
+    "fecha_hora_scraping": "2021-06-14 06:23:13",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TIO NACHO SHAMPOO CAPILAR FORTALECIMIENTO CAPILAR HERBOLARIA MILENARIA",
+    "nombre_imagen": "./web_scraping/data/img/TIO_NACHO_SHAMPOO_CAPILAR_FORTALECIMIENTO_CAPILAR_HERBOLARIA_MILENARIA.jpg",
+    "presentacion": "FRASCO X 415 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $58,19"
+    },
+    "descripcion": "TIO NACHO SHAMPOO CAPILAR FORTALECIMIENTO CAPILAR HERBOLARIA MILENARIA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 415 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79876-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

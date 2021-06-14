@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acetaminofen-325-mg--tramadol-375mg-tableta-la-francol-7706569022769/p",
+    "fecha_hora_scraping": "2021-06-14 01:45:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACETAMINOFEN 325 MG + TRAMADOL 37.5MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/ACETAMINOFEN_325_MG__TRAMADOL_375MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$35.400",
+        "precioPorSku js-PUM": "Tableta a $3.540,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "325 MG 37.5 MG"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN TRAMADOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0014073-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

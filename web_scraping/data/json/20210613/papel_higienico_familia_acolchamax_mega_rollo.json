@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/papel-higienico-familia-acolchamax-mega-rollo-7702026175368/p",
+    "fecha_hora_scraping": "2021-06-14 09:04:58",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "papel higienico familia acolchamax mega rollo",
+    "nombre_imagen": "./web_scraping/data/img/papel_higienico_familia_acolchamax_mega_rollo.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$2.300",
+        "precioPorSku js-PUM": "Unidad a $2.300,00"
+    },
+    "descripcion": "papel hig. acmax mega 1 rollo 37metros",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bandas-para-nariz-cettua-con-extracto-de-hamamelis-8809033596694/p",
+    "fecha_hora_scraping": "2021-06-14 05:44:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "BANDAS PARA NARIZ CETTUA X 6 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/BANDAS_PARA_NARIZ_CETTUA_X_6_UNIDADES.jpg",
+    "presentacion": "EMPAQUE X 6 UN",
+    "precio": {
+        "bestPrice": "$12.550",
+        "precioPorSku js-PUM": "Unidad a $2.091,67"
+    },
+    "descripcion": "BANDAS PARA NARIZ CETTUA 6 UNIDADES",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 6 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COBICO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53334-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

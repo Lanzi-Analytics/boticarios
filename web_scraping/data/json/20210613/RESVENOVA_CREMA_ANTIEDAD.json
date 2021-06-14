@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/resvenova-crema-antiedad-7707206270406/p",
+    "fecha_hora_scraping": "2021-06-14 07:48:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RESVENOVA CREMA ANTIEDAD",
+    "nombre_imagen": "./web_scraping/data/img/RESVENOVA_CREMA_ANTIEDAD.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$130.850",
+        "precioPorSku js-PUM": "Gramo a $4.361,67"
+    },
+    "descripcion": "resvenova crema antiedad",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC47208-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

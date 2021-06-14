@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alecrix-25-mgml-solucion-oftalmica-7702207705056/p",
+    "fecha_hora_scraping": "2021-06-14 07:42:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALECRIX 2.5 MG/ML SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/ALECRIX_25_MGML_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$110.750",
+        "precioPorSku js-PUM": "Mililitro a $22.150,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "2,5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALCAFTADINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018219"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

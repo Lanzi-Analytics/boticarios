@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/extractor-electrico-de-leche-materna-swing-2-fases-7612367026116/p",
+    "fecha_hora_scraping": "2021-06-14 06:51:46",
+    "breadcumb": "colsubsidio|mamas y bebes|accesorios",
+    "titulo": "EXTRACTOR ELECTRICO DE LECHE MATERNA SWING 2 FASES",
+    "nombre_imagen": "./web_scraping/data/img/EXTRACTOR_ELECTRICO_DE_LECHE_MATERNA_SWING_2_FASES.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.298.000,00"
+    },
+    "descripcion": "extractor electrico de leche materna swi",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "AREOLA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0010402"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

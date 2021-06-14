@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pregabalina-150-mg-capsula-cubierta-dura-genfar-7705959884192/p",
+    "fecha_hora_scraping": "2021-06-14 03:07:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PREGABALINA 150 MG CAPSULA CUBIERTA DURA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/PREGABALINA_150_MG_CAPSULA_CUBIERTA_DURA_GENFAR.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$44.950",
+        "precioPorSku js-PUM": "Capsula a $1.498,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "PREGABALINA"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015105"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/femoston-conti-1mg5mg-tableta-recubierta-8715554002791/p",
+    "fecha_hora_scraping": "2021-06-14 04:58:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEMOSTON CONTI 1MG/5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FEMOSTON_CONTI_1MG5MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$22.000",
+        "precioPorSku js-PUM": "Tableta a $785,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG 1 MG"
+        ],
+        [
+            "Principio activo",
+            "DIDROGESTERONA ESTRADIOL HEMIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0004603-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

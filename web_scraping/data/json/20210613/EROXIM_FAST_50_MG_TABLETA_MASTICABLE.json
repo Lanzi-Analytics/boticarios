@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eroxim-fast-50-mg-tableta-masticable-7702870002049/p",
+    "fecha_hora_scraping": "2021-06-14 03:10:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EROXIM FAST 50 MG TABLETA MASTICABLE",
+    "nombre_imagen": "./web_scraping/data/img/EROXIM_FAST_50_MG_TABLETA_MASTICABLE.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$20.750",
+        "precioPorSku js-PUM": "Tableta a $10.375,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "SILDENAFILO CITRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0002511-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

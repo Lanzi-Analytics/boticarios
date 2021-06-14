@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-hydrance-optimale-crema-hidratante-perfeccionadora-3282770049473/p",
+    "fecha_hora_scraping": "2021-06-13 23:41:05",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE HYDRANCE OPTIMALE CREMA HIDRATANTE PERFECCIONADORA",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_HYDRANCE_OPTIMALE_CREMA_HIDRATANTE_PERFECCIONADORA.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.733,75"
+    },
+    "descripcion": "avene hydrance optimale crema hidratante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72342-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

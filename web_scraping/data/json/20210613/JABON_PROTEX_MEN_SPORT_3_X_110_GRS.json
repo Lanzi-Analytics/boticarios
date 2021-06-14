@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-protex-men-sport-3-x-110-grs-7509546667201/p",
+    "fecha_hora_scraping": "2021-06-14 09:16:59",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JABON PROTEX MEN SPORT 3 X 110 GRS",
+    "nombre_imagen": "./web_scraping/data/img/JABON_PROTEX_MEN_SPORT_3_X_110_GRS.jpg",
+    "presentacion": "UNIDAD X330G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $30,00"
+    },
+    "descripcion": "JABON PROTEX MEN SPORT 3 X 110 GRS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X330G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99598-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

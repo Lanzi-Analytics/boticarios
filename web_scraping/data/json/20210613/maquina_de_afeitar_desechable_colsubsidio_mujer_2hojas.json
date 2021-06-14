@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-desechable-colsubsidio-mujer-2hojas-7701009016407/p",
+    "fecha_hora_scraping": "2021-06-14 03:28:12",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar desechable colsubsidio mujer 2hojas",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_desechable_colsubsidio_mujer_2hojas.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "bestPrice": "$3.900",
+        "precioPorSku js-PUM": "Unidad a $1.300,00"
+    },
+    "descripcion": "maquina desech cols mujer 2hojas 3und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "C I GLOS TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

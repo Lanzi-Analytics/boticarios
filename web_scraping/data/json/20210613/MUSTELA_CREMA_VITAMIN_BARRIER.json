@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mustela-crema-vitamin-barrier-3504105024802/p",
+    "fecha_hora_scraping": "2021-06-14 01:09:34",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "MUSTELA CREMA VITAMIN BARRIER",
+    "nombre_imagen": "./web_scraping/data/img/MUSTELA_CREMA_VITAMIN_BARRIER.jpg",
+    "presentacion": "TUBO X 150 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $476,00"
+    },
+    "descripcion": "mustela crema vitamin barrier",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57411-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

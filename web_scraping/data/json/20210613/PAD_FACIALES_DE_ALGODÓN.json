@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702560043864pad-faciales-de-algodonhigiene-y-cuidado-personalcuidado-facialjgb-7702560043864/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:11",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "PAD FACIALES DE ALGOD\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/PAD_FACIALES_DE_ALGOD\u00d3N.jpg",
+    "presentacion": "BOLSA X 50 UN",
+    "precio": {
+        "bestPrice": "$5.950",
+        "precioPorSku js-PUM": "Unidad a $5.950,00"
+    },
+    "descripcion": "pad faciales de algod\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2020DM-0021062"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

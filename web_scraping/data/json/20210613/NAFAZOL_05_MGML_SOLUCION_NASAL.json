@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nafazol-05-mgml-solucion-nasal-7706309000262/p",
+    "fecha_hora_scraping": "2021-06-14 01:00:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NAFAZOL 0.5 MG/ML SOLUCION NASAL",
+    "nombre_imagen": "./web_scraping/data/img/NAFAZOL_05_MGML_SOLUCION_NASAL.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$16.850",
+        "precioPorSku js-PUM": "Mililitro a $3.370,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "OXIMETAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0003660-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

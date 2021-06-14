@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lotemicin-suspension-oftalmica-7795368055207/p",
+    "fecha_hora_scraping": "2021-06-14 02:29:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LOTEMICIN SUSPENSION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/LOTEMICIN_SUSPENSION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$47.150",
+        "precioPorSku js-PUM": "Mililitro a $9.430,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML 3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LOTEPREDNOL ETABONATO TOBRAMICINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008239"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

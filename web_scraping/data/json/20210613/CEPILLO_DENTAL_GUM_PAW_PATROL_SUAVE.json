@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-gum-paw-patrol-suave-70942003308/p",
+    "fecha_hora_scraping": "2021-06-14 08:44:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "CEPILLO DENTAL GUM PAW PATROL SUAVE",
+    "nombre_imagen": "./web_scraping/data/img/CEPILLO_DENTAL_GUM_PAW_PATROL_SUAVE.jpg",
+    "presentacion": "EMPAQUE X 2 UN",
+    "precio": {
+        "bestPrice": "$16.650",
+        "precioPorSku js-PUM": "Unidad a $8.325,00"
+    },
+    "descripcion": "cepillo dental gum paw patrol suave",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betarretin-0025--gel-topico-7703333007021/p",
+    "fecha_hora_scraping": "2021-06-14 02:28:15",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BETARRETIN 0.025 % GEL TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/BETARRETIN_0025__GEL_TOPICO.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$54.100",
+        "precioPorSku js-PUM": "Gramo a $1.803,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "0.25 MG/G"
+        ],
+        [
+            "Principio activo",
+            "RETINOICO ACIDO TRETINOINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-012287-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ganogen-polvo-7709990577723/p",
+    "fecha_hora_scraping": "2021-06-14 04:14:37",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "GANOGEN POLVO",
+    "nombre_imagen": "./web_scraping/data/img/GANOGEN_POLVO.jpg",
+    "presentacion": "BOLSA X 50 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $8.210,00"
+    },
+    "descripcion": "ganogen polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "C I NUTREO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-0006204-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

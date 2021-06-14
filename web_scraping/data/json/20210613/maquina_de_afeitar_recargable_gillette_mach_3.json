@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-gillette-mach3-hercules-7702018001071/p",
+    "fecha_hora_scraping": "2021-06-14 03:46:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar recargable gillette mach 3",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_recargable_gillette_mach_3.jpg",
+    "presentacion": "PAQUETE X 1 UN",
+    "precio": {
+        "PrevPrice": "Antes:$20.750",
+        "bestPrice": "$16.600",
+        "precioPorSku js-PUM": "Unidad a $16.600,00"
+    },
+    "descripcion": "maquina afeit gillette mach3 hercules",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

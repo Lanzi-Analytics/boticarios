@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/intibon-calendula-mujer-7702870100776/p",
+    "fecha_hora_scraping": "2021-06-14 07:43:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "INTIBON CALENDULA MUJER",
+    "nombre_imagen": "./web_scraping/data/img/INTIBON_CALENDULA_MUJER.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "bestPrice": "$7.850",
+        "precioPorSku js-PUM": "Gramo a $65,42"
+    },
+    "descripcion": "intibon calendula mujer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63145-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

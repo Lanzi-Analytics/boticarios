@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-vogue-efecto-total-6-tono-negro-7702433228879/p",
+    "fecha_hora_scraping": "2021-06-14 08:09:07",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA VOGUE EFECTO TOTAL 6 TONO NEGRO",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_VOGUE_EFECTO_TOTAL_6_TONO_NEGRO.jpg",
+    "presentacion": "UNIDAD X 9 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.561,11"
+    },
+    "descripcion": "pesta\u00f1ina vogue efecto total 6 tono negro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73355-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

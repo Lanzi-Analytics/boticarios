@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-acetato-de-aluminio-locion-pague-2-lleve-3-7706569050014/p",
+    "fecha_hora_scraping": "2021-06-14 03:09:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OFERTA ACETATO DE ALUMINIO LOCION PAGUE: 2 LLEVE: 3",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ACETATO_DE_ALUMINIO_LOCION_PAGUE_2_LLEVE_3.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$18.300",
+        "precioPorSku js-PUM": "Mililitro a $152,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000498-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

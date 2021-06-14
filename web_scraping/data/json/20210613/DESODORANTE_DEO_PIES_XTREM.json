@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-deo-pies-xtrem-7702113011937/p",
+    "fecha_hora_scraping": "2021-06-14 07:10:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "DESODORANTE DEO PIES XTREM",
+    "nombre_imagen": "./web_scraping/data/img/DESODORANTE_DEO_PIES_XTREM.jpg",
+    "presentacion": "BOTELLA X 260 ML",
+    "precio": {
+        "bestPrice": "$18.650",
+        "precioPorSku js-PUM": "Mililitro a $71,73"
+    },
+    "descripcion": "desod spray deopies 260 ml xtrem",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 260 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

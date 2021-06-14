@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mieltertos-dia-panela-naranja-granulado-7707232098050/p",
+    "fecha_hora_scraping": "2021-06-13 23:22:13",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "MIELTERTOS DIA PANELA-NARANJA GRANULADO",
+    "nombre_imagen": "./web_scraping/data/img/MIELTERTOS_DIA_PANELANARANJA_GRANULADO.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "$11.300",
+        "precioPorSku js-PUM": "Unidad a $1.883,33"
+    },
+    "descripcion": "mieltertos dia panela-naranja granulado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAE16I10813"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

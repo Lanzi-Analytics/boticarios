@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-para-goteo-de-orina-tena-mujer-mini-alas-7702027470127/p",
+    "fecha_hora_scraping": "2021-06-14 07:39:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "TOALLA HIGI\u00c9NICA TENA DISCREET MINI ALAS 10 UNIDADES",
+    "nombre_imagen": "./web_scraping/data/img/TOALLA_HIGI\u00c9NICA_TENA_DISCREET_MINI_ALAS_10_UNIDADES.jpg",
+    "presentacion": "EMPAQUE X 10 UN",
+    "precio": {
+        "bestPrice": "$8.200",
+        "precioPorSku js-PUM": "Unidad a $820,00"
+    },
+    "descripcion": "TOALLA HIGI\u00c9NICA TENA DISCREET MINI ALAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

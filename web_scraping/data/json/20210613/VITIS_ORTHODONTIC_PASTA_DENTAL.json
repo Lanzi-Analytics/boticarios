@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitis-orthodontic-pasta-dental-8427426042889/p",
+    "fecha_hora_scraping": "2021-06-14 04:20:28",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "VITIS ORTHODONTIC PASTA DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/VITIS_ORTHODONTIC_PASTA_DENTAL.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$17.700",
+        "precioPorSku js-PUM": "Mililitro a $177,00"
+    },
+    "descripcion": "vitis orthodontic pasta dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37005-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stopen-20-mg-capsula-dura-7702973015014/p",
+    "fecha_hora_scraping": "2021-06-14 04:05:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "STOPEN 20 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/STOPEN_20_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$19.600",
+        "precioPorSku js-PUM": "Capsula a $1.960,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "PIROXICAM"
+        ],
+        [
+            "Laboratorio",
+            "GRUNENTHAL COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005021-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

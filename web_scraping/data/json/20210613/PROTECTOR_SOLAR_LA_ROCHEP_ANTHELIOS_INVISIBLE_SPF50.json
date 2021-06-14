@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-la-roche-p-anthelios-invisible-spf50-3337875696838/p",
+    "fecha_hora_scraping": "2021-06-14 01:06:30",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "PROTECTOR SOLAR LA ROCHE-P ANTHELIOS INVISIBLE SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_LA_ROCHEP_ANTHELIOS_INVISIBLE_SPF50.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$135.600",
+        "precioPorSku js-PUM": "Mililitro a $678,00"
+    },
+    "descripcion": "protector solar la roche-p anthelios invisible spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97954-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

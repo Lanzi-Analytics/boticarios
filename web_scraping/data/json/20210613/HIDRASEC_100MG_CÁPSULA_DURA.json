@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidrasec-100mg-capsula-dura-8433042001506/p",
+    "fecha_hora_scraping": "2021-06-14 02:57:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIDRASEC 100MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/HIDRASEC_100MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "C\u00c1PSULA X 9CAP",
+    "precio": {
+        "bestPrice": "$51.700",
+        "precioPorSku js-PUM": "Capsula a $5.744,44"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "C\u00c1PSULA X 9CAP"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "RACECADOTRILO"
+        ],
+        [
+            "Laboratorio",
+            "BIOTOSCANA FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013881"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

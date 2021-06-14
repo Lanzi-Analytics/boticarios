@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cloruro-magnesio--calcio--vitamina-d-capsula-blanda-7708896366325/p",
+    "fecha_hora_scraping": "2021-06-14 03:28:56",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CLORURO MAGNESIO + CALCIO + VITAMINA D CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/CLORURO_MAGNESIO__CALCIO__VITAMINA_D_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "bestPrice": "$23.000",
+        "precioPorSku js-PUM": "Capsula a $766,67"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SEA & OIL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003609"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

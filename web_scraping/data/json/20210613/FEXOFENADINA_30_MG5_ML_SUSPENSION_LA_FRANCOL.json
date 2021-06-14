@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7706569023094lafrancoldescongestionantesmedicamentosfexofenadina-30-mg5-ml-suspension-la-francolfexofenadina-clorhidrato-7706569023094/p",
+    "fecha_hora_scraping": "2021-06-14 08:03:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FEXOFENADINA 30 MG/5 ML SUSPENSION LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/FEXOFENADINA_30_MG5_ML_SUSPENSION_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$35.400",
+        "precioPorSku js-PUM": "Mililitro a $295,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "FEXOFENADINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018284"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

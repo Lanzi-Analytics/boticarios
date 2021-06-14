@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curaflex-duo-granulado-7707204491148/p",
+    "fecha_hora_scraping": "2021-06-14 04:06:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CURAFLEX DUO GRANULADO",
+    "nombre_imagen": "./web_scraping/data/img/CURAFLEX_DUO_GRANULADO.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "$194.300",
+        "precioPorSku js-PUM": "Unidad a $6.476,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "1500 MG 1200 MG"
+        ],
+        [
+            "Principio activo",
+            "GLUCOSAMINA SULFATO CONDROITINA SODIO SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002063-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

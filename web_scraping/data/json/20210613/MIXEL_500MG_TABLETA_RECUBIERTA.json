@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mixel-500mg-tableta-recubierta-7707355052533/p",
+    "fecha_hora_scraping": "2021-06-13 23:53:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MIXEL 500MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/MIXEL_500MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 6TAB",
+    "precio": {
+        "PrevPrice": "Antes:$53.500",
+        "bestPrice": "$42.800",
+        "precioPorSku js-PUM": "Tableta a $7.133,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "NITAZOXANIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0005803-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

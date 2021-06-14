@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/leche-klim-deslactosada-forticrece-x-840g-7702024151531/p",
+    "fecha_hora_scraping": "2021-06-14 00:16:59",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "LECHE KLIM DESLACTOSADA FORTICRECE X 840G",
+    "nombre_imagen": "./web_scraping/data/img/LECHE_KLIM_DESLACTOSADA_FORTICRECE_X_840G.jpg",
+    "presentacion": "BOLSA X 840G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $37,26"
+    },
+    "descripcion": "LECHE KLIM DESLACTOSADA FORTICRECE X 840G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 840G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0008432-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

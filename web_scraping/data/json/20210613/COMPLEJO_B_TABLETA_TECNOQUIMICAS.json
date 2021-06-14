@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/complejo-b-tableta-tecnoquimicas-7702057072063/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COMPLEJO B TABLETA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/COMPLEJO_B_TABLETA_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$1.602",
+        "precioPorSku js-PUM": "Tableta a $160,20"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG 20 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "NICOTINAMIDA PIRIDOXINA CLORHIDRATO TIAMINA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-001826-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

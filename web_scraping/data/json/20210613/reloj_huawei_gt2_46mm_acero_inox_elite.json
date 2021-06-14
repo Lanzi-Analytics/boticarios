@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/reloj-huawei-gt2-46mm-acero-inox-elite-6901443320547/p",
+    "fecha_hora_scraping": "2021-06-14 02:12:13",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "reloj huawei gt2 (46mm) acero inox elite",
+    "nombre_imagen": "./web_scraping/data/img/reloj_huawei_gt2_46mm_acero_inox_elite.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$949.900",
+        "bestPrice": "$712.425",
+        "precioPorSku js-PUM": "Unidad a $712.425"
+    },
+    "descripcion": "reloj huawei gt2 (46mm) acero inox elite",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA DE COMERCIO SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

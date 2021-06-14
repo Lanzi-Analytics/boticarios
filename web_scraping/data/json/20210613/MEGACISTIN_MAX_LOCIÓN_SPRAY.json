@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/megacistin-max-locion-spray-7791984999970/p",
+    "fecha_hora_scraping": "2021-06-14 08:05:21",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "MEGACISTIN MAX LOCI\u00d3N SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/MEGACISTIN_MAX_LOCI\u00d3N_SPRAY.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$75.150",
+        "bestPrice": "$56.362",
+        "precioPorSku js-PUM": "Mililitro a $469,68"
+    },
+    "descripcion": "megacistin max loci\u00f3n spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75620-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

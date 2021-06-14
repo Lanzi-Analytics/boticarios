@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-loreal-paris-infallible-les-chocolats-pro-matte-lip-candy-man-842-71249371787/p",
+    "fecha_hora_scraping": "2021-06-14 04:31:06",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL L'OR\u00c9AL PARIS INFALLIBLE LES CHOCOLATS PRO-MATTE LIP CANDY MAN 842",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_LOR\u00c9AL_PARIS_INFALLIBLE_LES_CHOCOLATS_PROMATTE_LIP_CANDY_MAN_842.jpg",
+    "presentacion": "UNIDAD X 6.3 ML",
+    "precio": {
+        "bestPrice": "$52.050",
+        "precioPorSku js-PUM": "Mililitro a $8.261,90"
+    },
+    "descripcion": "labial l'or\u00e9al paris infallible les chocolats pro-matte lip candy man 842",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6.3 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90044-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

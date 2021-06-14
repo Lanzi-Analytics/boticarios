@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zopiclona-75mg-tableta-recubierta-humax-7707288821107/p",
+    "fecha_hora_scraping": "2021-06-14 10:18:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZOPICLONA 7.5MG TABLETA RECUBIERTA HUMAX",
+    "nombre_imagen": "./web_scraping/data/img/ZOPICLONA_75MG_TABLETA_RECUBIERTA_HUMAX.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$18.050",
+        "precioPorSku js-PUM": "Tableta a $902,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "7.5 MG"
+        ],
+        [
+            "Principio activo",
+            "ZOPICLONA"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007629-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

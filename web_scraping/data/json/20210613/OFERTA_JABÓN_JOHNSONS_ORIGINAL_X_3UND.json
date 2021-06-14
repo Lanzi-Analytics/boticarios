@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-jabon-johnsons-original-x-3und-7702031407393/p",
+    "fecha_hora_scraping": "2021-06-14 08:16:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "OFERTA JAB\u00d3N JOHNSON'S ORIGINAL X 3UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_JAB\u00d3N_JOHNSONS_ORIGINAL_X_3UND.jpg",
+    "presentacion": "PAQUETE X 3 UN",
+    "precio": {
+        "bestPrice": "$6.000",
+        "precioPorSku js-PUM": "Gramo a $18,18"
+    },
+    "descripcion": "oferta jab\u00f3n johnson's original x 3und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC28698-08CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

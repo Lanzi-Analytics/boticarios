@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-tosh-pasion-frutos-rojos-7702402054317/p",
+    "fecha_hora_scraping": "2021-06-14 05:37:45",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado tosh pasi\u00f3n frutos rojos",
+    "nombre_imagen": "./web_scraping/data/img/helado_tosh_pasi\u00f3n_frutos_rojos.jpg",
+    "presentacion": "UNIDAD X 72 G",
+    "precio": {
+        "bestPrice": "$2.500",
+        "precioPorSku js-PUM": "Gramo a $34,72"
+    },
+    "descripcion": "helado tosh pasi\u00f3n frutos rojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 72 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02I22302"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

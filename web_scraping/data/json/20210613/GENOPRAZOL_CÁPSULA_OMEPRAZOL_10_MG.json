@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/genoprazol-10-mg-capsula-dura-650240031267/p",
+    "fecha_hora_scraping": "2021-06-14 06:57:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GENOPRAZOL C\u00c1PSULA OMEPRAZOL 10 MG",
+    "nombre_imagen": "./web_scraping/data/img/GENOPRAZOL_C\u00c1PSULA_OMEPRAZOL_10_MG.jpg",
+    "presentacion": "CAJA X 14 CAP",
+    "precio": {
+        "bestPrice": "$12.500",
+        "precioPorSku js-PUM": "Capsula a $892,86"
+    },
+    "descripcion": "es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consulte a su m\u00e9dico. registro invima 2014m-0015571",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "OMEPRAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0015571-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

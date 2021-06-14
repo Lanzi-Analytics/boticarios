@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113041279spray-antibacterial-para-manos-bacterionhigiene-y-cuidado-personaljabones-y-gel-antibacterialna-7702113041279/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "SPRAY ANTIBACTERIAL PARA MANOS BACTERION",
+    "nombre_imagen": "./web_scraping/data/img/SPRAY_ANTIBACTERIAL_PARA_MANOS_BACTERION.jpg",
+    "presentacion": "FRASCO X 120 X ML",
+    "precio": {
+        "bestPrice": "$12.350",
+        "precioPorSku js-PUM": "Mililitro a $102,92"
+    },
+    "descripcion": "spray antibacterial para manos bacterion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99260-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

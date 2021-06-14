@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ibuprofeno-100-mg5-ml-suspension-oral-la-francol-7706569000682/p",
+    "fecha_hora_scraping": "2021-06-13 23:40:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IBUPROFENO 100 MG/5 ML SUSPENSION ORAL LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/IBUPROFENO_100_MG5_ML_SUSPENSION_ORAL_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$9.000",
+        "precioPorSku js-PUM": "Mililitro a $75,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "IBUPROFENO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003997-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

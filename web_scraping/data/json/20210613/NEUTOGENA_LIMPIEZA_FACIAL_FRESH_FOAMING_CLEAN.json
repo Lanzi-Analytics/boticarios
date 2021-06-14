@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neutogena-limpieza-facial-fresh-foaming-clean-7702031962595/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:36",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NEUTOGENA LIMPIEZA FACIAL FRESH FOAMING CLEAN",
+    "nombre_imagen": "./web_scraping/data/img/NEUTOGENA_LIMPIEZA_FACIAL_FRESH_FOAMING_CLEAN.jpg",
+    "presentacion": "FRASCO X 198 ML",
+    "precio": {
+        "bestPrice": "$36.350",
+        "precioPorSku js-PUM": "Mililitro a $183,59"
+    },
+    "descripcion": "neutogena limpieza facial fresh foaming",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 198 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A  MG  MG"
+        ],
+        [
+            "Principio activo",
+            "N-ACETILCISTEINA"
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41064-98CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

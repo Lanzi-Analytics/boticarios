@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/espuma-de-afeitar-mentol-jgb-7702560032974/p",
+    "fecha_hora_scraping": "2021-06-14 05:28:06",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "espuma de afeitar mentol jgb",
+    "nombre_imagen": "./web_scraping/data/img/espuma_de_afeitar_mentol_jgb.jpg",
+    "presentacion": "ENVASE X 175 G",
+    "precio": {
+        "bestPrice": "$14.650",
+        "precioPorSku js-PUM": "Gramo a $83,71"
+    },
+    "descripcion": "espuma de afeitar mentol jgb x 175 g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 175 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC49870-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

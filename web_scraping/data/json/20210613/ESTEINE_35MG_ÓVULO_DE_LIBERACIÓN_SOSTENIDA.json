@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esteine-35mg-ovulo-de-liberacion-sostenida-7702870004852/p",
+    "fecha_hora_scraping": "2021-06-14 06:59:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESTEINE 3.5MG \u00d3VULO DE LIBERACI\u00d3N SOSTENIDA",
+    "nombre_imagen": "./web_scraping/data/img/ESTEINE_35MG_\u00d3VULO_DE_LIBERACI\u00d3N_SOSTENIDA.jpg",
+    "presentacion": "CAJA X 6 OVU",
+    "precio": {
+        "bestPrice": "$91.700",
+        "precioPorSku js-PUM": "OVULO a $15.283,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 OVU"
+        ],
+        [
+            "Concentracion",
+            "3.5 MG"
+        ],
+        [
+            "Principio activo",
+            "ESTRIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010768"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

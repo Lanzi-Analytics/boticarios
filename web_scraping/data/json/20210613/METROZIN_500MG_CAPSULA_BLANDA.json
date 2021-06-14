@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metrozin-500mg-capsula-blanda-7707355055701/p",
+    "fecha_hora_scraping": "2021-06-14 02:11:03",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METROZIN 500MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/METROZIN_500MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "BLISTER X 10 CAP",
+    "precio": {
+        "bestPrice": "$16.140",
+        "precioPorSku js-PUM": "Capsula a $1.614,00"
+    },
+    "descripcion": "METROZIN 500MG CAPSULA BLANDA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-003068-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

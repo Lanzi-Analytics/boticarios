@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atache-lift-therapy-emulsion-facial-reafirmante-dia-8430795001029/p",
+    "fecha_hora_scraping": "2021-06-14 06:04:39",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ATACHE LIFT THERAPY EMULSION FACIAL REAFIRMANTE DIA",
+    "nombre_imagen": "./web_scraping/data/img/ATACHE_LIFT_THERAPY_EMULSION_FACIAL_REAFIRMANTE_DIA.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$104.850",
+        "precioPorSku js-PUM": "Mililitro a $2.097,00"
+    },
+    "descripcion": "atache lift therapy emulsion facial reaf",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASAC PHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86682-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

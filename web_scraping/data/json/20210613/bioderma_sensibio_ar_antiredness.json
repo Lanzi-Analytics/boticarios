@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-sensibio-ar-anti-redness-3401343696245/p",
+    "fecha_hora_scraping": "2021-06-14 03:37:14",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "bioderma sensibio ar anti-redness",
+    "nombre_imagen": "./web_scraping/data/img/bioderma_sensibio_ar_antiredness.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$91.500",
+        "precioPorSku js-PUM": "Mililitro a $2.287,50"
+    },
+    "descripcion": "bioderma sensibio ar anti-redness",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63554-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

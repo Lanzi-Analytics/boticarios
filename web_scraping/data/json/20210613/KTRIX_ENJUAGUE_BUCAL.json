@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/k-trix-enjuague-bucal-7705028000164/p",
+    "fecha_hora_scraping": "2021-06-13 23:48:49",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "K-TRIX ENJUAGUE BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/KTRIX_ENJUAGUE_BUCAL.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$27.250",
+        "precioPorSku js-PUM": "Mililitro a $151,39"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FARPAG SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2016-0000322-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

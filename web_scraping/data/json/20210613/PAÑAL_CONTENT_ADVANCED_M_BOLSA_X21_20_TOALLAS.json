@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-content-advanced-m-bolsa-x21-20-toallas-7702057116798/p",
+    "fecha_hora_scraping": "2021-06-14 06:37:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1AL CONTENT ADVANCED M BOLSA X21+ 20 TOALLAS",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1AL_CONTENT_ADVANCED_M_BOLSA_X21_20_TOALLAS.jpg",
+    "presentacion": "BOLSA X 21UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $2.995,24"
+    },
+    "descripcion": "PA\u00d1AL CONTENT ADVANCED M BOLSA X21+ 20 TOALLAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 21UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05904-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

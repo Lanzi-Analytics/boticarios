@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-detodito-natural-7702189054036/p",
+    "fecha_hora_scraping": "2021-06-14 07:45:07",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas detodito natural",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_detodito_natural.jpg",
+    "presentacion": "PAQUETE X 150 G",
+    "precio": {
+        "PrevPrice": "Antes:$4.950",
+        "bestPrice": "$3.465",
+        "precioPorSku js-PUM": "Gramo a $23,10"
+    },
+    "descripcion": "pasabocas detodito natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 150 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-004575-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/potenciator-5-g10-ml-solucion-oral-8436024611076/p",
+    "fecha_hora_scraping": "2021-06-13 23:29:53",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "POTENCIATOR 5 G/10 ML SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/POTENCIATOR_5_G10_ML_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 20 UN",
+    "precio": {
+        "bestPrice": "$97.700",
+        "precioPorSku js-PUM": "Unidad a $4.885,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "B C N MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003653"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ureaderm-15--crema-7703332003611/p",
+    "fecha_hora_scraping": "2021-06-13 23:11:30",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UREADERM 15 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/UREADERM_15__CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$53.850",
+        "precioPorSku js-PUM": "Gramo a $897,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "150 MG/G"
+        ],
+        [
+            "Principio activo",
+            "UREA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-13781-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

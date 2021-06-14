@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-la-especial-bajo-en-sodio-7702007022711/p",
+    "fecha_hora_scraping": "2021-06-14 05:55:53",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "man\u00ed la especial bajo en sodio",
+    "nombre_imagen": "./web_scraping/data/img/man\u00ed_la_especial_bajo_en_sodio.jpg",
+    "presentacion": "PAQUETE X 50 G",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Gramo a $34,00"
+    },
+    "descripcion": "man\u00ed la especial bajo en sodio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAA05I14008"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

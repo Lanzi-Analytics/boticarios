@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/piloskin-ultra-champu-anticaida-7707327210398/p",
+    "fecha_hora_scraping": "2021-06-14 06:44:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "PILOSKIN ULTRA CHAMPU ANTICAIDA",
+    "nombre_imagen": "./web_scraping/data/img/PILOSKIN_ULTRA_CHAMPU_ANTICAIDA.jpg",
+    "presentacion": "FRASCO X 280 ML",
+    "precio": {
+        "bestPrice": "$54.250",
+        "precioPorSku js-PUM": "Mililitro a $193,75"
+    },
+    "descripcion": "piloskin ultra champu anticaida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73440-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

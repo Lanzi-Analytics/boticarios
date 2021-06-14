@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glicolic-h-10--locion-7705849004037/p",
+    "fecha_hora_scraping": "2021-06-14 02:49:08",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "GLICOLIC-H 10 % LOCION",
+    "nombre_imagen": "./web_scraping/data/img/GLICOLICH_10__LOCION.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$93.800",
+        "precioPorSku js-PUM": "Mililitro a $1.563,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "10 G 2 G"
+        ],
+        [
+            "Principio activo",
+            "GLICOLICO ACIDO HIDROQUINONA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-005950-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

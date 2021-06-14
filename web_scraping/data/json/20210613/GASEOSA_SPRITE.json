@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-sprite-7702535012086/p",
+    "fecha_hora_scraping": "2021-06-14 09:15:45",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa sprite",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_sprite.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$1.550",
+        "precioPorSku js-PUM": "Mililitro a $3,88"
+    },
+    "descripcion": "gaseosa sprite",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD19M08996"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

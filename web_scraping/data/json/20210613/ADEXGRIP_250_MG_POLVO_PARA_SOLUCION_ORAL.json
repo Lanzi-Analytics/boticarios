@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/adexgrip-250-mg-polvo-para-solucion-oral-7709990680904/p",
+    "fecha_hora_scraping": "2021-06-14 09:04:19",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ADEXGRIP 250 MG POLVO PARA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/ADEXGRIP_250_MG_POLVO_PARA_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $9.666,67"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ADEXA PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2013-0002210"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

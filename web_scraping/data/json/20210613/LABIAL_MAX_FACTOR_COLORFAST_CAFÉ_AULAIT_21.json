@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-max-factor-colorfast-cafe-aulait-21-7702044007399/p",
+    "fecha_hora_scraping": "2021-06-14 02:54:02",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL MAX FACTOR COLORFAST CAF\u00c9 AULAIT #21",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_MAX_FACTOR_COLORFAST_CAF\u00c9_AULAIT_21.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$21.550",
+        "precioPorSku js-PUM": "Gramo a $5.387,50"
+    },
+    "descripcion": "labial max factor colorfast caf\u00e9 aulait #21",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36425-97CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

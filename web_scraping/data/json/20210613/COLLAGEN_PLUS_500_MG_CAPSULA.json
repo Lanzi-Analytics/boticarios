@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/collagen-plus-500-mg-capsula-814465010838/p",
+    "fecha_hora_scraping": "2021-06-14 01:47:59",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "COLLAGEN PLUS 500 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/COLLAGEN_PLUS_500_MG_CAPSULA.jpg",
+    "presentacion": "FRASCO X 120 CAP",
+    "precio": {
+        "bestPrice": "$57.250",
+        "precioPorSku js-PUM": "Capsula a $477,08"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2012-0002258"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

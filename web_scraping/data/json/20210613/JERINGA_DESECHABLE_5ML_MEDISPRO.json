@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-desechable-5ml-medispro-7707270361222/p",
+    "fecha_hora_scraping": "2021-06-14 09:57:30",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA DESECHABLE 5ML MEDISPRO",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_DESECHABLE_5ML_MEDISPRO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$200",
+        "bestPrice": "$180",
+        "precioPorSku js-PUM": "Unidad a $180"
+    },
+    "descripcion": "jeringa desechable 5ml medispro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROTEX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003324-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

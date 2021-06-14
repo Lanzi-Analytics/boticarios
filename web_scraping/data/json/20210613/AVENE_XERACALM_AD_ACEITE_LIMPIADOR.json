@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-xeracalm-ad-aceite-limpiador-3282779405447/p",
+    "fecha_hora_scraping": "2021-06-14 05:36:18",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE XERACALM A.D ACEITE LIMPIADOR",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_XERACALM_AD_ACEITE_LIMPIADOR.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$103.050",
+        "precioPorSku js-PUM": "Mililitro a $257,63"
+    },
+    "descripcion": "avene xeracalm a.d aceite limpiador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59933-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

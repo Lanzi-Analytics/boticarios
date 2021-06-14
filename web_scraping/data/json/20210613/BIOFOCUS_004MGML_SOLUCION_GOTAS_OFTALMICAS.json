@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biofocus-004mgml-solucion-gotas-oftalmicas-7702207402023/p",
+    "fecha_hora_scraping": "2021-06-14 02:22:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BIOFOCUS 0.04MG/ML SOLUCION GOTAS OFTALMICAS",
+    "nombre_imagen": "./web_scraping/data/img/BIOFOCUS_004MGML_SOLUCION_GOTAS_OFTALMICAS.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$76.900",
+        "precioPorSku js-PUM": "Mililitro a $15.380,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML 0,04 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TIMOLOL MALEATO TRAVOPROST"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0016333-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

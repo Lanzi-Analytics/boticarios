@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gentamicina-160-mg2-ml-solucion-inyectable-tecnoquimicas-7702057073466/p",
+    "fecha_hora_scraping": "2021-06-14 04:49:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GENTAMICINA 160 MG/2 ML SOLUCION INYECTABLE TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/GENTAMICINA_160_MG2_ML_SOLUCION_INYECTABLE_TECNOQUIMICAS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$4.450",
+        "precioPorSku js-PUM": "Unidad a $4.450,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "GENTAMICINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-011281-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

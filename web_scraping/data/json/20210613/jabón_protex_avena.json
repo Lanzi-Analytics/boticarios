@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-protex-avena-7702010420955/p",
+    "fecha_hora_scraping": "2021-06-14 10:27:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "jab\u00f3n protex avena",
+    "nombre_imagen": "./web_scraping/data/img/jab\u00f3n_protex_avena.jpg",
+    "presentacion": "BARRA X 120 G",
+    "precio": {
+        "bestPrice": "$2.600",
+        "precioPorSku js-PUM": "Gramo a $21,67"
+    },
+    "descripcion": "jabon protex avena 120g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 120 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70414-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

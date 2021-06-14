@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-avena-mat-perfect-protector-solar-spf50--avene-agua-termal-7707208612709/p",
+    "fecha_hora_scraping": "2021-06-14 00:06:28",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "KIT AVENA MAT PERFECT PROTECTOR SOLAR SPF50+ + AVENE AGUA TERMAL",
+    "nombre_imagen": "./web_scraping/data/img/KIT_AVENA_MAT_PERFECT_PROTECTOR_SOLAR_SPF50__AVENE_AGUA_TERMAL.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $2.016,00"
+    },
+    "descripcion": "kit avena mat perfect protector solar spf50+ + avene agua termal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC15706-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

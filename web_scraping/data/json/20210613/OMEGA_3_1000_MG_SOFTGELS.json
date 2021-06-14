@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/omega-3-1000-mg-softgels-74312438325/p",
+    "fecha_hora_scraping": "2021-06-14 10:33:26",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "OMEGA 3 1000 MG SOFTGELS",
+    "nombre_imagen": "./web_scraping/data/img/OMEGA_3_1000_MG_SOFTGELS.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "$71.350",
+        "precioPorSku js-PUM": "Capsula a $713,50"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "OM-85 LIOFILIZADO"
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0000202-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

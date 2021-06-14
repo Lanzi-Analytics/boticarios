@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-manantial-7702609005129/p",
+    "fecha_hora_scraping": "2021-06-14 02:40:34",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "agua manantial",
+    "nombre_imagen": "./web_scraping/data/img/agua_manantial.jpg",
+    "presentacion": "BOTELLA X 1500 ML",
+    "precio": {
+        "PrevPrice": "Antes:$3.650",
+        "bestPrice": "$2.555",
+        "precioPorSku js-PUM": "Mililitro a $1,70"
+    },
+    "descripcion": "agua manantial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 1500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

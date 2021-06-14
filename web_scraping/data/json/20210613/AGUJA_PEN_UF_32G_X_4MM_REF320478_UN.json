@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aguja-pen-uf-32g-x-4mm-ref320478-1000001071367/p",
+    "fecha_hora_scraping": "2021-06-14 07:29:59",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "AGUJA PEN UF 32G X 4MM REF320478 UN",
+    "nombre_imagen": "./web_scraping/data/img/AGUJA_PEN_UF_32G_X_4MM_REF320478_UN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$350",
+        "precioPorSku js-PUM": "Unidad a $350,00"
+    },
+    "descripcion": "aguja pen uf 32g x 4mm ref320478",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS PARA LA SALUD"
+        ],
+        [
+            "Laboratorio",
+            "BECTON DICKINSON DE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011106"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

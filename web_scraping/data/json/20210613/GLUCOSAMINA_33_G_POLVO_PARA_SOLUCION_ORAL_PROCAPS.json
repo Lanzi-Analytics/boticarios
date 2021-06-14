@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glucosamina-33-g-polvo-para-solucion-oral-procaps-7703153013288/p",
+    "fecha_hora_scraping": "2021-06-13 23:50:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GLUCOSAMINA 3.3 G POLVO PARA SOLUCION ORAL PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/GLUCOSAMINA_33_G_POLVO_PARA_SOLUCION_ORAL_PROCAPS.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$870",
+        "precioPorSku js-PUM": "Unidad a $870,00"
+    },
+    "descripcion": "GLUCOSAMINA 3.3 G POLVO PARA SOLUCION ORAL PROCAPS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "1500 MG"
+        ],
+        [
+            "Principio activo",
+            "GLUCOSAMINA SULFATO SODIO CLOR"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0002654-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/duoval-10mg160mg-tableta-7707346470407/p",
+    "fecha_hora_scraping": "2021-06-14 07:23:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DUOVAL 10MG/160MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DUOVAL_10MG160MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$149.500",
+        "precioPorSku js-PUM": "Tableta a $4.983,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009568"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

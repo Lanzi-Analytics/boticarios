@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/r-microgynon-suave-gragea-7703331105118/p",
+    "fecha_hora_scraping": "2021-06-14 09:26:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "R-MICROGYNON SUAVE GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/RMICROGYNON_SUAVE_GRAGEA.jpg",
+    "presentacion": "CAJA X 21 GRG",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Gragea a $264,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 GRG"
+        ],
+        [
+            "Concentracion",
+            "0.1 MG 0.02 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-011763-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

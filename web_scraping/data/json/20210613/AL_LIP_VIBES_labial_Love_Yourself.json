@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-lip-vibes-labial-love-yourself-309978337140/p",
+    "fecha_hora_scraping": "2021-06-14 05:03:40",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "AL LIP VIBES labial Love Yourself",
+    "nombre_imagen": "./web_scraping/data/img/AL_LIP_VIBES_labial_Love_Yourself.jpg",
+    "presentacion": "TUBO X 4G",
+    "precio": {
+        "bestPrice": "$31.000",
+        "precioPorSku js-PUM": "Gramo a $7.750,00"
+    },
+    "descripcion": "al lip vibes labial love yourself",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91166-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

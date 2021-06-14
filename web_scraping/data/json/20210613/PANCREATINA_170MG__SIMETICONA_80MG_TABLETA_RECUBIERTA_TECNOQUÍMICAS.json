@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pancreatina-170mg--simeticona-80mg-tableta-recubierta-tecnoquimicas-7702057075286/p",
+    "fecha_hora_scraping": "2021-06-14 00:41:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PANCREATINA 170MG + SIMETICONA 80MG TABLETA RECUBIERTA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/PANCREATINA_170MG__SIMETICONA_80MG_TABLETA_RECUBIERTA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$43.600",
+        "precioPorSku js-PUM": "Tableta a $1.453,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "170 MG 80 MG"
+        ],
+        [
+            "Principio activo",
+            "PANCREATINA SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005487-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

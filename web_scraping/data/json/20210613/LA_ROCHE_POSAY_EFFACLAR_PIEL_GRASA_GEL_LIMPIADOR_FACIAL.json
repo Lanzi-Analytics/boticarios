@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/effaclar-gel-limpiador-3337872411991/p",
+    "fecha_hora_scraping": "2021-06-14 00:49:56",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "LA ROCHE POSAY EFFACLAR PIEL GRASA GEL LIMPIADOR FACIAL",
+    "nombre_imagen": "./web_scraping/data/img/LA_ROCHE_POSAY_EFFACLAR_PIEL_GRASA_GEL_LIMPIADOR_FACIAL.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$134.450",
+        "precioPorSku js-PUM": "Mililitro a $336,13"
+    },
+    "descripcion": "effaclar gel limpiador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC21504-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

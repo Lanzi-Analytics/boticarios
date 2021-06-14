@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-cuidado-contorno-ojos-3282770104639/p",
+    "fecha_hora_scraping": "2021-06-14 01:28:13",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE CUIDADO CONTORNO OJOS",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_CUIDADO_CONTORNO_OJOS.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$83.000",
+        "precioPorSku js-PUM": "Mililitro a $5.533,33"
+    },
+    "descripcion": "avene cuidado contorno ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93826-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

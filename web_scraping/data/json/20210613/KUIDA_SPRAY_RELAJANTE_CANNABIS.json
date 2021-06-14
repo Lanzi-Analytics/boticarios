@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kuida-spray-relajante-cannabis-7709327147926/p",
+    "fecha_hora_scraping": "2021-06-13 23:16:22",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "KUIDA SPRAY RELAJANTE CANNABIS",
+    "nombre_imagen": "./web_scraping/data/img/KUIDA_SPRAY_RELAJANTE_CANNABIS.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$50.550",
+        "precioPorSku js-PUM": "Mililitro a $202,20"
+    },
+    "descripcion": "kuida spray relajante cannabis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "KHIRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC87285-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

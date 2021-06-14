@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/berbeel-homaccord-gotas-orales-7707336728402/p",
+    "fecha_hora_scraping": "2021-06-14 04:54:00",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "BERBEEL HOMACCORD GOTAS ORALES",
+    "nombre_imagen": "./web_scraping/data/img/BERBEEL_HOMACCORD_GOTAS_ORALES.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$63.650",
+        "precioPorSku js-PUM": "Mililitro a $2.121,67"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2018-0000683-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

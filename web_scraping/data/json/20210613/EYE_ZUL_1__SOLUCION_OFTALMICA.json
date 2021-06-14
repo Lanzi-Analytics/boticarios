@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eye-zul-1--solucion-oftalmica-7703153037536/p",
+    "fecha_hora_scraping": "2021-06-14 00:02:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EYE ZUL 1 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/EYE_ZUL_1__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 7 ML",
+    "precio": {
+        "bestPrice": "$8.650",
+        "precioPorSku js-PUM": "Mililitro a $1.235,71"
+    },
+    "descripcion": "eye zul 1 % solucion oftalmica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 7 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "NAFAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015991-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

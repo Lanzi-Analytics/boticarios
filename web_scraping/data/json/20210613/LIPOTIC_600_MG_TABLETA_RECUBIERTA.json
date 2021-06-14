@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lipotic-600-mg-tableta-recubierta-7703153033255/p",
+    "fecha_hora_scraping": "2021-06-14 05:10:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LIPOTIC 600 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/LIPOTIC_600_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 90 TAB",
+    "precio": {
+        "bestPrice": "$210.550",
+        "precioPorSku js-PUM": "Tableta a $2.339,44"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG"
+        ],
+        [
+            "Principio activo",
+            "TIOCTICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "DIABETRICS HEALTHCARE SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017306"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

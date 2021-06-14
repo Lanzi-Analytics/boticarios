@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/reloj-huawei-gt2-42mm-sport-gris-6901443332373/p",
+    "fecha_hora_scraping": "2021-06-14 07:47:51",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "reloj huawei gt2 (42mm) sport gris",
+    "nombre_imagen": "./web_scraping/data/img/reloj_huawei_gt2_42mm_sport_gris.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$655.900",
+        "bestPrice": "$491.925",
+        "precioPorSku js-PUM": "Unidad a $491.925"
+    },
+    "descripcion": "reloj huawei gt2 (42mm) sport gris",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA DE COMERCIO SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/silicare-locion-7707355050928/p",
+    "fecha_hora_scraping": "2021-06-13 23:42:56",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SILICARE LOCION",
+    "nombre_imagen": "./web_scraping/data/img/SILICARE_LOCION.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$41.850",
+        "precioPorSku js-PUM": "Gramo a $697,50"
+    },
+    "descripcion": "silicare locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44004-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

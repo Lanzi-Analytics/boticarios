@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levofloxacina-750mg-tableta-recubierta-tecnoquimicas-7702057711801/p",
+    "fecha_hora_scraping": "2021-06-14 02:38:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOFLOXACINA 750MG TABLETA RECUBIERTA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LEVOFLOXACINA_750MG_TABLETA_RECUBIERTA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CAJA X 5 TAB",
+    "precio": {
+        "bestPrice": "$74.700",
+        "precioPorSku js-PUM": "Tableta a $14.940,00"
+    },
+    "descripcion": "LEVOFLOXACINA 750MG TABLETA RECUBIERTA TECNOQU\u00cdMICAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "750 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOFLOXACINA HEMIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019250"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

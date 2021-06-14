@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mix-frutos-tropicales-manitoba-7702409010163/p",
+    "fecha_hora_scraping": "2021-06-14 09:58:37",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "mix frutos tropicales manitoba",
+    "nombre_imagen": "./web_scraping/data/img/mix_frutos_tropicales_manitoba.jpg",
+    "presentacion": "PAQUETE X 40 G",
+    "precio": {
+        "bestPrice": "$2.800",
+        "precioPorSku js-PUM": "Gramo a $70,00"
+    },
+    "descripcion": "mix frutos tropicales manitoba",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 40 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MANITOBA SAS"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-RSAV21I00398"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

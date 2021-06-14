@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cosopt-20-mg5-mg-solucion-oftalmica-7709990790511/p",
+    "fecha_hora_scraping": "2021-06-14 03:51:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COSOPT 20 MG/5 MG SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/COSOPT_20_MG5_MG_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$117.150",
+        "precioPorSku js-PUM": "Mililitro a $23.430,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML 5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DORZOLAMIDA CLORHIDRATO TIMOLOL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "MUNDIPHARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-012212-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

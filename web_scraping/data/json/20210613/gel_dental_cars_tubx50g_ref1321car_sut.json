@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-dental-cars-/p",
+    "fecha_hora_scraping": "2021-06-13 23:42:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "gel dental cars tubx50g ref1321car sut",
+    "nombre_imagen": "./web_scraping/data/img/gel_dental_cars_tubx50g_ref1321car_sut.jpg",
+    "presentacion": "",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a 99,00"
+    },
+    "descripcion": "gel dental cars tubx50g ref1321car sut",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            ""
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            ""
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

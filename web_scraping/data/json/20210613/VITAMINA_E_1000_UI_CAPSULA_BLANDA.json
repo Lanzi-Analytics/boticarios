@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamina-e-1000-ui-capsula-blanda-7703153002220/p",
+    "fecha_hora_scraping": "2021-06-14 09:47:53",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITAMINA E 1000 UI CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/VITAMINA_E_1000_UI_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$48.800",
+        "bestPrice": "$39.040",
+        "precioPorSku js-PUM": "Capsula a $1.301,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "1000 UI"
+        ],
+        [
+            "Principio activo",
+            "DL-ALFATOCOFERIL ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-14153-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

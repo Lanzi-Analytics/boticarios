@@ -1,10 +1,10 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/acido-borico-7707231002096/p",
-    "fecha_hora_scraping": "2021-06-13 18:25:35",
+    "url_producto": "https://www.drogueriascolsubsidio.com/acido-borico-7707333770459/p",
+    "fecha_hora_scraping": "2021-06-14 08:58:45",
     "breadcumb": "colsubsidio|medicamentos|venta libre",
     "titulo": "ACIDO BORICO",
     "nombre_imagen": "./web_scraping/data/img/ACIDO_BORICO.jpg",
-    "presentacion": "CAJA X 400 G",
+    "presentacion": "BOLSA X 400 G",
     "precio": {
         "bestPrice": "$6.150",
         "precioPorSku js-PUM": "Gramo a $15,38"
@@ -13,7 +13,7 @@
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 400 G"
+            "BOLSA X 400 G"
         ],
         [
             "Concentracion",
@@ -25,7 +25,7 @@
         ],
         [
             "Laboratorio",
-            "LABORATORIOS BLOFARMA DE COLOMBIA S"
+            "ARQUIFARMA SAS"
         ],
         [
             "Registro Invima",

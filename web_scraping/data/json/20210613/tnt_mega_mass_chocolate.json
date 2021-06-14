@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tnt-mega-mass-chocolate-7707330818215/p",
+    "fecha_hora_scraping": "2021-06-14 03:19:02",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "tnt mega mass chocolate",
+    "nombre_imagen": "./web_scraping/data/img/tnt_mega_mass_chocolate.jpg",
+    "presentacion": "CAJA X 320 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $521,88"
+    },
+    "descripcion": "tnt mega mass chocolate",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 320 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003082-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

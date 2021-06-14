@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dhems-serum-acido-hialuronico-7707208612464/p",
+    "fecha_hora_scraping": "2021-06-14 06:54:50",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DHEMS S\u00c9RUM \u00c1CIDO HIALURONICO",
+    "nombre_imagen": "./web_scraping/data/img/DHEMS_S\u00c9RUM_\u00c1CIDO_HIALURONICO.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$70.800",
+        "precioPorSku js-PUM": "Mililitro a $4.720,00"
+    },
+    "descripcion": "dhems s\u00e9rum \u00e1cido hialuronico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93752-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/colageno-complex-capsula-7707232095882/p",
+    "fecha_hora_scraping": "2021-06-14 04:29:30",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "COLAGENO COMPLEX CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/COLAGENO_COMPLEX_CAPSULA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$32.900",
+        "precioPorSku js-PUM": "Capsula a $548,33"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "COLAGENO"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0001840"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

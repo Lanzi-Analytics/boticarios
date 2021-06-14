@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lymecin-300mg-capsula-dura-7707208110434/p",
+    "fecha_hora_scraping": "2021-06-14 06:37:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LYMECIN 300MG C\u00c1PSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/LYMECIN_300MG_C\u00c1PSULA_DURA.jpg",
+    "presentacion": "CAJA X 16 CAP",
+    "precio": {
+        "bestPrice": "$79.200",
+        "precioPorSku js-PUM": "Capsula a $4.950,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 16 CAP"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "LIMECICLINA"
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007368"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

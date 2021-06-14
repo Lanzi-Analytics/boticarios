@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corrector-de-ojeras-colapsible-resist-con-aplicador-en-esponja-natural-7509552840704/p",
+    "fecha_hora_scraping": "2021-06-14 05:12:56",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CORRECTOR DE OJERAS COLAPSIBLE RESIST CON APLICADOR EN ESPONJA NATURAL",
+    "nombre_imagen": "./web_scraping/data/img/CORRECTOR_DE_OJERAS_COLAPSIBLE_RESIST_CON_APLICADOR_EN_ESPONJA_NATURAL.jpg",
+    "presentacion": "UNIDAD X 7 ML",
+    "precio": {
+        "bestPrice": "$15.150",
+        "precioPorSku js-PUM": "Mililitro a $2.164,29"
+    },
+    "descripcion": "corrector de ojeras colapsible resist con aplicador en esponja natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 7 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83462-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

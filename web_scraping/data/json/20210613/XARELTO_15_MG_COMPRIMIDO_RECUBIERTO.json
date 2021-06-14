@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xarelto-15-mg-comprimido-recubierto-7795320000238/p",
+    "fecha_hora_scraping": "2021-06-14 09:12:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "XARELTO 15 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/XARELTO_15_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 14 COM",
+    "precio": {
+        "bestPrice": "$96.900",
+        "precioPorSku js-PUM": "Comprimido a $6.921,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 COM"
+        ],
+        [
+            "Concentracion",
+            "15 MG"
+        ],
+        [
+            "Principio activo",
+            "RIVAROXABAN"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012817-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

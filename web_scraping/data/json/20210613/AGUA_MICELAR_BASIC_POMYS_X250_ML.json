@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-micelar-basic-pomys-x250-ml-7702026188108/p",
+    "fecha_hora_scraping": "2021-06-14 04:52:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "AGUA MICELAR BASIC POMYS X250 ML",
+    "nombre_imagen": "./web_scraping/data/img/AGUA_MICELAR_BASIC_POMYS_X250_ML.jpg",
+    "presentacion": "FRASCO X 250ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $42,00"
+    },
+    "descripcion": "AGUA MICELAR BASIC POMYS X250 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99639-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

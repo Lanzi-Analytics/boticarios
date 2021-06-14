@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metatitane-pomada-7705713400019/p",
+    "fecha_hora_scraping": "2021-06-14 02:31:21",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "METATITANE POMADA",
+    "nombre_imagen": "./web_scraping/data/img/METATITANE_POMADA.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$30.300",
+        "precioPorSku js-PUM": "Gramo a $757,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "185 MG/G 80 MG/G 1.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ZINC OXIDO TITANIO DIOXIDO VITAMINA A PALMITATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS REMO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002639-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

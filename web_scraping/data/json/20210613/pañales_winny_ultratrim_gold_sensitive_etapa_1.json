@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-winny-ultratrim-gold-sensitive-etapa-1-7701021141200/p",
+    "fecha_hora_scraping": "2021-06-14 02:49:25",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1ales winny ultratrim gold sensitive etapa 1",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_winny_ultratrim_gold_sensitive_etapa_1.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$6.050",
+        "precioPorSku js-PUM": "Unidad a $605,00"
+    },
+    "descripcion": "pa\u00f1ales winny ultratrim gold sensitive etapa 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-V-001730"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-de-vinilo-no-esteril-tallam-7707300932880/p",
+    "fecha_hora_scraping": "2021-06-14 06:47:35",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "guantes de vinilo no esteril talla:m",
+    "nombre_imagen": "./web_scraping/data/img/guantes_de_vinilo_no_esteril_tallam.jpg",
+    "presentacion": "BOLSA X 2 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $525,00"
+    },
+    "descripcion": "guantes de vinilo no esteril talla:m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INVERFARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

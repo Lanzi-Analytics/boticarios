@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calamina--oxido-de-zinc-kids-crema-genfar-7702605109746/p",
+    "fecha_hora_scraping": "2021-06-14 07:02:08",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALAMINA + OXIDO DE ZINC KIDS CREMA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/CALAMINA__OXIDO_DE_ZINC_KIDS_CREMA_GENFAR.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$24.100",
+        "precioPorSku js-PUM": "Gramo a $401,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "5 G 5 G"
+        ],
+        [
+            "Principio activo",
+            "ZINC OXIDO CALAMINA"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013653"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

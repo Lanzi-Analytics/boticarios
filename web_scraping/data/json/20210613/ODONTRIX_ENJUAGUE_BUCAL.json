@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/odontrix-enjuague-bucal-7705028000140/p",
+    "fecha_hora_scraping": "2021-06-14 07:41:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ODONTRIX ENJUAGUE BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/ODONTRIX_ENJUAGUE_BUCAL.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$30.850",
+        "precioPorSku js-PUM": "Mililitro a $171,39"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "11 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "D-PANTENOL TRICLOSAN"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FARPAG SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0000067-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

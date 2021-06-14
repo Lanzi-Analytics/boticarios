@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/afrin-005--adultos-solucion-nasal-7702123009146/p",
+    "fecha_hora_scraping": "2021-06-14 09:01:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AFRIN 0.05 % ADULTOS SOLUCION NASAL",
+    "nombre_imagen": "./web_scraping/data/img/AFRIN_005__ADULTOS_SOLUCION_NASAL.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$20.300",
+        "precioPorSku js-PUM": "Mililitro a $1.353,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "OXIMETAZOLINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-002626R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

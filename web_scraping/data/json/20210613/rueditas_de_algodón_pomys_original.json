@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rueditas-de-algodon-pomys-original-7702026321444/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:27",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "rueditas de algod\u00f3n pomys original",
+    "nombre_imagen": "./web_scraping/data/img/rueditas_de_algod\u00f3n_pomys_original.jpg",
+    "presentacion": "EMPAQUE X 30 UN",
+    "precio": {
+        "bestPrice": "$3.100",
+        "precioPorSku js-PUM": "Unidad a $103,33"
+    },
+    "descripcion": "rueditas pomys original 12x30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

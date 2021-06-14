@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113007862jabon-liquido-bacterial-bambu-2-en-1higiene-y-cuidado-personaljabones-y-gel-antibacterialna-7702113007862/p",
+    "fecha_hora_scraping": "2021-06-14 03:50:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JABON LIQUIDO BACTERIAL BAMBU 2 EN 1",
+    "nombre_imagen": "./web_scraping/data/img/JABON_LIQUIDO_BACTERIAL_BAMBU_2_EN_1.jpg",
+    "presentacion": "FRASCO X 300 X ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $27,67"
+    },
+    "descripcion": "jabon liquido bacterial bambu 2 en 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82146-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

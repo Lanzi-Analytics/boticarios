@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rozex-075--gel-topico-3499320000291/p",
+    "fecha_hora_scraping": "2021-06-14 00:44:34",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ROZEX 0.75 % GEL TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/ROZEX_075__GEL_TOPICO.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$102.800",
+        "precioPorSku js-PUM": "Gramo a $3.426,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "0.75 %"
+        ],
+        [
+            "Principio activo",
+            "METRONIDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-001312-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

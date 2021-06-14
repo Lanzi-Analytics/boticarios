@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-physiolift-crema-contorno-ojos-3282770049381/p",
+    "fecha_hora_scraping": "2021-06-14 04:11:08",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE PHYSIOLIFT CREMA CONTORNO OJOS",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_PHYSIOLIFT_CREMA_CONTORNO_OJOS.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$160.650",
+        "precioPorSku js-PUM": "Mililitro a $10.710,00"
+    },
+    "descripcion": "avene physiolift crema contorno ojos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC70464-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

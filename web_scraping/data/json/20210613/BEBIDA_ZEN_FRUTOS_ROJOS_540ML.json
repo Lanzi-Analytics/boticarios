@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-zen-frutos-rojos-540ml-7702354946692/p",
+    "fecha_hora_scraping": "2021-06-14 04:10:20",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "BEBIDA ZEN FRUTOS ROJOS 540ML",
+    "nombre_imagen": "./web_scraping/data/img/BEBIDA_ZEN_FRUTOS_ROJOS_540ML.jpg",
+    "presentacion": "BOTELLA X 54 0ML",
+    "precio": {
+        "bestPrice": "$2.050",
+        "precioPorSku js-PUM": "Mililitro a $3,80"
+    },
+    "descripcion": "BEBIDA ZEN FRUTOS ROJOS 540ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 54 0ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007913-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

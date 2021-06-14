@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-antinalitis-n4-medicada-tubo-30-7702057109714/p",
+    "fecha_hora_scraping": "2021-06-14 09:38:42",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CREMA ANTINALITIS N.4 MEDICADA TUBO 30",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_ANTINALITIS_N4_MEDICADA_TUBO_30.jpg",
+    "presentacion": "UNIDAD X 0",
+    "precio": {
+        "bestPrice": "$13.300",
+        "precioPorSku js-PUM": "Gramo a $443,33"
+    },
+    "descripcion": "crema antinalitis n.4 medicada tubo 30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 0"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

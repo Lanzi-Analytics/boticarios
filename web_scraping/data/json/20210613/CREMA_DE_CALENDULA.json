@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707232090191natural-freshlynaturalesmedicamentoscrema-de-calendulacalendula-flor-7707232090191/p",
+    "fecha_hora_scraping": "2021-06-14 02:12:51",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CREMA DE CALENDULA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DE_CALENDULA.jpg",
+    "presentacion": "POTE X 60 G",
+    "precio": {
+        "bestPrice": "$17.700",
+        "precioPorSku js-PUM": "Gramo a $295,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 60 G"
+        ],
+        [
+            "Concentracion",
+            "110 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CALENDULA FLOR"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2013-0002211"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

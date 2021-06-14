@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clarus-polvo-compacto-piel-trigena-7709988911188/p",
+    "fecha_hora_scraping": "2021-06-13 23:37:48",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CLARUS POLVO COMPACTO PIEL TRIGE\u00d1A",
+    "nombre_imagen": "./web_scraping/data/img/CLARUS_POLVO_COMPACTO_PIEL_TRIGE\u00d1A.jpg",
+    "presentacion": "CAJA X 12 GR",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $5.112,50"
+    },
+    "descripcion": "clarus polvo compacto piel trige\u00f1a",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 12 GR"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOHEALTHY SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77728-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

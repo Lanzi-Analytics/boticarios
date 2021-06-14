@@ -1,20 +1,20 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/ciruelax-minitabs-75-mg-comprimido-recubierto-7803510002259/p",
-    "fecha_hora_scraping": "2021-06-13 19:28:11",
+    "url_producto": "https://www.drogueriascolsubsidio.com/ciruelax-minitabs-75-mg-comprimido-recubierto-7803510002129/p",
+    "fecha_hora_scraping": "2021-06-14 04:40:52",
     "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
     "titulo": "CIRUELAX MINITABS 75 MG COMPRIMIDO RECUBIERTO",
     "nombre_imagen": "./web_scraping/data/img/CIRUELAX_MINITABS_75_MG_COMPRIMIDO_RECUBIERTO.jpg",
-    "presentacion": "CAJA X 60 COM",
+    "presentacion": "CAJA X 20 COM",
     "precio": {
-        "PrevPrice": "Antes:$32.850",
-        "bestPrice": "$22.995",
-        "precioPorSku js-PUM": "Comprimido a $383,25"
+        "PrevPrice": "Antes:$13.050",
+        "bestPrice": "$9.135",
+        "precioPorSku js-PUM": "Comprimido a $456,75"
     },
     "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 60 COM"
+            "CAJA X 20 COM"
         ],
         [
             "Concentracion",

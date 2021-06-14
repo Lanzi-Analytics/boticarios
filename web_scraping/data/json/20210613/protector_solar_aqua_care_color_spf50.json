@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-aqua-care-color-spf50-7707208612471/p",
+    "fecha_hora_scraping": "2021-06-14 00:14:11",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "protector solar aqua care color spf50+",
+    "nombre_imagen": "./web_scraping/data/img/protector_solar_aqua_care_color_spf50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$72.950",
+        "precioPorSku js-PUM": "Mililitro a $1.459,00"
+    },
+    "descripcion": "protector solar aqua care color spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97047-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

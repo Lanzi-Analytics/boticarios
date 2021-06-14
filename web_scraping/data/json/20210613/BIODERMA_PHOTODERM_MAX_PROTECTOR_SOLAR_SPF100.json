@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/3401353790100bioderma-photoderm-max-protector-solar-spf100-laitbellezadermocosmeticanaos-colombiabioderma-biodemar-bioderm-3401353790100/p",
+    "fecha_hora_scraping": "2021-06-14 03:28:45",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA PHOTODERM MAX PROTECTOR SOLAR SPF100",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_PHOTODERM_MAX_PROTECTOR_SOLAR_SPF100.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$133.100",
+        "precioPorSku js-PUM": "Mililitro a $1.331,00"
+    },
+    "descripcion": "protector solar bioderma photoderm max spf100 lait",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41383-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

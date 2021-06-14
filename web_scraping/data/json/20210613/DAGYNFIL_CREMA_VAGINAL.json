@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703712013773dagynfil-crema-vaginalmedicamentosformuladoscoaspharma-7703712013773/p",
+    "fecha_hora_scraping": "2021-06-14 01:43:59",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DAGYNFIL CREMA VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/DAGYNFIL_CREMA_VAGINAL.jpg",
+    "presentacion": "TUBO X 20G",
+    "precio": {
+        "bestPrice": "$56.250",
+        "precioPorSku js-PUM": "Gramo a $2.812,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20G"
+        ],
+        [
+            "Concentracion",
+            "2 G 2 G"
+        ],
+        [
+            "Principio activo",
+            "CLINDAMICINA FOSFATO CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "COASPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012860-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

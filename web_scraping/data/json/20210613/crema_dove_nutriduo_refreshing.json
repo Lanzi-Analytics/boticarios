@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dove-nutriduo-refreshing-7501056346171/p",
+    "fecha_hora_scraping": "2021-06-14 02:20:41",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "crema dove nutriduo refreshing",
+    "nombre_imagen": "./web_scraping/data/img/crema_dove_nutriduo_refreshing.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$21.900",
+        "precioPorSku js-PUM": "Mililitro a $54,75"
+    },
+    "descripcion": "crema dove nutricion go fresh 400 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC45670-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

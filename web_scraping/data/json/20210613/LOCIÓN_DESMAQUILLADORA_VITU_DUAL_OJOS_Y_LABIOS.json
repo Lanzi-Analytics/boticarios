@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-desmaquilladora-vitu-dual-ojos-y-labios-7702044210713/p",
+    "fecha_hora_scraping": "2021-06-14 06:24:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "LOCI\u00d3N DESMAQUILLADORA VITU DUAL OJOS Y LABIOS",
+    "nombre_imagen": "./web_scraping/data/img/LOCI\u00d3N_DESMAQUILLADORA_VITU_DUAL_OJOS_Y_LABIOS.jpg",
+    "presentacion": "FRASCO X 115 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $130,43"
+    },
+    "descripcion": "loci\u00f3n desmaquilladora vitu dual ojos y labios",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 115 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC43154-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

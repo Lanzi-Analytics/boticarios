@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/evinet-15-mg-tableta-recubierta-procaps-7703153031183/p",
+    "fecha_hora_scraping": "2021-06-14 05:04:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EVINET 1.5 MG TABLETA RECUBIERTA PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/EVINET_15_MG_TABLETA_RECUBIERTA_PROCAPS.jpg",
+    "presentacion": "CAJA X 1 TAB",
+    "precio": {
+        "bestPrice": "$12.250",
+        "precioPorSku js-PUM": "Tableta a $12.250,00"
+    },
+    "descripcion": "ESTE PRODUCTO ES UN MEDICAMENTO. NO EXCEDER SU CONSUMO. LEER INDICACIONES Y CONTRAINDICACIONES. SI LOS S\u00cdNTOMAS PERSISTEN, CONSULTAR AL M\u00c9DICO.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "1.5 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016656"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

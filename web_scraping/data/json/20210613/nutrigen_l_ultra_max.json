@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrigen-l-ultra-max-7709556023619/p",
+    "fecha_hora_scraping": "2021-06-14 05:37:07",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "nutrigen l ultra max",
+    "nombre_imagen": "./web_scraping/data/img/nutrigen_l_ultra_max.jpg",
+    "presentacion": "FRASCO X 700 G",
+    "precio": {
+        "bestPrice": "$40.000",
+        "precioPorSku js-PUM": "Gramo a $40.000,00"
+    },
+    "descripcion": "nutrigen l ultra max",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 700 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NATURLAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD05I26115"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

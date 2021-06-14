@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-pediasure-rpb-vainilla-pack-pague6-lleve8-7703186032959/p",
+    "fecha_hora_scraping": "2021-06-14 02:46:33",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA PEDIASURE RPB VAINILLA PACK PAGUE:6 LLEVE:8",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PEDIASURE_RPB_VAINILLA_PACK_PAGUE6_LLEVE8.jpg",
+    "presentacion": "PACK X 8 Botellas",
+    "precio": {
+        "bestPrice": "$43.200",
+        "precioPorSku js-PUM": "Mililitro a $30,38"
+    },
+    "descripcion": "oferta pediasure rpb vainilla pack pague:6 lleve:8",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PACK X 8 Botellas"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004217-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

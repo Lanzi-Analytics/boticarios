@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bactroderm-gel-antibacterial-candy-7702184690444/p",
+    "fecha_hora_scraping": "2021-06-13 23:30:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "BACTRODERM GEL ANTIBACTERIAL CANDY",
+    "nombre_imagen": "./web_scraping/data/img/BACTRODERM_GEL_ANTIBACTERIAL_CANDY.jpg",
+    "presentacion": "FRASCO X 35 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $117,14"
+    },
+    "descripcion": "bactroderm gel antibacterial candy",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 35 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40660-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

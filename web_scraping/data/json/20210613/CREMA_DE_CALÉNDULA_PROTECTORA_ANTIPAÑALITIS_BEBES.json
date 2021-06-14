@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-de-calendula-bebes-7707176461842/p",
+    "fecha_hora_scraping": "2021-06-14 10:18:17",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CREMA DE CAL\u00c9NDULA PROTECTORA ANTIPA\u00d1ALITIS BEBES",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DE_CAL\u00c9NDULA_PROTECTORA_ANTIPA\u00d1ALITIS_BEBES.jpg",
+    "presentacion": "POTE X 60 G",
+    "precio": {
+        "bestPrice": "$20.700",
+        "precioPorSku js-PUM": "Gramo a $345,00"
+    },
+    "descripcion": "crema de calendula bebes",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FUNDACI LABORATORIO FARMACOLOGIA VE"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06232-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

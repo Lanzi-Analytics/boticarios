@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutren-senior-polvo-sin-sabor-7891000303030/p",
+    "fecha_hora_scraping": "2021-06-14 08:52:09",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTREN SENIOR POLVO SIN SABOR",
+    "nombre_imagen": "./web_scraping/data/img/NUTREN_SENIOR_POLVO_SIN_SABOR.jpg",
+    "presentacion": "LATA X 740 G",
+    "precio": {
+        "bestPrice": "$84.350",
+        "precioPorSku js-PUM": "Gramo a $113,99"
+    },
+    "descripcion": "nutren senior polvo sin sabor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 740 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009205-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

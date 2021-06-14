@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/activox-jengibre-durazno-7707232091549/p",
+    "fecha_hora_scraping": "2021-06-14 06:24:48",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ACTIVOX JENGIBRE DURAZNO",
+    "nombre_imagen": "./web_scraping/data/img/ACTIVOX_JENGIBRE_DURAZNO.jpg",
+    "presentacion": "CAJA X 6 SOB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Sobre a $2.241,67"
+    },
+    "descripcion": "activox jengibre durazno",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 6 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-0006127-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

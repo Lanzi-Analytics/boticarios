@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladerm-clear-plus-gel-7707210530909/p",
+    "fecha_hora_scraping": "2021-06-14 02:55:38",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CALADERM CLEAR PLUS GEL",
+    "nombre_imagen": "./web_scraping/data/img/CALADERM_CLEAR_PLUS_GEL.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "bestPrice": "$18.300",
+        "precioPorSku js-PUM": "Gramo a $152,50"
+    },
+    "descripcion": "caladerm clear plus gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78248-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

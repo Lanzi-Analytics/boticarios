@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/c-grip-tableta-masticable-sabor-naranja-7703234103358/p",
+    "fecha_hora_scraping": "2021-06-14 05:03:17",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "C-GRIP TABLETA MASTICABLE SABOR NARANJA",
+    "nombre_imagen": "./web_scraping/data/img/CGRIP_TABLETA_MASTICABLE_SABOR_NARANJA.jpg",
+    "presentacion": "SOBRE X 10 TAB",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $275,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0006001-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

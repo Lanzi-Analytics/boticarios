@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-eucerin-sun-spray--eucerin-oil-control-protector-solar-7702003008290/p",
+    "fecha_hora_scraping": "2021-06-14 04:17:55",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "KIT EUCERIN SUN SPRAY + EUCERIN OIL CONTROL PROTECTOR SOLAR",
+    "nombre_imagen": "./web_scraping/data/img/KIT_EUCERIN_SUN_SPRAY__EUCERIN_OIL_CONTROL_PROTECTOR_SOLAR.jpg",
+    "presentacion": "CAJA X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $112.950,00"
+    },
+    "descripcion": "kit eucerin sun spray + eucerin oil control protector solar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63190-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

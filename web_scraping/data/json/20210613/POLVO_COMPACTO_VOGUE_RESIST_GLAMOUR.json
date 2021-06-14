@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-compacto-vogue-resist-glamour-7509552827934/p",
+    "fecha_hora_scraping": "2021-06-14 08:24:52",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO COMPACTO VOGUE RESIST GLAMOUR",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_COMPACTO_VOGUE_RESIST_GLAMOUR.jpg",
+    "presentacion": "UNIDAD X 14 G",
+    "precio": {
+        "bestPrice": "$12.950",
+        "precioPorSku js-PUM": "Gramo a $925,00"
+    },
+    "descripcion": "polvo compacto vogue resist glamour",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 14 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84699-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

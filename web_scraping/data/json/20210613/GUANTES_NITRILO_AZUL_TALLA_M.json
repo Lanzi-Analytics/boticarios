@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-nitrilo-azul-talla-m-7707228362349/p",
+    "fecha_hora_scraping": "2021-06-14 09:26:07",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES NITRILO AZUL TALLA M",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_NITRILO_AZUL_TALLA_M.jpg",
+    "presentacion": "BOLSA X 1 Par",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Parche a $1.750,00"
+    },
+    "descripcion": "guantes nitrilo azul talla m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 Par"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALFA TRADING SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016700"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

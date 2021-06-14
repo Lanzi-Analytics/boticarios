@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-muuu-vasito-colombina-vainilla-7702011113603/p",
+    "fecha_hora_scraping": "2021-06-14 00:07:19",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado muuu vasito colombina vainilla",
+    "nombre_imagen": "./web_scraping/data/img/helado_muuu_vasito_colombina_vainilla.jpg",
+    "presentacion": "UNIDAD X 45 G",
+    "precio": {
+        "bestPrice": "$1.050",
+        "precioPorSku js-PUM": "Gramo a $23,33"
+    },
+    "descripcion": "helado muuu vasito colombina vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 45 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001086-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

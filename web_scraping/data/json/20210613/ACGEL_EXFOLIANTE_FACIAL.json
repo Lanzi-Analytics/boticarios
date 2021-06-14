@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acgel-exfoliante-facial-7707016405265/p",
+    "fecha_hora_scraping": "2021-06-14 06:41:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ACGEL EXFOLIANTE FACIAL",
+    "nombre_imagen": "./web_scraping/data/img/ACGEL_EXFOLIANTE_FACIAL.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$25.050",
+        "precioPorSku js-PUM": "Gramo a $835,00"
+    },
+    "descripcion": "acgel exfoliante facial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73335-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

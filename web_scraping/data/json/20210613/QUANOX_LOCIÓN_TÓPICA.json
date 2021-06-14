@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/quanox-locion-7707355050485/p",
+    "fecha_hora_scraping": "2021-06-14 02:08:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "QUANOX LOCI\u00d3N T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/QUANOX_LOCI\u00d3N_T\u00d3PICA.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "PrevPrice": "Antes:$32.400",
+        "bestPrice": "$22.680",
+        "precioPorSku js-PUM": "Mililitro a $378,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "IVERMECTINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0010009"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

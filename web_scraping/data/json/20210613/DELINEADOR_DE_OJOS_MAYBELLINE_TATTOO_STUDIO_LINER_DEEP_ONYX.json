@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-de-ojos-maybelline-tattoo-studio-liner-deep-onyx-41554563337/p",
+    "fecha_hora_scraping": "2021-06-14 02:16:13",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR DE OJOS MAYBELLINE TATTOO STUDIO LINER DEEP ONYX",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_DE_OJOS_MAYBELLINE_TATTOO_STUDIO_LINER_DEEP_ONYX.jpg",
+    "presentacion": "UNIDAD X 12 G",
+    "precio": {
+        "bestPrice": "$28.400",
+        "precioPorSku js-PUM": "Gramo a $23.666,67"
+    },
+    "descripcion": "delineador de ojos maybelline tattoo studio liner deep onyx",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93584-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunglass-polvo-compacto-medium-7707183820083/p",
+    "fecha_hora_scraping": "2021-06-13 23:30:55",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "sunglass polvo compacto medium",
+    "nombre_imagen": "./web_scraping/data/img/sunglass_polvo_compacto_medium.jpg",
+    "presentacion": "ESTUCHE X 12 G",
+    "precio": {
+        "PrevPrice": "Antes:$110.700",
+        "bestPrice": "$83.025",
+        "precioPorSku js-PUM": "Gramo a $6.918,75"
+    },
+    "descripcion": "sunglass polvo compacto medium",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ESTUCHE X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69986-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ragitar-1mg-tableta-8902269250566/p",
+    "fecha_hora_scraping": "2021-06-14 08:02:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RAGITAR 1MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/RAGITAR_1MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$51.700",
+        "precioPorSku js-PUM": "Tableta a $5.170,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "RASAGILINA MESILATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LEGRAND SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013872"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aftakids-gel-oral-7709990613124/p",
+    "fecha_hora_scraping": "2021-06-14 01:42:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "AFTAKIDS GEL ORAL",
+    "nombre_imagen": "./web_scraping/data/img/AFTAKIDS_GEL_ORAL.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$24.950",
+        "precioPorSku js-PUM": "Gramo a $1.663,33"
+    },
+    "descripcion": "aftakids gel oral",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PF FARMACEUTICA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55574-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

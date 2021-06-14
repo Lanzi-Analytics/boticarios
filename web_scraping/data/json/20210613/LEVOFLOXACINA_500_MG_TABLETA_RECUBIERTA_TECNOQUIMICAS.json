@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levofloxacina-500-mg-tableta-recubierta-tecnoquimicas-7702057712303/p",
+    "fecha_hora_scraping": "2021-06-14 07:17:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOFLOXACINA 500 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LEVOFLOXACINA_500_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 7 TAB",
+    "precio": {
+        "bestPrice": "$42.100",
+        "precioPorSku js-PUM": "Tableta a $6.014,29"
+    },
+    "descripcion": "levofloxacina 500 mg tableta recubierta tecnoquimicas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOFLOXACINA HEMIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010148-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

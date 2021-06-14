@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-adhesiva-menta-7702314700456/p",
+    "fecha_hora_scraping": "2021-06-14 10:19:30",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CREMA ADHESIVA MENTA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_ADHESIVA_MENTA.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$20.600",
+        "precioPorSku js-PUM": "Gramo a $515,00"
+    },
+    "descripcion": "crema adhesiva menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0000237"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

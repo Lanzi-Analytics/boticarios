@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bronceador-banana-boat-spf-4-79656500257/p",
+    "fecha_hora_scraping": "2021-06-14 04:12:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "bronceador banana boat spf 4",
+    "nombre_imagen": "./web_scraping/data/img/bronceador_banana_boat_spf_4.jpg",
+    "presentacion": "UNIDAD X 236 ML",
+    "precio": {
+        "PrevPrice": "Antes:$28.550",
+        "bestPrice": "$19.985",
+        "precioPorSku js-PUM": "Mililitro a $84,68"
+    },
+    "descripcion": "bronceador banana boat spf 4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 236 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EDGEWELL PERSONAL CARE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2004CO12671"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

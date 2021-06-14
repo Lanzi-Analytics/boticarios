@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-titanium-aqua-mandarina-7709990037340/p",
+    "fecha_hora_scraping": "2021-06-14 06:54:37",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "POLVO TITANIUM AQUA MANDARINA",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_TITANIUM_AQUA_MANDARINA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $4.600,00"
+    },
+    "descripcion": "polvo titanium aqua mandarina",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALIMENTOS Y BEBIDAS VALTIK SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD09I21814"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

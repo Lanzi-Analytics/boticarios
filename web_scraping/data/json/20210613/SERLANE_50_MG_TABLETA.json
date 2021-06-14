@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/serlane-50-mg-tableta-7709990718171/p",
+    "fecha_hora_scraping": "2021-06-14 08:07:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SERLANE 50 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/SERLANE_50_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$24.900",
+        "precioPorSku js-PUM": "Tableta a $2.490,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "SERTRALINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ANESPA FARMACEUTICA E U"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013681"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

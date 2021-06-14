@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mesigyna-50-mg1-ml-solucion-inyectable-7501303443301/p",
+    "fecha_hora_scraping": "2021-06-14 05:05:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MESIGYNA 50 MG/1 ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/MESIGYNA_50_MG1_ML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$8.300",
+        "precioPorSku js-PUM": "Unidad a $8.300,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "NORETISTERONA ENANTATO ESTRADIOL VALERATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-015153-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/of-panal-hug-actsec-peq-pg34-llev-36-16-wipes-7702425806597/p",
+    "fecha_hora_scraping": "2021-06-14 07:13:50",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OF-PA\u00d1AL HUG ACTSEC PEQ PG34 LLEV 36 +16 WIPES",
+    "nombre_imagen": "./web_scraping/data/img/OFPA\u00d1AL_HUG_ACTSEC_PEQ_PG34_LLEV_36_16_WIPES.jpg",
+    "presentacion": "PAQUETE X 34 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $632,35"
+    },
+    "descripcion": "OF-PA\u00d1AL HUG ACTSEC PEQ PG34 LLEV 36 +16 WIPES",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 34 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00184-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

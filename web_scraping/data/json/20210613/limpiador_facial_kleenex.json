@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/limpiador-facial-kleenex-7702425550469/p",
+    "fecha_hora_scraping": "2021-06-14 06:51:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "limpiador facial kleenex",
+    "nombre_imagen": "./web_scraping/data/img/limpiador_facial_kleenex.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$9.650",
+        "precioPorSku js-PUM": "Unidad a $9.650,00"
+    },
+    "descripcion": "limpiador facial kleenex reg 12x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

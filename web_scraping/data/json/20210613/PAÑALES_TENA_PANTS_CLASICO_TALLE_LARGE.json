@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-tena-pants-clasico-talle-large-7702026174156/p",
+    "fecha_hora_scraping": "2021-06-14 01:38:38",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "PA\u00d1ALES TENA PANTS CLASICO TALLE LARGE",
+    "nombre_imagen": "./web_scraping/data/img/PA\u00d1ALES_TENA_PANTS_CLASICO_TALLE_LARGE.jpg",
+    "presentacion": "PAQUETE X 8 UN",
+    "precio": {
+        "bestPrice": "$23.000",
+        "precioPorSku js-PUM": "Unidad a $2.875,00"
+    },
+    "descripcion": "panal tena pants clasico large x8",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA06225-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

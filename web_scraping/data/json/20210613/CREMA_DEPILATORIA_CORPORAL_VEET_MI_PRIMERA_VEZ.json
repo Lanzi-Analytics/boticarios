@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-depilatoria-corporal-veet-mi-primera-vez-7702626202280/p",
+    "fecha_hora_scraping": "2021-06-13 23:32:56",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "CREMA DEPILATORIA CORPORAL VEET MI PRIMERA VEZ",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DEPILATORIA_CORPORAL_VEET_MI_PRIMERA_VEZ.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "PrevPrice": "Antes:$12.650",
+        "bestPrice": "$10.120",
+        "precioPorSku js-PUM": "Mililitro a $202,40"
+    },
+    "descripcion": "crema depilatoria corporal veet mi primera vez",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RB HEALTH COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69268-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

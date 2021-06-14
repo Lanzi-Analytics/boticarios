@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oral-kids-crema-dental-sin-fluor-7707342959951/p",
+    "fecha_hora_scraping": "2021-06-14 06:48:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "ORAL KIDS CREMA DENTAL SIN FLUOR",
+    "nombre_imagen": "./web_scraping/data/img/ORAL_KIDS_CREMA_DENTAL_SIN_FLUOR.jpg",
+    "presentacion": "TUBO X 75 G",
+    "precio": {
+        "bestPrice": "$12.650",
+        "precioPorSku js-PUM": "Gramo a $168,67"
+    },
+    "descripcion": "oral kids crema dental sin fluor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCLIN PHARMA S.A."
+        ],
+        [
+            "Registro Invima",
+            "NSOC56938-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

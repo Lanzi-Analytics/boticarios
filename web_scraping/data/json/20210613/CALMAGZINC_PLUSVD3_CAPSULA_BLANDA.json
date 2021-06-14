@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/751273780471healty-americanaturalesmedicamentoscal-mag-zinc-plusvd3-capsula-blandamulticomponentes-751273780471/p",
+    "fecha_hora_scraping": "2021-06-14 07:40:07",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CAL-MAG-ZINC PLUSVD3 CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/CALMAGZINC_PLUSVD3_CAPSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 90 CAP",
+    "precio": {
+        "bestPrice": "$44.250",
+        "precioPorSku js-PUM": "Capsula a $491,67"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "HEALTHY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2014-0003260"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

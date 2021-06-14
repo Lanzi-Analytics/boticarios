@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707232090085natural-freshlynaturalesmedicamentosartrisan-plus-capsula-7707232090085/p",
+    "fecha_hora_scraping": "2021-06-14 05:55:19",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ARTRISAN PLUS CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/ARTRISAN_PLUS_CAPSULA.jpg",
+    "presentacion": "FRASCO X 50 CAP",
+    "precio": {
+        "bestPrice": "$40.650",
+        "precioPorSku js-PUM": "Capsula a $677,50"
+    },
+    "descripcion": "artrisan plus capsula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD13I24101"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

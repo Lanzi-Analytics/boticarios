@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidrocortisona-1--crema-tecnoquimicas-7702057075002/p",
+    "fecha_hora_scraping": "2021-06-14 08:23:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HIDROCORTISONA 1 % CREMA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/HIDROCORTISONA_1__CREMA_TECNOQUIMICAS.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$5.150",
+        "precioPorSku js-PUM": "Gramo a $343,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "HIDROCORTISONA ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010425"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

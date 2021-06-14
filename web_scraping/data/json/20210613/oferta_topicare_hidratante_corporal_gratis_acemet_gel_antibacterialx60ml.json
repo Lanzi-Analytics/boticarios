@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-topicare-hidratante-corporal-gratis-acemet-gel-antibacterialx60ml-7707222420564/p",
+    "fecha_hora_scraping": "2021-06-14 07:10:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "oferta topicare hidratante corporal gratis acemet gel antibacterialx60ml",
+    "nombre_imagen": "./web_scraping/data/img/oferta_topicare_hidratante_corporal_gratis_acemet_gel_antibacterialx60ml.jpg",
+    "presentacion": "FRASCO X 280 ML",
+    "precio": {
+        "bestPrice": "$56.950",
+        "precioPorSku js-PUM": "Mililitro a $203,39"
+    },
+    "descripcion": "oferta topicare hidratante corporal gratis acemet gel antibacterialx60ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 280 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC07077-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

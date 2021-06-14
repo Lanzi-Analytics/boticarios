@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/metrinelle-2-mg-tableta-8437009433560/p",
+    "fecha_hora_scraping": "2021-06-14 09:39:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METRINELLE 2 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/METRINELLE_2_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$69.850",
+        "precioPorSku js-PUM": "Tableta a $2.494,64"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG"
+        ],
+        [
+            "Principio activo",
+            "DIENOGEST"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016006"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

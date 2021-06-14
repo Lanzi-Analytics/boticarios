@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flixotide-125-mcg-inhalador-7861028101086/p",
+    "fecha_hora_scraping": "2021-06-14 00:47:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLIXOTIDE 125 MCG INHALADOR",
+    "nombre_imagen": "./web_scraping/data/img/FLIXOTIDE_125_MCG_INHALADOR.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$57.050",
+        "precioPorSku js-PUM": "Unidad a $57.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "125 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "FLUTICASONA PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009810"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

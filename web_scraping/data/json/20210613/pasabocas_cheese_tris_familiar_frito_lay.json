@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-cheese-tris-familiar-frito-lay-7702189045829/p",
+    "fecha_hora_scraping": "2021-06-14 09:52:46",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas cheese tris familiar frito lay",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_cheese_tris_familiar_frito_lay.jpg",
+    "presentacion": "PAQUETE X 93 G",
+    "precio": {
+        "PrevPrice": "Antes:$2.050",
+        "bestPrice": "$1.435",
+        "precioPorSku js-PUM": "Gramo a $15,43"
+    },
+    "descripcion": "pasabocas cheese tris familiar frito lay",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 93 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA21I02600"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

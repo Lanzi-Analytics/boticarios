@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bienex-75-mg-capsula-blanda-7703153016364/p",
+    "fecha_hora_scraping": "2021-06-14 00:16:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BIENEX 7.5 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/BIENEX_75_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$62.950",
+        "precioPorSku js-PUM": "Capsula a $6.295,00"
+    },
+    "descripcion": "BIENEX 7.5 MG CAPSULA BLANDA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "7.5 MG"
+        ],
+        [
+            "Principio activo",
+            "MELOXICAM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-13725-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

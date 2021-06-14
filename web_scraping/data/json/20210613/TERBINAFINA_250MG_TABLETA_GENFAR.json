@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/terbinafina-250mg-tableta-genfar-7702605105687/p",
+    "fecha_hora_scraping": "2021-06-14 09:24:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TERBINAFINA 250MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/TERBINAFINA_250MG_TABLETA_GENFAR.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$51.050",
+        "precioPorSku js-PUM": "Tableta a $3.646,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "TERBINAFINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005424-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

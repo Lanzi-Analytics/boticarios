@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-gel-termoactivo-corporal-precalentamiento-7707016405807/p",
+    "fecha_hora_scraping": "2021-06-14 09:48:20",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ARAWAK GEL TERMOACTIVO CORPORAL PRECALENTAMIENTO",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_GEL_TERMOACTIVO_CORPORAL_PRECALENTAMIENTO.jpg",
+    "presentacion": "TUBO X 120 G",
+    "precio": {
+        "bestPrice": "$26.550",
+        "precioPorSku js-PUM": "Gramo a $221,25"
+    },
+    "descripcion": "arawak gel termoactivo corporal precalentamiento",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82335-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

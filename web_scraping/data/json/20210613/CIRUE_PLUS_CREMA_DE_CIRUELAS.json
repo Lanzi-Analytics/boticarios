@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cirue-plus-crema-de-ciruelas-7709686781021/p",
+    "fecha_hora_scraping": "2021-06-14 01:43:48",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CIRUE PLUS CREMA DE CIRUELAS",
+    "nombre_imagen": "./web_scraping/data/img/CIRUE_PLUS_CREMA_DE_CIRUELAS.jpg",
+    "presentacion": "FRASCO X 150 G",
+    "precio": {
+        "bestPrice": "$31.300",
+        "precioPorSku js-PUM": "Gramo a $208,67"
+    },
+    "descripcion": "CIRUE PLUS CREMA DE CIRUELAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-003945-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

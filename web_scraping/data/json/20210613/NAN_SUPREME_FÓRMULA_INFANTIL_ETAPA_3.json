@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nan-supreme-formula-infantil-etapa-3-7501058646996/p",
+    "fecha_hora_scraping": "2021-06-14 07:18:33",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NAN SUPREME F\u00d3RMULA INFANTIL ETAPA 3",
+    "nombre_imagen": "./web_scraping/data/img/NAN_SUPREME_F\u00d3RMULA_INFANTIL_ETAPA_3.jpg",
+    "presentacion": "TARRO X 800 G",
+    "precio": {
+        "bestPrice": "$73.450",
+        "precioPorSku js-PUM": "Gramo a $91,81"
+    },
+    "descripcion": "nan supreme f\u00f3rmula infantil etapa 3",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I78215"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

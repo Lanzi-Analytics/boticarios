@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levocetirizina-5-mg-tableta-recubierta-procaps-7703153020255/p",
+    "fecha_hora_scraping": "2021-06-14 05:23:25",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOCETIRIZINA 5 MG TABLETA RECUBIERTA PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/LEVOCETIRIZINA_5_MG_TABLETA_RECUBIERTA_PROCAPS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$23.150",
+        "precioPorSku js-PUM": "Tableta a $2.315,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003814-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

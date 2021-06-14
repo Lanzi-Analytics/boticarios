@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/calcitrol-025-mcg-capsula-blanda-7707189520482/p",
+    "fecha_hora_scraping": "2021-06-14 05:46:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CALCITROL 0.25 MCG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/CALCITROL_025_MCG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$44.550",
+        "precioPorSku js-PUM": "Capsula a $1.485,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "0.25 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "CALCITRIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0001994-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

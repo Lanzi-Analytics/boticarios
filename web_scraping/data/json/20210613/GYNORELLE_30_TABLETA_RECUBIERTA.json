@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gynorelle-30-tableta-recubierta-7702870072943/p",
+    "fecha_hora_scraping": "2021-06-14 06:50:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GYNORELLE 30 TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/GYNORELLE_30_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 21 TAB",
+    "precio": {
+        "bestPrice": "$24.200",
+        "precioPorSku js-PUM": "Tableta a $1.152,38"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0.03 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORMADINONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018256"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

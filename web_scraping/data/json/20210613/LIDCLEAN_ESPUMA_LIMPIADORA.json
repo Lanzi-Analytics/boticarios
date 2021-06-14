@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lidclean-espuma-limpiadora-7703281002109/p",
+    "fecha_hora_scraping": "2021-06-14 09:16:47",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "LIDCLEAN ESPUMA LIMPIADORA",
+    "nombre_imagen": "./web_scraping/data/img/LIDCLEAN_ESPUMA_LIMPIADORA.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$76.450",
+        "precioPorSku js-PUM": "Gramo a $1.529,00"
+    },
+    "descripcion": "lidclean espuma limpiadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76949-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

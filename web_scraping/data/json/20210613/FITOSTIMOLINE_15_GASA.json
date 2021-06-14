@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/fitostimoline-15-gasa-7704232000441/p",
-    "fecha_hora_scraping": "2021-06-13 18:17:35",
-    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "url_producto": "https://www.drogueriascolsubsidio.com/fitostimoline-15-gasa-7704232000700/p",
+    "fecha_hora_scraping": "2021-06-14 05:49:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
     "titulo": "FITOSTIMOLINE 15% GASA",
     "nombre_imagen": "./web_scraping/data/img/FITOSTIMOLINE_15_GASA.jpg",
-    "presentacion": "CAJA X 10 UN",
+    "presentacion": "CAJA X 3 UN",
     "precio": {
-        "bestPrice": "$96.150",
-        "precioPorSku js-PUM": "Unidad a $9.615,00"
+        "bestPrice": "$33.150",
+        "precioPorSku js-PUM": "Unidad a $11.050,00"
     },
     "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "CAJA X 10 UN"
+            "CAJA X 3 UN"
         ],
         [
             "Concentracion",

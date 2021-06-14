@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/5016533653076formula-infantil-neocate-junior-vainilla-etapa-1mamas-y-bebesformulas-infantilesdanone-5016533653076/p",
+    "fecha_hora_scraping": "2021-06-14 03:41:34",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL NEOCATE JUNIOR VAINILLA ETAPA 1",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_NEOCATE_JUNIOR_VAINILLA_ETAPA_1.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$94.350",
+        "precioPorSku js-PUM": "Gramo a $235,88"
+    },
+    "descripcion": "formula infantil neocate junior vainilla etapa 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DANONE BABY NUTRITION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009886-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

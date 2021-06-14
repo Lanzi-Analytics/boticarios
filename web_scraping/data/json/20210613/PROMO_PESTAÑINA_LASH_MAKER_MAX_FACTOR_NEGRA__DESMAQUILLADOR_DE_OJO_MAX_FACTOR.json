@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/promo-pestanina-lash-maker-max-factor-negra--desmaquillador-de-ojo-max-factor-7702044014175/p",
+    "fecha_hora_scraping": "2021-06-14 03:01:49",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PROMO PESTA\u00d1INA LASH MAKER MAX FACTOR NEGRA + DESMAQUILLADOR DE OJO MAX FACTOR",
+    "nombre_imagen": "./web_scraping/data/img/PROMO_PESTA\u00d1INA_LASH_MAKER_MAX_FACTOR_NEGRA__DESMAQUILLADOR_DE_OJO_MAX_FACTOR.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$32.700",
+        "precioPorSku js-PUM": "Mililitro a $16.350,00"
+    },
+    "descripcion": "promo pesta\u00f1ina lash maker max factor negra + desmaquillador de ojo max factor",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC007762-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

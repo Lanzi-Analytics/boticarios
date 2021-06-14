@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-sunfluid-antiedad-protector-solar-spf50-4005900265227/p",
+    "fecha_hora_scraping": "2021-06-14 08:08:50",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN SUNFLUID ANTIEDAD PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_SUNFLUID_ANTIEDAD_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $1.939,00"
+    },
+    "descripcion": "EUCERIN SUNFLUID ANTIEDAD PROTECTOR SOLAR SPF50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72298-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

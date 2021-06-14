@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-la-especial-mezcla-arandanos-7702007049398/p",
+    "fecha_hora_scraping": "2021-06-14 01:28:07",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "man\u00ed la especial mezcla arandanos",
+    "nombre_imagen": "./web_scraping/data/img/man\u00ed_la_especial_mezcla_arandanos.jpg",
+    "presentacion": "PAQUETE X 45 G",
+    "precio": {
+        "bestPrice": "$2.550",
+        "precioPorSku js-PUM": "Gramo a $56,67"
+    },
+    "descripcion": "man\u00ed la especial mezcla arandanos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 45 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAA05I23213"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

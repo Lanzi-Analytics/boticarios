@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/650240032431genommarostrobellezapolvo-compacto-asepxia-bb-maquillaje-beige-mateacnepuntos-negroacne-maquillaje-limpiador-granos-facial-650240032431/p",
+    "fecha_hora_scraping": "2021-06-13 23:51:54",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO COMPACTO ASEPXIA BB MAQUILLAJE BEIGE MATE",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_COMPACTO_ASEPXIA_BB_MAQUILLAJE_BEIGE_MATE.jpg",
+    "presentacion": "CAJA X 10 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $2.930,00"
+    },
+    "descripcion": "enriquecido con mol\u00e9culas que absorben la grasa para reducir y combatir imperfecciones",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77836-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

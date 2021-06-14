@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-liquido-protex-facial-puntos-negros-x-150-7509546077635/p",
+    "fecha_hora_scraping": "2021-06-14 04:43:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "JABON LIQUIDO PROTEX FACIAL PUNTOS NEGROS X 150",
+    "nombre_imagen": "./web_scraping/data/img/JABON_LIQUIDO_PROTEX_FACIAL_PUNTOS_NEGROS_X_150.jpg",
+    "presentacion": "UNIDAD X150ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $143,33"
+    },
+    "descripcion": "JABON LIQUIDO PROTEX FACIAL PUNTOS NEGROS X 150",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X150ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92947-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

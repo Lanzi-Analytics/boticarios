@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/azitromicina-200-mg5-mlpolvo-para-suspension-tecnoquimicas-7702057070922/p",
+    "fecha_hora_scraping": "2021-06-13 23:18:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AZITROMICINA 200 MG/5 MLPOLVO PARA SUSPENSION TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/AZITROMICINA_200_MG5_MLPOLVO_PARA_SUSPENSION_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$14.950",
+        "precioPorSku js-PUM": "Mililitro a $996,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AZITROMICINA DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002588-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-tampones-kotex-digitales-talla-m-7702425805354/p",
+    "fecha_hora_scraping": "2021-06-14 08:47:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "oferta tampones kotex digitales talla m",
+    "nombre_imagen": "./web_scraping/data/img/oferta_tampones_kotex_digitales_talla_m.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$15.250",
+        "precioPorSku js-PUM": "Unidad a $508,33"
+    },
+    "descripcion": "tamp kot evo dig m x32 super oferta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

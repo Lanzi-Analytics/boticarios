@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-xtreme-3-ht-piel-delicada-7591066711014/p",
+    "fecha_hora_scraping": "2021-06-14 09:14:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar xtreme 3 ht piel delicada",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_xtreme_3_ht_piel_delicada.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$5.850",
+        "precioPorSku js-PUM": "Unidad a $5.850,00"
+    },
+    "descripcion": "maquina de afeitar xtreme 3 ht piel delicada",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EDGEWELL PERSONAL CARE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/strataderm-gel-7640140193311/p",
+    "fecha_hora_scraping": "2021-06-14 09:01:25",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "STRATADERM GEL",
+    "nombre_imagen": "./web_scraping/data/img/STRATADERM_GEL.jpg",
+    "presentacion": "TUBO X 5 G",
+    "precio": {
+        "bestPrice": "$70.900",
+        "precioPorSku js-PUM": "Gramo a $14.180,00"
+    },
+    "descripcion": "strataderm gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0018400"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

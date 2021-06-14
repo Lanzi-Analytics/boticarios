@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/quipitos-pops-8-gr-7702354930783/p",
+    "fecha_hora_scraping": "2021-06-14 04:57:08",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "QUIPITOS POPS 8 GR",
+    "nombre_imagen": "./web_scraping/data/img/QUIPITOS_POPS_8_GR.jpg",
+    "presentacion": "SOBRE X 8 G",
+    "precio": {
+        "bestPrice": "$550",
+        "precioPorSku js-PUM": "Gramo a $68,75"
+    },
+    "descripcion": "QUIPITOS POPS 8 GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001551-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

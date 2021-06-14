@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/remital-crema-7707355050966/p",
+    "fecha_hora_scraping": "2021-06-13 23:35:57",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "REMITAL CREMA",
+    "nombre_imagen": "./web_scraping/data/img/REMITAL_CREMA.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$47.200",
+        "precioPorSku js-PUM": "Gramo a $786,67"
+    },
+    "descripcion": "remital crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC26809-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

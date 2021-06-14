@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nifedipino-10mg-capsula-dura-lafrancol-7706569000774/p",
+    "fecha_hora_scraping": "2021-06-14 02:37:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NIFEDIPINO 10MG C\u00c1PSULA DURA LAFRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/NIFEDIPINO_10MG_C\u00c1PSULA_DURA_LAFRANCOL.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$11.000",
+        "precioPorSku js-PUM": "Capsula a $366,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "10,0 MG"
+        ],
+        [
+            "Principio activo",
+            "NIFEDIPINO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-003008-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

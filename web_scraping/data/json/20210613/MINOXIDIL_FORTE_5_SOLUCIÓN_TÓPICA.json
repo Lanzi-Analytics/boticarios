@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/minoxidil-forte-5-solucion-topica-7703153039172/p",
+    "fecha_hora_scraping": "2021-06-14 01:27:20",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "MINOXIDIL FORTE 5% SOLUCI\u00d3N T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/MINOXIDIL_FORTE_5_SOLUCI\u00d3N_T\u00d3PICA.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$51.300",
+        "precioPorSku js-PUM": "Mililitro a $513,00"
+    },
+    "descripcion": "minoxidil forte 5% soluci\u00f3n t\u00f3pica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "MINOXIDIL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0020005"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

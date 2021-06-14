@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-crema-dental-bebe-gratis-cepillo-proquident-7702314502210/p",
+    "fecha_hora_scraping": "2021-06-14 07:14:30",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "OFERTA CREMA DENTAL BEBE GRATIS CEPILLO PROQUIDENT",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_CREMA_DENTAL_BEBE_GRATIS_CEPILLO_PROQUIDENT.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$11.450",
+        "precioPorSku js-PUM": "Gramo a $152,67"
+    },
+    "descripcion": "oferta crema dental bebe gratis cepillo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROQUIDENT SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC50084-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

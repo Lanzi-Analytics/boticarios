@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampones-nosotras-digital-tamano-super-7702027435423/p",
+    "fecha_hora_scraping": "2021-06-14 05:06:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "tampones nosotras digital tama\u00f1o super",
+    "nombre_imagen": "./web_scraping/data/img/tampones_nosotras_digital_tama\u00f1o_super.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$14.300",
+        "precioPorSku js-PUM": "Unidad a $715,00"
+    },
+    "descripcion": "tampon nosotras digital super x20",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

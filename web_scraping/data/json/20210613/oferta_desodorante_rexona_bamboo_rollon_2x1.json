@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-desodorante-rexona-bamboo-roll-on-2x1-7702006130769/p",
+    "fecha_hora_scraping": "2021-06-14 01:17:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "oferta desodorante rexona bamboo roll-on 2x1",
+    "nombre_imagen": "./web_scraping/data/img/oferta_desodorante_rexona_bamboo_rollon_2x1.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$17.400",
+        "precioPorSku js-PUM": "Mililitro a $348,00"
+    },
+    "descripcion": "of 2 desod rexona r-on wom x50 ml bamb",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO27315"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

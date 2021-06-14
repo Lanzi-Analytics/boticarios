@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/4005808369621beiersdorfcuidado-facialmedicamentosnivea-med-protection-4005808369621/p",
+    "fecha_hora_scraping": "2021-06-14 10:02:46",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "NIVEA MED PROTECTION",
+    "nombre_imagen": "./web_scraping/data/img/NIVEA_MED_PROTECTION.jpg",
+    "presentacion": "TUBO X 4,8 G",
+    "precio": {
+        "bestPrice": "$13.800",
+        "precioPorSku js-PUM": "Gramo a $2.875,00"
+    },
+    "descripcion": "nivea med protection",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4,8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC47518-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

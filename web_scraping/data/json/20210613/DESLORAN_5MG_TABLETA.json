@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desloran-5mg-tableta-7703889120458/p",
+    "fecha_hora_scraping": "2021-06-14 04:53:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DESLORAN 5MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DESLORAN_5MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$56.800",
+        "precioPorSku js-PUM": "Tableta a $5.680,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "DESLORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001486-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

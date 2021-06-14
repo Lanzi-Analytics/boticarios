@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jugo-hit-maracuya-7702090042122/p",
+    "fecha_hora_scraping": "2021-06-14 10:19:36",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "JUGO HIT MARACUY\u00c1",
+    "nombre_imagen": "./web_scraping/data/img/JUGO_HIT_MARACUY\u00c1.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Mililitro a $3,50"
+    },
+    "descripcion": "jugo hit maracuy\u00e1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003870-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

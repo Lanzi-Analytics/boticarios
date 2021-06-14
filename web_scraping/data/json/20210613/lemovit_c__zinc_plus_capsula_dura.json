@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lemovit-c--zinc-plus-capsula-dura-7703153030858/p",
+    "fecha_hora_scraping": "2021-06-14 09:18:59",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "LEMOVIT C + ZINC PLUS CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/LEMOVIT_C__ZINC_PLUS_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$12.450",
+        "precioPorSku js-PUM": "Capsula a $1.245,00"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003734"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

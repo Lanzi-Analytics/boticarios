@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-mani-moto-limon-frito-lay-7702189039507/p",
+    "fecha_hora_scraping": "2021-06-14 05:55:25",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "MAN\u00cd MAN\u00cd MOTO LIM\u00d3N FRITO LAY",
+    "nombre_imagen": "./web_scraping/data/img/MAN\u00cd_MAN\u00cd_MOTO_LIM\u00d3N_FRITO_LAY.jpg",
+    "presentacion": "PAQUETE X 38 G",
+    "precio": {
+        "bestPrice": "$1.100",
+        "precioPorSku js-PUM": "Gramo a $28,95"
+    },
+    "descripcion": "man\u00ed man\u00ed moto lim\u00f3n frito lay",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 38 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD13I79902"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

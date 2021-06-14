@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-manzana-7702090029512/p",
+    "fecha_hora_scraping": "2021-06-14 01:54:56",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa manzana",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_manzana.jpg",
+    "presentacion": "BOTELLA X 1500 ML",
+    "precio": {
+        "bestPrice": "$3.000",
+        "precioPorSku js-PUM": "Mililitro a $2,00"
+    },
+    "descripcion": "gaseosa manzana",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 1500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAA19I00298"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

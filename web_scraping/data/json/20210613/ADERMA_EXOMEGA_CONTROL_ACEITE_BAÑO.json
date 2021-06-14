@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/a-derma-exomega-control-aceite-bano-3282770106183/p",
+    "fecha_hora_scraping": "2021-06-14 09:51:44",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "A-DERMA EXOMEGA CONTROL ACEITE BA\u00d1O",
+    "nombre_imagen": "./web_scraping/data/img/ADERMA_EXOMEGA_CONTROL_ACEITE_BA\u00d1O.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$69.400",
+        "precioPorSku js-PUM": "Mililitro a $347,00"
+    },
+    "descripcion": "a-derma exomega control aceite ba\u00f1o",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89214-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

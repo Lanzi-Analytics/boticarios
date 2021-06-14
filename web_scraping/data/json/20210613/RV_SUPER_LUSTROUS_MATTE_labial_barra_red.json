@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-super-lustrous-matte-labial-barra-red-309973025059/p",
+    "fecha_hora_scraping": "2021-06-14 03:41:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV SUPER LUSTROUS MATTE labial barra red",
+    "nombre_imagen": "./web_scraping/data/img/RV_SUPER_LUSTROUS_MATTE_labial_barra_red.jpg",
+    "presentacion": "TUBO X 4G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $8.000,00"
+    },
+    "descripcion": "rv super lustrous matte labial barra red",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 4G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91952-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

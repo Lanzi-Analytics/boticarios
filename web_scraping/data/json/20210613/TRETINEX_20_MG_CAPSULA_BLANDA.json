@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tretinex-20-mg-capsula-blanda-7707189520550/p",
+    "fecha_hora_scraping": "2021-06-13 23:56:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRETINEX 20 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/TRETINEX_20_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$166.000",
+        "precioPorSku js-PUM": "Capsula a $5.533,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ISOTRETINOINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0002873-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

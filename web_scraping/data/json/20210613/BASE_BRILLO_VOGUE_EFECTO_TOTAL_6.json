@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-brillo-vogue-efecto-total-6-7509552830316/p",
+    "fecha_hora_scraping": "2021-06-14 02:48:01",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|u\u00f1as",
+    "titulo": "BASE BRILLO VOGUE EFECTO TOTAL 6",
+    "nombre_imagen": "./web_scraping/data/img/BASE_BRILLO_VOGUE_EFECTO_TOTAL_6.jpg",
+    "presentacion": "UNIDAD X 14 ML",
+    "precio": {
+        "bestPrice": "$8.450",
+        "precioPorSku js-PUM": "Mililitro a $1.408,33"
+    },
+    "descripcion": "base brillo vogue efecto total 6",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 14 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85242-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aquatop-limpiador-liquido-fcox400ml-sph-7703281020257/p",
+    "fecha_hora_scraping": "2021-06-14 08:26:10",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "aquatop limpiador liquido fcox400ml sph",
+    "nombre_imagen": "./web_scraping/data/img/aquatop_limpiador_liquido_fcox400ml_sph.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$43.847",
+        "precioPorSku js-PUM": "Mililitro a $109,62"
+    },
+    "descripcion": "aquatop limpiador liquido fcox400ml sph",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SCANDINAVIA PHARMA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC97645-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

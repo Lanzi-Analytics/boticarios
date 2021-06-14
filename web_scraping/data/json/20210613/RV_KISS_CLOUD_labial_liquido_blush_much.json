@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-kiss-cloud-labial-liquido-blush-much-309970073039/p",
+    "fecha_hora_scraping": "2021-06-14 03:49:38",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV KISS CLOUD labial liquido blush much",
+    "nombre_imagen": "./web_scraping/data/img/RV_KISS_CLOUD_labial_liquido_blush_much.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $7.940,00"
+    },
+    "descripcion": "rv kiss cloud labial liquido blush much",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94738-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

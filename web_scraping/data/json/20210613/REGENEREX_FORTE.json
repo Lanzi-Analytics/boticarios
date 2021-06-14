@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/regenerex-forte-7702870102343/p",
+    "fecha_hora_scraping": "2021-06-14 00:38:54",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "REGENEREX FORTE",
+    "nombre_imagen": "./web_scraping/data/img/REGENEREX_FORTE.jpg",
+    "presentacion": "FRASCO X 55 G",
+    "precio": {
+        "bestPrice": "$11.200",
+        "precioPorSku js-PUM": "Gramo a $203,64"
+    },
+    "descripcion": "REGENEREX FORTE",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 55 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC81346-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

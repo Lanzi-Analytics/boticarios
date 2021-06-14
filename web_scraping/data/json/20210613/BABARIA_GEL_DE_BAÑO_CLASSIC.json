@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-gel-de-bano-classic-8410412021463/p",
+    "fecha_hora_scraping": "2021-06-14 08:59:52",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "BABARIA GEL DE BA\u00d1O CLASSIC",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_GEL_DE_BA\u00d1O_CLASSIC.jpg",
+    "presentacion": "FRASCO X 600 ML",
+    "precio": {
+        "bestPrice": "$11.050",
+        "precioPorSku js-PUM": "Mililitro a $18,42"
+    },
+    "descripcion": "babaria gel de ba\u00f1o classic",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 600 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13117-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

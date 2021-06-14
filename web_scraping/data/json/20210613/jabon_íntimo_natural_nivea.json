@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-intimo-natural-nivea-4005808538560/p",
+    "fecha_hora_scraping": "2021-06-14 07:40:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|higiene \u00edntima",
+    "titulo": "jabon \u00edntimo natural nivea",
+    "nombre_imagen": "./web_scraping/data/img/jabon_\u00edntimo_natural_nivea.jpg",
+    "presentacion": "BOTELLA X 250 ML",
+    "precio": {
+        "bestPrice": "$14.450",
+        "precioPorSku js-PUM": "Mililitro a $57,80"
+    },
+    "descripcion": "jabon intimo nivea 250 ml natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 250 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC36638-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

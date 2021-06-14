@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703889151919chalverformuladosmedicamentoscetrine-10-mg-capsulas-capsula-blandacetirizina-diclorhidrato-7703889151919/p",
+    "fecha_hora_scraping": "2021-06-14 10:32:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CETRINE 10 MG CAPSULAS CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/CETRINE_10_MG_CAPSULAS_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$46.050",
+        "precioPorSku js-PUM": "Capsula a $4.605,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS CHALVER DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0006693-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

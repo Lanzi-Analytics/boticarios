@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-quattro-piel-normal-6937266703793/p",
+    "fecha_hora_scraping": "2021-06-14 05:54:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar quattro piel normal",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_quattro_piel_normal.jpg",
+    "presentacion": "EMPAQUE X 3 UN",
+    "precio": {
+        "bestPrice": "$18.750",
+        "precioPorSku js-PUM": "Unidad a $6.250,00"
+    },
+    "descripcion": "maquina de afeitar quattro piel normal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EDGEWELL PERSONAL CARE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

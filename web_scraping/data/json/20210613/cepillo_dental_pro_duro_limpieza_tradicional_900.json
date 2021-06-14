@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-cepillo-dental-pro-duro-ref900-2x1-7501086454198/p",
+    "fecha_hora_scraping": "2021-06-14 07:38:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental pro duro limpieza tradicional 900",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_pro_duro_limpieza_tradicional_900.jpg",
+    "presentacion": "PAQUETE X 2 UN",
+    "precio": {
+        "bestPrice": "$11.450",
+        "precioPorSku js-PUM": "Unidad a $11.450,00"
+    },
+    "descripcion": "of cep dent duro pro 900 blist 2x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

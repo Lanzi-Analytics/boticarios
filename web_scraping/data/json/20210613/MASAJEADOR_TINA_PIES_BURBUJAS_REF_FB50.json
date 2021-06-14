@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/masajeador-tina-pies-burbujas-ref-fb-50-31262051776/p",
+    "fecha_hora_scraping": "2021-06-14 00:51:24",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|fisioterapia y rehabilitaci\u00f3n",
+    "titulo": "MASAJEADOR TINA PIES BURBUJAS REF FB-50",
+    "nombre_imagen": "./web_scraping/data/img/MASAJEADOR_TINA_PIES_BURBUJAS_REF_FB50.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$83.950",
+        "bestPrice": "$62.962",
+        "precioPorSku js-PUM": "Unidad a $62.962"
+    },
+    "descripcion": "masajeador tina pies burbujas ref fb-50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MECANELECTRO SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

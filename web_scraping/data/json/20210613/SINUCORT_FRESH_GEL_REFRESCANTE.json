@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinucort-fresh-gel-refrescante-7707232091020/p",
+    "fecha_hora_scraping": "2021-06-14 02:07:42",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "SINUCORT FRESH GEL REFRESCANTE",
+    "nombre_imagen": "./web_scraping/data/img/SINUCORT_FRESH_GEL_REFRESCANTE.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$18.600",
+        "precioPorSku js-PUM": "Gramo a $1.240,00"
+    },
+    "descripcion": "sinucort fresh gel refrescante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89973-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

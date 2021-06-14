@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bloqueador-solar-tanga-faces-spf60-7702113037838/p",
+    "fecha_hora_scraping": "2021-06-14 06:01:37",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "bloqueador solar tanga faces spf60+",
+    "nombre_imagen": "./web_scraping/data/img/bloqueador_solar_tanga_faces_spf60.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "PrevPrice": "Antes:$26.100",
+        "bestPrice": "$20.880",
+        "precioPorSku js-PUM": "Mililitro a $417,60"
+    },
+    "descripcion": "bloqueador tanga fp 60 q10 faces 50ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2008CO29435"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

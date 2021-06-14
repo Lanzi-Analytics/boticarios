@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaap-0005--solucion-oftalmica-736085410624/p",
+    "fecha_hora_scraping": "2021-06-14 01:46:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GAAP 0.005 % SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/GAAP_0005__SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 3 ML",
+    "precio": {
+        "bestPrice": "$22.500",
+        "precioPorSku js-PUM": "Mililitro a $7.500,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 3 ML"
+        ],
+        [
+            "Concentracion",
+            "0,05 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LATANOPROST"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SOPHIA DE COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0004066-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

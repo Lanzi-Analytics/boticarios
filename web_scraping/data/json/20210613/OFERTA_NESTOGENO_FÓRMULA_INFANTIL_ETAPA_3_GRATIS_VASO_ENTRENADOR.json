@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-nestogeno-formula-infantil-etapa-3-gratis-vaso-entrenador-7702024173366/p",
+    "fecha_hora_scraping": "2021-06-14 08:26:49",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "OFERTA NESTOGENO F\u00d3RMULA INFANTIL ETAPA 3 GRATIS VASO ENTRENADOR",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_NESTOGENO_F\u00d3RMULA_INFANTIL_ETAPA_3_GRATIS_VASO_ENTRENADOR.jpg",
+    "presentacion": "TARRO X 800 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $44,50"
+    },
+    "descripcion": "oferta nestogeno f\u00f3rmula infantil etapa 3 gratis vaso entrenador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 800 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I76114"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

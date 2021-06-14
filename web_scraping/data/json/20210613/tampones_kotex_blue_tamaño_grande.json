@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampones-kotex-blue-tamano-grande-7702425538702/p",
+    "fecha_hora_scraping": "2021-06-14 09:43:49",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "tampones kotex blue tama\u00f1o grande",
+    "nombre_imagen": "./web_scraping/data/img/tampones_kotex_blue_tama\u00f1o_grande.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $785,00"
+    },
+    "descripcion": "tampon kotex blue x10 und super",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-99991231"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

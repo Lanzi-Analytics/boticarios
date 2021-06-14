@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-aloe-vera-y-vitamina-e-665716201600/p",
+    "fecha_hora_scraping": "2021-06-14 00:25:52",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CREMA ALOE VERA Y VITAMINA E",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_ALOE_VERA_Y_VITAMINA_E.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$30.800",
+        "precioPorSku js-PUM": "Capsula a $513,33"
+    },
+    "descripcion": "crema aloe vera y vitamina e",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC61585-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

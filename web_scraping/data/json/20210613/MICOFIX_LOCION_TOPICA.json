@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/micofix-locion-topica-7702057013387/p",
+    "fecha_hora_scraping": "2021-06-14 05:58:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MICOFIX LOCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/MICOFIX_LOCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$31.450",
+        "precioPorSku js-PUM": "Mililitro a $1.048,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "5 G 2 G 0.8 G"
+        ],
+        [
+            "Principio activo",
+            "BENZOICO ACIDO SALICILANILIDA SALICILICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-003662-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

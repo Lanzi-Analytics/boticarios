@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-hidratante-gatorade-mandarina-7702192218050/p",
+    "fecha_hora_scraping": "2021-06-14 10:18:06",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "bebida hidratante gatorade mandarina",
+    "nombre_imagen": "./web_scraping/data/img/bebida_hidratante_gatorade_mandarina.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "$2.850",
+        "precioPorSku js-PUM": "Mililitro a $5,70"
+    },
+    "descripcion": "bebida hidratante gatorade mandarina",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

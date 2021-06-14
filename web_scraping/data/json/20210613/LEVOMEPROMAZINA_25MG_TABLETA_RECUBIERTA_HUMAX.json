@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levomepromazina-25mg-tableta-recubierta-humax-7707288820926/p",
+    "fecha_hora_scraping": "2021-06-14 02:48:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOMEPROMAZINA 25MG TABLETA RECUBIERTA HUMAX",
+    "nombre_imagen": "./web_scraping/data/img/LEVOMEPROMAZINA_25MG_TABLETA_RECUBIERTA_HUMAX.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$15.700",
+        "precioPorSku js-PUM": "Tableta a $785,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOMEPROMAZINA MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2007M-0007323"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

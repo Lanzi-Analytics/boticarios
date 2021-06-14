@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-pequenin-baby-pants-et5-7702026175214/p",
+    "fecha_hora_scraping": "2021-06-14 09:42:11",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1al peque\u00f1in baby pants et5",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1al_peque\u00f1in_baby_pants_et5.jpg",
+    "presentacion": "PAQUETE X 22 UN",
+    "precio": {
+        "bestPrice": "$23.900",
+        "precioPorSku js-PUM": "Unidad a $1.086,36"
+    },
+    "descripcion": "pa\u00f1al peque\u00f1in baby pants et5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 22 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA06713-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

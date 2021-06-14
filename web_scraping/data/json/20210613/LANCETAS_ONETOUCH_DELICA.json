@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lancetas-onetouch-delica-7702031925019/p",
+    "fecha_hora_scraping": "2021-06-14 05:06:06",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "LANCETAS ONETOUCH DELICA",
+    "nombre_imagen": "./web_scraping/data/img/LANCETAS_ONETOUCH_DELICA.jpg",
+    "presentacion": "CAJA X 25 UN",
+    "precio": {
+        "PrevPrice": "Antes:$22.400",
+        "bestPrice": "$16.800",
+        "precioPorSku js-PUM": "Unidad a $672,00"
+    },
+    "descripcion": "lancetas onetouch delica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS TIRAS DE GLUCOMTERIA"
+        ],
+        [
+            "Laboratorio",
+            "OPERANDO MEDICOS & QUIRURGICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2013DM-0009771"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

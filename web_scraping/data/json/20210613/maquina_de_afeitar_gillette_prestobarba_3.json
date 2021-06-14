@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-gillette-prestobarba3-7702018880409/p",
+    "fecha_hora_scraping": "2021-06-14 09:52:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar gillette prestobarba 3",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_gillette_prestobarba_3.jpg",
+    "presentacion": "PAQUETE X 1 UN",
+    "precio": {
+        "PrevPrice": "Antes:$4.200",
+        "bestPrice": "$3.360",
+        "precioPorSku js-PUM": "Unidad a $3.360,00"
+    },
+    "descripcion": "maquina gillette prestobarba3 x1 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

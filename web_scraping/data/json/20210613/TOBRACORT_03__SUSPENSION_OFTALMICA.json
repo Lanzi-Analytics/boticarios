@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tobracort-03--suspension-oftalmica-7703153008161/p",
+    "fecha_hora_scraping": "2021-06-14 04:26:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TOBRACORT 0.3 % SUSPENSION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/TOBRACORT_03__SUSPENSION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 6 ML",
+    "precio": {
+        "bestPrice": "$70.200",
+        "precioPorSku js-PUM": "Mililitro a $11.700,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 6 ML"
+        ],
+        [
+            "Concentracion",
+            "3 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TOBRAMICINA DEXAMETASONA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0001631-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

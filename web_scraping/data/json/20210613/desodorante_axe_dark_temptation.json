@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-axe-dark-temptation-75025922/p",
+    "fecha_hora_scraping": "2021-06-14 04:11:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante axe dark temptation",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_axe_dark_temptation.jpg",
+    "presentacion": "ENVASE X 50 G",
+    "precio": {
+        "PrevPrice": "Antes:$16.500",
+        "bestPrice": "$13.200",
+        "precioPorSku js-PUM": "Gramo a $264,00"
+    },
+    "descripcion": "axe deo sti ap dark temptation 12x50g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMANSC2006CO20651"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

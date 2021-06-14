@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avemel-shampoo-7707206270383/p",
+    "fecha_hora_scraping": "2021-06-14 07:29:49",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "AVEMEL SHAMPOO",
+    "nombre_imagen": "./web_scraping/data/img/AVEMEL_SHAMPOO.jpg",
+    "presentacion": "FRASCO X 200 G",
+    "precio": {
+        "bestPrice": "$54.450",
+        "precioPorSku js-PUM": "Gramo a $272,25"
+    },
+    "descripcion": "avemel shampoo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC33519-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

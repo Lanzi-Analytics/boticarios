@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/balsamo-protector-labial-vogue-kiss-my-lips-cereza-7702433290913/p",
+    "fecha_hora_scraping": "2021-06-14 03:57:00",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "BALSAMO PROTECTOR LABIAL VOGUE KISS MY LIPS CEREZA",
+    "nombre_imagen": "./web_scraping/data/img/BALSAMO_PROTECTOR_LABIAL_VOGUE_KISS_MY_LIPS_CEREZA.jpg",
+    "presentacion": "UNIDAD X 4.8 G",
+    "precio": {
+        "bestPrice": "$6.550",
+        "precioPorSku js-PUM": "Gramo a $1.364,58"
+    },
+    "descripcion": "balsamo protector labial vogue kiss my lips cereza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4.8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC45970-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biocicar-5-g-crema-7703234100968/p",
+    "fecha_hora_scraping": "2021-06-14 07:05:05",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "BIOCICAR 5 G CREMA",
+    "nombre_imagen": "./web_scraping/data/img/BIOCICAR_5_G_CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$29.300",
+        "precioPorSku js-PUM": "Gramo a $488,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "50 MG/G 50 MG/G 10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ZINC OXIDO CALAMINA BENCILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2018M-12752-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

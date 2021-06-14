@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/carbon-activado-jabon-barra-7707232093628/p",
+    "fecha_hora_scraping": "2021-06-13 23:21:23",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CARB\u00d3N ACTIVADO JAB\u00d3N BARRA",
+    "nombre_imagen": "./web_scraping/data/img/CARB\u00d3N_ACTIVADO_JAB\u00d3N_BARRA.jpg",
+    "presentacion": "BARRA X 90 G",
+    "precio": {
+        "bestPrice": "$9.600",
+        "precioPorSku js-PUM": "Gramo a $106,67"
+    },
+    "descripcion": "carb\u00f3n activado jab\u00f3n barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89972-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

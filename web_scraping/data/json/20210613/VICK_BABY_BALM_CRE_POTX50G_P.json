@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vick-baby-balm-cre-potx50g-p-7501001168797/p",
+    "fecha_hora_scraping": "2021-06-14 06:43:11",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "VICK BABY BALM CRE POTX50G P&",
+    "nombre_imagen": "./web_scraping/data/img/VICK_BABY_BALM_CRE_POTX50G_P.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$19.250",
+        "precioPorSku js-PUM": "Gramo a $385,00"
+    },
+    "descripcion": "vick babybalm balsamo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC16461-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

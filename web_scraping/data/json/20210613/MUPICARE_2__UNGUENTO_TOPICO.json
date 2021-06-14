@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mupicare-2--unguento-topico-7707222420342/p",
+    "fecha_hora_scraping": "2021-06-14 09:37:03",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "MUPICARE 2 % UNGUENTO TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/MUPICARE_2__UNGUENTO_TOPICO.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$45.850",
+        "precioPorSku js-PUM": "Gramo a $3.056,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "2,0 G"
+        ],
+        [
+            "Principio activo",
+            "MUPIROCINA"
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0006299-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

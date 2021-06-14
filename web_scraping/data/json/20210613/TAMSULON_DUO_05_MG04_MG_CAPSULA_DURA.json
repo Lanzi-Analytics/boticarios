@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tamsulon-duo-05-mg04-mg-capsula-dura-7730979097758/p",
+    "fecha_hora_scraping": "2021-06-14 08:04:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TAMSULON DUO 0.5 MG/0.4 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/TAMSULON_DUO_05_MG04_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$123.650",
+        "precioPorSku js-PUM": "Capsula a $4.121,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG 0,4 MG"
+        ],
+        [
+            "Principio activo",
+            "DUTASTERIDA TAMSULOSINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018007"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

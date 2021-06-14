@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703153022402procapsformuladosmedicamentosevinet-075-mg-tableta-recubierta-procapslevonorgestrelcolmed-internacional-7703153022402/p",
+    "fecha_hora_scraping": "2021-06-14 05:21:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EVINET 0.75 MG TABLETA RECUBIERTA PROCAPS",
+    "nombre_imagen": "./web_scraping/data/img/EVINET_075_MG_TABLETA_RECUBIERTA_PROCAPS.jpg",
+    "presentacion": "CAJA X 2 TAB",
+    "precio": {
+        "bestPrice": "$13.700",
+        "precioPorSku js-PUM": "Tableta a $6.850,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 TAB"
+        ],
+        [
+            "Concentracion",
+            "0,75 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0008477-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

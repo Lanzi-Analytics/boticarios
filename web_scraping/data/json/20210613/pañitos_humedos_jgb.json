@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panitos-humedos-jgb-7702560035098/p",
+    "fecha_hora_scraping": "2021-06-13 23:50:58",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1itos humedos jgb",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1itos_humedos_jgb.jpg",
+    "presentacion": "EMPAQUE X 120 UN",
+    "precio": {
+        "bestPrice": "$12.900",
+        "precioPorSku js-PUM": "Unidad a $6.450,00"
+    },
+    "descripcion": "pa\u00f1itos humedos jgb x 120 p.esp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 120 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59891-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

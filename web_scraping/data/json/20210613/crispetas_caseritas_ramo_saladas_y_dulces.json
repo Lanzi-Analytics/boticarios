@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crispetas-caseritas-ramo-saladas-y-dulces-7702914595063/p",
+    "fecha_hora_scraping": "2021-06-14 04:02:24",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "crispetas caseritas ramo saladas y dulces",
+    "nombre_imagen": "./web_scraping/data/img/crispetas_caseritas_ramo_saladas_y_dulces.jpg",
+    "presentacion": "PAQUETE X 25 G",
+    "precio": {
+        "bestPrice": "$1.600",
+        "precioPorSku js-PUM": "Gramo a $64,00"
+    },
+    "descripcion": "crispetas caseritas ramo saladas y dulces",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 25 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS RAMO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAV13I19313"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

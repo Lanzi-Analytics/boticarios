@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/valcote-500mg-tableta-enterica-7703186621511/p",
+    "fecha_hora_scraping": "2021-06-14 10:04:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VALCOTE 500MG TABLETA ENT\u00c9RICA",
+    "nombre_imagen": "./web_scraping/data/img/VALCOTE_500MG_TABLETA_ENT\u00c9RICA.jpg",
+    "presentacion": "FRASCO X 30TAB",
+    "precio": {
+        "bestPrice": "$108.700",
+        "precioPorSku js-PUM": "Gramo a $2.717,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "VALPROICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-007660-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

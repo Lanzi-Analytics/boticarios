@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/berodual-050-mg025-mg-solucion-para-inhalacion-7703381000463/p",
+    "fecha_hora_scraping": "2021-06-13 23:58:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BERODUAL 0.50/0.25MG/ML SOLUCI\u00d3N SIN INHALADOR",
+    "nombre_imagen": "./web_scraping/data/img/BERODUAL_050025MGML_SOLUCI\u00d3N_SIN_INHALADOR.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$27.550",
+        "precioPorSku js-PUM": "Mililitro a $1.377,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/ML 0.25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "FENOTEROL BROMOHIDRATO IPRATROPIO BROMURO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-003240-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

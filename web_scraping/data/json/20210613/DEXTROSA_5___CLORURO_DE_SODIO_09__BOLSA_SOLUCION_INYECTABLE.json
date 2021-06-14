@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dextrosa-5---cloruro-de-sodio-09--bolsa-solucion-inyectable-7707141349199/p",
+    "fecha_hora_scraping": "2021-06-14 09:42:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEXTROSA 5 % + CLORURO DE SODIO 0.9 % BOLSA SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/DEXTROSA_5___CLORURO_DE_SODIO_09__BOLSA_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$2.150",
+        "precioPorSku js-PUM": "Unidad a $2.150,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "5 % 0.9 %"
+        ],
+        [
+            "Principio activo",
+            "DEXTROSA HIDRATO SODIO CLORURO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAXTER SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-008028-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallas-higienicas-buenas-noches--protectores-largos-7702026175757/p",
+    "fecha_hora_scraping": "2021-06-14 04:06:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toallas higienicas buenas noches + protectores largos",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallas_higienicas_buenas_noches__protectores_largos.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$13.100",
+        "precioPorSku js-PUM": "Unidad a $436,67"
+    },
+    "descripcion": "oft toal buenas nch x10y 2 protec larg",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02193-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

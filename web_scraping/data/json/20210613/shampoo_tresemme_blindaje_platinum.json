@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-tresemme-blindaje-platinum-7506306226333/p",
+    "fecha_hora_scraping": "2021-06-14 08:21:23",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo tresemme blindaje platinum",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_tresemme_blindaje_platinum.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$16.950",
+        "precioPorSku js-PUM": "Mililitro a $42,38"
+    },
+    "descripcion": "tresemme sh blindaje platinum 12x400ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

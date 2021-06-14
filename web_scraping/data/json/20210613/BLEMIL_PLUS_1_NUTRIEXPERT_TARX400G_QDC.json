@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/blemil-plus-1-nutriexpert-tarx400g-qdc-8426594034443/p",
+    "fecha_hora_scraping": "2021-06-13 23:22:23",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "BLEMIL PLUS 1 NUTRIEXPERT TARX400G QDC",
+    "nombre_imagen": "./web_scraping/data/img/BLEMIL_PLUS_1_NUTRIEXPERT_TARX400G_QDC.jpg",
+    "presentacion": "TARRO X 400G",
+    "precio": {
+        "bestPrice": "$41.000",
+        "precioPorSku js-PUM": "Gramo a $102,50"
+    },
+    "descripcion": "blemil plus 1 nutriexpert tarx400g qdc",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "SUIPHAR DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I57612"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

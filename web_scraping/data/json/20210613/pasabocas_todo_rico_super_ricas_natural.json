@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-todo-rico-super-ricas-natural-7702152008950/p",
+    "fecha_hora_scraping": "2021-06-14 01:34:14",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas todo rico super ricas natural",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_todo_rico_super_ricas_natural.jpg",
+    "presentacion": "PAQUETE X 45 G",
+    "precio": {
+        "bestPrice": "$2.150",
+        "precioPorSku js-PUM": "Gramo a $47,78"
+    },
+    "descripcion": "pasabocas todo rico super ricas natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 45 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/exforge-hct-comprimido-con-cubierta-7702635716945/p",
+    "fecha_hora_scraping": "2021-06-14 08:09:48",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "EXFORGE HCT COMPRIMIDO CON CUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/EXFORGE_HCT_COMPRIMIDO_CON_CUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$148.400",
+        "precioPorSku js-PUM": "Tableta a $5.300,00"
+    },
+    "descripcion": "EXFORGE HCT COMPRIMIDO CON CUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG 12.5 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN HIDROCLOROTIAZIDA AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011474-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

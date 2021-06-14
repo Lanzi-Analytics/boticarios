@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-polvo-compacto-light-309975424027/p",
+    "fecha_hora_scraping": "2021-06-14 01:41:53",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RV COLORSTAY polvo compacto light",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_polvo_compacto_light.jpg",
+    "presentacion": "CONTENEDOR X 8 G",
+    "precio": {
+        "bestPrice": "$41.300",
+        "precioPorSku js-PUM": "Gramo a $4.916,67"
+    },
+    "descripcion": "rv colorstay polvo compacto light",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CONTENEDOR X 8 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56746-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

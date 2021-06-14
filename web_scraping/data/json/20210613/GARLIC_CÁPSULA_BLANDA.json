@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/garlic-capsula-blanda-665716414109/p",
+    "fecha_hora_scraping": "2021-06-14 09:13:19",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GARLIC C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/GARLIC_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 100 CAP",
+    "precio": {
+        "bestPrice": "$17.450",
+        "precioPorSku js-PUM": "Capsula a $174,50"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2015-0002467"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

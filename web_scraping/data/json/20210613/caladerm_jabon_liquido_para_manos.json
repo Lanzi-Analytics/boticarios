@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caladerm-jabon-liquido-para-manos-7707210531296/p",
+    "fecha_hora_scraping": "2021-06-14 05:50:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "caladerm jabon liquido para manos",
+    "nombre_imagen": "./web_scraping/data/img/caladerm_jabon_liquido_para_manos.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$12.500",
+        "precioPorSku js-PUM": "Mililitro a $25,00"
+    },
+    "descripcion": "caladerm jabon liquido para manos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99842-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

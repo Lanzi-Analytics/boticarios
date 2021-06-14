@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/umbrella-base-compacto-tono-4-durazno-spf50-7703281002369/p",
+    "fecha_hora_scraping": "2021-06-14 01:28:19",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "UMBRELLA BASE COMPACTO TONO 4 DURAZNO SPF50",
+    "nombre_imagen": "./web_scraping/data/img/UMBRELLA_BASE_COMPACTO_TONO_4_DURAZNO_SPF50.jpg",
+    "presentacion": "CAJA X 11 G",
+    "precio": {
+        "bestPrice": "$99.150",
+        "precioPorSku js-PUM": "Gramo a $9.013,64"
+    },
+    "descripcion": "umbrella base compacto tono 4 durazno sp",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 11 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52704-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

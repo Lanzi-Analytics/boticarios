@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicatricure-anti-manchas-serum-concentrado-7798140258247/p",
+    "fecha_hora_scraping": "2021-06-14 09:34:21",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CICATRICURE SERUM ANTIMANCHAS",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_SERUM_ANTIMANCHAS.jpg",
+    "presentacion": "CAJA X 1 UN",
+    "precio": {
+        "bestPrice": "$59.600",
+        "precioPorSku js-PUM": "Unidad a $59.600,00"
+    },
+    "descripcion": "posee ingredientes activos, en altas concentraciones, capaces de reducir manchas producto del sol, de la edad, del embarazo y de ladepilaci\u00f3n. resultados a partir de los 15 d\u00edas de uso continuo.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86473-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

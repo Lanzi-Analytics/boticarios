@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/velbienne-10-2-mg1-mg-comprimido-recubierto-8437009433850/p",
+    "fecha_hora_scraping": "2021-06-14 03:46:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VELBIENNE 10 2 MG/1 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/VELBIENNE_10_2_MG1_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$73.250",
+        "precioPorSku js-PUM": "Comprimido a $2.616,07"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "2 MG 1 MG"
+        ],
+        [
+            "Principio activo",
+            "ESTRADIOL VALERATO DIENOGEST"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017558"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

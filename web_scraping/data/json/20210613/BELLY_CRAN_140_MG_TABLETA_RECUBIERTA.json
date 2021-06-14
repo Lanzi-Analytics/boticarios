@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/belly-cran-140-mg-tableta-recubierta-7702870072165/p",
+    "fecha_hora_scraping": "2021-06-14 02:31:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BELLY CRAN 140 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/BELLY_CRAN_140_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$102.200",
+        "precioPorSku js-PUM": "Tableta a $3.406,67"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2016-0002498"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

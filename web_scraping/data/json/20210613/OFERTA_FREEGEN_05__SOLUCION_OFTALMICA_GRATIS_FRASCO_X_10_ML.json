@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-freegen-05--solucion-oftalmica-gratis-frasco-x-10-ml-7707239275737/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OFERTA FREEGEN 0.5 % SOLUCION OFTALMICA GRATIS FRASCO X 10 ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_FREEGEN_05__SOLUCION_OFTALMICA_GRATIS_FRASCO_X_10_ML.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$47.500",
+        "precioPorSku js-PUM": "Mililitro a $3.166,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CARBOXIMETILCELULOSA SODICA"
+        ],
+        [
+            "Laboratorio",
+            "ESPECIALIDADES OFTALMOLOGICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002267-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

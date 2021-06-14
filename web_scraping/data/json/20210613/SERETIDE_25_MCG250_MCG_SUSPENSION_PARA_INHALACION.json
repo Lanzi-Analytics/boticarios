@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/seretide-25-mcg250-mcg-suspension-para-inhalacion-7071726875053/p",
+    "fecha_hora_scraping": "2021-06-14 08:33:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SERETIDE 25 MCG/250 MCG SUSPENSION PARA INHALACION",
+    "nombre_imagen": "./web_scraping/data/img/SERETIDE_25_MCG250_MCG_SUSPENSION_PARA_INHALACION.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$113.400",
+        "precioPorSku js-PUM": "Unidad a $113.400,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "250 \u00b5G/D 25 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "PROPIONATO FLUTICASONA SALMETEROL XINAFOATO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0000089-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

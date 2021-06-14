@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/perspirex-locion-5701943013809/p",
+    "fecha_hora_scraping": "2021-06-14 05:17:45",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "PERSPIREX LOCION",
+    "nombre_imagen": "./web_scraping/data/img/PERSPIREX_LOCION.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$60.150",
+        "precioPorSku js-PUM": "Mililitro a $601,50"
+    },
+    "descripcion": "perspirex locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "VORTIOXETINA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69501-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallas-higienicas-kotex-uf-tela--2-unid-toallas-sport-7702425807259/p",
+    "fecha_hora_scraping": "2021-06-14 00:16:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "toallas higienicas kotex uf tela + 2 unid toallas sport",
+    "nombre_imagen": "./web_scraping/data/img/toallas_higienicas_kotex_uf_tela__2_unid_toallas_sport.jpg",
+    "presentacion": "EMPAQUE X 10 UN",
+    "precio": {
+        "bestPrice": "$4.500",
+        "precioPorSku js-PUM": "Unidad a $375,00"
+    },
+    "descripcion": "toa hig kotex uf tela x10 +2 th sport",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sinac-1--gel-topico-7703281000211/p",
+    "fecha_hora_scraping": "2021-06-14 03:59:00",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "SINAC 1 % GEL TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/SINAC_1__GEL_TOPICO.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$113.500",
+        "precioPorSku js-PUM": "Gramo a $3.783,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BENZOILO PEROXIDO CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0008870-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

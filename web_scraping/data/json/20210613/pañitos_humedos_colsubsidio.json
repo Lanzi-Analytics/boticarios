@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panitos-humedos-colsubsidio-7701009131131/p",
+    "fecha_hora_scraping": "2021-06-14 05:25:18",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1itos humedos colsubsidio",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1itos_humedos_colsubsidio.jpg",
+    "presentacion": "EMPAQUE X 30 UN",
+    "precio": {
+        "bestPrice": "$2.100",
+        "precioPorSku js-PUM": "Unidad a $70,00"
+    },
+    "descripcion": "pa\u00f1ito bebe colsubsidio 30 unds",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 30 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TROPICAL DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40522-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

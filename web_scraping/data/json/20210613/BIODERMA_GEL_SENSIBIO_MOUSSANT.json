@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-gel-sensibio-moussant-3401381507565/p",
+    "fecha_hora_scraping": "2021-06-14 02:49:42",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA GEL SENSIBIO MOUSSANT",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_GEL_SENSIBIO_MOUSSANT.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$98.300",
+        "precioPorSku js-PUM": "Mililitro a $491,50"
+    },
+    "descripcion": "bioderma gel sensibio moussant",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "HIDROCORTISONA"
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71765-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

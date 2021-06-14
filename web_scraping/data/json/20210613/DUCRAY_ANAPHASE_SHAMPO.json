@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ducray-anaphase-shampo-3282779325707/p",
+    "fecha_hora_scraping": "2021-06-14 06:27:11",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DUCRAY ANAPHASE SHAMPO",
+    "nombre_imagen": "./web_scraping/data/img/DUCRAY_ANAPHASE_SHAMPO.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$93.750",
+        "precioPorSku js-PUM": "Mililitro a $468,75"
+    },
+    "descripcion": "ducray anaphase shampo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC21486-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

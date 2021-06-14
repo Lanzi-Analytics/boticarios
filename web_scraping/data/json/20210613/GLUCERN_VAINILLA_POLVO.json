@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glucern-vainilla-polvo-7703186031600/p",
+    "fecha_hora_scraping": "2021-06-14 06:37:44",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "GLUCERN VAINILLA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/GLUCERN_VAINILLA_POLVO.jpg",
+    "presentacion": "LATA X 900 G",
+    "precio": {
+        "bestPrice": "$92.700",
+        "precioPorSku js-PUM": "Gramo a $103,00"
+    },
+    "descripcion": "glucern vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001023-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

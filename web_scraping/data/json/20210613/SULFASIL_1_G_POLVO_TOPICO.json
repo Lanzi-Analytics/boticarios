@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulfasil-1-g-polvo-topico-7707351591791/p",
+    "fecha_hora_scraping": "2021-06-14 01:37:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SULFASIL 1 G POLVO TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/SULFASIL_1_G_POLVO_TOPICO.jpg",
+    "presentacion": "POTE X 18 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $966,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 18 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "SULFADIAZINA PLATA"
+        ],
+        [
+            "Laboratorio",
+            "QUIMICA SUIZA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011433-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

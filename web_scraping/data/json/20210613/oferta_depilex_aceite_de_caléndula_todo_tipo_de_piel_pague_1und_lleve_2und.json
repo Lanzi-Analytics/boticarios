@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-depilex-aceite-de-calendula-todo-tipo-de-piel-pague-1und-lleve-2und-7702277110330/p",
+    "fecha_hora_scraping": "2021-06-14 06:37:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "oferta depilex aceite de cal\u00e9ndula todo tipo de piel pague: 1und lleve: 2und",
+    "nombre_imagen": "./web_scraping/data/img/oferta_depilex_aceite_de_cal\u00e9ndula_todo_tipo_de_piel_pague_1und_lleve_2und.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$17.250",
+        "precioPorSku js-PUM": "Gramo a $172,50"
+    },
+    "descripcion": "depilex todo tipo x 2 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

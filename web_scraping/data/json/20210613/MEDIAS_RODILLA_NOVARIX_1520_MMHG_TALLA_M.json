@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/medias-rodilla-no-varix-15-20-mmhg-talla-m-7707066055137/p",
+    "fecha_hora_scraping": "2021-06-14 06:53:56",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "MEDIAS RODILLA NO-VARIX 15-20 MMHG TALLA M",
+    "nombre_imagen": "./web_scraping/data/img/MEDIAS_RODILLA_NOVARIX_1520_MMHG_TALLA_M.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$39.900",
+        "bestPrice": "$31.920",
+        "precioPorSku js-PUM": "Unidad a $31.920"
+    },
+    "descripcion": "medias rodilla no-varix 15-20 mmhg talla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0003826-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

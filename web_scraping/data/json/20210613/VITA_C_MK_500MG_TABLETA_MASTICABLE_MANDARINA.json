@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vita-c-mk-500mg-tableta-masticable-mandarina-7702057700171/p",
+    "fecha_hora_scraping": "2021-06-14 09:13:53",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITA C MK 500MG TABLETA MASTICABLE MANDARINA",
+    "nombre_imagen": "./web_scraping/data/img/VITA_C_MK_500MG_TABLETA_MASTICABLE_MANDARINA.jpg",
+    "presentacion": "SOBRE X 12 TAB",
+    "precio": {
+        "bestPrice": "$6.750",
+        "precioPorSku js-PUM": "Tableta a $562,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 12 TAB"
+        ],
+        [
+            "Concentracion",
+            "218 MG 317 MG"
+        ],
+        [
+            "Principio activo",
+            "ASCORBICO ACIDO ASCORBATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0012915-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

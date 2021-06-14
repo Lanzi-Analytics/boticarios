@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-delimani-con-pasas-super-ricas-7702152003962/p",
+    "fecha_hora_scraping": "2021-06-14 02:35:11",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas deliman\u00ed con pasas super ricas",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_deliman\u00ed_con_pasas_super_ricas.jpg",
+    "presentacion": "PAQUETE X 50 G",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Gramo a $34,00"
+    },
+    "descripcion": "pasabocas deliman\u00ed con pasas super ricas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMESTIBLES RICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD2III2202"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

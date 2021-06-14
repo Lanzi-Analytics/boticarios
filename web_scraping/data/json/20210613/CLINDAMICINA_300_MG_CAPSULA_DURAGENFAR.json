@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clindamicina-300-mg-capsula-duragenfar-7705959012939/p",
+    "fecha_hora_scraping": "2021-06-14 04:50:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLINDAMICINA 300 MG CAPSULA DURAGENFAR",
+    "nombre_imagen": "./web_scraping/data/img/CLINDAMICINA_300_MG_CAPSULA_DURAGENFAR.jpg",
+    "presentacion": "CAJA X 24 CAP",
+    "precio": {
+        "bestPrice": "$53.600",
+        "precioPorSku js-PUM": "Capsula a $2.233,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 24 CAP"
+        ],
+        [
+            "Concentracion",
+            "300 MG"
+        ],
+        [
+            "Principio activo",
+            "CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0007090-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sun-pro-spf90-7702277140658/p",
+    "fecha_hora_scraping": "2021-06-14 02:35:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "protector solar sun pro spf90+",
+    "nombre_imagen": "./web_scraping/data/img/protector_solar_sun_pro_spf90.jpg",
+    "presentacion": "ENVASE X 50 G",
+    "precio": {
+        "PrevPrice": "Antes:$27.900",
+        "bestPrice": "$19.530",
+        "precioPorSku js-PUM": "Gramo a $390,60"
+    },
+    "descripcion": "prot sol sun pro spf90 facial 50g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC59854-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

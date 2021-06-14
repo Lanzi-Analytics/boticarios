@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707232099354natural-freshlynaturalesmedicamentosmieltertos-jarabe-ninos-7707232099354/p",
+    "fecha_hora_scraping": "2021-06-14 05:01:58",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "MIELTERTOS JARABE NI\u00d1OS",
+    "nombre_imagen": "./web_scraping/data/img/MIELTERTOS_JARABE_NI\u00d1OS.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$22.350",
+        "precioPorSku js-PUM": "Mililitro a $124,17"
+    },
+    "descripcion": "mieltertos jarabe ni\u00f1os",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD16I75112"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

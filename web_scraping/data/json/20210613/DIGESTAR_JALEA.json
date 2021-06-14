@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/digestar-jalea-7707232091402/p",
+    "fecha_hora_scraping": "2021-06-14 07:28:00",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "DIGESTAR JALEA",
+    "nombre_imagen": "./web_scraping/data/img/DIGESTAR_JALEA.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "bestPrice": "$38.800",
+        "precioPorSku js-PUM": "Gramo a $323,33"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SEN HOJA"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2016-0002496"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

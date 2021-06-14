@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunstop-protector-labial-77014320/p",
+    "fecha_hora_scraping": "2021-06-14 01:27:49",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "SUNSTOP PROTECTOR LABIAL",
+    "nombre_imagen": "./web_scraping/data/img/SUNSTOP_PROTECTOR_LABIAL.jpg",
+    "presentacion": "BARRA X 4,5 G",
+    "precio": {
+        "bestPrice": "$17.800",
+        "precioPorSku js-PUM": "Gramo a $3.955,56"
+    },
+    "descripcion": "sunstop protector labial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 4,5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC4538-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

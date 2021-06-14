@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitis-cepillo-dental-ultra-suave-8427426008328/p",
+    "fecha_hora_scraping": "2021-06-14 00:56:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "VITIS CEPILLO DENTAL ULTRA SUAVE",
+    "nombre_imagen": "./web_scraping/data/img/VITIS_CEPILLO_DENTAL_ULTRA_SUAVE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$18.500",
+        "precioPorSku js-PUM": "Unidad a $18.500,00"
+    },
+    "descripcion": "vitis cepillo dental ultra suave",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "2010DM-0005759"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

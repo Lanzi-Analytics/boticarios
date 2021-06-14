@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nordette-015-mg003-mg-gragea-7702338362517/p",
+    "fecha_hora_scraping": "2021-06-14 08:01:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NORDETTE 0.15 MG/0.03 MG GRAGEA",
+    "nombre_imagen": "./web_scraping/data/img/NORDETTE_015_MG003_MG_GRAGEA.jpg",
+    "presentacion": "CAJA X 21 GRG",
+    "precio": {
+        "bestPrice": "$19.550",
+        "precioPorSku js-PUM": "Gragea a $930,95"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 GRG"
+        ],
+        [
+            "Concentracion",
+            "0.15 MG 0.03 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVONORGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-014475-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

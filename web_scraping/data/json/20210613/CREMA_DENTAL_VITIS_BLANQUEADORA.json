@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-vitis-blanqueadora-8427426035355/p",
+    "fecha_hora_scraping": "2021-06-14 09:39:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL VITIS BLANQUEADORA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_VITIS_BLANQUEADORA.jpg",
+    "presentacion": "TUBO X 100 ML",
+    "precio": {
+        "bestPrice": "$29.900",
+        "precioPorSku js-PUM": "Mililitro a $299,00"
+    },
+    "descripcion": "crema dental vitis blanqueadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56374-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

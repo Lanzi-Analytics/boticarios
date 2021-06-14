@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-doritos-mega-queso-7702189045782/p",
+    "fecha_hora_scraping": "2021-06-14 09:42:22",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "pasabocas doritos mega queso",
+    "nombre_imagen": "./web_scraping/data/img/pasabocas_doritos_mega_queso.jpg",
+    "presentacion": "PAQUETE X 185 G",
+    "precio": {
+        "bestPrice": "$4.800",
+        "precioPorSku js-PUM": "Gramo a $25,95"
+    },
+    "descripcion": "pasabocas doritos mega queso",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 185 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA21I6905"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

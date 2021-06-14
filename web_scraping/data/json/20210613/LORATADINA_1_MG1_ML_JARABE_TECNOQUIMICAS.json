@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/loratadina-1-mg1-ml-jarabe-tecnoquimicas-7702057074012/p",
+    "fecha_hora_scraping": "2021-06-14 03:17:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LORATADINA 1 MG/1 ML JARABE TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/LORATADINA_1_MG1_ML_JARABE_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 100 ML",
+    "precio": {
+        "bestPrice": "$12.250",
+        "precioPorSku js-PUM": "Mililitro a $122,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LORATADINA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-015135-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

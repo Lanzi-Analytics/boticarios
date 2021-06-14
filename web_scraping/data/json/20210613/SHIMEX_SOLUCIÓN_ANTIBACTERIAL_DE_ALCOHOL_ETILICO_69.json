@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shimex-solucion-antibacterial-de-alcohol-etilico-69-7707007440152/p",
+    "fecha_hora_scraping": "2021-06-14 05:32:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "SHIMEX SOLUCI\u00d3N ANTIBACTERIAL DE ALCOHOL ETILICO 69%",
+    "nombre_imagen": "./web_scraping/data/img/SHIMEX_SOLUCI\u00d3N_ANTIBACTERIAL_DE_ALCOHOL_ETILICO_69.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$3.550",
+        "precioPorSku js-PUM": "Mililitro a $59,17"
+    },
+    "descripcion": "shimex soluci\u00f3n antibacterial de alcohol etilico 69%",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SERVINSUMOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99659-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

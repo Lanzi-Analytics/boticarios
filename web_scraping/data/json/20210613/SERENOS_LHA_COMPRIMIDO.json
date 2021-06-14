@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/serenos-lha-comprimido-7707214806680/p",
+    "fecha_hora_scraping": "2021-06-14 05:00:12",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "SERENOS LHA COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/SERENOS_LHA_COMPRIMIDO.jpg",
+    "presentacion": "FRASCO X 60 COM",
+    "precio": {
+        "bestPrice": "$36.600",
+        "precioPorSku js-PUM": "Comprimido a $36.600,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico.  no exceder su consumo leer.  indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 COM"
+        ],
+        [
+            "Concentracion",
+            "N/A MG  MG  MG"
+        ],
+        [
+            "Principio activo",
+            "PASSIFLORA INCARNATA AVENA SATIVA COFFEA ARABICA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO HOMEOPATICO ALEMAN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2015-0002444"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

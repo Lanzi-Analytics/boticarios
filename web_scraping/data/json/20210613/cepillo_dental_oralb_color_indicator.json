@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-oral-b-prosalud-indicator-7500435113823/p",
+    "fecha_hora_scraping": "2021-06-14 09:54:58",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental oral-b color indicator",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_oralb_color_indicator.jpg",
+    "presentacion": "PAQUETE X 4 UN",
+    "precio": {
+        "PrevPrice": "Antes:$19.000",
+        "bestPrice": "$15.200",
+        "precioPorSku js-PUM": "Unidad a $3.800,00"
+    },
+    "descripcion": "oralb cepillo color indicator 4ux36it",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 4 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0000959"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

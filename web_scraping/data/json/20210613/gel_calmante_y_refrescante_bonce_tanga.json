@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-calmante-y-refrescante-bonce-tanga-7702113033519/p",
+    "fecha_hora_scraping": "2021-06-14 05:09:30",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "gel calmante y refrescante bonce tanga",
+    "nombre_imagen": "./web_scraping/data/img/gel_calmante_y_refrescante_bonce_tanga.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "PrevPrice": "Antes:$23.400",
+        "bestPrice": "$18.720",
+        "precioPorSku js-PUM": "Mililitro a $124,80"
+    },
+    "descripcion": "bonce tanga gel a/sun 150ml.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC1996CO35934"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

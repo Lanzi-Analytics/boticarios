@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cerazol-40-mg-tableta-de-liberacion-retardada-7707329200366/p",
+    "fecha_hora_scraping": "2021-06-14 06:29:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CERAZOL 40 MG TABLETA DE LIBERACION RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/CERAZOL_40_MG_TABLETA_DE_LIBERACION_RETARDADA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$111.100",
+        "precioPorSku js-PUM": "Tableta a $3.967,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "PANTOPRAZOL SODIO"
+        ],
+        [
+            "Laboratorio",
+            "ALLEN PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015694"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

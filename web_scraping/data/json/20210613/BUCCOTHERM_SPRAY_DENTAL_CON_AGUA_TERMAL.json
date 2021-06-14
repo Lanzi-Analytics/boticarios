@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/buccotherm-spray-dental-con-agua-termal-7704232001776/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "BUCCOTHERM SPRAY DENTAL CON AGUA TERMAL",
+    "nombre_imagen": "./web_scraping/data/img/BUCCOTHERM_SPRAY_DENTAL_CON_AGUA_TERMAL.jpg",
+    "presentacion": "LATA X 200 ML",
+    "precio": {
+        "bestPrice": "$46.550",
+        "precioPorSku js-PUM": "Mililitro a $232,75"
+    },
+    "descripcion": "buccotherm spray dental con agua termal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69511-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sanity-plus-jabon-liquido-antibacterial-7702277090878/p",
+    "fecha_hora_scraping": "2021-06-14 07:44:43",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "sanity plus jab\u00f3n l\u00edquido antibacterial",
+    "nombre_imagen": "./web_scraping/data/img/sanity_plus_jab\u00f3n_l\u00edquido_antibacterial.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $18,30"
+    },
+    "descripcion": "sanity plus jab\u00f3n l\u00edquido antibacterial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC99495-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

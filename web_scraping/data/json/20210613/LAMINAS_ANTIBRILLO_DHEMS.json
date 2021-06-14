@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/laminas-antibrillo-dhems-7707208611528/p",
+    "fecha_hora_scraping": "2021-06-14 02:39:50",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "LAMINAS ANTIBRILLO DHEMS",
+    "nombre_imagen": "./web_scraping/data/img/LAMINAS_ANTIBRILLO_DHEMS.jpg",
+    "presentacion": "CAJA X 50 UND",
+    "precio": {
+        "bestPrice": "$32.050",
+        "precioPorSku js-PUM": "Unidad a $641,00"
+    },
+    "descripcion": "laminas antibrillo dhems",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UND"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63800-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

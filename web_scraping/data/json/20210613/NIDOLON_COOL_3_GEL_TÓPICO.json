@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nidolon-cool-3-gel-topico-7707670342036/p",
+    "fecha_hora_scraping": "2021-06-14 05:32:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NIDOLON COOL 3% GEL T\u00d3PICO",
+    "nombre_imagen": "./web_scraping/data/img/NIDOLON_COOL_3_GEL_T\u00d3PICO.jpg",
+    "presentacion": "TUBO X 30G",
+    "precio": {
+        "bestPrice": "$32.800",
+        "precioPorSku js-PUM": "Gramo a $1.093,33"
+    },
+    "descripcion": "nidolon cool 3% gel t\u00f3pico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30G"
+        ],
+        [
+            "Concentracion",
+            "30 MG/G"
+        ],
+        [
+            "Principio activo",
+            "NIMESULIDE"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0013486-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

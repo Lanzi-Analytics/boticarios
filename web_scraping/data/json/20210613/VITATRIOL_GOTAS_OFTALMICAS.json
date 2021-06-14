@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitatriol-gotas-oftalmicas-7707236128517/p",
+    "fecha_hora_scraping": "2021-06-14 05:26:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "VITATRIOL GOTAS OFTALMICAS",
+    "nombre_imagen": "./web_scraping/data/img/VITATRIOL_GOTAS_OFTALMICAS.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$8.600",
+        "precioPorSku js-PUM": "Mililitro a $1.720,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "3.5 MG 1 MG 6000 UI"
+        ],
+        [
+            "Principio activo",
+            "NEOMICINA SULFATO DEXAMETASONA POLIMIXINA B SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2010M-0010733"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

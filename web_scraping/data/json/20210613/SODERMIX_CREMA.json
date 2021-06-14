@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sodermix-crema-7704232001172/p",
+    "fecha_hora_scraping": "2021-06-14 02:38:00",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "SODERMIX CREMA",
+    "nombre_imagen": "./web_scraping/data/img/SODERMIX_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$141.900",
+        "precioPorSku js-PUM": "Gramo a $4.730,00"
+    },
+    "descripcion": "sodermix crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC34260-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/roxicaina-2-solucion-inyectable-7704588000331/p",
+    "fecha_hora_scraping": "2021-06-14 04:02:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROXICAINA 2% SOLUCI\u00d3N INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/ROXICAINA_2_SOLUCI\u00d3N_INYECTABLE.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$12.150",
+        "precioPorSku js-PUM": "Mililitro a $243,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA CLORHIDRATO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ROPSOHN THERAPEUTICS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-010277-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ilana-crema-vaginal-7703153015701/p",
+    "fecha_hora_scraping": "2021-06-14 07:54:41",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ILANA CREMA VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/ILANA_CREMA_VAGINAL.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$59.050",
+        "precioPorSku js-PUM": "Gramo a $1.476,25"
+    },
+    "descripcion": "ILANA CREMA VAGINAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ISOCONAZOL NITRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-005249-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-tarrito-rojo-fresa-gratis-tarrito-rojo-fresa-x-85-g-7702560024566/p",
+    "fecha_hora_scraping": "2021-06-13 23:08:25",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA TARRITO ROJO FRESA GRATIS TARRITO ROJO FRESA X 85 G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TARRITO_ROJO_FRESA_GRATIS_TARRITO_ROJO_FRESA_X_85_G.jpg",
+    "presentacion": "FRASCO X 330 G",
+    "precio": {
+        "bestPrice": "$15.400",
+        "precioPorSku js-PUM": "Gramo a $46,67"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 330 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2018-0000556-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/curam-junior-polvo-para-suspension-oral-3838957900503/p",
+    "fecha_hora_scraping": "2021-06-13 23:28:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CURAM JUNIOR POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/CURAM_JUNIOR_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 70 ML",
+    "precio": {
+        "bestPrice": "$68.300",
+        "precioPorSku js-PUM": "Mililitro a $975,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 70 ML"
+        ],
+        [
+            "Concentracion",
+            "80 MG/ML 11.4 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO CLAVULANATO POTASIO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0004708-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

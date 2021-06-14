@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasta-stomahesive-768455100019/p",
+    "fecha_hora_scraping": "2021-06-14 07:41:42",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "PASTA STOMAHESIVE",
+    "nombre_imagen": "./web_scraping/data/img/PASTA_STOMAHESIVE.jpg",
+    "presentacion": "TUBO X 57 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.328,07"
+    },
+    "descripcion": "pasta stomahesive",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 57 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001235-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

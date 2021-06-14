@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/necroton-75-mg150-mg-capsula-dura-7706440000206/p",
+    "fecha_hora_scraping": "2021-06-14 09:38:04",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NECROTON 75 MG/150 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/NECROTON_75_MG150_MG_CAPSULA_DURA.jpg",
+    "presentacion": "CAJA X 8 CAP",
+    "precio": {
+        "bestPrice": "$34.500",
+        "precioPorSku js-PUM": "Capsula a $4.312,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 8 CAP"
+        ],
+        [
+            "Concentracion",
+            "150 MG 75 MG"
+        ],
+        [
+            "Principio activo",
+            "OROTICO ACIDO ANHIDRO OXIPURINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS INCOBRA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011148-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

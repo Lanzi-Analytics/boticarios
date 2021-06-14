@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/delineador-liquido-liquido-cera-abejas-2-cafe-7702044211307/p",
+    "fecha_hora_scraping": "2021-06-14 08:38:35",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "DELINEADOR LIQUIDO LIQUIDO CERA ABEJAS 2 CAF\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/DELINEADOR_LIQUIDO_LIQUIDO_CERA_ABEJAS_2_CAF\u00c9.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$22.550",
+        "precioPorSku js-PUM": "Mililitro a $3.758,33"
+    },
+    "descripcion": "delineador liquido liquido cera abejas 2 caf\u00e9",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC25347-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

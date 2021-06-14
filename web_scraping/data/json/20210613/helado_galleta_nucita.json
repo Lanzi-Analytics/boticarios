@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-galleta-nucita-7702011117779/p",
+    "fecha_hora_scraping": "2021-06-14 04:52:22",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado galleta nucita",
+    "nombre_imagen": "./web_scraping/data/img/helado_galleta_nucita.jpg",
+    "presentacion": "UNIDAD X 50 G",
+    "precio": {
+        "bestPrice": "$1.350",
+        "precioPorSku js-PUM": "Gramo a $27,00"
+    },
+    "descripcion": "helado galleta nucita",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAA02I26805"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

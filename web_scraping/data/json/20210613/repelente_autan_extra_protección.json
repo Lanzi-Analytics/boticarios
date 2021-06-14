@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-autan-extra-proteccion-7591005980938/p",
+    "fecha_hora_scraping": "2021-06-14 00:00:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "repelente autan extra protecci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/repelente_autan_extra_protecci\u00f3n.jpg",
+    "presentacion": "BOTELLA X 200 ML",
+    "precio": {
+        "bestPrice": "$16.200",
+        "precioPorSku js-PUM": "Mililitro a $81,00"
+    },
+    "descripcion": "repelente autan spray extra pro 200 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 200 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC53745-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

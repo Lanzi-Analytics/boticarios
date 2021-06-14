@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betametasona-005-crema-topica-tecnoquimicas-7702057070236/p",
+    "fecha_hora_scraping": "2021-06-14 05:29:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BETAMETASONA 0.05% CREMA T\u00d3PICA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/BETAMETASONA_005_CREMA_T\u00d3PICA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$16.150",
+        "precioPorSku js-PUM": "Gramo a $403,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "0,05 G"
+        ],
+        [
+            "Principio activo",
+            "BETAMETASONA DIPROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002512-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

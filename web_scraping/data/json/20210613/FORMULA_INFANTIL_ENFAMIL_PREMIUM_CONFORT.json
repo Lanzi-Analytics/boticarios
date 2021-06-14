@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfamil-premium-confort-7506205812996/p",
+    "fecha_hora_scraping": "2021-06-14 00:58:36",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAMIL PREMIUM CONFORT",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAMIL_PREMIUM_CONFORT.jpg",
+    "presentacion": "CAJA X 1650 G",
+    "precio": {
+        "bestPrice": "$180.700",
+        "precioPorSku js-PUM": "Gramo a $109,52"
+    },
+    "descripcion": "formula infantil enfamil premium confort",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1650 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSA-007022-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ginkgo-biloba-extract-60-mg-tableta-74312476525/p",
+    "fecha_hora_scraping": "2021-06-14 05:25:47",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "GINKGO BILOBA EXTRACT 60 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/GINKGO_BILOBA_EXTRACT_60_MG_TABLETA.jpg",
+    "presentacion": "FRASCO X 60 TAB",
+    "precio": {
+        "bestPrice": "$57.050",
+        "precioPorSku js-PUM": "Tableta a $950,83"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITAMINA AG SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2017-0000503-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goma-de-mascar-trident-total-menta-7622210454676/p",
+    "fecha_hora_scraping": "2021-06-14 03:10:33",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "goma de mascar trident total menta",
+    "nombre_imagen": "./web_scraping/data/img/goma_de_mascar_trident_total_menta.jpg",
+    "presentacion": "PAQUETE X 12 UN",
+    "precio": {
+        "bestPrice": "$2.450",
+        "precioPorSku js-PUM": "Gramo a $153,13"
+    },
+    "descripcion": "goma de mascar trident total menta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 12 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MONDELEZ COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA09L5408"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

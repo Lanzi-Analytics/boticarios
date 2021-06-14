@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/popetas-unidad-caramelo-44gr-7702354934255/p",
+    "fecha_hora_scraping": "2021-06-14 07:06:23",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "POPETAS UNIDAD CARAMELO 44GR",
+    "nombre_imagen": "./web_scraping/data/img/POPETAS_UNIDAD_CARAMELO_44GR.jpg",
+    "presentacion": "BOLSA X 44 G",
+    "precio": {
+        "bestPrice": "$1.350",
+        "precioPorSku js-PUM": "Gramo a $30,68"
+    },
+    "descripcion": "POPETAS UNIDAD CARAMELO 44GR",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 44 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAE08I3313"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

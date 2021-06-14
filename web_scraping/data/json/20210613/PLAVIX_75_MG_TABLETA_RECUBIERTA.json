@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/plavix-75-mg-tableta-recubierta-3582910040095/p",
+    "fecha_hora_scraping": "2021-06-14 04:28:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PLAVIX 75 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/PLAVIX_75_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$37.600",
+        "precioPorSku js-PUM": "Tableta a $1.342,86"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOPIDOGREL"
+        ],
+        [
+            "Laboratorio",
+            "SANOFI AVENTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-011829-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paracodina-136-mg-gotas-7704039112057/p",
+    "fecha_hora_scraping": "2021-06-14 08:43:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PARACODINA 13.6 MG GOTAS",
+    "nombre_imagen": "./web_scraping/data/img/PARACODINA_136_MG_GOTAS.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$11.800",
+        "precioPorSku js-PUM": "Mililitro a $393,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "13.6 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DIHIDROCODEINA BITARTRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LEGRAND SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-001569-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

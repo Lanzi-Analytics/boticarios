@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/fitostimoline-crema-7704232000465/p",
-    "fecha_hora_scraping": "2021-06-13 18:22:18",
-    "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
+    "url_producto": "https://www.drogueriascolsubsidio.com/fitostimoline-crema-7704232001110/p",
+    "fecha_hora_scraping": "2021-06-14 06:11:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
     "titulo": "FITOSTIMOLINE CREMA",
     "nombre_imagen": "./web_scraping/data/img/FITOSTIMOLINE_CREMA.jpg",
-    "presentacion": "TUBO X 32 G",
+    "presentacion": "TUBO X 60 G",
     "precio": {
-        "bestPrice": "$73.400",
-        "precioPorSku js-PUM": "Gramo a $2.293,75"
+        "bestPrice": "$102.150",
+        "precioPorSku js-PUM": "Gramo a $1.702,50"
     },
     "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "TUBO X 32 G"
+            "TUBO X 60 G"
         ],
         [
             "Concentracion",

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-dramatically-whitening-brown-spot-corrector-w-3760019120447/p",
+    "fecha_hora_scraping": "2021-06-14 01:40:52",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN DRAMATICALLY WHITENING BROWN SPOT CORRECTOR W+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_DRAMATICALLY_WHITENING_BROWN_SPOT_CORRECTOR_W.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$132.500",
+        "precioPorSku js-PUM": "Mililitro a $3.312,50"
+    },
+    "descripcion": "soskin dramatically whitening brown spot",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69493-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

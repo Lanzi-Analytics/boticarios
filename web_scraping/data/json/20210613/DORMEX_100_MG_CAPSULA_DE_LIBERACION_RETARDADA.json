@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7703546028226novamedformuladosmedicamentosdormex-100-mg-capsula-de-liberacion-retardadadiclofenaco-sodio-7703546028226/p",
+    "fecha_hora_scraping": "2021-06-14 10:29:05",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DORMEX 100 MG CAPSULA DE LIBERACION RETARDADA",
+    "nombre_imagen": "./web_scraping/data/img/DORMEX_100_MG_CAPSULA_DE_LIBERACION_RETARDADA.jpg",
+    "presentacion": "CAJA X 20 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$35.850",
+        "bestPrice": "$17.925",
+        "precioPorSku js-PUM": "Capsula a $896,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 CAP"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014117"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

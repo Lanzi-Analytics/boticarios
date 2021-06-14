@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chocolatina-jet-leche-77010148/p",
+    "fecha_hora_scraping": "2021-06-14 10:29:34",
+    "breadcumb": "colsubsidio|alimentos y bebidas|dulces y chocolates",
+    "titulo": "chocolatina jet leche",
+    "nombre_imagen": "./web_scraping/data/img/chocolatina_jet_leche.jpg",
+    "presentacion": "UNIDAD X 12 G",
+    "precio": {
+        "PrevPrice": "Antes:$550",
+        "bestPrice": "$385",
+        "precioPorSku js-PUM": "Gramo a $32,08"
+    },
+    "descripcion": "chocolatina jet leche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 12 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

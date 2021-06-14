@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/salises-facial-tratamiento-focal-gel-sesderma-8429979423207/p",
+    "fecha_hora_scraping": "2021-06-14 08:25:23",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SALISES FACIAL TRATAMIENTO FOCAL GEL SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/SALISES_FACIAL_TRATAMIENTO_FOCAL_GEL_SESDERMA.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$69.750",
+        "precioPorSku js-PUM": "Mililitro a $4.650,00"
+    },
+    "descripcion": "SALISES FACIAL TRATAMIENTO FOCAL GEL SESDERMA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC66309-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

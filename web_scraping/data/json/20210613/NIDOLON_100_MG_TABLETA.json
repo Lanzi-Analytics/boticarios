@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707670343798medicamentosformuladosexeltisnimesulida-7707670343798/p",
+    "fecha_hora_scraping": "2021-06-14 02:15:10",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NIDOLON 100 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/NIDOLON_100_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$57.800",
+        "precioPorSku js-PUM": "Tableta a $5.780,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "NIMESULIDA"
+        ],
+        [
+            "Laboratorio",
+            "EXELTIS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-006152-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

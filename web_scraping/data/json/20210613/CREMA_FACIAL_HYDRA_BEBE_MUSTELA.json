@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-facial-hydra-bebe-mustela-3504105030766/p",
+    "fecha_hora_scraping": "2021-06-14 05:56:37",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CREMA FACIAL HYDRA BEBE MUSTELA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_FACIAL_HYDRA_BEBE_MUSTELA.jpg",
+    "presentacion": "FRASCO X 40 ML",
+    "precio": {
+        "bestPrice": "$38.100",
+        "precioPorSku js-PUM": "Mililitro a $952,50"
+    },
+    "descripcion": "crema facial hydra bebe mustela",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ESTRADIOL HEMIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55533-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

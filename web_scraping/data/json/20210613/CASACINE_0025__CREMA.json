@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/casacine-0025--crema-7707331331010/p",
+    "fecha_hora_scraping": "2021-06-14 01:17:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CASACINE 0.025 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/CASACINE_0025__CREMA.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$61.800",
+        "precioPorSku js-PUM": "Gramo a $3.090,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "0.25 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CAPSAICINA"
+        ],
+        [
+            "Laboratorio",
+            "INVESTIGACION DESARRO FARMOQUIMICO"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0006560-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

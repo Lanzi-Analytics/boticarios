@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/betametasona-01-crema-topica-lafrancol-7706569001672/p",
+    "fecha_hora_scraping": "2021-06-14 05:03:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BETAMETASONA 0.1% CREMA T\u00d3PICA LAFRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/BETAMETASONA_01_CREMA_T\u00d3PICA_LAFRANCOL.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$12.000",
+        "precioPorSku js-PUM": "Gramo a $600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "0.1 G"
+        ],
+        [
+            "Principio activo",
+            "BETAMETASONA VALERATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002634-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

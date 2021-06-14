@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pleniv-10-mg10-mg-capsula-blanda-7703153030612/p",
+    "fecha_hora_scraping": "2021-06-14 03:22:26",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PLENIV 10 MG/10 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/PLENIV_10_MG10_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 60 CAP",
+    "precio": {
+        "bestPrice": "$57.700",
+        "precioPorSku js-PUM": "Capsula a $961,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "DOXILAMINA SUCCINATO PIRIDOXINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015591-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

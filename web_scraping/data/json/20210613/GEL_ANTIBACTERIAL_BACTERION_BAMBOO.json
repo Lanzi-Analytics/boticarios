@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702113041453gel-antibacterial-bacterion-bamboohigiene-y-cuidado-personaljabones-y-gel-antibacterialna-7702113041453/p",
+    "fecha_hora_scraping": "2021-06-14 06:52:21",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "GEL ANTIBACTERIAL BACTERION BAMBOO",
+    "nombre_imagen": "./web_scraping/data/img/GEL_ANTIBACTERIAL_BACTERION_BAMBOO.jpg",
+    "presentacion": "FRASCO X 300 X ML",
+    "precio": {
+        "bestPrice": "$12.450",
+        "precioPorSku js-PUM": "Mililitro a $41,50"
+    },
+    "descripcion": "gel antibacterial bacterion bamboo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 X ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36076-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

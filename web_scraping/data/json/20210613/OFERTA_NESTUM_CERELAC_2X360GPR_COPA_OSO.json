@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta--nestum-cerelac-2x360gpr-copa-oso-7702024777700/p",
+    "fecha_hora_scraping": "2021-06-14 00:41:59",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "OFERTA -NESTUM CERELAC (2X360G)PR COPA OSO",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_NESTUM_CERELAC_2X360GPR_COPA_OSO.jpg",
+    "presentacion": "CAJA X 720G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $34,58"
+    },
+    "descripcion": "OFERTA -NESTUM CERELAC (2X360G)PR COPA OSO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 720G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I15414"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

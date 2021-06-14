@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gentamicina-03--solucion-oftalmica-tecnoquimicas-7702057070670/p",
+    "fecha_hora_scraping": "2021-06-14 00:00:44",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GENTAMICINA 0.3 % SOLUCION OFTALMICA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/GENTAMICINA_03__SOLUCION_OFTALMICA_TECNOQUIMICAS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$10.350",
+        "precioPorSku js-PUM": "Mililitro a $1.035,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "3 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "GENTAMICINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003606-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

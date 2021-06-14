@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jeringa-3-ml-con-aguja-23-x-1-pulgada-3p-ref302542-7501073025424/p",
+    "fecha_hora_scraping": "2021-06-14 06:14:56",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "JERINGA 3 ML CON AGUJA 23 X 1 PULGADA 3P REF302542",
+    "nombre_imagen": "./web_scraping/data/img/JERINGA_3_ML_CON_AGUJA_23_X_1_PULGADA_3P_REF302542.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$332",
+        "precioPorSku js-PUM": "Unidad a $332,00"
+    },
+    "descripcion": "jeringa 3 ml con aguja 23 x 1 pulgada 3p",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "FLUOXETINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BECTON DICKINSON DE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2015DM-0003325-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

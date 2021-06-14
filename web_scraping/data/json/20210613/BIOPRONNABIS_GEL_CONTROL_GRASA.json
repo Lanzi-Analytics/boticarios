@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biopronnabis-gel-control-grasa-7707232091334/p",
+    "fecha_hora_scraping": "2021-06-14 05:11:45",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "BIOPRONNABIS GEL CONTROL GRASA",
+    "nombre_imagen": "./web_scraping/data/img/BIOPRONNABIS_GEL_CONTROL_GRASA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$33.300",
+        "precioPorSku js-PUM": "Gramo a $1.110,00"
+    },
+    "descripcion": "biopronnabis gel control grasa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89613-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

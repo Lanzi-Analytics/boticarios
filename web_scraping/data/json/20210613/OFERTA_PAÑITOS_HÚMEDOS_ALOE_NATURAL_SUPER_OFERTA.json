@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-panitos-humedos-aloe-natural-super-oferta-7702026313814/p",
+    "fecha_hora_scraping": "2021-06-14 08:41:34",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "OFERTA PA\u00d1ITOS H\u00daMEDOS ALOE NATURAL SUPER OFERTA",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PA\u00d1ITOS_H\u00daMEDOS_ALOE_NATURAL_SUPER_OFERTA.jpg",
+    "presentacion": "PAQUETE X 100 UN",
+    "precio": {
+        "bestPrice": "$12.000",
+        "precioPorSku js-PUM": "Unidad a $120,00"
+    },
+    "descripcion": "of panos hum flat pack aloe ll100",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 100 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA V-002150-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

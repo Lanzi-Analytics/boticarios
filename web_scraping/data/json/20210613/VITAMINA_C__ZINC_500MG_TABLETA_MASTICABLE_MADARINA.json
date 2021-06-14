@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamina-c--zinc-500mg-tableta-masticable-madarina-7702605109272/p",
+    "fecha_hora_scraping": "2021-06-14 07:09:19",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITAMINA C + ZINC 500MG TABLETA MASTICABLE MADARINA",
+    "nombre_imagen": "./web_scraping/data/img/VITAMINA_C__ZINC_500MG_TABLETA_MASTICABLE_MADARINA.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$4.555",
+        "precioPorSku js-PUM": "Tableta a $455,50"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA C"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003853"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

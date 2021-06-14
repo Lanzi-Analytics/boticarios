@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/derma-q-crema-topica-7703763993895/p",
+    "fecha_hora_scraping": "2021-06-14 07:00:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DERMA Q CREMA TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/DERMA_Q_CREMA_TOPICA.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$48.550",
+        "precioPorSku js-PUM": "Gramo a $1.213,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "21.48 MG/G 1000 MG/G 1 MG/G"
+        ],
+        [
+            "Principio activo",
+            "MUPIROCINA CALCICA CLOTRIMAZOL MOMETASONA FUROATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011599-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

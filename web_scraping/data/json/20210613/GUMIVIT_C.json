@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gumivit-c-7703153034542/p",
+    "fecha_hora_scraping": "2021-06-14 01:45:53",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "GUMIVIT C",
+    "nombre_imagen": "./web_scraping/data/img/GUMIVIT_C.jpg",
+    "presentacion": "BOLSA X 6 UN",
+    "precio": {
+        "bestPrice": "$7.800",
+        "precioPorSku js-PUM": "Unidad a $1.300,00"
+    },
+    "descripcion": "gumivit c",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 6 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAK16I1504"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

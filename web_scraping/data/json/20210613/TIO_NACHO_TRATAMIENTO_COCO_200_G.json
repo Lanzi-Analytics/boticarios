@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tratamiento-tio-nacho-ultra-hidratante-aceite-de-coco-7798140258513/p",
+    "fecha_hora_scraping": "2021-06-14 05:16:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TIO NACHO TRATAMIENTO COCO 200 G",
+    "nombre_imagen": "./web_scraping/data/img/TIO_NACHO_TRATAMIENTO_COCO_200_G.jpg",
+    "presentacion": "FRASCO X 200 G",
+    "precio": {
+        "bestPrice": "$27.700",
+        "precioPorSku js-PUM": "Gramo a $138,50"
+    },
+    "descripcion": "su f\u00f3rmula penetra y retiene la hidrataci\u00f3n, devolviendo el 100% del agua perdida desde el primer uso",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85759-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

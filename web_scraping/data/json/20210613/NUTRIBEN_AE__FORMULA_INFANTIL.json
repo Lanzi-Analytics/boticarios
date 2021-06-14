@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutriben-ae--formula-infantil-7703546835077/p",
+    "fecha_hora_scraping": "2021-06-13 23:04:22",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NUTRIBEN A.E.  FORMULA INFANTIL",
+    "nombre_imagen": "./web_scraping/data/img/NUTRIBEN_AE__FORMULA_INFANTIL.jpg",
+    "presentacion": "TARRO X 900 G",
+    "precio": {
+        "bestPrice": "$92.000",
+        "precioPorSku js-PUM": "Gramo a $102,22"
+    },
+    "descripcion": "NUTRIBEN A.E.  FORMULA INFANTIL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I14614"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

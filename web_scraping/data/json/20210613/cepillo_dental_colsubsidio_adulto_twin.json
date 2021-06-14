@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-colsubsidio-adulto-twin-7701009007382/p",
+    "fecha_hora_scraping": "2021-06-14 04:14:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental colsubsidio adulto twin",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_colsubsidio_adulto_twin.jpg",
+    "presentacion": "EMPAQUE X 2 UN",
+    "precio": {
+        "bestPrice": "$5.200",
+        "precioPorSku js-PUM": "Unidad a $2.600,00"
+    },
+    "descripcion": "cepillo dent colsub adulto tw 2und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PLACECOL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

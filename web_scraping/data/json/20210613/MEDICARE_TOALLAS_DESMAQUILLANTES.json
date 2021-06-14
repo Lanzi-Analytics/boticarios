@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/medicare-toallas-desmaquillantes-7703252035549/p",
+    "fecha_hora_scraping": "2021-06-14 07:08:45",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "MEDICARE TOALLAS DESMAQUILLANTES",
+    "nombre_imagen": "./web_scraping/data/img/MEDICARE_TOALLAS_DESMAQUILLANTES.jpg",
+    "presentacion": "BOLSA X 30 UN",
+    "precio": {
+        "bestPrice": "$4.050",
+        "precioPorSku js-PUM": "Unidad a $135,00"
+    },
+    "descripcion": "medicare toallas desmaquillantes",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OPTION SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC61569-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

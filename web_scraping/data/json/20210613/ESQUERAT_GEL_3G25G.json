@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/esquerat-gel-3g25g-7704232002001/p",
+    "fecha_hora_scraping": "2021-06-14 04:22:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ESQUERAT GEL 3G/2.5G",
+    "nombre_imagen": "./web_scraping/data/img/ESQUERAT_GEL_3G25G.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$62.350",
+        "precioPorSku js-PUM": "Gramo a $2.078,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "30 MG/G 25 MG/G"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO SODICO ACIDO HIALURONICO"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018332"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

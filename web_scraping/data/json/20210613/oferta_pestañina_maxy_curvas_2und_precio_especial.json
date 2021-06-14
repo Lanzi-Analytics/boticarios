@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-pestanina-maxy-curvas-2und-precio-especial-7702870103234/p",
+    "fecha_hora_scraping": "2021-06-14 09:58:15",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "oferta pesta\u00f1ina maxy curvas 2und precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_pesta\u00f1ina_maxy_curvas_2und_precio_especial.jpg",
+    "presentacion": "TUBO X 12 G",
+    "precio": {
+        "bestPrice": "$28.300",
+        "precioPorSku js-PUM": "Gramo a $2.358,33"
+    },
+    "descripcion": "oferta pesta\u00f1ina maxy curvas 2und precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC86047-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

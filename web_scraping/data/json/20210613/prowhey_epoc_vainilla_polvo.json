@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prowhey-epoc-vainilla-polvo-7709979366904/p",
+    "fecha_hora_scraping": "2021-06-14 00:04:26",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "prowhey epoc vainilla polvo",
+    "nombre_imagen": "./web_scraping/data/img/prowhey_epoc_vainilla_polvo.jpg",
+    "presentacion": "LATA X 420 G",
+    "precio": {
+        "bestPrice": "$100.550",
+        "precioPorSku js-PUM": "Gramo a $239,40"
+    },
+    "descripcion": "prowhey epoc vainilla polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 420 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001095-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

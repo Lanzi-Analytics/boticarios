@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-diabeticos-polvo-7702870050842/p",
+    "fecha_hora_scraping": "2021-06-14 05:04:51",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY DIABETICOS POLVO",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_DIABETICOS_POLVO.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$48.050",
+        "precioPorSku js-PUM": "Gramo a $120,13"
+    },
+    "descripcion": "ensoy diabeticos polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV10I21805"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

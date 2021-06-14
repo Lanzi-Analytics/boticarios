@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cystoflo-drenaje-urinario-7707141353684/p",
+    "fecha_hora_scraping": "2021-06-14 09:16:42",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "CYSTOFLO DRENAJE URINARIO",
+    "nombre_imagen": "./web_scraping/data/img/CYSTOFLO_DRENAJE_URINARIO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $9.750,00"
+    },
+    "descripcion": "cystoflo drenaje urinario",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BAXTER SA"
+        ],
+        [
+            "Registro Invima",
+            "2018DM-0003501-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

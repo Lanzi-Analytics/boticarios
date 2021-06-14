@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/emclarex-crema-7702195072390/p",
+    "fecha_hora_scraping": "2021-06-14 07:05:11",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "EMCLAREX CREMA",
+    "nombre_imagen": "./web_scraping/data/img/EMCLAREX_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$117.800",
+        "precioPorSku js-PUM": "Gramo a $3.926,67"
+    },
+    "descripcion": "emclarex crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13211-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

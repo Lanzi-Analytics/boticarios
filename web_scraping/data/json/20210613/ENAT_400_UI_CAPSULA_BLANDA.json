@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enat-400-ui-capsula-blanda-8850769020120/p",
+    "fecha_hora_scraping": "2021-06-14 02:51:28",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "ENAT 400 UI CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ENAT_400_UI_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$25.750",
+        "precioPorSku js-PUM": "Capsula a $858,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 UI"
+        ],
+        [
+            "Principio activo",
+            "DL-ALFATOCOFERIL ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "RB PHARMACEUTICALS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017734"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

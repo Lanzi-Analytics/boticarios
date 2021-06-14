@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ciprofloxacina-500mg-tableta-recubierta-tecnoquimicas-7702057708979/p",
+    "fecha_hora_scraping": "2021-06-14 04:35:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CIPROFLOXACINA 500MG TABLETA RECUBIERTA TECNOQU\u00cdMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CIPROFLOXACINA_500MG_TABLETA_RECUBIERTA_TECNOQU\u00cdMICAS.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$6.750",
+        "precioPorSku js-PUM": "Tableta a $675,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CIPROFLOXACINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-012855-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

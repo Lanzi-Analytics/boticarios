@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nuvaring-anillo-vaginal-7707213870521/p",
+    "fecha_hora_scraping": "2021-06-14 05:39:40",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NUVARING ANILLO VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/NUVARING_ANILLO_VAGINAL.jpg",
+    "presentacion": "UNIDAD X 1UN",
+    "precio": {
+        "bestPrice": "$80.550",
+        "precioPorSku js-PUM": "Unidad a $80.550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 1UN"
+        ],
+        [
+            "Concentracion",
+            "11.7 MG 2.7 MG"
+        ],
+        [
+            "Principio activo",
+            "ETONOGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008375"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

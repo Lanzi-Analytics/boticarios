@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/afelius-oil-free-emulsion-7707355050881/p",
+    "fecha_hora_scraping": "2021-06-14 05:35:56",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "AFELIUS OIL FREE EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/AFELIUS_OIL_FREE_EMULSION.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$93.850",
+        "precioPorSku js-PUM": "Gramo a $1.564,17"
+    },
+    "descripcion": "afelius oil free emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC24386-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

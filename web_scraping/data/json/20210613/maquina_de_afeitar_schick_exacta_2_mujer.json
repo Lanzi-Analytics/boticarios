@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/maquina-de-afeitar-schick-exacta-2-mujer-7591066681300/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:51",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "maquina de afeitar schick exacta 2 mujer",
+    "nombre_imagen": "./web_scraping/data/img/maquina_de_afeitar_schick_exacta_2_mujer.jpg",
+    "presentacion": "EMPAQUE X 3 UN",
+    "precio": {
+        "bestPrice": "$11.450",
+        "precioPorSku js-PUM": "Unidad a $3.816,67"
+    },
+    "descripcion": "maquina de afeitar schick exacta 2 mujer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 3 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EDGEWELL PERSONAL CARE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

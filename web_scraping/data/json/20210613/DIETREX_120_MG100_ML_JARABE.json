@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dietrex-120-mg100-ml-jarabe-7707334710447/p",
+    "fecha_hora_scraping": "2021-06-14 08:30:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIETREX 120 MG/100 ML JARABE",
+    "nombre_imagen": "./web_scraping/data/img/DIETREX_120_MG100_ML_JARABE.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$28.950",
+        "precioPorSku js-PUM": "Mililitro a $241,25"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "1.2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "BUCLIZINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NEVOX FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0005554-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

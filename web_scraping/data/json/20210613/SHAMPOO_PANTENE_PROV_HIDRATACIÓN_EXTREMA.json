@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-pantene-pro-v-hidrocauterizacion-7506309840024/p",
+    "fecha_hora_scraping": "2021-06-14 08:34:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "SHAMPOO PANTENE PRO-V HIDRATACI\u00d3N EXTREMA",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_PANTENE_PROV_HIDRATACI\u00d3N_EXTREMA.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "PrevPrice": "Antes:$20.150",
+        "bestPrice": "$15.112",
+        "precioPorSku js-PUM": "Mililitro a $37,78"
+    },
+    "descripcion": "shampooo pantene hidrocauteriza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

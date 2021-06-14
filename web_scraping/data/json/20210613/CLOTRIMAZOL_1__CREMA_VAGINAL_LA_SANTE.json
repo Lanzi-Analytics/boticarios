@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clotrimazol-1--crema-vaginal-la-sante-7703763050710/p",
+    "fecha_hora_scraping": "2021-06-14 02:51:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLOTRIMAZOL 1 % CREMA VAGINAL LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/CLOTRIMAZOL_1__CREMA_VAGINAL_LA_SANTE.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$18.150",
+        "precioPorSku js-PUM": "Gramo a $453,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0000634-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

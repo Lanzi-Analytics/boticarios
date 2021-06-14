@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-protect-vainilla-7702870053690/p",
+    "fecha_hora_scraping": "2021-06-14 10:17:04",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY PROTECT VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_PROTECT_VAINILLA.jpg",
+    "presentacion": "TARRO X 900 G",
+    "precio": {
+        "bestPrice": "$86.050",
+        "precioPorSku js-PUM": "Gramo a $95,61"
+    },
+    "descripcion": "ensoy protect vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000662-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

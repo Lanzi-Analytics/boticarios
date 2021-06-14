@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tnt-megamass-polvo-vainilla-7709051780345/p",
+    "fecha_hora_scraping": "2021-06-14 07:57:09",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "tnt megamass polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/tnt_megamass_polvo_vainilla.jpg",
+    "presentacion": "BOLSA X 12 LB",
+    "precio": {
+        "bestPrice": "$169.000",
+        "precioPorSku js-PUM": "Libra a $14.083,33"
+    },
+    "descripcion": "tnt megamass polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 12 LB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003082-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

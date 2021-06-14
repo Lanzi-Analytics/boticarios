@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kid-ortodoncia-basico-ref125rgl-7502235820888/p",
+    "fecha_hora_scraping": "2021-06-13 23:38:33",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "KID ORTODONCIA B\u00c1SICO REF125RGL",
+    "nombre_imagen": "./web_scraping/data/img/KID_ORTODONCIA_B\u00c1SICO_REF125RGL.jpg",
+    "presentacion": "UNIDAD X 4UN",
+    "precio": {
+        "bestPrice": "$11.900",
+        "precioPorSku js-PUM": "Unidad a $11.900,00"
+    },
+    "descripcion": "kid ortodoncia b\u00e1sico ref125rgl",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

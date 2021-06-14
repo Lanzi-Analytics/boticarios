@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-colgate-plax-ice-500-ml-crema-dent-tot-clean-x-75-7702010660252/p",
+    "fecha_hora_scraping": "2021-06-14 06:09:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "ENJUAGUE COLGATE PLAX ICE 500 ML CREMA DENT TOT CLEAN X 75",
+    "nombre_imagen": "./web_scraping/data/img/ENJUAGUE_COLGATE_PLAX_ICE_500_ML_CREMA_DENT_TOT_CLEAN_X_75.jpg",
+    "presentacion": "FRASCO X 75ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $252,00"
+    },
+    "descripcion": "ENJUAGUE COLGATE PLAX ICE 500 ML CREMA DENT TOT CLEAN X 75",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 75ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC23051-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

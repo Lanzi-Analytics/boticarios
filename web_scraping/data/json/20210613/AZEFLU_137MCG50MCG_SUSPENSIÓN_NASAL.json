@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/azeflu-137mcg50mcg-suspension-nasal-7703546702041/p",
+    "fecha_hora_scraping": "2021-06-13 23:04:51",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AZEFLU 137MCG/50MCG SUSPENSI\u00d3N NASAL",
+    "nombre_imagen": "./web_scraping/data/img/AZEFLU_137MCG50MCG_SUSPENSI\u00d3N_NASAL.jpg",
+    "presentacion": "CAJA X 30ML",
+    "precio": {
+        "bestPrice": "$112.800",
+        "precioPorSku js-PUM": "Mililitro a $3.760,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG 36,5 MG"
+        ],
+        [
+            "Principio activo",
+            "AZELASTINA CLORHIDRATO FLUTICASONA PROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018440"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

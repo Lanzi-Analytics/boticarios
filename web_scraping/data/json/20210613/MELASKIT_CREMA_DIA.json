@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/melaskit-crema-dia-7703319000022/p",
+    "fecha_hora_scraping": "2021-06-14 08:38:30",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "MELASKIT CREMA DIA",
+    "nombre_imagen": "./web_scraping/data/img/MELASKIT_CREMA_DIA.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "$77.100",
+        "precioPorSku js-PUM": "Gramo a $1.285,00"
+    },
+    "descripcion": "melaskit crema dia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALDOQUIN LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC07876-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

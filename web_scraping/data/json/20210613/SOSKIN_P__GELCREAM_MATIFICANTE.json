@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-p--gel-cream-matificante-3760019120454/p",
+    "fecha_hora_scraping": "2021-06-14 05:52:25",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN P + GEL-CREAM MATIFICANTE",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_P__GELCREAM_MATIFICANTE.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$95.500",
+        "precioPorSku js-PUM": "Mililitro a $2.387,50"
+    },
+    "descripcion": "soskin p + gel-cream matificante",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69683-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

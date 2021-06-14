@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xertacol-2--crema-7707327210367/p",
+    "fecha_hora_scraping": "2021-06-14 05:36:07",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "XERTACOL 2 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/XERTACOL_2__CREMA.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$46.350",
+        "precioPorSku js-PUM": "Gramo a $2.317,50"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "2 G"
+        ],
+        [
+            "Principio activo",
+            "SERTACONAZOL NITRATO"
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0016800"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

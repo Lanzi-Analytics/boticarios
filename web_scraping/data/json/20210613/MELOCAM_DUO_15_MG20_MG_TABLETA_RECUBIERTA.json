@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/melocam-duo-15-mg20-mg-tableta-recubierta-7702870071748/p",
+    "fecha_hora_scraping": "2021-06-14 08:07:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MELOCAM DUO 15 MG/20 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/MELOCAM_DUO_15_MG20_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$76.950",
+        "precioPorSku js-PUM": "Tableta a $7.695,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG 15 MG"
+        ],
+        [
+            "Principio activo",
+            "ESOMEPRAZOL MAGNESIO TRIHID MELOXICAM"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015917"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

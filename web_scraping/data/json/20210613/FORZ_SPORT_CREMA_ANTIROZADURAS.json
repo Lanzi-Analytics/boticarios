@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/forz-sport-crema-antirozaduras-7707210531043/p",
+    "fecha_hora_scraping": "2021-06-14 08:10:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "FORZ SPORT CREMA ANTIROZADURAS",
+    "nombre_imagen": "./web_scraping/data/img/FORZ_SPORT_CREMA_ANTIROZADURAS.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$22.000",
+        "precioPorSku js-PUM": "Gramo a $366,67"
+    },
+    "descripcion": "forz sport crema antirozaduras",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS GERCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92564-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

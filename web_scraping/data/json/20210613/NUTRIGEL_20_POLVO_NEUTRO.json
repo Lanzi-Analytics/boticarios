@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrigel-20-polvo-neutro-7703153031084/p",
+    "fecha_hora_scraping": "2021-06-14 09:48:42",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUTRIGEL 2.0 POLVO NEUTRO",
+    "nombre_imagen": "./web_scraping/data/img/NUTRIGEL_20_POLVO_NEUTRO.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "PrevPrice": "Antes:$86.900",
+        "bestPrice": "$69.520",
+        "precioPorSku js-PUM": "Unidad a $2.317,33"
+    },
+    "descripcion": "NUTRIGEL 2.0 POLVO NEUTRO",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2015-0003602"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

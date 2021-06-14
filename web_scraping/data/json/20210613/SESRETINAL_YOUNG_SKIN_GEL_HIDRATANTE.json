@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979435576sesretinal-young-skin-gel-hidratantebellezadermocosmetica-8429979435576/p",
+    "fecha_hora_scraping": "2021-06-14 06:48:41",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SESRETINAL YOUNG SKIN GEL HIDRATANTE",
+    "nombre_imagen": "./web_scraping/data/img/SESRETINAL_YOUNG_SKIN_GEL_HIDRATANTE.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$173.650",
+        "precioPorSku js-PUM": "Mililitro a $3.473,00"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94080-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

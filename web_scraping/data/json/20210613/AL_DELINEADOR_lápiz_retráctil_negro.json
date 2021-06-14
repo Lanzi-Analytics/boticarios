@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-delineador-lapiz-retractil-negro-309972713018/p",
+    "fecha_hora_scraping": "2021-06-14 03:30:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL DELINEADOR l\u00e1piz retr\u00e1ctil negro",
+    "nombre_imagen": "./web_scraping/data/img/AL_DELINEADOR_l\u00e1piz_retr\u00e1ctil_negro.jpg",
+    "presentacion": "LAPIZ X 0.3 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $146.428,56"
+    },
+    "descripcion": "al delineador l\u00e1piz retr\u00e1ctil negro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 0.3 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57797-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

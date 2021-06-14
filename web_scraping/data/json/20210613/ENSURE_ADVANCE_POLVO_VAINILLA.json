@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensure-advance-polvo-vainilla-8427030004549/p",
+    "fecha_hora_scraping": "2021-06-14 06:23:57",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSURE ADVANCE POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/ENSURE_ADVANCE_POLVO_VAINILLA.jpg",
+    "presentacion": "LATA X 400 G",
+    "precio": {
+        "bestPrice": "$50.600",
+        "precioPorSku js-PUM": "Gramo a $126,50"
+    },
+    "descripcion": "ensure advance polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA16I178915"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

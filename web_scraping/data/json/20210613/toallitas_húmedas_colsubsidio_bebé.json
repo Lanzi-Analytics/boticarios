@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-humedas-colsubsidio-bebe-7701009149228/p",
+    "fecha_hora_scraping": "2021-06-14 09:11:27",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "toallitas h\u00famedas colsubsidio beb\u00e9",
+    "nombre_imagen": "./web_scraping/data/img/toallitas_h\u00famedas_colsubsidio_beb\u00e9.jpg",
+    "presentacion": "EMPAQUE X 120 UN",
+    "precio": {
+        "bestPrice": "$6.900",
+        "precioPorSku js-PUM": "Unidad a $53,08"
+    },
+    "descripcion": "toallitas h\u00famedas colsubsidio beb\u00e9 120u",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 120 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TROPICAL DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40522-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

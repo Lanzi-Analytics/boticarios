@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panal-winny-sec-eta-2-32utoallitas-20-7701021115829/p",
+    "fecha_hora_scraping": "2021-06-14 00:37:56",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "panal winny sec eta 2 32u+toallitas 20",
+    "nombre_imagen": "./web_scraping/data/img/panal_winny_sec_eta_2_32utoallitas_20.jpg",
+    "presentacion": "PAQUETE X 32 UN",
+    "precio": {
+        "bestPrice": "$21.300",
+        "precioPorSku js-PUM": "Unidad a $409,62"
+    },
+    "descripcion": "panal winny sec eta 2 32u+toallitas 20",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 32 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA02378-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

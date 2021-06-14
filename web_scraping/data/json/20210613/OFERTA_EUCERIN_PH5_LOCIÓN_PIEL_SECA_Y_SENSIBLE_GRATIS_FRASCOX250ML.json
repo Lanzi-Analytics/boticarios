@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-eucerin-ph5-gratis-frasco-x-250ml-7702003008313/p",
+    "fecha_hora_scraping": "2021-06-14 09:16:18",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "OFERTA EUCERIN PH5 LOCI\u00d3N PIEL SECA Y SENSIBLE GRATIS FRASCOX250ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_EUCERIN_PH5_LOCI\u00d3N_PIEL_SECA_Y_SENSIBLE_GRATIS_FRASCOX250ML.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $235,13"
+    },
+    "descripcion": "oferta eucerin ph5 gratis frasco x 250ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC08962-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

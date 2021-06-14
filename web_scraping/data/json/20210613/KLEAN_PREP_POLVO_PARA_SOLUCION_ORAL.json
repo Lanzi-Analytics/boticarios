@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/klean-prep-polvo-para-solucion-oral-7707188880167/p",
+    "fecha_hora_scraping": "2021-06-14 05:44:30",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KLEAN PREP POLVO PARA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/KLEAN_PREP_POLVO_PARA_SOLUCION_ORAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$20.450",
+        "precioPorSku js-PUM": "Unidad a $20.450,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "59 G 5,685 G 1,685 G"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL 3350 SULFATO SODIO BICARBONATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "BIOTOSCANA FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M- 012042-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

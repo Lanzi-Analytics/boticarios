@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alendronato-70-mg-tableta-genfar-7702605104314/p",
+    "fecha_hora_scraping": "2021-06-14 10:09:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALENDRONATO 70 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/ALENDRONATO_70_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "CAJA X 4 TAB",
+    "precio": {
+        "bestPrice": "$42.050",
+        "precioPorSku js-PUM": "Tableta a $10.512,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "70 MG"
+        ],
+        [
+            "Principio activo",
+            "ALENDRONATO SODIO TRIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0002948-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

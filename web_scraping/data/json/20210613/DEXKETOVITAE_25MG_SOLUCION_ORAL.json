@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dexketovitae-25mg-solucion-oral-7709631405163/p",
+    "fecha_hora_scraping": "2021-06-14 01:56:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEXKETOVITAE 25MG SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/DEXKETOVITAE_25MG_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 10 SOB",
+    "precio": {
+        "bestPrice": "$40.200",
+        "precioPorSku js-PUM": "Mililitro a $4.020,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 SOB"
+        ],
+        [
+            "Concentracion",
+            "25 MG"
+        ],
+        [
+            "Principio activo",
+            "DEXKETOPROFENO TROMETAMOL"
+        ],
+        [
+            "Laboratorio",
+            "EUROPEAN PHARMA SOLUTIONS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018833"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

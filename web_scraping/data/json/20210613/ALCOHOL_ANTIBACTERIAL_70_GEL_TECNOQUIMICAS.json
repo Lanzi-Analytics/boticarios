@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alcohol-antibacterial-70-gel-tecnoquimicas-7702057645786/p",
+    "fecha_hora_scraping": "2021-06-14 09:39:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "alcohol antibacterial 70% gel tecnoquimicas",
+    "nombre_imagen": "./web_scraping/data/img/alcohol_antibacterial_70_gel_tecnoquimicas.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$13.600",
+        "precioPorSku js-PUM": "Mililitro a $45,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "70 % (V/V)"
+        ],
+        [
+            "Principio activo",
+            "ETILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011972-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

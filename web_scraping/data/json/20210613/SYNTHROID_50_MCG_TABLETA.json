@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/synthroid-50-mcg-tableta-7702870924273/p",
+    "fecha_hora_scraping": "2021-06-14 04:32:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYNTHROID 50 MCG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/SYNTHROID_50_MCG_TABLETA.jpg",
+    "presentacion": "FRASCO X 90 TAB",
+    "precio": {
+        "bestPrice": "$74.200",
+        "precioPorSku js-PUM": "Tableta a $824,44"
+    },
+    "descripcion": "SYNTHROID 50 MCG TABLETA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 90 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 \u00b5G"
+        ],
+        [
+            "Principio activo",
+            "LEVOTIROXINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0001697-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

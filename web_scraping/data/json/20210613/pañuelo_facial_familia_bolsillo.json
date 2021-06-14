@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panuelo-facial-familia-bolsillo-7702026032050/p",
+    "fecha_hora_scraping": "2021-06-14 05:49:15",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|pa\u00f1uelos faciales",
+    "titulo": "pa\u00f1uelo facial familia bolsillo",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1uelo_facial_familia_bolsillo.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "bestPrice": "$4.250",
+        "precioPorSku js-PUM": "Unidad a $85,00"
+    },
+    "descripcion": "panuelo fac flia bolsillo x50 und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/celebro-chocolate-esencia-lavanda-7709843315601/p",
+    "fecha_hora_scraping": "2021-06-14 01:58:18",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CELEBRO CHOCOLATE ESENCIA LAVANDA",
+    "nombre_imagen": "./web_scraping/data/img/CELEBRO_CHOCOLATE_ESENCIA_LAVANDA.jpg",
+    "presentacion": "CAJA X 40 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $337,50"
+    },
+    "descripcion": "celebro chocolate esencia lavanda",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 40 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODIME NATU BIOENERG SIU TUTUAVA I"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000423-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

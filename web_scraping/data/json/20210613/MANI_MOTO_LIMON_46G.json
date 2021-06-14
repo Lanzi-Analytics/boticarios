@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-moto-limon-46g-7702189055965/p",
+    "fecha_hora_scraping": "2021-06-14 09:47:36",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "MANI MOTO LIMON 46G",
+    "nombre_imagen": "./web_scraping/data/img/MANI_MOTO_LIMON_46G.jpg",
+    "presentacion": "PAQUETE X 46 G",
+    "precio": {
+        "bestPrice": "$1.100",
+        "precioPorSku js-PUM": "Gramo a $23,91"
+    },
+    "descripcion": "MANI MOTO LIMON 46G",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 46 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSA0055759"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

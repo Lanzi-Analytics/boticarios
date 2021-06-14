@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-bb-cream-spf30-7707016404824/p",
+    "fecha_hora_scraping": "2021-06-13 23:37:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK BB CREAM SPF30",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_BB_CREAM_SPF30.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$26.700",
+        "precioPorSku js-PUM": "Gramo a $890,00"
+    },
+    "descripcion": "arawak bb cream spf30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56216-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

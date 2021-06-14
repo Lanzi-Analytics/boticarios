@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dicloxacilina-500mg-capsula-dura-genfar-7702605100750/p",
+    "fecha_hora_scraping": "2021-06-14 04:35:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DICLOXACILINA 500MG C\u00c1PSULA DURA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/DICLOXACILINA_500MG_C\u00c1PSULA_DURA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 CAP",
+    "precio": {
+        "bestPrice": "$5.950",
+        "precioPorSku js-PUM": "Capsula a $595,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "DICLOXACILINA SODIO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-006934-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benpel-5--locion-topica-7707274723217/p",
+    "fecha_hora_scraping": "2021-06-14 08:17:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BENPEL 5 % LOCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/BENPEL_5__LOCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$64.650",
+        "precioPorSku js-PUM": "Mililitro a $1.077,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "5 %"
+        ],
+        [
+            "Principio activo",
+            "MINOXIDIL"
+        ],
+        [
+            "Laboratorio",
+            "BCN MEDICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0014975-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

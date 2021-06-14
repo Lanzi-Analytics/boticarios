@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cereal-nestum-arroz-7613035652583/p",
+    "fecha_hora_scraping": "2021-06-14 06:33:42",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "cereal nestum arroz",
+    "nombre_imagen": "./web_scraping/data/img/cereal_nestum_arroz.jpg",
+    "presentacion": "EMPAQUE X 350 G",
+    "precio": {
+        "bestPrice": "$11.450",
+        "precioPorSku js-PUM": "Gramo a $32,71"
+    },
+    "descripcion": "nestum arroz x 350gr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 350 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NESTLE DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003580-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

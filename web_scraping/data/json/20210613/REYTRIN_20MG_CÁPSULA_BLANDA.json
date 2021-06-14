@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/reytrin-20mg-capsula-blanda-7707327210145/p",
+    "fecha_hora_scraping": "2021-06-14 00:39:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "REYTRIN 20MG C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/REYTRIN_20MG_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$164.400",
+        "precioPorSku js-PUM": "Capsula a $5.480,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "ISOTRETINOINA"
+        ],
+        [
+            "Laboratorio",
+            "SKINDRUG SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0007675"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-casero-colombina-maracuya-7702011127143/p",
+    "fecha_hora_scraping": "2021-06-14 02:12:46",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "HELADO CASERO COLOMBINA MARACUYA",
+    "nombre_imagen": "./web_scraping/data/img/HELADO_CASERO_COLOMBINA_MARACUYA.jpg",
+    "presentacion": "UNIDAD X 75 G",
+    "precio": {
+        "bestPrice": "$1.600",
+        "precioPorSku js-PUM": "Gramo a $21,33"
+    },
+    "descripcion": "HELADO CASERO COLOMBINA MARACUYA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 75 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001087-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

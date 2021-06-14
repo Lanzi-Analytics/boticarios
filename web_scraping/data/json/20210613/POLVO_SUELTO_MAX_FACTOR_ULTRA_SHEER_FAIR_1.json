@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-suelto-max-factor-ultra-sheer-fair-1-7702044007597/p",
+    "fecha_hora_scraping": "2021-06-14 00:20:35",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO SUELTO MAX FACTOR ULTRA SHEER FAIR #1",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_SUELTO_MAX_FACTOR_ULTRA_SHEER_FAIR_1.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.114,00"
+    },
+    "descripcion": "polvo suelto max factor ultra sheer fair #1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC05961-93CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

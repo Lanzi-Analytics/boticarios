@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-depilex-vello-grueso-aceite-de-almendras-pague-1un-lleve-2und-7702277110347/p",
+    "fecha_hora_scraping": "2021-06-14 01:21:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "oferta depilex vello grueso aceite de almendras pague: 1un lleve: 2und",
+    "nombre_imagen": "./web_scraping/data/img/oferta_depilex_vello_grueso_aceite_de_almendras_pague_1un_lleve_2und.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "$16.150",
+        "precioPorSku js-PUM": "Gramo a $161,50"
+    },
+    "descripcion": "of depilex vello gruesox 100g p/1 ll",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

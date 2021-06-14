@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/deflazacort-6-mg-comprimido-tecnoquimicas-7702057074951/p",
+    "fecha_hora_scraping": "2021-06-14 07:06:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DEFLAZACORT 6 MG COMPRIMIDO TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/DEFLAZACORT_6_MG_COMPRIMIDO_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 10 COM",
+    "precio": {
+        "bestPrice": "$9.000",
+        "precioPorSku js-PUM": "Comprimido a $900,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 COM"
+        ],
+        [
+            "Concentracion",
+            "6 MG"
+        ],
+        [
+            "Principio activo",
+            "DEFLAZACORT"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0002291-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

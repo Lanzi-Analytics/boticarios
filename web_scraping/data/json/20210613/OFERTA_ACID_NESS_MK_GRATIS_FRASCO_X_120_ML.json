@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-acid-ness-mk-gratis-frasco-x-120-ml-7702057061029/p",
+    "fecha_hora_scraping": "2021-06-14 00:29:13",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA ACID NESS MK GRATIS FRASCO X 120 ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ACID_NESS_MK_GRATIS_FRASCO_X_120_ML.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$30.050",
+        "precioPorSku js-PUM": "Mililitro a $250,42"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "0,59 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003534-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

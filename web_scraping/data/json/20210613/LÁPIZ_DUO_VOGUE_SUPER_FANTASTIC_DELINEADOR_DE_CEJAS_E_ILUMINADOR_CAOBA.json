@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lapiz-duo-vogue-super-fantastic-delineador-de-cejas-e-iluminador-caoba-7509552826708/p",
+    "fecha_hora_scraping": "2021-06-14 09:29:30",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "L\u00c1PIZ DUO VOGUE SUPER FANTASTIC DELINEADOR DE CEJAS E ILUMINADOR CAOBA",
+    "nombre_imagen": "./web_scraping/data/img/L\u00c1PIZ_DUO_VOGUE_SUPER_FANTASTIC_DELINEADOR_DE_CEJAS_E_ILUMINADOR_CAOBA.jpg",
+    "presentacion": "UNIDAD X 1.3 G",
+    "precio": {
+        "bestPrice": "$12.750",
+        "precioPorSku js-PUM": "Gramo a $9.807,69"
+    },
+    "descripcion": "l\u00e1piz duo vogue super fantastic delineador de cejas e iluminador caoba",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 1.3 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82650-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

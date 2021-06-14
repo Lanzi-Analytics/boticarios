@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/xarelto-25-mg-comprimido-recubierto-7795320000436/p",
+    "fecha_hora_scraping": "2021-06-14 05:16:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "XARELTO 2.5 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/XARELTO_25_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$113.650",
+        "precioPorSku js-PUM": "Tableta a $4.058,93"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "2,5 MG"
+        ],
+        [
+            "Principio activo",
+            "RIVAROXABAN"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015572"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

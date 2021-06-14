@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ducray-kelual-ds-crema-3282779361330/p",
+    "fecha_hora_scraping": "2021-06-14 09:10:08",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DUCRAY KELUAL DS CREMA",
+    "nombre_imagen": "./web_scraping/data/img/DUCRAY_KELUAL_DS_CREMA.jpg",
+    "presentacion": "TUBO X 40 ML",
+    "precio": {
+        "bestPrice": "$82.100",
+        "precioPorSku js-PUM": "Mililitro a $2.052,50"
+    },
+    "descripcion": "ducray kelual ds crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54213-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

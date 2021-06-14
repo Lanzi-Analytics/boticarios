@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-glycolic-new-skin-cream-r-3760019121277/p",
+    "fecha_hora_scraping": "2021-06-14 04:09:02",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN GLYCOLIC NEW SKIN CREAM R+",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_GLYCOLIC_NEW_SKIN_CREAM_R.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$158.000",
+        "precioPorSku js-PUM": "Mililitro a $3.160,00"
+    },
+    "descripcion": "soskin glycolic new skin cream r+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69284-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

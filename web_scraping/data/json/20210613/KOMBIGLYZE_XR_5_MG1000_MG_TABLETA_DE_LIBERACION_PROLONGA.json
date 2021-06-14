@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kombiglyze-xr-5-mg1000-mg-tableta-de-liberacion-prolonga-3000034223519/p",
+    "fecha_hora_scraping": "2021-06-14 08:08:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KOMBIGLYZE XR 5 MG/1000 MG TABLETA DE LIBERACION PROLONGA",
+    "nombre_imagen": "./web_scraping/data/img/KOMBIGLYZE_XR_5_MG1000_MG_TABLETA_DE_LIBERACION_PROLONGA.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$117.250",
+        "precioPorSku js-PUM": "Comprimido a $4.187,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "5 MG 1000 MG"
+        ],
+        [
+            "Principio activo",
+            "SAXAGLIPTINA METFORMINA CLOROHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "ASTRAZENECA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0013287-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aseptigel-7701205203045/p",
+    "fecha_hora_scraping": "2021-06-14 09:20:58",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "ASEPTIGEL",
+    "nombre_imagen": "./web_scraping/data/img/ASEPTIGEL.jpg",
+    "presentacion": "FRASCO X 120 G",
+    "precio": {
+        "bestPrice": "$6.300",
+        "precioPorSku js-PUM": "Gramo a $52,50"
+    },
+    "descripcion": "aseptigel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ASEPSIS PRODUCTS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06129-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-dove-reconstruccion-completa--acondicionador-7702006922401/p",
+    "fecha_hora_scraping": "2021-06-14 09:13:24",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "shampoo dove reconstrucci\u00f3n completa + acondicionador",
+    "nombre_imagen": "./web_scraping/data/img/shampoo_dove_reconstrucci\u00f3n_completa__acondicionador.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$31.350",
+        "precioPorSku js-PUM": "Mililitro a $39,19"
+    },
+    "descripcion": "dove sh r complt 400ml+ac 400ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

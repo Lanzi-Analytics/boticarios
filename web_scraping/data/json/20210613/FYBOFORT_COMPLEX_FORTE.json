@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fybofort-complex-forte-7707232092416/p",
+    "fecha_hora_scraping": "2021-06-14 09:42:51",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "FYBOFORT COMPLEX FORTE",
+    "nombre_imagen": "./web_scraping/data/img/FYBOFORT_COMPLEX_FORTE.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$38.150",
+        "precioPorSku js-PUM": "Gramo a $95,38"
+    },
+    "descripcion": "fybofort complex forte",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PSA-000821-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

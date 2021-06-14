@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alencal-irber-25-mg150-mg-tableta-recubierta-7707184600875/p",
+    "fecha_hora_scraping": "2021-06-14 02:33:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALENCAL IRBER 2.5 MG/150 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ALENCAL_IRBER_25_MG150_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$76.700",
+        "precioPorSku js-PUM": "Tableta a $2.556,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "150 MG 2,5 MG"
+        ],
+        [
+            "Principio activo",
+            "IRBESARTAN LEVOAMLODIPINO NICOTINATO"
+        ],
+        [
+            "Laboratorio",
+            "CLOSTER PHARMA SAS EN REORGANIZACIO"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015373"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

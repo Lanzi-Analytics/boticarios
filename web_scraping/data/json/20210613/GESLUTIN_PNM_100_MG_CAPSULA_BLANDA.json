@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707204493753tecnofarmaformuladosmedicamentosgeslutin-pnm-100-mg-capsula-blandaprogesterona-7707204493753/p",
+    "fecha_hora_scraping": "2021-06-14 05:58:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GESLUTIN PNM 100 MG CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/GESLUTIN_PNM_100_MG_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$125.150",
+        "precioPorSku js-PUM": "Capsula a $4.171,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "PROGESTERONA"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-13759-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

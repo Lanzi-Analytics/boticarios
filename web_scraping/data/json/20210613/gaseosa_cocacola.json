@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gaseosa-coca-cola-7702535005354/p",
+    "fecha_hora_scraping": "2021-06-14 00:50:59",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "gaseosa coca-cola",
+    "nombre_imagen": "./web_scraping/data/img/gaseosa_cocacola.jpg",
+    "presentacion": "LATA X 330 ML",
+    "precio": {
+        "bestPrice": "$2.100",
+        "precioPorSku js-PUM": "Mililitro a $6,36"
+    },
+    "descripcion": "gaseosa coca-cola",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 330 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

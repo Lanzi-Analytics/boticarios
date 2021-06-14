@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/agua-micelar-teatrical--te-verde-600ml-650240051630/p",
+    "fecha_hora_scraping": "2021-06-13 23:56:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "TEATRICAL AGUA MICELAR SUAVIZANTE 600 ML",
+    "nombre_imagen": "./web_scraping/data/img/TEATRICAL_AGUA_MICELAR_SUAVIZANTE_600_ML.jpg",
+    "presentacion": "FRASCO X 600 ML",
+    "precio": {
+        "bestPrice": "$18.650",
+        "precioPorSku js-PUM": "Mililitro a $31,08"
+    },
+    "descripcion": "agua micelar teatrical  te verde 600ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 600 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01213-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

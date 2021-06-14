@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-eucerin-skin-protection-ph5-4005800016783/p",
+    "fecha_hora_scraping": "2021-06-14 06:23:07",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CREMA EUCERIN SKIN-PROTECTION PH5",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_EUCERIN_SKINPROTECTION_PH5.jpg",
+    "presentacion": "FRASCO X 75 ML",
+    "precio": {
+        "bestPrice": "$71.300",
+        "precioPorSku js-PUM": "Mililitro a $950,67"
+    },
+    "descripcion": "crema eucerin skin-protection ph5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "LEVODROPROPIZINA"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC08963-03CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

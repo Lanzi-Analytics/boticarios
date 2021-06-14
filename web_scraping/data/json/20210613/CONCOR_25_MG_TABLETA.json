@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/concor-25-mg-tableta-7702418006263/p",
+    "fecha_hora_scraping": "2021-06-14 10:11:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CONCOR 2.5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CONCOR_25_MG_TABLETA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$9.600",
+        "precioPorSku js-PUM": "Tableta a $320,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "2,5 MG"
+        ],
+        [
+            "Principio activo",
+            "BISOPROLOL FUMARATO"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-014655-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

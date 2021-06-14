@@ -1,19 +1,19 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/algodon-mk-zig-zag-7702057077112/p",
-    "fecha_hora_scraping": "2021-06-13 18:57:28",
+    "url_producto": "https://www.drogueriascolsubsidio.com/algodon-mk-zig-zag-7702057077051/p",
+    "fecha_hora_scraping": "2021-06-14 03:05:24",
     "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
     "titulo": "ALGODON MK ZIG-ZAG",
     "nombre_imagen": "./web_scraping/data/img/ALGODON_MK_ZIGZAG.jpg",
-    "presentacion": "BOLSA X 25 G",
+    "presentacion": "BOLSA X 50 G",
     "precio": {
-        "bestPrice": "$1.600",
-        "precioPorSku js-PUM": "Gramo a $64,00"
+        "bestPrice": "$2.950",
+        "precioPorSku js-PUM": "Gramo a $59,00"
     },
     "descripcion": "algodon mk zig-zag",
     "atributos": [
         [
             "Presentaci\u00f3n",
-            "BOLSA X 25 G"
+            "BOLSA X 50 G"
         ],
         [
             "Concentracion",
@@ -21,7 +21,7 @@
         ],
         [
             "Principio activo",
-            ""
+            "BETAMETASONA FOSFATO DISODIO"
         ],
         [
             "Laboratorio",
@@ -29,7 +29,7 @@
         ],
         [
             "Registro Invima",
-            "2017DM-0002353-R1"
+            "2017DM-0002353R1"
         ],
         [
             "Color",

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pasabocas-maiz-crujiente-gigante-frito-lay-7702189040237/p",
+    "fecha_hora_scraping": "2021-06-14 02:38:27",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "PASABOCAS MAIZ CRUJIENTE GIGANTE FRITO LAY",
+    "nombre_imagen": "./web_scraping/data/img/PASABOCAS_MAIZ_CRUJIENTE_GIGANTE_FRITO_LAY.jpg",
+    "presentacion": "PAQUETE X 38 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $52,63"
+    },
+    "descripcion": "pasabocas maiz crujiente gigante frito lay",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 38 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIALIZADORA NACIONAL SAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA08I19614"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

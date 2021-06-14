@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/freelace-hw-emerald-green-acc-6901443296071/p",
+    "fecha_hora_scraping": "2021-06-13 23:49:52",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "freelace hw emerald green acc",
+    "nombre_imagen": "./web_scraping/data/img/freelace_hw_emerald_green_acc.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$269.900",
+        "bestPrice": "$202.425",
+        "precioPorSku js-PUM": "Unidad a $202.425"
+    },
+    "descripcion": "freelace hw emerald green acc",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA DE COMERCIO SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

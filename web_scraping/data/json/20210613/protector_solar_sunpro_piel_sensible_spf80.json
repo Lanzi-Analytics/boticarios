@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-sunpro-piel-sensible-spf80-7702277140634/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:22",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "protector solar sunpro piel sensible spf80+",
+    "nombre_imagen": "./web_scraping/data/img/protector_solar_sunpro_piel_sensible_spf80.jpg",
+    "presentacion": "BOTELLA X 220 ML",
+    "precio": {
+        "PrevPrice": "Antes:$49.450",
+        "bestPrice": "$34.615",
+        "precioPorSku js-PUM": "Mililitro a $157,34"
+    },
+    "descripcion": "prote sol sunpro spf80 piel sensi x220",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 220 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37769-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amoxidal-plus-875125mg-tableta-recubierta-5600360012887/p",
+    "fecha_hora_scraping": "2021-06-14 01:21:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "AMOXIDAL PLUS 875/125MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/AMOXIDAL_PLUS_875125MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 20 TAB",
+    "precio": {
+        "bestPrice": "$92.800",
+        "precioPorSku js-PUM": "Tableta a $4.640,00"
+    },
+    "descripcion": "AMOXIDAL PLUS 875/125MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 20 TAB"
+        ],
+        [
+            "Concentracion",
+            "875 MG 125 MG"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA CLAVULANICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019422"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

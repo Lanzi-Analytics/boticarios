@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/neocrin-tonico-capilar-7707183820120/p",
+    "fecha_hora_scraping": "2021-06-13 23:22:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "NEOCRIN TONICO CAPILAR",
+    "nombre_imagen": "./web_scraping/data/img/NEOCRIN_TONICO_CAPILAR.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$85.250",
+        "bestPrice": "$63.937",
+        "precioPorSku js-PUM": "Mililitro a $532,81"
+    },
+    "descripcion": "neocrin tonico capilar",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC24252-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

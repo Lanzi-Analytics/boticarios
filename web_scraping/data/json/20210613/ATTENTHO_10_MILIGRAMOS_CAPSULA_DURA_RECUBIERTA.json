@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/attentho-10-miligramos-capsula-dura-recubierta-7702207300015/p",
+    "fecha_hora_scraping": "2021-06-14 08:58:28",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ATTENTHO 10 MILIGRAMOS CAPSULA DURA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ATTENTHO_10_MILIGRAMOS_CAPSULA_DURA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 10 CAP",
+    "precio": {
+        "bestPrice": "$31.650",
+        "precioPorSku js-PUM": "Capsula a $3.165,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "ATOMOXETINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0011506-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

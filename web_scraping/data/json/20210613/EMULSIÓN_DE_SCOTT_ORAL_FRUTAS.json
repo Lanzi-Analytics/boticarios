@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/emulsion-de-scott-oral-frutas-7707172681190/p",
+    "fecha_hora_scraping": "2021-06-14 03:01:17",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "EMULSI\u00d3N DE SCOTT ORAL FRUTAS",
+    "nombre_imagen": "./web_scraping/data/img/EMULSI\u00d3N_DE_SCOTT_ORAL_FRUTAS.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$17.750",
+        "precioPorSku js-PUM": "Mililitro a $49,31"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0009269-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

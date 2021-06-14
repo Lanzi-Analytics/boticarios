@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fitostimoline-15-gel-7704232000946/p",
+    "fecha_hora_scraping": "2021-06-14 07:32:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FITOSTIMOLINE 15% GEL",
+    "nombre_imagen": "./web_scraping/data/img/FITOSTIMOLINE_15_GEL.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$45.200",
+        "precioPorSku js-PUM": "Gramo a $3.013,33"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "150 MG/G 10 MG/G"
+        ],
+        [
+            "Principio activo",
+            "TRITICUM VULGARE 2-FENOXIETANOL"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2019-0002233-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

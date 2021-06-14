@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/titanium-recover-protein-fruti-mix-mangofresagulupa-7709579745512/p",
+    "fecha_hora_scraping": "2021-06-14 07:22:18",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "titanium recover protein fruti mix mango/fresa/gulupa",
+    "nombre_imagen": "./web_scraping/data/img/titanium_recover_protein_fruti_mix_mangofresagulupa.jpg",
+    "presentacion": "BOT X 250 ML",
+    "precio": {
+        "bestPrice": "$10.200",
+        "precioPorSku js-PUM": "Mililitro a $40,80"
+    },
+    "descripcion": "titanium recover protein fruti mix mango/fresa/gulupa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOT X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ALIMENTOS Y BEBIDAS VALTIK SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009012-2019"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

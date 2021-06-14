@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hydraskin-silk-7707222420151/p",
+    "fecha_hora_scraping": "2021-06-14 05:24:33",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "HYDRASKIN SILK",
+    "nombre_imagen": "./web_scraping/data/img/HYDRASKIN_SILK.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$91.650",
+        "precioPorSku js-PUM": "Gramo a $1.833,00"
+    },
+    "descripcion": "hydraskin silk",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC05589-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

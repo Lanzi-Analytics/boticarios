@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/testoviron-depot-250-mg1-ml-solucion-inyectable-7702123007456/p",
+    "fecha_hora_scraping": "2021-06-14 03:38:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TESTOVIRON DEPOT 250 MG/1 ML SOLUCION INYECTABLE",
+    "nombre_imagen": "./web_scraping/data/img/TESTOVIRON_DEPOT_250_MG1_ML_SOLUCION_INYECTABLE.jpg",
+    "presentacion": "CAJA X 1UN",
+    "precio": {
+        "bestPrice": "$29.600",
+        "precioPorSku js-PUM": "Unidad a $29.600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1UN"
+        ],
+        [
+            "Concentracion",
+            "250 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "TESTOSTERONA ENANTATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-001042-R4"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

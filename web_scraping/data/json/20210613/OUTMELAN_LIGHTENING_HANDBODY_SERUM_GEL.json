@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/outmelan-lightening-hand-body-serum-gel--7709691190993/p",
+    "fecha_hora_scraping": "2021-06-14 08:55:15",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OUTMELAN LIGHTENING HAND<(>&<)>BODY SERUM GEL",
+    "nombre_imagen": "./web_scraping/data/img/OUTMELAN_LIGHTENING_HANDBODY_SERUM_GEL.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "PrevPrice": "Antes:$131.050",
+        "bestPrice": "$98.287",
+        "precioPorSku js-PUM": "Mililitro a $1.965,74"
+    },
+    "descripcion": "outmelan lightening hand&body serum gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98897-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

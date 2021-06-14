@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-enfamil-premium-confort-etapa-0-12-meses-7506205810138/p",
+    "fecha_hora_scraping": "2021-06-14 04:12:33",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL ENFAMIL PREMIUM CONFORT ETAPA 0-12 MESES",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_ENFAMIL_PREMIUM_CONFORT_ETAPA_012_MESES.jpg",
+    "presentacion": "LATA X 375 G",
+    "precio": {
+        "bestPrice": "$52.350",
+        "precioPorSku js-PUM": "Gramo a $139,60"
+    },
+    "descripcion": "formula infantil enfamil premium confort",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 375 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "DICLOFENACO DIETILAMINA"
+        ],
+        [
+            "Laboratorio",
+            "MEAD JOHNSON NUTRITION COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "RSA-007022-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/combantrin-250mg-tableta-7703283172015/p",
+    "fecha_hora_scraping": "2021-06-14 03:28:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COMBANTRIN 250MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/COMBANTRIN_250MG_TABLETA.jpg",
+    "presentacion": "CAJA X 3 TAB",
+    "precio": {
+        "bestPrice": "$18.150",
+        "precioPorSku js-PUM": "Tableta a $6.050,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 TAB"
+        ],
+        [
+            "Concentracion",
+            "250 MG"
+        ],
+        [
+            "Principio activo",
+            "PIRANTEL PAMOATO"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2021M-003114-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

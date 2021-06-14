@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7506195196694ampolla-capilar-pantene-pro-v-restauracion-x-45-mlhigiene-y-cuidado-personalcuidado-del-cabelloprocter--gamble-7506195196694/p",
+    "fecha_hora_scraping": "2021-06-14 00:11:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "AMPOLLA CAPILAR PANTENE PRO-V RESTAURACION X 45 ML",
+    "nombre_imagen": "./web_scraping/data/img/AMPOLLA_CAPILAR_PANTENE_PROV_RESTAURACION_X_45_ML.jpg",
+    "presentacion": "AMPOLLAS X 45 ML",
+    "precio": {
+        "PrevPrice": "Antes:$18.950",
+        "bestPrice": "$14.212",
+        "precioPorSku js-PUM": "Mililitro a $315,82"
+    },
+    "descripcion": "ampolla capilar pantene pro-v restauracion x 45 ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "AMPOLLAS X 45 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC41069-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

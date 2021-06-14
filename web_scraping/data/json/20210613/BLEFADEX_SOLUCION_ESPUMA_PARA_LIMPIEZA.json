@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/blefadex-solucion-espuma-para-limpieza-7703153036614/p",
+    "fecha_hora_scraping": "2021-06-14 07:44:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BLEFADEX SOLUCION ESPUMA PARA LIMPIEZA",
+    "nombre_imagen": "./web_scraping/data/img/BLEFADEX_SOLUCION_ESPUMA_PARA_LIMPIEZA.jpg",
+    "presentacion": "FRASCO X 80 ML",
+    "precio": {
+        "bestPrice": "$92.350",
+        "precioPorSku js-PUM": "Mililitro a $1.154,38"
+    },
+    "descripcion": "blefadex solucion espuma para limpieza",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91288-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

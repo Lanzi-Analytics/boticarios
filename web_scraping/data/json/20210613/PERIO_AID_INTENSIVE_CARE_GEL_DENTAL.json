@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/perio-aid-intensive-care-gel-dental-8427426041981/p",
+    "fecha_hora_scraping": "2021-06-14 08:07:48",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "PERIO AID INTENSIVE CARE GEL DENTAL",
+    "nombre_imagen": "./web_scraping/data/img/PERIO_AID_INTENSIVE_CARE_GEL_DENTAL.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "bestPrice": "$29.400",
+        "precioPorSku js-PUM": "Mililitro a $392,00"
+    },
+    "descripcion": "perio aid intensive care gel dental",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS DENTAID SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38496-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

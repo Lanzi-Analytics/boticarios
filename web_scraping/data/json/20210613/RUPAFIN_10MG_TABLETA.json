@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7704232002032rupafin-10mg-tabletamedicamentosformuladosbcn-medical-7704232002032/p",
+    "fecha_hora_scraping": "2021-06-14 08:26:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RUPAFIN 10MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/RUPAFIN_10MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$116.000",
+        "precioPorSku js-PUM": "Tableta a $3.866,67"
+    },
+    "descripcion": "rupafin 10mg tableta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "RUPATADINA"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0017379"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

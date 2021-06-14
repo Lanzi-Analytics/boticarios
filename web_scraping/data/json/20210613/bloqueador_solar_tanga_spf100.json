@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bloqueador-solar-tanga-spf100-7702113033465/p",
+    "fecha_hora_scraping": "2021-06-14 08:43:44",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "bloqueador solar tanga spf100+",
+    "nombre_imagen": "./web_scraping/data/img/bloqueador_solar_tanga_spf100.jpg",
+    "presentacion": "BOTELLA X 150 ML",
+    "precio": {
+        "PrevPrice": "Antes:$44.600",
+        "bestPrice": "$35.680",
+        "precioPorSku js-PUM": "Mililitro a $237,87"
+    },
+    "descripcion": "bloq tanga fps 100 crema 150ml.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 150 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC34000-09C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pinzas-para-bolsa-de-ostomia-768455107193/p",
+    "fecha_hora_scraping": "2021-06-14 01:36:15",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "PINZAS PARA BOLSA DE OSTOMIA",
+    "nombre_imagen": "./web_scraping/data/img/PINZAS_PARA_BOLSA_DE_OSTOMIA.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $6.825,00"
+    },
+    "descripcion": "pinzas para bolsa de ostomia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0014393"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

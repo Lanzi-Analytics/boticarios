@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/efal-limpiador-liquido-7707355056005/p",
+    "fecha_hora_scraping": "2021-06-14 07:43:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "efal limpiador l\u00edquido",
+    "nombre_imagen": "./web_scraping/data/img/efal_limpiador_l\u00edquido.jpg",
+    "presentacion": "FRASCO X 60 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $320,83"
+    },
+    "descripcion": "efal limpiador l\u00edquido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13277-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/citrusway-foot-spray-7707232094151/p",
+    "fecha_hora_scraping": "2021-06-14 01:06:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CITRUSWAY FOOT SPRAY",
+    "nombre_imagen": "./web_scraping/data/img/CITRUSWAY_FOOT_SPRAY.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$34.750",
+        "precioPorSku js-PUM": "Mililitro a $579,17"
+    },
+    "descripcion": "citrusway foot spray",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC60191-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulfato-de-magnesio-7707145300998/p",
+    "fecha_hora_scraping": "2021-06-14 04:11:03",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "sulfato de magnesio",
+    "nombre_imagen": "./web_scraping/data/img/sulfato_de_magnesio.jpg",
+    "presentacion": "BOLSA X 500 G",
+    "precio": {
+        "bestPrice": "$4.050",
+        "precioPorSku js-PUM": "Gramo a $8,10"
+    },
+    "descripcion": "sulfato de magnesio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 500 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS DISANFER SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

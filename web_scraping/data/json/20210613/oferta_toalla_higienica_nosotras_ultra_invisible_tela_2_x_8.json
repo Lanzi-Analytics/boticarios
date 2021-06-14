@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toalla-higienica-nosotras-ultra-invisible-tela-2-x-8-7702027429415/p",
+    "fecha_hora_scraping": "2021-06-14 09:52:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "oferta toalla higienica nosotras ultra invisible tela 2 x 8",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toalla_higienica_nosotras_ultra_invisible_tela_2_x_8.jpg",
+    "presentacion": "PAQUETE X 16 UN",
+    "precio": {
+        "bestPrice": "$11.550",
+        "precioPorSku js-PUM": "Unidad a $721,88"
+    },
+    "descripcion": "oferta toalla higienica nosotras ultra invisible tela 2 x 8",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 16 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA01710-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-refresh-tears-solucion-oftalmica-gratis-refresh-tears-frasco-x-10-ml-7707236670894/p",
+    "fecha_hora_scraping": "2021-06-14 02:51:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OFERTA REFRESH TEARS SOLUCION OFTALMICA GRATIS REFRESH TEARS FRASCO X 10 ML",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_REFRESH_TEARS_SOLUCION_OFTALMICA_GRATIS_REFRESH_TEARS_FRASCO_X_10_ML.jpg",
+    "presentacion": "FRASCO X 15 ML",
+    "precio": {
+        "bestPrice": "$41.650",
+        "precioPorSku js-PUM": "Mililitro a $2.776,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CARBOXIMETILCELULOSA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "ALLERGAN DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-011074-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

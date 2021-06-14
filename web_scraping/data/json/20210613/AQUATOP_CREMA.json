@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aquatop-crema-7703281002024/p",
+    "fecha_hora_scraping": "2021-06-14 05:27:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "AQUATOP CREMA",
+    "nombre_imagen": "./web_scraping/data/img/AQUATOP_CREMA.jpg",
+    "presentacion": "TUBO X 250 G",
+    "precio": {
+        "bestPrice": "$85.850",
+        "precioPorSku js-PUM": "Gramo a $343,40"
+    },
+    "descripcion": "aquatop crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 250 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC74348-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

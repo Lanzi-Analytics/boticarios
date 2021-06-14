@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/al-desmaquillante-liquido-oil-free-309977577080/p",
+    "fecha_hora_scraping": "2021-06-14 04:36:08",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "AL DESMAQUILLANTE liquido Oil free",
+    "nombre_imagen": "./web_scraping/data/img/AL_DESMAQUILLANTE_liquido_Oil_free.jpg",
+    "presentacion": "FRASCO X 118 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $257,20"
+    },
+    "descripcion": "al desmaquillante liquido oil free",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 118 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2007CO25241"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

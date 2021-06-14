@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-insecticida-bacterion-roll-on-7702113016536/p",
+    "fecha_hora_scraping": "2021-06-14 00:12:50",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "repelente insecticida bacterion roll-on",
+    "nombre_imagen": "./web_scraping/data/img/repelente_insecticida_bacterion_rollon.jpg",
+    "presentacion": "ENVASE X 40 ML",
+    "precio": {
+        "PrevPrice": "Antes:$7.600",
+        "bestPrice": "$6.080",
+        "precioPorSku js-PUM": "Mililitro a $152,00"
+    },
+    "descripcion": "repelente insec bacterion roll-on 40 m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 40 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

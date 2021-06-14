@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/systane-ha-gotas-lubricantes-oftalmicas-8427324894733/p",
+    "fecha_hora_scraping": "2021-06-14 10:30:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SYSTANE HA GOTAS LUBRICANTES OFTALMICAS",
+    "nombre_imagen": "./web_scraping/data/img/SYSTANE_HA_GOTAS_LUBRICANTES_OFTALMICAS.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$44.550",
+        "precioPorSku js-PUM": "Mililitro a $4.455,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "4 MG 3 MG 1,5 MG"
+        ],
+        [
+            "Principio activo",
+            "POLIETILENGLICOL PROPILENGLICOL HIALURONATO SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ALCON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018103"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulamp-duo-80-mg-polvo-para-suspension-oral-7703763998302/p",
+    "fecha_hora_scraping": "2021-06-14 10:33:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SULAMP DUO 80 MG POLVO PARA SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/SULAMP_DUO_80_MG_POLVO_PARA_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 80 ML",
+    "precio": {
+        "bestPrice": "$110.400",
+        "precioPorSku js-PUM": "Mililitro a $1.380,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 ML"
+        ],
+        [
+            "Concentracion",
+            "200 MG/ML 50 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AMOXICILINA TRIHIDRATO SULBACTAM PIVOXIL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0015448-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

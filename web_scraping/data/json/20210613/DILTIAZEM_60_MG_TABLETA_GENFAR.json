@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diltiazem-60-mg-tableta-genfar-7702605100903/p",
+    "fecha_hora_scraping": "2021-06-14 09:10:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DILTIAZEM 60 MG TABLETA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/DILTIAZEM_60_MG_TABLETA_GENFAR.jpg",
+    "presentacion": "BLISTER X 10 TAB",
+    "precio": {
+        "bestPrice": "$4.450",
+        "precioPorSku js-PUM": "Tableta a $445,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "60 MG"
+        ],
+        [
+            "Principio activo",
+            "DILTIAZEM CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-000503-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/folic-prevent-400mcg-tableta-7703038067047/p",
+    "fecha_hora_scraping": "2021-06-14 01:32:24",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "FOLIC PREVENT 400MCG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/FOLIC_PREVENT_400MCG_TABLETA.jpg",
+    "presentacion": "CAJA X 30TAB",
+    "precio": {
+        "bestPrice": "$10.650",
+        "precioPorSku js-PUM": "Tableta a $355,00"
+    },
+    "descripcion": "folic prevent 400mcg tableta",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30TAB"
+        ],
+        [
+            "Concentracion",
+            "0.4 MG"
+        ],
+        [
+            "Principio activo",
+            "FOLICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO LAPROFF SA"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013900"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

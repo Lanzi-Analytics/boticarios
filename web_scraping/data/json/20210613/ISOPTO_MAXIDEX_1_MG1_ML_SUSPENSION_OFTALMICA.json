@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/isopto-maxidex-1-mg1-ml-suspension-oftalmica-7612797420232/p",
+    "fecha_hora_scraping": "2021-06-14 04:54:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ISOPTO MAXIDEX 1 MG/1 ML SUSPENSION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/ISOPTO_MAXIDEX_1_MG1_ML_SUSPENSION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$42.800",
+        "precioPorSku js-PUM": "Mililitro a $8.560,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "0.1 %"
+        ],
+        [
+            "Principio activo",
+            "DEXAMETASONA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-07584-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

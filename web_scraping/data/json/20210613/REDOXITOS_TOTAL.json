@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/redoxitos-total-7702123010586/p",
+    "fecha_hora_scraping": "2021-06-14 10:28:32",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "REDOXITOS TOTAL",
+    "nombre_imagen": "./web_scraping/data/img/REDOXITOS_TOTAL.jpg",
+    "presentacion": "SOB X 25 UN",
+    "precio": {
+        "PrevPrice": "Antes:$9.550",
+        "bestPrice": "$8.117",
+        "precioPorSku js-PUM": "Unidad a $324,68"
+    },
+    "descripcion": "redoxitos total",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOB X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001089-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kidcal-zinc-suspension-oral-tutti-frutti-7703454121347/p",
+    "fecha_hora_scraping": "2021-06-14 06:18:06",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "KIDCAL ZINC SUSPENSION ORAL TUTTI FRUTTI",
+    "nombre_imagen": "./web_scraping/data/img/KIDCAL_ZINC_SUSPENSION_ORAL_TUTTI_FRUTTI.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$68.800",
+        "precioPorSku js-PUM": "Mililitro a $382,22"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "60 MG/ML 20 UI/ML 1.5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO VITAMINA D3 ZINC OXIDO"
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0001645-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

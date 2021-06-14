@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-humectante-moisturel-7707293750102/p",
+    "fecha_hora_scraping": "2021-06-14 01:45:18",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "LOCION HUMECTANTE MOISTUREL",
+    "nombre_imagen": "./web_scraping/data/img/LOCION_HUMECTANTE_MOISTUREL.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $204,58"
+    },
+    "descripcion": "locion humectante moisturel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMALAB PHL LABORATORIOS SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC22643-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

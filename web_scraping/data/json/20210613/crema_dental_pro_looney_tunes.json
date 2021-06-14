@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-pro-looney-tunes-7702018980505/p",
+    "fecha_hora_scraping": "2021-06-14 09:25:32",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "crema dental pro looney tunes",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_pro_looney_tunes.jpg",
+    "presentacion": "TUBO X 75 ML",
+    "precio": {
+        "PrevPrice": "Antes:$7.450",
+        "bestPrice": "$5.960",
+        "precioPorSku js-PUM": "Mililitro a $79,47"
+    },
+    "descripcion": "crema dental pro looney tunes",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

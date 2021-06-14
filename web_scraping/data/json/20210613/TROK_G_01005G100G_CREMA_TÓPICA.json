@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trok-g-01005g100g-crema-topica-7706127002660/p",
+    "fecha_hora_scraping": "2021-06-14 09:56:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TROK G 0.1/0.05G/100G CREMA T\u00d3PICA",
+    "nombre_imagen": "./web_scraping/data/img/TROK_G_01005G100G_CREMA_T\u00d3PICA.jpg",
+    "presentacion": "TARRO X 20 G",
+    "precio": {
+        "bestPrice": "$43.100",
+        "precioPorSku js-PUM": "Gramo a $2.155,00"
+    },
+    "descripcion": "TROK G 0.1/0.05G/100G CREMA T\u00d3PICA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "1 MG/G 0,5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "GENTAMICINA SULFATO BETAMETASONA DIPROPIONATO"
+        ],
+        [
+            "Laboratorio",
+            "EUROFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0019502"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

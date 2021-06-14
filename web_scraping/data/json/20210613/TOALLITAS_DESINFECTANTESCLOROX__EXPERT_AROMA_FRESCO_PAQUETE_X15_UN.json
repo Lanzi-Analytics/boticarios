@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallitas-desinfectantes-expert-aroma-fresco-paquete-x15-un-7501071907562/p",
+    "fecha_hora_scraping": "2021-06-13 23:32:04",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "TOALLITAS DESINFECTANTESCLOROX  EXPERT AROMA FRESCO PAQUETE X15 UN",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITAS_DESINFECTANTESCLOROX__EXPERT_AROMA_FRESCO_PAQUETE_X15_UN.jpg",
+    "presentacion": "PAQUETE X 15UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $233,33"
+    },
+    "descripcion": "TOALLITAS DESINFECTANTES EXPERT AROMA FRESCO PAQUETE X15 UN",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 15UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOH08678-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

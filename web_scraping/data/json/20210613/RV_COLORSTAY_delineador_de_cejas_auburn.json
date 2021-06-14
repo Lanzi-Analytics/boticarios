@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-colorstay-delineador-de-cejas-auburn-309977643037/p",
+    "fecha_hora_scraping": "2021-06-14 04:26:17",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "RV COLORSTAY delineador de cejas auburn",
+    "nombre_imagen": "./web_scraping/data/img/RV_COLORSTAY_delineador_de_cejas_auburn.jpg",
+    "presentacion": "LAPIZ X 0.3 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $120.142,86"
+    },
+    "descripcion": "rv colorstay delineador de cejas auburn",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LAPIZ X 0.3 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76756-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

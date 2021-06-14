@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ecopitos-copitos-de-algodon---palitos-de-papel-biodegradables-7702560040887/p",
+    "fecha_hora_scraping": "2021-06-14 02:37:43",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "ECOPITOS COPITOS DE ALGOD\u00d3N - PALITOS DE PAP\u00c9L BIODEGRADABLES",
+    "nombre_imagen": "./web_scraping/data/img/ECOPITOS_COPITOS_DE_ALGOD\u00d3N__PALITOS_DE_PAP\u00c9L_BIODEGRADABLES.jpg",
+    "presentacion": "FRASCO X 160 UN",
+    "precio": {
+        "bestPrice": "$7.850",
+        "precioPorSku js-PUM": "Tableta a $78,50"
+    },
+    "descripcion": "ecopitos copitos de algod\u00f3n - palitos de pap\u00e9l biodegradables",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 160 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0020719"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707336720987kliheel-tabletamedicamentoshomeopaticosquideca-7707336720987/p",
+    "fecha_hora_scraping": "2021-06-14 04:34:21",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|homeopaticos",
+    "titulo": "KLI.HEEL TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/KLIHEEL_TABLETA.jpg",
+    "presentacion": "FRASCO X 50 TAB",
+    "precio": {
+        "bestPrice": "$54.650",
+        "precioPorSku js-PUM": "Tableta a $1.093,00"
+    },
+    "descripcion": "es un medicamento homeop\u00e1tico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEEL COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "MH2016-0000373-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

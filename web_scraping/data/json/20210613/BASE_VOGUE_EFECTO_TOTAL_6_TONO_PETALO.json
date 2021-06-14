@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-vogue-efecto-total-6-tono-petalo-7509552842159/p",
+    "fecha_hora_scraping": "2021-06-14 10:27:25",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "BASE VOGUE EFECTO TOTAL 6 TONO PETALO",
+    "nombre_imagen": "./web_scraping/data/img/BASE_VOGUE_EFECTO_TOTAL_6_TONO_PETALO.jpg",
+    "presentacion": "UNIDAD X 30 G",
+    "precio": {
+        "bestPrice": "$15.100",
+        "precioPorSku js-PUM": "Gramo a $503,33"
+    },
+    "descripcion": "base vogue efecto total 6 tono petalo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC76145-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

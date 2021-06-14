@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-zen-lima-limon-540ml-7702354948559/p",
+    "fecha_hora_scraping": "2021-06-14 05:10:56",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "BEBIDA ZEN LIMA LIM\u00d3N 540ML",
+    "nombre_imagen": "./web_scraping/data/img/BEBIDA_ZEN_LIMA_LIM\u00d3N_540ML.jpg",
+    "presentacion": "BOTELLA X 540 ML",
+    "precio": {
+        "bestPrice": "$2.050",
+        "precioPorSku js-PUM": "Mililitro a $3,80"
+    },
+    "descripcion": "BEBIDA ZEN LIMA LIM\u00d3N 540ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 540 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0009549-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

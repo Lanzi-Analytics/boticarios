@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/complejo-b-grageas-ecar-7702184010082/p",
+    "fecha_hora_scraping": "2021-06-14 03:39:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COMPLEJO B GRAGEAS ECAR",
+    "nombre_imagen": "./web_scraping/data/img/COMPLEJO_B_GRAGEAS_ECAR.jpg",
+    "presentacion": "BLISTER X 10 GRG",
+    "precio": {
+        "bestPrice": "$1.414",
+        "precioPorSku js-PUM": "Gragea a $141,40"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 GRG"
+        ],
+        [
+            "Concentracion",
+            "20 MG 20 MG 10 MG"
+        ],
+        [
+            "Principio activo",
+            "NICOTINAMIDA PIRIDOXINA CLORHIDRATO TIAMINA HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-002341-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

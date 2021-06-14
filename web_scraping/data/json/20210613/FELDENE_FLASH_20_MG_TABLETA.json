@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/feldene-flash-20-mg-tableta-7703283400378/p",
+    "fecha_hora_scraping": "2021-06-14 01:21:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FELDENE FLASH 20 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/FELDENE_FLASH_20_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$69.250",
+        "precioPorSku js-PUM": "Tableta a $6.925,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "PIROXICAM"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-000823-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

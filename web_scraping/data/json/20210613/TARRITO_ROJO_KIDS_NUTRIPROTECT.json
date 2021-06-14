@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tarrito-rojo-kids-nutri-protect-7702560043574/p",
+    "fecha_hora_scraping": "2021-06-14 07:55:14",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "TARRITO ROJO KIDS NUTRI-PROTECT",
+    "nombre_imagen": "./web_scraping/data/img/TARRITO_ROJO_KIDS_NUTRIPROTECT.jpg",
+    "presentacion": "BOLSA X 150 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $47,00"
+    },
+    "descripcion": "TARRITO ROJO KIDS NUTRI-PROTECT",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JGB SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0010848-2020"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dostinex-05mg-tableta-7703283406455/p",
+    "fecha_hora_scraping": "2021-06-14 10:09:49",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DOSTINEX 0.5MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/DOSTINEX_05MG_TABLETA.jpg",
+    "presentacion": "FRASCO X 8 TAB",
+    "precio": {
+        "bestPrice": "$68.700",
+        "precioPorSku js-PUM": "Tableta a $8.587,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 8 TAB"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG"
+        ],
+        [
+            "Principio activo",
+            "CABERGOLINA"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-010517-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

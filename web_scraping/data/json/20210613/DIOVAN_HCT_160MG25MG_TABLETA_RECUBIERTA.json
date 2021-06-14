@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/diovan-hct-160mg25mg-tableta-recubierta-7612791500558/p",
+    "fecha_hora_scraping": "2021-06-14 09:36:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DIOVAN HCT 160MG/25MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/DIOVAN_HCT_160MG25MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$29.750",
+        "precioPorSku js-PUM": "Tableta a $2.125,00"
+    },
+    "descripcion": "DIOVAN HCT 160MG/25MG TABLETA RECUBIERTA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "160 MG 25 MG"
+        ],
+        [
+            "Principio activo",
+            "VALSARTAN HIDROCLOROTIAZIDA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001840-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

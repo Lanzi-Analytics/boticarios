@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ensoy-polvo-7702870050361/p",
+    "fecha_hora_scraping": "2021-06-14 00:36:46",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "ENSOY POLVO",
+    "nombre_imagen": "./web_scraping/data/img/ENSOY_POLVO.jpg",
+    "presentacion": "TARRO X 1.000 G",
+    "precio": {
+        "bestPrice": "$89.350",
+        "precioPorSku js-PUM": "Gramo a $89,35"
+    },
+    "descripcion": "ensoy polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 1.000 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAV16I27503"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

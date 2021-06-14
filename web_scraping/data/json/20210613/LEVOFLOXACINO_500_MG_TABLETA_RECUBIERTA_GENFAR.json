@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/levofloxacino-500-mg-tableta-recubierta-genfar-7702605104536/p",
+    "fecha_hora_scraping": "2021-06-14 00:08:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LEVOFLOXACINO 500 MG TABLETA RECUBIERTA GENFAR",
+    "nombre_imagen": "./web_scraping/data/img/LEVOFLOXACINO_500_MG_TABLETA_RECUBIERTA_GENFAR.jpg",
+    "presentacion": "CAJA X 7 TAB",
+    "precio": {
+        "bestPrice": "$36.650",
+        "precioPorSku js-PUM": "Tableta a $5.235,71"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 7 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOFLOXACINA HEMIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0004239-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-maybelline-volum-express-colossal-go-extreme-washable-30108417/p",
+    "fecha_hora_scraping": "2021-06-14 10:10:50",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAYBELLINE VOLUM EXPRESS COLOSSAL GO EXTREME WASHABLE",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAYBELLINE_VOLUM_EXPRESS_COLOSSAL_GO_EXTREME_WASHABLE.jpg",
+    "presentacion": "UNIDAD X 9.5 ML",
+    "precio": {
+        "bestPrice": "$34.750",
+        "precioPorSku js-PUM": "Mililitro a $3.657,89"
+    },
+    "descripcion": "pesta\u00f1ina maybelline volum express colossal go extreme washable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 9.5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC58024-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

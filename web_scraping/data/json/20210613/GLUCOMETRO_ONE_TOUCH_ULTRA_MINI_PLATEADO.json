@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glucometro-one-touch-ultra-mini-plateado-353885003315/p",
+    "fecha_hora_scraping": "2021-06-14 03:16:30",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "GLUCOMETRO ONE TOUCH ULTRA MINI PLATEADO",
+    "nombre_imagen": "./web_scraping/data/img/GLUCOMETRO_ONE_TOUCH_ULTRA_MINI_PLATEADO.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Kit a $36.250,00"
+    },
+    "descripcion": "glucometro one touch ultra mini plateado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS GLUCOMETRO"
+        ],
+        [
+            "Laboratorio",
+            "OPERANDO MEDICOS & QUIRURGICOS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002202"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

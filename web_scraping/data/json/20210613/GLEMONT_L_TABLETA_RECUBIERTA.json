@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/glemont-l-tableta-recubierta-7709795835738/p",
+    "fecha_hora_scraping": "2021-06-14 09:59:27",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GLEMONT L TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/GLEMONT_L_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$107.650",
+        "precioPorSku js-PUM": "Tableta a $7.689,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "MONTELUKAST SODIO LEVOCETIRIZINA DIHIDROCLORURO"
+        ],
+        [
+            "Laboratorio",
+            "GLENMARK PHARMACEUTICALS COLOM SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0018450"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

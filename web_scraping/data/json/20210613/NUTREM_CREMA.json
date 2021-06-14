@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrem-crema-7705849004211/p",
+    "fecha_hora_scraping": "2021-06-14 07:29:32",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "NUTREM CREMA",
+    "nombre_imagen": "./web_scraping/data/img/NUTREM_CREMA.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "$97.900",
+        "precioPorSku js-PUM": "Gramo a $3.263,33"
+    },
+    "descripcion": "nutrem crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC40968-98CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

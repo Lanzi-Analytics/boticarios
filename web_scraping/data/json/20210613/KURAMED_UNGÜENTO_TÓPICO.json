@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kuramed-ungento-topico-7707355053998/p",
+    "fecha_hora_scraping": "2021-06-14 00:47:40",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "KURAMED UNG\u00dcENTO T\u00d3PICO",
+    "nombre_imagen": "./web_scraping/data/img/KURAMED_UNG\u00dcENTO_T\u00d3PICO.jpg",
+    "presentacion": "TUBO X 10 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $1.900,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 10 G"
+        ],
+        [
+            "Concentracion",
+            "50 MG/G 5 MG/G 25 UI/G"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA NEOMICINA SULFATO BACITRAZINA ZINC"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0006059-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

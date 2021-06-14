@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/corrector-de-ojeras-maybelline-age-rewind-eraser-dark-circles-150-neutralizer-7702058228803/p",
+    "fecha_hora_scraping": "2021-06-13 23:59:55",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "CORRECTOR DE OJERAS MAYBELLINE AGE REWIND ERASER DARK CIRCLES 150 NEUTRALIZER",
+    "nombre_imagen": "./web_scraping/data/img/CORRECTOR_DE_OJERAS_MAYBELLINE_AGE_REWIND_ERASER_DARK_CIRCLES_150_NEUTRALIZER.jpg",
+    "presentacion": "UNIDAD X 6 ML",
+    "precio": {
+        "bestPrice": "$41.500",
+        "precioPorSku js-PUM": "Mililitro a $6.916,67"
+    },
+    "descripcion": "corrector de ojeras maybelline age rewind eraser dark circles 150 neutralizer",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69973-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

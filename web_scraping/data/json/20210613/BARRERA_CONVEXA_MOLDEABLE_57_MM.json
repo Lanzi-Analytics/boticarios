@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/barrera-convexa-moldeable-57-mm-300034114514/p",
+    "fecha_hora_scraping": "2021-06-14 10:18:51",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "BARRERA CONVEXA MOLDEABLE 57 MM",
+    "nombre_imagen": "./web_scraping/data/img/BARRERA_CONVEXA_MOLDEABLE_57_MM.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $34.335,00"
+    },
+    "descripcion": "barrera convexa moldeable 57 mm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BOSTON MEDICAL DEVICES COLOMBIA LTD"
+        ],
+        [
+            "Registro Invima",
+            "2008DM-0002059"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

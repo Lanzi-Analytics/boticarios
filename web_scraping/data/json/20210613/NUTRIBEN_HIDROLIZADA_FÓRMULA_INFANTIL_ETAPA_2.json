@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutriben-hidrolizada-formula-infantil-etapa-2-7703546729406/p",
+    "fecha_hora_scraping": "2021-06-14 00:04:32",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "NUTRIBEN HIDROLIZADA F\u00d3RMULA INFANTIL ETAPA 2",
+    "nombre_imagen": "./web_scraping/data/img/NUTRIBEN_HIDROLIZADA_F\u00d3RMULA_INFANTIL_ETAPA_2.jpg",
+    "presentacion": "2 TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$60.150",
+        "precioPorSku js-PUM": "Gramo a $150,38"
+    },
+    "descripcion": "nutriben hidrolizada f\u00f3rmula infantil etapa 2",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "2 TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIA02I69814"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

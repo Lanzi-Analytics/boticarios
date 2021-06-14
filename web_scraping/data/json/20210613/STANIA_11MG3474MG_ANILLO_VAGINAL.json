@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/stania-11mg3474mg-anillo-vaginal-7841737000559/p",
+    "fecha_hora_scraping": "2021-06-14 05:48:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "STANIA 11MG/3.474MG ANILLO VAGINAL",
+    "nombre_imagen": "./web_scraping/data/img/STANIA_11MG3474MG_ANILLO_VAGINAL.jpg",
+    "presentacion": "CAJA X 1 UN",
+    "precio": {
+        "bestPrice": "$66.700",
+        "precioPorSku js-PUM": "Unidad a $66.700,00"
+    },
+    "descripcion": "STANIA 11MG/3.474MG ANILLO VAGINAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "11 MG 3474 MG"
+        ],
+        [
+            "Principio activo",
+            "ETONOGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0019764"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

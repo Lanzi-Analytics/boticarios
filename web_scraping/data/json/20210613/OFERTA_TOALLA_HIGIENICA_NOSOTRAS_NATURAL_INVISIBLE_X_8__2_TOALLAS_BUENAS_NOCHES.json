@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toalla-higienica-nosotras-natural-invisible-x-8--2-toallas-buenas-noches-7702027436253/p",
+    "fecha_hora_scraping": "2021-06-14 00:03:02",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "OFERTA TOALLA HIGIENICA NOSOTRAS NATURAL INVISIBLE X 8 + 2 TOALLAS BUENAS NOCHES",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TOALLA_HIGIENICA_NOSOTRAS_NATURAL_INVISIBLE_X_8__2_TOALLAS_BUENAS_NOCHES.jpg",
+    "presentacion": "PAQUETE X 8 UN",
+    "precio": {
+        "bestPrice": "$5.600",
+        "precioPorSku js-PUM": "Unidad a $700,00"
+    },
+    "descripcion": "oferta toalla higienica nosotras natural invisible x 8 + 2 toallas buenas noches",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00218-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

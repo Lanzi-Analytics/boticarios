@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ferpro-800-mg-capsula-7707350411021/p",
+    "fecha_hora_scraping": "2021-06-14 06:20:27",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "FERPRO 800 MG CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/FERPRO_800_MG_CAPSULA.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$116.250",
+        "precioPorSku js-PUM": "Capsula a $1.937,50"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "INVERSIONES PLAMATECH LTDA"
+        ],
+        [
+            "Registro Invima",
+            "SD2010-0001439"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

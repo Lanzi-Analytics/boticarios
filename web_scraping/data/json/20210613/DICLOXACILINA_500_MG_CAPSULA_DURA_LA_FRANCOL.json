@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dicloxacilina-500-mg-capsula-dura-la-francol-7706569000439/p",
+    "fecha_hora_scraping": "2021-06-14 06:30:56",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DICLOXACILINA 500 MG CAPSULA DURA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/DICLOXACILINA_500_MG_CAPSULA_DURA_LA_FRANCOL.jpg",
+    "presentacion": "BLISTER X 10 CAP",
+    "precio": {
+        "bestPrice": "$6.350",
+        "precioPorSku js-PUM": "Capsula a $635,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "DICLOXACILINA SODIO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-005176-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

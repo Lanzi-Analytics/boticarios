@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kelo-cote-gel-cicatrices-3401598315472/p",
+    "fecha_hora_scraping": "2021-06-14 02:57:13",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KELO-COTE GEL CICATRICES",
+    "nombre_imagen": "./web_scraping/data/img/KELOCOTE_GEL_CICATRICES.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$159.200",
+        "precioPorSku js-PUM": "Gramo a $10.613,33"
+    },
+    "descripcion": "venta bajo formula medica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEDITEK ERGO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2011DM0007790"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

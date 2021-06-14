@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionaddor-dove-ac-control-caida-7891150019430/p",
+    "fecha_hora_scraping": "2021-06-14 06:52:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "acondicionaddor dove ac control caida",
+    "nombre_imagen": "./web_scraping/data/img/acondicionaddor_dove_ac_control_caida.jpg",
+    "presentacion": "BOTELLA X 400 ML",
+    "precio": {
+        "bestPrice": "$20.500",
+        "precioPorSku js-PUM": "Mililitro a $51,25"
+    },
+    "descripcion": "dove ac control caida 12x400ml",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 400 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSOC09202-12PE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

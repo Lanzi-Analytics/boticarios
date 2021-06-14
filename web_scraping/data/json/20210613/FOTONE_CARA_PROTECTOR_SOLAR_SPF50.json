@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fotone-cara-protector-solar-spf50-7702870100073/p",
+    "fecha_hora_scraping": "2021-06-14 07:27:48",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "FOTONE CARA PROTECTOR SOLAR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/FOTONE_CARA_PROTECTOR_SOLAR_SPF50.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$19.400",
+        "precioPorSku js-PUM": "Gramo a $388,00"
+    },
+    "descripcion": "fotone cara protector solar spf50+",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38188-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

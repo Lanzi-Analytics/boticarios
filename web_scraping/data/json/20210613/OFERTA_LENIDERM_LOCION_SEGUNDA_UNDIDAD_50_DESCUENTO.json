@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-leniderm-locion-segunda-undidad-50-descuento-7707355056883/p",
+    "fecha_hora_scraping": "2021-06-14 08:05:27",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "OFERTA LENIDERM LOCION +SEGUNDA UNDIDAD 50% DESCUENTO",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_LENIDERM_LOCION_SEGUNDA_UNDIDAD_50_DESCUENTO.jpg",
+    "presentacion": "FRASCO X 240 G",
+    "precio": {
+        "bestPrice": "$134.850",
+        "precioPorSku js-PUM": "Unidad a $134.850,00"
+    },
+    "descripcion": "oferta leniderm locion +segunda undidad 50% descuento",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC26808-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

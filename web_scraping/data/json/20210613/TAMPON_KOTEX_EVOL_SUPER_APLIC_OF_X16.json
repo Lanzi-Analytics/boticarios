@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampon-kotex-evol-super-aplic-of-x16-7702425546233/p",
+    "fecha_hora_scraping": "2021-06-14 01:25:19",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "TAMPON KOTEX EVOL SUPER APLIC OF X16",
+    "nombre_imagen": "./web_scraping/data/img/TAMPON_KOTEX_EVOL_SUPER_APLIC_OF_X16.jpg",
+    "presentacion": "PAQUETE X 16 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.243,75"
+    },
+    "descripcion": "TAMPON KOTEX EVOL SUPER APLIC OF X16",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 16 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA00983-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

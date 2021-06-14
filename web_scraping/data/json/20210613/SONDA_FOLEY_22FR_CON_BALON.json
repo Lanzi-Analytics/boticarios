@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sonda-foley-22fr-con-balon-1000000447590/p",
+    "fecha_hora_scraping": "2021-06-14 04:12:16",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "SONDA FOLEY 22FR CON BALON",
+    "nombre_imagen": "./web_scraping/data/img/SONDA_FOLEY_22FR_CON_BALON.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$3.411",
+        "precioPorSku js-PUM": "Unidad a $3.411,00"
+    },
+    "descripcion": "sonda foley 22fr con balon",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMEUROPEA DE COLOMBIA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016300"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

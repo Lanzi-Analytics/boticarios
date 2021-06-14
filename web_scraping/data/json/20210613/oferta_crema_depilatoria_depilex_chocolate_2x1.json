@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-crema-depilatoria-depilex-chocolate-2x1-7702277148098/p",
+    "fecha_hora_scraping": "2021-06-14 06:45:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|afeitada y depilaci\u00f3n",
+    "titulo": "oferta crema depilatoria depilex chocolate 2x1",
+    "nombre_imagen": "./web_scraping/data/img/oferta_crema_depilatoria_depilex_chocolate_2x1.jpg",
+    "presentacion": "BOLSA X 2 UN",
+    "precio": {
+        "bestPrice": "$17.500",
+        "precioPorSku js-PUM": "Gramo a $175,00"
+    },
+    "descripcion": "of crm depila depilex chocolates 2x1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 2 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BELLEZA EXPRESS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

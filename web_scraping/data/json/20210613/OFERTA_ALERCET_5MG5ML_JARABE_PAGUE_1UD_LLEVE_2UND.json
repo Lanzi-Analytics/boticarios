@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-alercet-5mg5ml-jarabe-pague-1ud-lleve-2und-7703153037505/p",
+    "fecha_hora_scraping": "2021-06-14 00:47:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "OFERTA ALERCET 5MG/5ML JARABE PAGUE: 1UD LLEVE: 2UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_ALERCET_5MG5ML_JARABE_PAGUE_1UD_LLEVE_2UND.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$69.050",
+        "precioPorSku js-PUM": "Mililitro a $1.150,83"
+    },
+    "descripcion": "oferta alercet 5mg/5ml jarabe pague: 1ud lleve: 2und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-002103-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cre-c-alimento-liquido-7707232097794/p",
+    "fecha_hora_scraping": "2021-06-14 05:40:27",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CRE-C ALIMENTO LIQUIDO",
+    "nombre_imagen": "./web_scraping/data/img/CREC_ALIMENTO_LIQUIDO.jpg",
+    "presentacion": "FRASCO X 240 G",
+    "precio": {
+        "bestPrice": "$29.150",
+        "precioPorSku js-PUM": "Gramo a $121,46"
+    },
+    "descripcion": "cre-c alimento liquido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000527-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

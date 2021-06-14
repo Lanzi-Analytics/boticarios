@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acido-retinoico-005--crema-7704190038913/p",
+    "fecha_hora_scraping": "2021-06-14 04:29:19",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ACIDO RETINOICO 0.05 % CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ACIDO_RETINOICO_005__CREMA.jpg",
+    "presentacion": "POTE X 30 G",
+    "precio": {
+        "bestPrice": "$15.750",
+        "precioPorSku js-PUM": "Gramo a $525,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 30 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "RETINOICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "QUIFARMA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000729-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

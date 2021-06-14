@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/guantes-examen-talla-l-7707270363677/p",
+    "fecha_hora_scraping": "2021-06-14 03:22:53",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "GUANTES EXAMEN TALLA L",
+    "nombre_imagen": "./web_scraping/data/img/GUANTES_EXAMEN_TALLA_L.jpg",
+    "presentacion": "CAJA X 100 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $399,00"
+    },
+    "descripcion": "guantes examen talla l",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 100 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROTEX SAS"
+        ],
+        [
+            "Registro Invima",
+            "2012DM-0008560"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-vitu-vitamina-e-iluminador-7702044242240/p",
+    "fecha_hora_scraping": "2021-06-14 04:12:39",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO VIT\u00da VITAMINA E ILUMINADOR",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_VIT\u00da_VITAMINA_E_ILUMINADOR.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $766,67"
+    },
+    "descripcion": "polvo vit\u00fa vitamina e iluminador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC78771-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

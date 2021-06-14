@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/30768006013b-complex-tableta-recubiertamedicamentosnaturalesinternal-perfumeriamulticomponentes-30768006013/p",
+    "fecha_hora_scraping": "2021-06-14 00:05:18",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "B COMPLEX TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/B_COMPLEX_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "FRASCO X 100 TAB",
+    "precio": {
+        "bestPrice": "$34.200",
+        "precioPorSku js-PUM": "Tableta a $342,00"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 100 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "INTERNAL PERFUMERIA Y ESPECIA FARMA"
+        ],
+        [
+            "Registro Invima",
+            "SD2009-0000826-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

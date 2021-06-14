@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-jabon-exfoliante-650240004643/p",
+    "fecha_hora_scraping": "2021-06-14 03:18:06",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "ASEPXIA JAB\u00d3N FACIAL EXFOLIANTE 100 G",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_JAB\u00d3N_FACIAL_EXFOLIANTE_100_G.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "$9.350",
+        "precioPorSku js-PUM": "Unidad a $9.350,00"
+    },
+    "descripcion": "su nueva f\u00f3rmula hidro-force ayuda a disminuir el exceso de grasa eliminando los puntos negros",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75167-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-contorno-ojos-hyaluron-filler-4005800057670/p",
+    "fecha_hora_scraping": "2021-06-13 23:42:12",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN CONTORNO OJOS HYALURON-FILLER",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_CONTORNO_OJOS_HYALURONFILLER.jpg",
+    "presentacion": "TUBO X 15 ML",
+    "precio": {
+        "bestPrice": "$143.150",
+        "precioPorSku js-PUM": "Mililitro a $9.543,33"
+    },
+    "descripcion": "eucerin contorno ojos hyaluron-filler",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "TRIMETAZIDINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC42682-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

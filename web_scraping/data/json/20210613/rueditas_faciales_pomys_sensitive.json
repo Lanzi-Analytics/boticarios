@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rueditas-faciales-pomys-sensitive-7702026363024/p",
+    "fecha_hora_scraping": "2021-06-14 07:12:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "rueditas faciales pomys sensitive",
+    "nombre_imagen": "./web_scraping/data/img/rueditas_faciales_pomys_sensitive.jpg",
+    "presentacion": "PAQUETE X 50 UN",
+    "precio": {
+        "bestPrice": "$5.700",
+        "precioPorSku js-PUM": "Unidad a $114,00"
+    },
+    "descripcion": "rueditas faciales pomys sensitive",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0015981"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

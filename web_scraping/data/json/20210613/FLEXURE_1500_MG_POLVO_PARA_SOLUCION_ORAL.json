@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flexure-1500-mg-polvo-para-solucion-oral-7703153009519/p",
+    "fecha_hora_scraping": "2021-06-14 06:36:15",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLEXURE 1500 MG POLVO PARA SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/FLEXURE_1500_MG_POLVO_PARA_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 15 SOB",
+    "precio": {
+        "bestPrice": "$145.650",
+        "precioPorSku js-PUM": "Unidad a $9.710,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 15 SOB"
+        ],
+        [
+            "Concentracion",
+            "1500 MG 1200 MG"
+        ],
+        [
+            "Principio activo",
+            "GLUCOSAMINA SULFATO SODIO CLOR CONDROITINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0001690-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

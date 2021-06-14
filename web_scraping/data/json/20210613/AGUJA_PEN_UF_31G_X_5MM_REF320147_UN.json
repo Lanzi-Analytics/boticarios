@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aguja-pen-uf-31g-x-5mm-ref320147-1000001199054/p",
+    "fecha_hora_scraping": "2021-06-14 09:16:24",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "AGUJA PEN UF 31G X 5MM REF320147 UN",
+    "nombre_imagen": "./web_scraping/data/img/AGUJA_PEN_UF_31G_X_5MM_REF320147_UN.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$350",
+        "precioPorSku js-PUM": "Unidad a $350,00"
+    },
+    "descripcion": "aguja pen uf 31g x 5mm ref320147",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS PARA LA SALUD"
+        ],
+        [
+            "Laboratorio",
+            "BECTON DICKINSON DE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2014DM-0011106"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

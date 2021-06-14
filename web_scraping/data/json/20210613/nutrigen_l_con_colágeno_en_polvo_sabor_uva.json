@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nutrigen-l-con-colageno-en-polvo-sabor-uva-7709051780338/p",
+    "fecha_hora_scraping": "2021-06-14 09:38:25",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "nutrigen l con col\u00e1geno en polvo sabor uva",
+    "nombre_imagen": "./web_scraping/data/img/nutrigen_l_con_col\u00e1geno_en_polvo_sabor_uva.jpg",
+    "presentacion": "FRASCO X 450 G",
+    "precio": {
+        "bestPrice": "$65.000",
+        "precioPorSku js-PUM": "Gramo a $144,44"
+    },
+    "descripcion": "nutrigen l con col\u00e1geno en polvo sabor uva",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 450 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NATURLAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSA-000549-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

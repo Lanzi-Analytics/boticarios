@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/natural-soy-almendra-polvo-7707232094496/p",
+    "fecha_hora_scraping": "2021-06-14 08:10:00",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "NATURAL SOY ALMENDRA POLVO",
+    "nombre_imagen": "./web_scraping/data/img/NATURAL_SOY_ALMENDRA_POLVO.jpg",
+    "presentacion": "TARRO X 500 G",
+    "precio": {
+        "bestPrice": "$40.700",
+        "precioPorSku js-PUM": "Gramo a $81,40"
+    },
+    "descripcion": "natural soy almendra polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 500 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000606-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

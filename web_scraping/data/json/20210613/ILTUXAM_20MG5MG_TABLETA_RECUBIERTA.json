@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/iltuxam-20mg5mg-tableta-recubierta-7841141003443/p",
+    "fecha_hora_scraping": "2021-06-14 10:23:52",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ILTUXAM 20MG/5MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ILTUXAM_20MG5MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$167.400",
+        "precioPorSku js-PUM": "Comprimido a $5.978,57"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "20 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "OLMESARTAN MEDOXOMILO AMLODIPINO BESILATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0014386"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

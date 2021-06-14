@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dolquine-200mg-comprimido-recubierto-8470008808724/p",
+    "fecha_hora_scraping": "2021-06-14 03:24:54",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DOLQUINE 200MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/DOLQUINE_200MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 30 COM",
+    "precio": {
+        "bestPrice": "$101.800",
+        "precioPorSku js-PUM": "Comprimido a $3.393,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 COM"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "HIDROXICLOROQUINA SULFATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0002684-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

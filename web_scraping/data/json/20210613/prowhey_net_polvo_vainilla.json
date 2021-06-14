@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prowhey-net-polvo-vainilla-7709497170199/p",
+    "fecha_hora_scraping": "2021-06-14 08:52:03",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "prowhey net polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/prowhey_net_polvo_vainilla.jpg",
+    "presentacion": "LATA X 868 G",
+    "precio": {
+        "bestPrice": "$121.500",
+        "precioPorSku js-PUM": "Gramo a $139,98"
+    },
+    "descripcion": "prowhey net polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 868 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001179-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

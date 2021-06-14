@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/attentho-40-miligramos-capsula-dura-recibierta-7702207300046/p",
+    "fecha_hora_scraping": "2021-06-14 02:29:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ATTENTHO 40 MILIGRAMOS CAPSULA DURA RECIBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/ATTENTHO_40_MILIGRAMOS_CAPSULA_DURA_RECIBIERTA.jpg",
+    "presentacion": "CAJA X 28 CAP",
+    "precio": {
+        "bestPrice": "$325.050",
+        "precioPorSku js-PUM": "Capsula a $10.835,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 CAP"
+        ],
+        [
+            "Concentracion",
+            "40 MG"
+        ],
+        [
+            "Principio activo",
+            "ATOMOXETINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0011312-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

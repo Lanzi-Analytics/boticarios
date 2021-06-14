@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-filtroderm-emulsion-spf43-7707173602224/p",
+    "fecha_hora_scraping": "2021-06-14 03:34:02",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR FILTRODERM EMULSION SPF43",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_FILTRODERM_EMULSION_SPF43.jpg",
+    "presentacion": "SOBRE X 10 G",
+    "precio": {
+        "bestPrice": "$5.400",
+        "precioPorSku js-PUM": "Gramo a $540,00"
+    },
+    "descripcion": "protector solar filtroderm emulsion spf4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FARMA DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38305-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

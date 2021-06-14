@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hidribet-10--locion-7703333007458/p",
+    "fecha_hora_scraping": "2021-06-14 09:37:59",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "HIDRIBET 10 % LOCION",
+    "nombre_imagen": "./web_scraping/data/img/HIDRIBET_10__LOCION.jpg",
+    "presentacion": "FRASCO X 125 ML",
+    "precio": {
+        "bestPrice": "$63.900",
+        "precioPorSku js-PUM": "Mililitro a $511,20"
+    },
+    "descripcion": "hidribet 10 % locion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 125 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC04738-97CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

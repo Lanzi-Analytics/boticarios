@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dhems-despigmentante-zonas-sensibles-7707208649620/p",
+    "fecha_hora_scraping": "2021-06-14 01:58:35",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DHEMS DESPIGMENTANTE ZONAS SENSIBLES",
+    "nombre_imagen": "./web_scraping/data/img/DHEMS_DESPIGMENTANTE_ZONAS_SENSIBLES.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$81.300",
+        "precioPorSku js-PUM": "Mililitro a $2.710,00"
+    },
+    "descripcion": "dhems despigmentante zonas sensibles",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC51723-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

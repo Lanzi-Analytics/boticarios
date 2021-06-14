@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sulfato-ferroso-4-g-jarabe-sabor-chicle-ecar-7702184020272/p",
+    "fecha_hora_scraping": "2021-06-14 04:08:45",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SULFATO FERROSO 4 G JARABE SABOR CHICLE ECAR",
+    "nombre_imagen": "./web_scraping/data/img/SULFATO_FERROSO_4_G_JARABE_SABOR_CHICLE_ECAR.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$4.550",
+        "precioPorSku js-PUM": "Tableta a $758,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "40 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SULFATO FERROSO HEPTAHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0015871"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dorzolamida-20mg--timolol-5mg-solucion-oftalmica-la-sante-7703763992362/p",
+    "fecha_hora_scraping": "2021-06-14 05:05:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DORZOLAMIDA 20MG + TIMOLOL 5MG SOLUCI\u00d3N OFT\u00c1LMICA LA SANT\u00c9",
+    "nombre_imagen": "./web_scraping/data/img/DORZOLAMIDA_20MG__TIMOLOL_5MG_SOLUCI\u00d3N_OFT\u00c1LMICA_LA_SANT\u00c9.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "PrevPrice": "Antes:$54.100",
+        "bestPrice": "$37.870",
+        "precioPorSku js-PUM": "Mililitro a $7.574,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML 5 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DORZOLAMIDA CLORHIDRATO TIMOLOL MALEATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009261"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

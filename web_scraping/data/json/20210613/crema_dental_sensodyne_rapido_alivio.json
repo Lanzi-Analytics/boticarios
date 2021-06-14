@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-sensodyne-rapido-alivio-7794640171550/p",
+    "fecha_hora_scraping": "2021-06-14 07:31:55",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "crema dental sensodyne rapido alivio",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_sensodyne_rapido_alivio.jpg",
+    "presentacion": "TUBO X 100 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $347,18"
+    },
+    "descripcion": "cremadental sendyne r\u00e1pid alivi 71 x10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC37793 # 10C0"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

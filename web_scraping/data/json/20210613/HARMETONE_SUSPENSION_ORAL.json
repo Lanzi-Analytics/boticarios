@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/harmetone-suspension-oral-7501109910250/p",
+    "fecha_hora_scraping": "2021-06-14 00:19:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HARMETONE SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/HARMETONE_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$52.900",
+        "precioPorSku js-PUM": "Mililitro a $881,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "DOMPERIDONA"
+        ],
+        [
+            "Laboratorio",
+            "JANSSEN CILAG SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0003456-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

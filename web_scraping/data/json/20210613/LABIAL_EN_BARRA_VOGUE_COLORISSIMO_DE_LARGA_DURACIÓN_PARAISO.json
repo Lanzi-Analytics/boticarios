@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/labial-en-barra-vogue-colorissimo-de-larga-duracion-paraiso-7509552832143/p",
+    "fecha_hora_scraping": "2021-06-14 03:36:52",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "LABIAL EN BARRA VOGUE COLORISSIMO DE LARGA DURACI\u00d3N PARAISO",
+    "nombre_imagen": "./web_scraping/data/img/LABIAL_EN_BARRA_VOGUE_COLORISSIMO_DE_LARGA_DURACI\u00d3N_PARAISO.jpg",
+    "presentacion": "UNIDAD X 2 G",
+    "precio": {
+        "bestPrice": "$8.050",
+        "precioPorSku js-PUM": "Gramo a $4.025,00"
+    },
+    "descripcion": "labial en barra vogue colorissimo de larga duraci\u00f3n paraiso",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 2 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72567-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

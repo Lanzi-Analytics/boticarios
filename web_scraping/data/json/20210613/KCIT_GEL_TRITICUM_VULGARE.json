@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/k-cit-gel-triticum-vulgare-7705028000287/p",
+    "fecha_hora_scraping": "2021-06-14 00:46:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "K-CIT GEL TRITICUM VULGARE",
+    "nombre_imagen": "./web_scraping/data/img/KCIT_GEL_TRITICUM_VULGARE.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$40.250",
+        "precioPorSku js-PUM": "Gramo a $2.683,33"
+    },
+    "descripcion": "k-cit gel triticum vulgare",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS FARPAG SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55672-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

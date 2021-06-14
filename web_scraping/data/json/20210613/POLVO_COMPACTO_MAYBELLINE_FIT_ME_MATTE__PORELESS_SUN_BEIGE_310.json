@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-compacto-maybelline-fit-me-matte--poreless-sun-beige-310-7702433312202/p",
+    "fecha_hora_scraping": "2021-06-14 05:08:12",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO COMPACTO MAYBELLINE FIT ME MATTE & PORELESS SUN BEIGE 310",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_COMPACTO_MAYBELLINE_FIT_ME_MATTE__PORELESS_SUN_BEIGE_310.jpg",
+    "presentacion": "UNIDAD X 12 G",
+    "precio": {
+        "bestPrice": "$21.350",
+        "precioPorSku js-PUM": "Gramo a $1.642,31"
+    },
+    "descripcion": "polvo compacto maybelline fit me matte & poreless sun beige 310",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 12 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69420-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

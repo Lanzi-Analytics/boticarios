@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/atoderm-crema-ultranutritiva-3401399373466/p",
+    "fecha_hora_scraping": "2021-06-14 02:56:28",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA ARTODERM CREMA ULTRANUTRITIVA",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_ARTODERM_CREMA_ULTRANUTRITIVA.jpg",
+    "presentacion": "FRASCO X 500 ML",
+    "precio": {
+        "bestPrice": "$103.150",
+        "precioPorSku js-PUM": "Mililitro a $206,30"
+    },
+    "descripcion": "atoderm crema ultranutritiva",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 500 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41926-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

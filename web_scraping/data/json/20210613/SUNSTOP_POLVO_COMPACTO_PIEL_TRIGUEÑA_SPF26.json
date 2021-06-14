@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sunstop-polvo-compacto-piel-triguena-spf26-7707222420106/p",
+    "fecha_hora_scraping": "2021-06-14 09:31:28",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "SUNSTOP POLVO COMPACTO PIEL TRIGUE\u00d1A SPF26",
+    "nombre_imagen": "./web_scraping/data/img/SUNSTOP_POLVO_COMPACTO_PIEL_TRIGUE\u00d1A_SPF26.jpg",
+    "presentacion": "CAJA X 10 G",
+    "precio": {
+        "bestPrice": "$92.250",
+        "precioPorSku js-PUM": "Gramo a $9.225,00"
+    },
+    "descripcion": "sunstop polvo compacto piel trigue\u00f1a spf",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC00054-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clindamicina-100-mg--clotrimazol-200-mg-ovulo-tecnoquimicas-7702057062910/p",
+    "fecha_hora_scraping": "2021-06-14 00:55:02",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLINDAMICINA 100 MG + CLOTRIMAZOL 200 MG OVULO TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CLINDAMICINA_100_MG__CLOTRIMAZOL_200_MG_OVULO_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 3 OVU",
+    "precio": {
+        "bestPrice": "$43.800",
+        "precioPorSku js-PUM": "OVULO a $14.600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 OVU"
+        ],
+        [
+            "Concentracion",
+            "200 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015698-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

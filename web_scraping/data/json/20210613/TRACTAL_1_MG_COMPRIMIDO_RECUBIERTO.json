@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tractal-1-mg-comprimido-recubierto-7730969302695/p",
+    "fecha_hora_scraping": "2021-06-14 07:51:47",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRACTAL 1 MG COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/TRACTAL_1_MG_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "BLISTER X 10 COM",
+    "precio": {
+        "bestPrice": "$4.817",
+        "precioPorSku js-PUM": "Comprimido a $481,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 10 COM"
+        ],
+        [
+            "Concentracion",
+            "1 MG"
+        ],
+        [
+            "Principio activo",
+            "RISPERIDONA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0000896-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

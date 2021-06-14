@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/simplus-solucion-de-accion-multiple-310119056158/p",
+    "fecha_hora_scraping": "2021-06-14 03:49:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SIMPLUS SOLUCION DE ACCION MULTIPLE",
+    "nombre_imagen": "./web_scraping/data/img/SIMPLUS_SOLUCION_DE_ACCION_MULTIPLE.jpg",
+    "presentacion": "FRASCO X 105 ML",
+    "precio": {
+        "bestPrice": "$33.150",
+        "precioPorSku js-PUM": "Mililitro a $315,71"
+    },
+    "descripcion": "simplus solucion de accion multiple",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 105 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2016DM-0015055"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

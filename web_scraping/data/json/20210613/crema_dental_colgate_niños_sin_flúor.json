@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-ninos-sin-fluor-7509546060781/p",
+    "fecha_hora_scraping": "2021-06-14 06:10:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "crema dental colgate ni\u00f1os sin fl\u00faor",
+    "nombre_imagen": "./web_scraping/data/img/crema_dental_colgate_ni\u00f1os_sin_fl\u00faor.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$13.650",
+        "precioPorSku js-PUM": "Mililitro a $341,25"
+    },
+    "descripcion": "crema dental colgate ni\u00f1os sin fluor 5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57424-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

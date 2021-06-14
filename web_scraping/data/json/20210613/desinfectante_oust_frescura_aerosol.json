@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7501032923662desinfectante-oust-frescura-aerosolhigiene-y-cuidado-personaljabones-y-gel-antibacterialna-7501032923662/p",
+    "fecha_hora_scraping": "2021-06-14 01:04:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "desinfectante oust frescura aerosol",
+    "nombre_imagen": "./web_scraping/data/img/desinfectante_oust_frescura_aerosol.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$10.650",
+        "precioPorSku js-PUM": "Mililitro a $26,63"
+    },
+    "descripcion": "desinfectante oust frescura aerosol",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "S C JOHNSON & SON COLOMBIANA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOH07570-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

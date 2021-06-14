@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tampones-kotex-blue-tamano-mediano-7702425538719/p",
+    "fecha_hora_scraping": "2021-06-14 04:53:24",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|tampones",
+    "titulo": "tampones kotex blue tama\u00f1o mediano",
+    "nombre_imagen": "./web_scraping/data/img/tampones_kotex_blue_tama\u00f1o_mediano.jpg",
+    "presentacion": "PAQUETE X 10 UN",
+    "precio": {
+        "bestPrice": "$7.850",
+        "precioPorSku js-PUM": "Unidad a $785,00"
+    },
+    "descripcion": "tampon kotex blue x10 und mediano",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 10 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-99991231"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

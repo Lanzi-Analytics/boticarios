@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetopic-crema-7703281002062/p",
+    "fecha_hora_scraping": "2021-06-14 00:38:10",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CETOPIC CREMA",
+    "nombre_imagen": "./web_scraping/data/img/CETOPIC_CREMA.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$118.900",
+        "precioPorSku js-PUM": "Gramo a $2.378,00"
+    },
+    "descripcion": "cetopic crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01111-00CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

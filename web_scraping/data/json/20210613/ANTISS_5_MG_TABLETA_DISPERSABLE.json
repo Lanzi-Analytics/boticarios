@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/antiss-5-mg-tableta-dispersable-7702870001561/p",
+    "fecha_hora_scraping": "2021-06-14 05:56:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ANTISS 5 MG TABLETA DISPERSABLE",
+    "nombre_imagen": "./web_scraping/data/img/ANTISS_5_MG_TABLETA_DISPERSABLE.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$82.300",
+        "precioPorSku js-PUM": "Tableta a $8.230,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "LEVOCETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0010125-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

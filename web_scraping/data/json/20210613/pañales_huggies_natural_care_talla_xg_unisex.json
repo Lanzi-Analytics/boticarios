@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-huggies-natural-care-talla-xg-unisex-7702425807495/p",
+    "fecha_hora_scraping": "2021-06-14 08:11:42",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "pa\u00f1ales huggies natural care talla xg unisex",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_huggies_natural_care_talla_xg_unisex.jpg",
+    "presentacion": "PAQUETE X 50 UN",
+    "precio": {
+        "bestPrice": "$51.950",
+        "precioPorSku js-PUM": "Unidad a $1.039,00"
+    },
+    "descripcion": "f-pa\u00f1 hug natcare xg 4x50 unisex",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

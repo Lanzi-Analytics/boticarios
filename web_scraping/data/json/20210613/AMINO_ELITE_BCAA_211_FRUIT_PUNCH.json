@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/amino-elite-bcaa-211-fruit-punch-814465012511/p",
+    "fecha_hora_scraping": "2021-06-14 04:00:18",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "AMINO ELITE BCAA 2.1.1 FRUIT PUNCH",
+    "nombre_imagen": "./web_scraping/data/img/AMINO_ELITE_BCAA_211_FRUIT_PUNCH.jpg",
+    "presentacion": "FRASCO X 360 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $289,58"
+    },
+    "descripcion": "amino elite bcaa 2.1.1 fruit punch",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NEWLAB NUTRITION LTDA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004051-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

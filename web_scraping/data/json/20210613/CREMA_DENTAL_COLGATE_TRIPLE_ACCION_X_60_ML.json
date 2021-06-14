@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-triple-accion-x-60-ml-7702010111501/p",
+    "fecha_hora_scraping": "2021-06-14 05:17:05",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE TRIPLE ACCION X 60 ML",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_TRIPLE_ACCION_X_60_ML.jpg",
+    "presentacion": "CAJA X 60ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $48,33"
+    },
+    "descripcion": "CREMA DENTAL COLGATE TRIPLE ACCION X 60 ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72336-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

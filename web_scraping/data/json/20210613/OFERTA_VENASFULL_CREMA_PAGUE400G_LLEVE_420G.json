@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-venasfull-crema-pague400g-lleve-420g-1000002374283/p",
+    "fecha_hora_scraping": "2021-06-13 23:28:16",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "OFERTA VENASFULL CREMA PAGUE:400G LLEVE 420G",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_VENASFULL_CREMA_PAGUE400G_LLEVE_420G.jpg",
+    "presentacion": "FRASCO X 400 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $66,67"
+    },
+    "descripcion": "oferta venasfull crema pague:400g lleve 420g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC62782-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

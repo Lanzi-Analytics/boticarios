@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-limpiadora-ponds-c-pepino-7501056324889/p",
+    "fecha_hora_scraping": "2021-06-14 02:32:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema limpiadora ponds c pepino",
+    "nombre_imagen": "./web_scraping/data/img/crema_limpiadora_ponds_c_pepino.jpg",
+    "presentacion": "POTE X 100 G",
+    "precio": {
+        "bestPrice": "$22.600",
+        "precioPorSku js-PUM": "Gramo a $226,00"
+    },
+    "descripcion": "crema ponds c pepino",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

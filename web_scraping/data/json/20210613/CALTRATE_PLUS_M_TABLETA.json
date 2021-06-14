@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caltrate-plus-m-tableta-7702132010300/p",
+    "fecha_hora_scraping": "2021-06-14 07:33:29",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CALTRATE PLUS M TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CALTRATE_PLUS_M_TABLETA.jpg",
+    "presentacion": "FRASCO X 30 TAB",
+    "precio": {
+        "bestPrice": "$37.800",
+        "precioPorSku js-PUM": "Tableta a $1.260,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG 400 UI 50 MG"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO VITAMINA D3 OXIDO MAGNESIO"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015048"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

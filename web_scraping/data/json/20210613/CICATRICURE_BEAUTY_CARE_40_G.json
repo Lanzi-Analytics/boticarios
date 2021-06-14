@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicatricure-beauty-care-emulsion-7798140250371/p",
+    "fecha_hora_scraping": "2021-06-14 00:41:02",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CICATRICURE BEAUTY CARE 40 G",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_BEAUTY_CARE_40_G.jpg",
+    "presentacion": "FRASCO X 40 G",
+    "precio": {
+        "bestPrice": "$35.050",
+        "precioPorSku js-PUM": "Gramo a $876,25"
+    },
+    "descripcion": "hidrata por 24 horas. previene arrugas y l\u00edneas de expresi\u00f3n. unifica el tono. protecci\u00f3n media fps 25. anti brillo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72832-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/proklein-net-polvo-vainilla-7709729471742/p",
+    "fecha_hora_scraping": "2021-06-14 06:22:28",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "proklein net polvo vainilla",
+    "nombre_imagen": "./web_scraping/data/img/proklein_net_polvo_vainilla.jpg",
+    "presentacion": "LATA X 420 G",
+    "precio": {
+        "bestPrice": "$48.000",
+        "precioPorSku js-PUM": "Gramo a $114,29"
+    },
+    "descripcion": "proklein net polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 420 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0007150-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

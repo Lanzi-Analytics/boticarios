@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/5702191025781advantan-01-cremamedicamentosformulados-5702191025781/p",
+    "fecha_hora_scraping": "2021-06-14 08:10:12",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ADVANTAN 0.1% CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ADVANTAN_01_CREMA.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$85.850",
+        "precioPorSku js-PUM": "Gramo a $5.723,33"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "1 MG/G"
+        ],
+        [
+            "Principio activo",
+            "METILPREDNISOLONA ACEPONATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BIOPAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-007197-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

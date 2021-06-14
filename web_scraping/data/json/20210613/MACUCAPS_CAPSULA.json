@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7707372340002i-labformuladosmedicamentosmacucaps-capsulamulticomponentes-7707372340002/p",
+    "fecha_hora_scraping": "2021-06-14 05:34:32",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MACUCAPS CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/MACUCAPS_CAPSULA.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "bestPrice": "$66.700",
+        "precioPorSku js-PUM": "Capsula a $2.223,33"
+    },
+    "descripcion": "mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los sintomas persisten consultar a su medico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "I LAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2011-0001861"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

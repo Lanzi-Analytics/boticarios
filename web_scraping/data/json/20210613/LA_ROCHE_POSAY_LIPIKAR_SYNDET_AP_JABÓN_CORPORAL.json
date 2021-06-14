@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lipikar-syndet-gel-3337875537315/p",
+    "fecha_hora_scraping": "2021-06-14 00:54:09",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "LA ROCHE POSAY LIPIKAR SYNDET AP+ JAB\u00d3N CORPORAL",
+    "nombre_imagen": "./web_scraping/data/img/LA_ROCHE_POSAY_LIPIKAR_SYNDET_AP_JAB\u00d3N_CORPORAL.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$99.550",
+        "precioPorSku js-PUM": "Mililitro a $248,88"
+    },
+    "descripcion": "lipikar syndet gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73530-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

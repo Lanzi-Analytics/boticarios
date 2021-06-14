@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/plasil-10mg-tableta-7702195477058/p",
+    "fecha_hora_scraping": "2021-06-14 04:48:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PLASIL 10MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/PLASIL_10MG_TABLETA.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "PrevPrice": "Antes:$48.550",
+        "bestPrice": "$38.840",
+        "precioPorSku js-PUM": "Mililitro a $1.294,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "METOCLOPRAMIDA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS BUSSIE SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0001972-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

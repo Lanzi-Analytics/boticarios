@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-adulto-colsubsidio-accion-medio-7701009149426/p",
+    "fecha_hora_scraping": "2021-06-14 03:43:20",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental adulto colsubsidio acci\u00f3n medio",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_adulto_colsubsidio_acci\u00f3n_medio.jpg",
+    "presentacion": "EMPAQUE X 1 UN",
+    "precio": {
+        "bestPrice": "$2.150",
+        "precioPorSku js-PUM": "Unidad a $2.150,00"
+    },
+    "descripcion": "2pillo den colsub adulto acci\u00f3n medio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "EMPAQUE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PLACECOL SA"
+        ],
+        [
+            "Registro Invima",
+            "2007DM-0001317"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/dhems-toallitas-desmaquillantes-7707208611566/p",
+    "fecha_hora_scraping": "2021-06-14 04:58:49",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "DHEMS TOALLITAS DESMAQUILLANTES",
+    "nombre_imagen": "./web_scraping/data/img/DHEMS_TOALLITAS_DESMAQUILLANTES.jpg",
+    "presentacion": "CAJA X 30 UN",
+    "precio": {
+        "bestPrice": "$19.900",
+        "precioPorSku js-PUM": "Unidad a $663,33"
+    },
+    "descripcion": "dhems toallitas desmaquillantes",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC71036-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

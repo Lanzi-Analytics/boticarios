@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/eucerin-ph5-aceite-de-ducha-4005800631221/p",
+    "fecha_hora_scraping": "2021-06-14 03:41:01",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "EUCERIN PH5 ACEITE DE DUCHA",
+    "nombre_imagen": "./web_scraping/data/img/EUCERIN_PH5_ACEITE_DE_DUCHA.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $262,88"
+    },
+    "descripcion": "EUCERIN PH5 ACEITE DE DUCHA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13070-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

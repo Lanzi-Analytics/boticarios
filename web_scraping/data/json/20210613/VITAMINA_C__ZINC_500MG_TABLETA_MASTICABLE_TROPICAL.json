@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamina-c--zinc-500mg-tableta-masticable-tropical-7702605109319/p",
+    "fecha_hora_scraping": "2021-06-14 00:05:03",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITAMINA C + ZINC 500MG TABLETA MASTICABLE TROPICAL",
+    "nombre_imagen": "./web_scraping/data/img/VITAMINA_C__ZINC_500MG_TABLETA_MASTICABLE_TROPICAL.jpg",
+    "presentacion": "Blister X 4 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $1.479,69"
+    },
+    "descripcion": "vitamina c + zinc 500mg tableta masticable tropical",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 4 G"
+        ],
+        [
+            "Concentracion",
+            "500 MG 5 MG"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA C"
+        ],
+        [
+            "Laboratorio",
+            "GENFAR SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2016-0003853"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

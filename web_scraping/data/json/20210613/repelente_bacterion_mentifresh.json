@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/repelente-bacterion-mentifresh-7702113037616/p",
+    "fecha_hora_scraping": "2021-06-14 04:45:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "repelente bacterion mentifresh",
+    "nombre_imagen": "./web_scraping/data/img/repelente_bacterion_mentifresh.jpg",
+    "presentacion": "ENVASE X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$14.250",
+        "bestPrice": "$11.400",
+        "precioPorSku js-PUM": "Mililitro a $95,00"
+    },
+    "descripcion": "repelente bacterion menti fresh 120",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "RECAMIER SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75985-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

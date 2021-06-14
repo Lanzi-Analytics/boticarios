@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/anafranil-retard-75mg-tableta-recubierta-liberacion-prolongada-7896261001947/p",
+    "fecha_hora_scraping": "2021-06-14 08:06:39",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ANAFRANIL RETARD 75MG TABLETA RECUBIERTA LIBERACI\u00d3N PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/ANAFRANIL_RETARD_75MG_TABLETA_RECUBIERTA_LIBERACI\u00d3N_PROLONGADA.jpg",
+    "presentacion": "Blister X 120 ML",
+    "precio": {
+        "bestPrice": "$44.650",
+        "precioPorSku js-PUM": "Tableta a $893,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "Blister X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "75 MG"
+        ],
+        [
+            "Principio activo",
+            "CLOMIPRAMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-011348-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

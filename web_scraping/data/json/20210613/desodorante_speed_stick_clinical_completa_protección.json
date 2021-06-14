@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-speed-stick-clinical-completa-proteccion-7509546066189/p",
+    "fecha_hora_scraping": "2021-06-14 00:17:59",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante speed stick clinical completa protecci\u00f3n",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_speed_stick_clinical_completa_protecci\u00f3n.jpg",
+    "presentacion": "BARRA X 50 G",
+    "precio": {
+        "bestPrice": "$18.750",
+        "precioPorSku js-PUM": "Gramo a $375,00"
+    },
+    "descripcion": "mss clinical complete dry barra 50g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68729-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

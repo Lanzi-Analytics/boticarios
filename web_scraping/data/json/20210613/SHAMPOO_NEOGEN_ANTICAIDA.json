@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/shampoo-neogen-anticaida-7707183820335/p",
+    "fecha_hora_scraping": "2021-06-14 03:54:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "SHAMPOO NEOGEN ANTICAIDA",
+    "nombre_imagen": "./web_scraping/data/img/SHAMPOO_NEOGEN_ANTICAIDA.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "PrevPrice": "Antes:$125.600",
+        "bestPrice": "$94.200",
+        "precioPorSku js-PUM": "Mililitro a $376,80"
+    },
+    "descripcion": "shampoo neogen anticaida",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "FAGRON COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85884-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

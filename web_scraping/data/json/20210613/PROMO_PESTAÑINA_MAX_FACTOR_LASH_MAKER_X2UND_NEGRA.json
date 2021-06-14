@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/promo-pestanina-max-factor-lash-maker-x2und-negra-7702044160353/p",
+    "fecha_hora_scraping": "2021-06-14 01:56:54",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PROMO PESTA\u00d1INA MAX FACTOR LASH MAKER X2UND NEGRA",
+    "nombre_imagen": "./web_scraping/data/img/PROMO_PESTA\u00d1INA_MAX_FACTOR_LASH_MAKER_X2UND_NEGRA.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$26.850",
+        "precioPorSku js-PUM": "Mililitro a $958,93"
+    },
+    "descripcion": "promo pesta\u00f1ina max factor lash maker x2und negra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PREBEL S A"
+        ],
+        [
+            "Registro Invima",
+            "NSOC007762-01CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

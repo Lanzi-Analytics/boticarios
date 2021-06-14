@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/venasfull-500-mg-max-forte-capsula-7707232097701/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:27",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "VENASFULL 500 MG MAX FORTE CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/VENASFULL_500_MG_MAX_FORTE_CAPSULA.jpg",
+    "presentacion": "CAJA X 60 CAP",
+    "precio": {
+        "bestPrice": "$47.100",
+        "precioPorSku js-PUM": "Capsula a $785,00"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "CASTA\u00d1O INDIAS"
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2011-0001839"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

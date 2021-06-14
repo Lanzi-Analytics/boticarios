@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-dental-colgate-luminouse-white-2x75-7509546061863/p",
+    "fecha_hora_scraping": "2021-06-14 05:15:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cremas dentales",
+    "titulo": "CREMA DENTAL COLGATE LUMINOUSE WHITE 2X75",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_DENTAL_COLGATE_LUMINOUSE_WHITE_2X75.jpg",
+    "presentacion": "UNIDAD X150ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $130,00"
+    },
+    "descripcion": "CREMA DENTAL COLGATE LUMINOUSE WHITE 2X75",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X150ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLGATE PALMOLIVE COMPA\u00d1IA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44215-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

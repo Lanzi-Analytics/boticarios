@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/instacalm-crema-7707177970046/p",
+    "fecha_hora_scraping": "2021-06-14 06:37:51",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "INSTACALM CREMA",
+    "nombre_imagen": "./web_scraping/data/img/INSTACALM_CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$27.900",
+        "precioPorSku js-PUM": "Gramo a $465,00"
+    },
+    "descripcion": "instacalm crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "100 G 20 G"
+        ],
+        [
+            "Principio activo",
+            "NISTATINA OXIDO ZINC"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO INTERNACIONAL DE COLOMB"
+        ],
+        [
+            "Registro Invima",
+            "2021M-0009454-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

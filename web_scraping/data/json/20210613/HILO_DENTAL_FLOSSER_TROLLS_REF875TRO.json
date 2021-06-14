@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hilo-dental-flosser-trolls-ref875tro-70942003513/p",
+    "fecha_hora_scraping": "2021-06-14 04:02:36",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "HILO DENTAL FLOSSER TROLLS REF875TRO",
+    "nombre_imagen": "./web_scraping/data/img/HILO_DENTAL_FLOSSER_TROLLS_REF875TRO.jpg",
+    "presentacion": "BOLSA X 20 UN",
+    "precio": {
+        "bestPrice": "$7.600",
+        "precioPorSku js-PUM": "Unidad a $380,00"
+    },
+    "descripcion": "hilo dental flosser trolls ref875tro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 20 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016924"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

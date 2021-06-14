@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-cannabis-seed-oil-95-7707232091112/p",
+    "fecha_hora_scraping": "2021-06-14 01:14:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ACEITE CANNABIS SEED OIL 95%",
+    "nombre_imagen": "./web_scraping/data/img/ACEITE_CANNABIS_SEED_OIL_95.jpg",
+    "presentacion": "FRASCO X 23 ML",
+    "precio": {
+        "bestPrice": "$23.100",
+        "precioPorSku js-PUM": "Mililitro a $1.004,35"
+    },
+    "descripcion": "aceite cannabis seed oil 95%",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 23 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC89905-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

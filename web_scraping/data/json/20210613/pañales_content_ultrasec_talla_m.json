@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-content-ultrasec-talla-m-7701021112378/p",
+    "fecha_hora_scraping": "2021-06-14 07:58:35",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "pa\u00f1ales content ultrasec talla m",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_content_ultrasec_talla_m.jpg",
+    "presentacion": "BOLSA X21 UN",
+    "precio": {
+        "bestPrice": "$43.800",
+        "precioPorSku js-PUM": "Unidad a $2.085,71"
+    },
+    "descripcion": "f-f-pa\u00f1al content ultrasec m bolx21",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X21 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA05905-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

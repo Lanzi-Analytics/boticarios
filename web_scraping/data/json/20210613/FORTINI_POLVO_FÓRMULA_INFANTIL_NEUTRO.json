@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fortini-polvo-neutro-7795323000716/p",
+    "fecha_hora_scraping": "2021-06-14 06:40:30",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "FORTINI POLVO F\u00d3RMULA INFANTIL NEUTRO",
+    "nombre_imagen": "./web_scraping/data/img/FORTINI_POLVO_F\u00d3RMULA_INFANTIL_NEUTRO.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$41.450",
+        "precioPorSku js-PUM": "Gramo a $103,63"
+    },
+    "descripcion": "fortini polvo neutro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "DANONE BABY NUTRITION COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-0011568-2021"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

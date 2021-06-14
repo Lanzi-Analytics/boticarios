@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kit-glucometro-accu-check-instant-4015630067145/p",
+    "fecha_hora_scraping": "2021-06-14 08:18:54",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "KIT GLUCOMETRO ACCU-CHECK INSTANT",
+    "nombre_imagen": "./web_scraping/data/img/KIT_GLUCOMETRO_ACCUCHECK_INSTANT.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$70.500",
+        "bestPrice": "$52.875",
+        "precioPorSku js-PUM": "Unidad a $52.875"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS LANCETAS DE GLUCOMETRIA"
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS ROCHE SA"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016162"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

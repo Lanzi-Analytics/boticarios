@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-maybelline-the-falsies-volum-express-washable-7702058280108/p",
+    "fecha_hora_scraping": "2021-06-14 05:52:02",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA MAYBELLINE THE FALSIES VOLUM EXPRESS WASHABLE",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_MAYBELLINE_THE_FALSIES_VOLUM_EXPRESS_WASHABLE.jpg",
+    "presentacion": "UNIDAD X 7.5 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $4.750,00"
+    },
+    "descripcion": "pesta\u00f1ina maybelline the falsies volum express washable",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 7.5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC38539-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

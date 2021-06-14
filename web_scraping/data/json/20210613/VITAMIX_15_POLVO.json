@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/vitamix-15-polvo-7707362320014/p",
+    "fecha_hora_scraping": "2021-06-13 23:22:54",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "VITAMIX 15 POLVO",
+    "nombre_imagen": "./web_scraping/data/img/VITAMIX_15_POLVO.jpg",
+    "presentacion": "CAJA X 30 SOB",
+    "precio": {
+        "bestPrice": "$12.250",
+        "precioPorSku js-PUM": "Sobre a $408,33"
+    },
+    "descripcion": "vitamix 15 polvo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 SOB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "C I NUTREO SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAA02I51611"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

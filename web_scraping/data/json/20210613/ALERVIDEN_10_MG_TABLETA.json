@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alerviden-10-mg-tableta-7703234100395/p",
+    "fecha_hora_scraping": "2021-06-14 05:09:20",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALERVIDEN 10 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ALERVIDEN_10_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$26.350",
+        "precioPorSku js-PUM": "Tableta a $2.635,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "CETIRIZINA DICLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2016M-004673-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

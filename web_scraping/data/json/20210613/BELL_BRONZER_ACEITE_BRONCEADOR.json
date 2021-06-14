@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bell-bronzer-aceite-bronceador-7707232097367/p",
+    "fecha_hora_scraping": "2021-06-13 23:12:04",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "BELL BRONZER ACEITE BRONCEADOR",
+    "nombre_imagen": "./web_scraping/data/img/BELL_BRONZER_ACEITE_BRONCEADOR.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$43.250",
+        "precioPorSku js-PUM": "Mililitro a $180,21"
+    },
+    "descripcion": "bell bronzer aceite bronceador",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC55466-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ciruelax-te-polvo-para-solucion-oral-7803510000651/p",
+    "fecha_hora_scraping": "2021-06-13 23:40:02",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "CIRUELAX TE POLVO PARA SOLUCI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/CIRUELAX_TE_POLVO_PARA_SOLUCI\u00d3N_ORAL.jpg",
+    "presentacion": "CAJA X 10 SOBRE",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $1.005,00"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 SOBRE"
+        ],
+        [
+            "Concentracion",
+            "1.5 G"
+        ],
+        [
+            "Principio activo",
+            "CASSIA ANGUSTIFOLIA HOJA"
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2014-0002343"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

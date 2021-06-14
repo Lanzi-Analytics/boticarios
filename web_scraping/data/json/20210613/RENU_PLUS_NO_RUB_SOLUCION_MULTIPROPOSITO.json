@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/renu-plus-no-rub-solucion-multiproposito-310119033227/p",
+    "fecha_hora_scraping": "2021-06-14 08:31:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "RENU PLUS NO RUB SOLUCION MULTIPROPOSITO",
+    "nombre_imagen": "./web_scraping/data/img/RENU_PLUS_NO_RUB_SOLUCION_MULTIPROPOSITO.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$22.650",
+        "bestPrice": "$15.855",
+        "precioPorSku js-PUM": "Mililitro a $132,13"
+    },
+    "descripcion": "renu plus no rub solucion multiproposito",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HUMAX PHARMACEUTICAL SA"
+        ],
+        [
+            "Registro Invima",
+            "2011DM-0007043"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

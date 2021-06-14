@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/paleta-de-sombras-para-ojos-vogue-sexteto-tono-jardin-romantico-7702433293297/p",
+    "fecha_hora_scraping": "2021-06-14 01:14:14",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PALETA DE SOMBRAS PARA OJOS VOGUE SEXTETO TONO JARD\u00cdN ROM\u00c1NTICO",
+    "nombre_imagen": "./web_scraping/data/img/PALETA_DE_SOMBRAS_PARA_OJOS_VOGUE_SEXTETO_TONO_JARD\u00cdN_ROM\u00c1NTICO.jpg",
+    "presentacion": "UNIDAD X 6 G",
+    "precio": {
+        "bestPrice": "$15.250",
+        "precioPorSku js-PUM": "Gramo a $2.541,67"
+    },
+    "descripcion": "paleta de sombras para ojos vogue sexteto tono jard\u00edn rom\u00e1ntico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 6 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC39452-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

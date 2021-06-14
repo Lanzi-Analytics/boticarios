@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-baby-jhonsons-bed-time-7702031734628/p",
+    "fecha_hora_scraping": "2021-06-14 01:19:06",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "aceite baby jhonson's bed time",
+    "nombre_imagen": "./web_scraping/data/img/aceite_baby_jhonsons_bed_time.jpg",
+    "presentacion": "BOTELLA X 100 ML",
+    "precio": {
+        "bestPrice": "$9.800",
+        "precioPorSku js-PUM": "Mililitro a $98,00"
+    },
+    "descripcion": "aceite baby johnson 100 ml bed time",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 100 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2004CO11630"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

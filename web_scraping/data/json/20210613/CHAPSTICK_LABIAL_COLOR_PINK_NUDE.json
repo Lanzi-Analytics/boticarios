@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chapstick-labial-color-pink-nude-7702132001728/p",
+    "fecha_hora_scraping": "2021-06-14 02:29:01",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CHAPSTICK LABIAL COLOR PINK NUDE",
+    "nombre_imagen": "./web_scraping/data/img/CHAPSTICK_LABIAL_COLOR_PINK_NUDE.jpg",
+    "presentacion": "BARRA X 3,5 G",
+    "precio": {
+        "bestPrice": "$16.450",
+        "precioPorSku js-PUM": "Gramo a $4.700,00"
+    },
+    "descripcion": "chapstick labial color pink nude",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 3,5 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "ACETAMINOFEN"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85434-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

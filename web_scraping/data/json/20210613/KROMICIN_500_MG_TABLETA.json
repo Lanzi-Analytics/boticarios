@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/kromicin-500-mg-tableta-7703712015005/p",
+    "fecha_hora_scraping": "2021-06-14 00:15:21",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KROMICIN 500 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/KROMICIN_500_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 3 TAB",
+    "precio": {
+        "bestPrice": "$59.350",
+        "precioPorSku js-PUM": "Tableta a $19.783,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 3 TAB"
+        ],
+        [
+            "Concentracion",
+            "500 MG"
+        ],
+        [
+            "Principio activo",
+            "AZITROMICINA DIHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "COASPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-0006646-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

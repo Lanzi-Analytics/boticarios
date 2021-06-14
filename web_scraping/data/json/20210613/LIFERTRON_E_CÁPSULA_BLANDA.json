@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lifertron-e-capsula-blanda-7707355055602/p",
+    "fecha_hora_scraping": "2021-06-14 00:24:00",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LIFERTRON E C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/LIFERTRON_E_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$34.550",
+        "bestPrice": "$27.640",
+        "precioPorSku js-PUM": "Capsula a $921,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "50000 UI 150 UI"
+        ],
+        [
+            "Principio activo",
+            "VITAMINA A PALMITATO DL- ALFATOCOFEROL ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-010670-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

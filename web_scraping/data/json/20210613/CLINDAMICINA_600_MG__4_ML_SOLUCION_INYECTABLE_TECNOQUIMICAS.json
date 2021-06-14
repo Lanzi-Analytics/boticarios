@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clindamicina-600-mg--4-ml-solucion-inyectable-tecnoquimicas-7702057070366/p",
+    "fecha_hora_scraping": "2021-06-14 08:27:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLINDAMICINA 600 MG / 4 ML SOLUCION INYECTABLE TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/CLINDAMICINA_600_MG__4_ML_SOLUCION_INYECTABLE_TECNOQUIMICAS.jpg",
+    "presentacion": "BLISTER X 1 UN",
+    "precio": {
+        "bestPrice": "$18.200",
+        "precioPorSku js-PUM": "Unidad a $18.200,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "150 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016591"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

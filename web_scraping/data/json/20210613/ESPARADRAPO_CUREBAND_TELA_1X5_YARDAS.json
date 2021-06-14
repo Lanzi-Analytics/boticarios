@@ -1,13 +1,13 @@
 {
-    "url_producto": "https://www.drogueriascolsubsidio.com/esparadrapo-cureband-tela-1x5-yardas-7702136642903/p",
-    "fecha_hora_scraping": "2021-06-13 18:58:46",
+    "url_producto": "https://www.drogueriascolsubsidio.com/esparadrapo-cureband-tela-1x5-yardas-7702136642712/p",
+    "fecha_hora_scraping": "2021-06-14 04:12:22",
     "breadcumb": "colsubsidio|medicamentos|venta libre|botiquin y primeros auxilios|algod\u00f3n, curas, gasas y vendas",
     "titulo": "ESPARADRAPO CUREBAND TELA 1X5 YARDAS",
     "nombre_imagen": "./web_scraping/data/img/ESPARADRAPO_CUREBAND_TELA_1X5_YARDAS.jpg",
     "presentacion": "UNIDAD",
     "precio": {
-        "bestPrice": "$15.050",
-        "precioPorSku js-PUM": "Unidad a $15.050,00"
+        "bestPrice": "$10.850",
+        "precioPorSku js-PUM": "Unidad a $10.850,00"
     },
     "descripcion": "esparadrapo cureband tela 1x5 yardas",
     "atributos": [
@@ -29,7 +29,7 @@
         ],
         [
             "Registro Invima",
-            "2017DM-0000931- R3"
+            "2017DM-0000931"
         ],
         [
             "Color",

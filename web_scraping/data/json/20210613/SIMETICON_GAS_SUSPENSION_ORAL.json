@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/simeticon-gas-suspension-oral-7707334710157/p",
+    "fecha_hora_scraping": "2021-06-14 07:19:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SIMETICON GAS SUSPENSION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/SIMETICON_GAS_SUSPENSION_ORAL.jpg",
+    "presentacion": "FRASCO X 360 ML",
+    "precio": {
+        "bestPrice": "$47.450",
+        "precioPorSku js-PUM": "Mililitro a $131,81"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo formula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 360 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SIMETICONA"
+        ],
+        [
+            "Laboratorio",
+            "NEVOX FARMA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-012702-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tapaboca-desechable-uso-no-hospitalario-3-capas-i-d-pharma-lab-sas-1000002435915/p",
+    "fecha_hora_scraping": "2021-06-14 09:56:01",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "tapaboca desechable uso no hospitalario 3 capas i d pharma lab sas",
+    "nombre_imagen": "./web_scraping/data/img/tapaboca_desechable_uso_no_hospitalario_3_capas_i_d_pharma_lab_sas.jpg",
+    "presentacion": "BOLSA X 1 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $424,00"
+    },
+    "descripcion": "tapaboca desechable uso no hospitalario 3 capas i d pharma lab sas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "I D PHARMA LAB SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

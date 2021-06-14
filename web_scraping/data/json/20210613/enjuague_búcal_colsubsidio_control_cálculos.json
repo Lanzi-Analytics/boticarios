@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/enjuague-bucal-colsubsidio-control-calculos-7701009011433/p",
+    "fecha_hora_scraping": "2021-06-14 03:57:57",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|enjuagues bucales",
+    "titulo": "enjuague b\u00facal colsubsidio control c\u00e1lculos",
+    "nombre_imagen": "./web_scraping/data/img/enjuague_b\u00facal_colsubsidio_control_c\u00e1lculos.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "$6.550",
+        "precioPorSku js-PUM": "Mililitro a $13,10"
+    },
+    "descripcion": "enjuague bucal colsubsidio control calculo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "VITAL COMERCIAL SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

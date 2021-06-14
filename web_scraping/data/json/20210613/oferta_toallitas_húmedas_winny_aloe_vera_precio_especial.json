@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7701021145949oferta-toallitas-humedas-winny-aloe-vera-precio-especialmamas-y-bebescuidado-del-bebetecnoquimicas-7701021145949/p",
+    "fecha_hora_scraping": "2021-06-14 06:41:53",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "oferta toallitas h\u00famedas winny aloe vera precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallitas_h\u00famedas_winny_aloe_vera_precio_especial.jpg",
+    "presentacion": "PAQUETE X 100 UN",
+    "precio": {
+        "bestPrice": "$8.900",
+        "precioPorSku js-PUM": "Unidad a $89,00"
+    },
+    "descripcion": "oferta toallitas h\u00famedas winny aloe vera precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 100 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC44917-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

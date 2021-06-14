@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mani-con-pasas-la-especial-7702007228502/p",
+    "fecha_hora_scraping": "2021-06-14 00:57:46",
+    "breadcumb": "colsubsidio|alimentos y bebidas|snacks",
+    "titulo": "MAN\u00cd CON PASAS LA ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/MAN\u00cd_CON_PASAS_LA_ESPECIAL.jpg",
+    "presentacion": "PAQUETE X 50 G",
+    "precio": {
+        "bestPrice": "$1.800",
+        "precioPorSku js-PUM": "Gramo a $36,00"
+    },
+    "descripcion": "man\u00ed con pasas la especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

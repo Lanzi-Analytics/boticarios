@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-dd-crema-spf30-7707016404848/p",
+    "fecha_hora_scraping": "2021-06-14 04:04:11",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK DD CREMA SPF30",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_DD_CREMA_SPF30.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $960,00"
+    },
+    "descripcion": "arawak dd crema spf30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC56392-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

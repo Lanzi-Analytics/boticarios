@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/respirador-kn95-hym-care-sas-1000002462485/p",
+    "fecha_hora_scraping": "2021-06-14 05:51:02",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|accesorios m\u00e9dicos",
+    "titulo": "RESPIRADOR KN95 HYM CARE SAS",
+    "nombre_imagen": "./web_scraping/data/img/RESPIRADOR_KN95_HYM_CARE_SAS.jpg",
+    "presentacion": "BOLSA X 2 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $9.400,00"
+    },
+    "descripcion": "RESPIRADOR KN95 HYM CARE SAS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOLSA X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "NO APLICA"
+        ],
+        [
+            "Laboratorio",
+            "HYMCARE SAS"
+        ],
+        [
+            "Registro Invima",
+            "VITAL NO DISPONIBLE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

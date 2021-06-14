@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-helioless-locion-spf50-7707222420281/p",
+    "fecha_hora_scraping": "2021-06-14 05:20:58",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR HELIOLESS LOCION SPF50",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_HELIOLESS_LOCION_SPF50.jpg",
+    "presentacion": "FRASCO X 60 ML",
+    "precio": {
+        "bestPrice": "$75.500",
+        "precioPorSku js-PUM": "Mililitro a $1.258,33"
+    },
+    "descripcion": "protector solar helioless locion spf50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC13340-04CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

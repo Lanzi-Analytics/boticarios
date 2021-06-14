@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/filtrosol-protector-solar-gel-7703332003314/p",
+    "fecha_hora_scraping": "2021-06-14 01:08:07",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "FILTROSOL PROTECTOR SOLAR GEL",
+    "nombre_imagen": "./web_scraping/data/img/FILTROSOL_PROTECTOR_SOLAR_GEL.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$54.900",
+        "precioPorSku js-PUM": "Mililitro a $457,50"
+    },
+    "descripcion": "filtrosol protector solar gel",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC6424-89CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

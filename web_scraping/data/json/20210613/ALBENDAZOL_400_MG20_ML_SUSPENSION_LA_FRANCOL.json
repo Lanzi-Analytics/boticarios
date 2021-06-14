@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/albendazol-400-mg20-ml-suspension-la-francol-7706569000576/p",
+    "fecha_hora_scraping": "2021-06-14 03:02:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALBENDAZOL 400 MG/20 ML SUSPENSION LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/ALBENDAZOL_400_MG20_ML_SUSPENSION_LA_FRANCOL.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$5.000",
+        "precioPorSku js-PUM": "Mililitro a $250,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "20 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ALBENDAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0001309-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

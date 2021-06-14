@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/urovital-cranberry-capsula-7707232091600/p",
+    "fecha_hora_scraping": "2021-06-14 04:28:56",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "UROVITAL CRANBERRY CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/UROVITAL_CRANBERRY_CAPSULA.jpg",
+    "presentacion": "CAJA X 60 CAP",
+    "precio": {
+        "bestPrice": "$39.150",
+        "precioPorSku js-PUM": "Capsula a $652,50"
+    },
+    "descripcion": "es un producto fitot\u00e9rapeutico.  no exceder su consumo leer indicaciones y contraindicaciones.  si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "PFM2016-0002514"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

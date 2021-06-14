@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acid-mantle-ph-42-crema-7702123003014/p",
+    "fecha_hora_scraping": "2021-06-14 04:38:12",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "ACID MANTLE PH 4.2 CREMA",
+    "nombre_imagen": "./web_scraping/data/img/ACID_MANTLE_PH_42_CREMA.jpg",
+    "presentacion": "TUBO X 60 G",
+    "precio": {
+        "bestPrice": "$25.550",
+        "precioPorSku js-PUM": "Gramo a $425,83"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 G"
+        ],
+        [
+            "Concentracion",
+            "0.5 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ALUMINIO ACETATO"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0012370-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-no4-protect-40-7702057100544/p",
+    "fecha_hora_scraping": "2021-06-14 10:19:58",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CREMA NO.4 PROTECT 40%",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_NO4_PROTECT_40.jpg",
+    "presentacion": "TUBO X 20 G",
+    "precio": {
+        "bestPrice": "$7.100",
+        "precioPorSku js-PUM": "Gramo a $355,00"
+    },
+    "descripcion": "crema no.4 protect 40%",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 20 G"
+        ],
+        [
+            "Concentracion",
+            "400 MG/G"
+        ],
+        [
+            "Principio activo",
+            "ZINC OXIDO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0018752"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

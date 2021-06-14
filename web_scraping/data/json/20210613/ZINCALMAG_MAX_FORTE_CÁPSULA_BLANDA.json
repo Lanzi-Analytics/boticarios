@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zincalmag-max-forte-capsula-blanda-7707232090115/p",
+    "fecha_hora_scraping": "2021-06-14 09:12:57",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "ZINCALMAG MAX FORTE C\u00c1PSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/ZINCALMAG_MAX_FORTE_C\u00c1PSULA_BLANDA.jpg",
+    "presentacion": "FRASCO X 50 CAP",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Capsula a $814,00"
+    },
+    "descripcion": "este producto es un suplemento dietario. no es un medicamento y no suple una alimentaci\u00f3n equilibrada. mant\u00e9ngase fuera del alcance de los ni\u00f1os. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "SD2013-0002904"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

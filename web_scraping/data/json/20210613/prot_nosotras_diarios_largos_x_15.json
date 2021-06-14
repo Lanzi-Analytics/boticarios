@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prot-nosotras-diarios-largos-x-15-7702027440922/p",
+    "fecha_hora_scraping": "2021-06-14 04:20:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "prot nosotras diarios largos x 15",
+    "nombre_imagen": "./web_scraping/data/img/prot_nosotras_diarios_largos_x_15.jpg",
+    "presentacion": "PAQUETE X 15 UN",
+    "precio": {
+        "bestPrice": "$3.750",
+        "precioPorSku js-PUM": "Unidad a $250,00"
+    },
+    "descripcion": "prot nosotras diarios largos x 15",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 15 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA01532-12CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

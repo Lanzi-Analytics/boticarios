@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/canesten-1--solucion-topica-7702123006701/p",
+    "fecha_hora_scraping": "2021-06-14 03:42:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "CANESTEN 1 % SOLUCION TOPICA",
+    "nombre_imagen": "./web_scraping/data/img/CANESTEN_1__SOLUCION_TOPICA.jpg",
+    "presentacion": "FRASCO X 20 ML",
+    "precio": {
+        "bestPrice": "$17.650",
+        "precioPorSku js-PUM": "Mililitro a $882,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 20 ML"
+        ],
+        [
+            "Concentracion",
+            "10 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "BAYER SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-007048-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

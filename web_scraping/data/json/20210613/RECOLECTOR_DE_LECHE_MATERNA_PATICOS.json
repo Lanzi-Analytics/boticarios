@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/recolector-de-leche-materna-paticos-7707081801160/p",
+    "fecha_hora_scraping": "2021-06-14 02:29:56",
+    "breadcumb": "colsubsidio|mamas y bebes|accesorios",
+    "titulo": "RECOLECTOR DE LECHE MATERNA PATICOS",
+    "nombre_imagen": "./web_scraping/data/img/RECOLECTOR_DE_LECHE_MATERNA_PATICOS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$7.500",
+        "precioPorSku js-PUM": "Unidad a $7.500,00"
+    },
+    "descripcion": "recolector de leche materna paticos",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INPLASCO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NO REQUIERE"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

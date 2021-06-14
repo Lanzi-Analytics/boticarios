@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/supragel-063gml-gel--fcox240ml-qrm-7707183770760/p",
+    "fecha_hora_scraping": "2021-06-13 23:08:39",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "SUPRAGEL 0,63G/ML GEL  FCOX240ML QRM",
+    "nombre_imagen": "./web_scraping/data/img/SUPRAGEL_063GML_GEL__FCOX240ML_QRM.jpg",
+    "presentacion": "FRASCO X 240 ML",
+    "precio": {
+        "bestPrice": "$12.950",
+        "precioPorSku js-PUM": "Mililitro a $53,96"
+    },
+    "descripcion": "supragel 0,63g/ml gel  fcox240ml qrm",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 240 ML"
+        ],
+        [
+            "Concentracion",
+            "630 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "ISOPROPILICO ALCOHOL"
+        ],
+        [
+            "Laboratorio",
+            "QUIRUMEDICAS LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2013M-0002318-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

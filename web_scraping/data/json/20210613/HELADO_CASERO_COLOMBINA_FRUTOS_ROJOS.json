@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-casero-colombina-frutos-rojos-7702011127150/p",
+    "fecha_hora_scraping": "2021-06-14 09:01:08",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "HELADO CASERO COLOMBINA FRUTOS ROJOS",
+    "nombre_imagen": "./web_scraping/data/img/HELADO_CASERO_COLOMBINA_FRUTOS_ROJOS.jpg",
+    "presentacion": "UNIDAD X 75 G",
+    "precio": {
+        "bestPrice": "$1.700",
+        "precioPorSku js-PUM": "Gramo a $22,67"
+    },
+    "descripcion": "HELADO CASERO COLOMBINA FRUTOS ROJOS",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 75 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-001087-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

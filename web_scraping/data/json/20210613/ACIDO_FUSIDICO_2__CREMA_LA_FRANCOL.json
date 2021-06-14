@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acido-fusidico-2--crema-la-francol-7706569002839/p",
+    "fecha_hora_scraping": "2021-06-14 08:14:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ACIDO FUSIDICO 2 % CREMA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/ACIDO_FUSIDICO_2__CREMA_LA_FRANCOL.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$12.000",
+        "precioPorSku js-PUM": "Gramo a $800,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            "20 MG/G"
+        ],
+        [
+            "Principio activo",
+            "FUSIDICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-014646-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nuvit-forte-polvo-vainilla-7703546349208/p",
+    "fecha_hora_scraping": "2021-06-14 10:35:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "NUVIT FORTE POLVO VAINILLA",
+    "nombre_imagen": "./web_scraping/data/img/NUVIT_FORTE_POLVO_VAINILLA.jpg",
+    "presentacion": "TARRO X 400 G",
+    "precio": {
+        "bestPrice": "$43.150",
+        "precioPorSku js-PUM": "Gramo a $107,88"
+    },
+    "descripcion": "nuvit forte polvo vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 400 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NOVAMED SA"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004062-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-pediasure-liquido-vainilla-pague-6und-lleve-8und-7703186032515/p",
+    "fecha_hora_scraping": "2021-06-14 02:02:22",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "OFERTA PEDIASURE L\u00cdQUIDO VAINILLA PAGUE: 6UND LLEVE: 8UND",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_PEDIASURE_L\u00cdQUIDO_VAINILLA_PAGUE_6UND_LLEVE_8UND.jpg",
+    "presentacion": "PACK X 8 Botellas",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $30,38"
+    },
+    "descripcion": "oferta pediasure l\u00edquido vainilla pague: 6und lleve: 8und",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PACK X 8 Botellas"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-004217-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

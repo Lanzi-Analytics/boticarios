@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallas-higienicas-nosotras-natural-plus-precio-especial-7702027419157/p",
+    "fecha_hora_scraping": "2021-06-14 10:02:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|toallas",
+    "titulo": "OFERTA TOALLAS HIGIENICAS NOSOTRAS NATURAL PLUS PRECIO ESPECIAL",
+    "nombre_imagen": "./web_scraping/data/img/OFERTA_TOALLAS_HIGIENICAS_NOSOTRAS_NATURAL_PLUS_PRECIO_ESPECIAL.jpg",
+    "presentacion": "PAQUETE X 8 UN",
+    "precio": {
+        "bestPrice": "$11.500",
+        "precioPorSku js-PUM": "Unidad a $718,75"
+    },
+    "descripcion": "toalla higienica nosotras natural plus x 2 und precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 8 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

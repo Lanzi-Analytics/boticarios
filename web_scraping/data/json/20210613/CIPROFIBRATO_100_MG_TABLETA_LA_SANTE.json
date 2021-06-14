@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ciprofibrato-100-mg-tableta-la-sante-7703763469017/p",
+    "fecha_hora_scraping": "2021-06-14 06:10:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CIPROFIBRATO 100 MG TABLETA LA SANTE",
+    "nombre_imagen": "./web_scraping/data/img/CIPROFIBRATO_100_MG_TABLETA_LA_SANTE.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$7.800",
+        "precioPorSku js-PUM": "Tableta a $780,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "100 MG"
+        ],
+        [
+            "Principio activo",
+            "CIPROFIBRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS LA SANTE SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008261"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

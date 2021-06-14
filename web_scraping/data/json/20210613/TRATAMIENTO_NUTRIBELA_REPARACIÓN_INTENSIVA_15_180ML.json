@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tratamiento-nutribela-reparacion-intensiva-15-180ml-7702354948443/p",
+    "fecha_hora_scraping": "2021-06-14 00:50:49",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "TRATAMIENTO NUTRIBELA REPARACI\u00d3N INTENSIVA 15 180ML",
+    "nombre_imagen": "./web_scraping/data/img/TRATAMIENTO_NUTRIBELA_REPARACI\u00d3N_INTENSIVA_15_180ML.jpg",
+    "presentacion": "POTE X 180 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $46,11"
+    },
+    "descripcion": "TRATAMIENTO NUTRIBELA REPARACI\u00d3N INTENSIVA 15 180ML",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUALA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC98392-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

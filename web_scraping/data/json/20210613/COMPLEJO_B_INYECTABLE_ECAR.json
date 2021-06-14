@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/complejo-b-inyectable-ecar-7702184130193/p",
+    "fecha_hora_scraping": "2021-06-14 08:51:08",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "COMPLEJO B INYECTABLE ECAR",
+    "nombre_imagen": "./web_scraping/data/img/COMPLEJO_B_INYECTABLE_ECAR.jpg",
+    "presentacion": "FRASCO X 10 ML",
+    "precio": {
+        "bestPrice": "$7.400",
+        "precioPorSku js-PUM": "Mililitro a $740,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 10 ML"
+        ],
+        [
+            "Concentracion",
+            "50 MG/ML 50 MG/ML 25 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "PIRIDOXINA CLORHIDRATO NICOTINAMIDA TIAMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS ECAR SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-005532-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

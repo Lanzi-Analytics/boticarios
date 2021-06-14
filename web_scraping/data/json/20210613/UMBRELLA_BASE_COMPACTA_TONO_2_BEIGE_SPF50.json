@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/umbrella-base-compacta-tono-2-beige-spf50-7703281002345/p",
+    "fecha_hora_scraping": "2021-06-14 05:41:31",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "UMBRELLA BASE COMPACTA TONO 2 BEIGE SPF50",
+    "nombre_imagen": "./web_scraping/data/img/UMBRELLA_BASE_COMPACTA_TONO_2_BEIGE_SPF50.jpg",
+    "presentacion": "CAJA X 11 G",
+    "precio": {
+        "bestPrice": "$100.300",
+        "precioPorSku js-PUM": "Gramo a $9.118,18"
+    },
+    "descripcion": "umbrella base compacta tono 2 beige spf5",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 11 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52704-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

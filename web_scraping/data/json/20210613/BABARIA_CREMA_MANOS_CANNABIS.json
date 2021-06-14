@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/babaria-crema-manos-cannabis-8410412190015/p",
+    "fecha_hora_scraping": "2021-06-14 07:57:16",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "BABARIA CREMA MANOS CANNABIS",
+    "nombre_imagen": "./web_scraping/data/img/BABARIA_CREMA_MANOS_CANNABIS.jpg",
+    "presentacion": "TUBO X 50 ML",
+    "precio": {
+        "bestPrice": "$15.500",
+        "precioPorSku js-PUM": "Mililitro a $310,00"
+    },
+    "descripcion": "babaria crema manos cannabis",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BABARIA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91344-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

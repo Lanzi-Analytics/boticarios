@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/norfloxacina-400-mg-tableta-recubierta-tecnoquimicas-7702057074487/p",
+    "fecha_hora_scraping": "2021-06-14 03:59:55",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NORFLOXACINA 400 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/NORFLOXACINA_400_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 14 TAB",
+    "precio": {
+        "bestPrice": "$8.400",
+        "precioPorSku js-PUM": "Tableta a $600,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "NORFLOXACINO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-009686R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

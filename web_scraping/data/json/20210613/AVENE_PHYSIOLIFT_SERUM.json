@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/avene-physiolift-serum-3282770110753/p",
+    "fecha_hora_scraping": "2021-06-14 00:20:49",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "AVENE PHYSIOLIFT SERUM",
+    "nombre_imagen": "./web_scraping/data/img/AVENE_PHYSIOLIFT_SERUM.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$170.000",
+        "precioPorSku js-PUM": "Mililitro a $5.666,67"
+    },
+    "descripcion": "avene physiolift serum",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC92522-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

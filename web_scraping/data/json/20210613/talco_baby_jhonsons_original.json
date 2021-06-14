@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/talco-baby-jhonsons-original-7891010037246/p",
+    "fecha_hora_scraping": "2021-06-14 04:40:41",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "talco baby jhonson's original",
+    "nombre_imagen": "./web_scraping/data/img/talco_baby_jhonsons_original.jpg",
+    "presentacion": "ENVASE X 100 G",
+    "precio": {
+        "bestPrice": "$12.550",
+        "precioPorSku js-PUM": "Gramo a $125,50"
+    },
+    "descripcion": "talco baby johnson 100 g original",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 100 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

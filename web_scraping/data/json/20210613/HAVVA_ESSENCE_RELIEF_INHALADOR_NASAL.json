@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7709052630090havva-essence-relief-inhalador-nasalmedicamentosnaturalesna-7709052630090/p",
+    "fecha_hora_scraping": "2021-06-13 23:50:32",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "HAVVA ESSENCE RELIEF INHALADOR NASAL",
+    "nombre_imagen": "./web_scraping/data/img/HAVVA_ESSENCE_RELIEF_INHALADOR_NASAL.jpg",
+    "presentacion": "TUBO X 1,25 ML",
+    "precio": {
+        "bestPrice": "$29.650",
+        "precioPorSku js-PUM": "Mililitro a $23.720,00"
+    },
+    "descripcion": "havva essence relief inhalador nasal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 1,25 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "OCELESTE SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84601-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

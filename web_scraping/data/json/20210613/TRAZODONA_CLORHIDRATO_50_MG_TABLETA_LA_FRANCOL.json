@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/trazodona-clorhidrato-50-mg-tableta-la-francol-7706569021922/p",
+    "fecha_hora_scraping": "2021-06-14 09:53:37",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRAZODONA CLORHIDRATO 50 MG TABLETA LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/TRAZODONA_CLORHIDRATO_50_MG_TABLETA_LA_FRANCOL.jpg",
+    "presentacion": "CAJA X 50 TAB",
+    "precio": {
+        "bestPrice": "$37.900",
+        "precioPorSku js-PUM": "Tableta a $758,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "TRAZODONA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0008619-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/lioresal-10-mg-comprimido-7702635122890/p",
+    "fecha_hora_scraping": "2021-06-14 03:08:36",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "LIORESAL 10 MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/LIORESAL_10_MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 50 TAB",
+    "precio": {
+        "bestPrice": "$150.200",
+        "precioPorSku js-PUM": "Tableta a $3.004,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 TAB"
+        ],
+        [
+            "Concentracion",
+            "10 MG"
+        ],
+        [
+            "Principio activo",
+            "BACLOFENO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2016M-006650-R3"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/benet-zinc--vitamina-c-gomas-7708962939828/p",
+    "fecha_hora_scraping": "2021-06-14 00:06:48",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "BENET ZINC + VITAMINA C GOMAS",
+    "nombre_imagen": "./web_scraping/data/img/BENET_ZINC__VITAMINA_C_GOMAS.jpg",
+    "presentacion": "FRASCO X 150 G",
+    "precio": {
+        "bestPrice": "$19.550",
+        "precioPorSku js-PUM": "Gramo a $130,33"
+    },
+    "descripcion": "benet zinc + vitamina c gomas",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 150 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COMERCIAL NUTRESA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-005507-2018"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

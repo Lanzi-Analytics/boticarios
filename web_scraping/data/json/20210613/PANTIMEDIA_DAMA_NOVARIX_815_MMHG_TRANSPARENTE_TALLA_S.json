@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pantimedia-dama-no-varix-8-15-mmhg-transparente-talla-s-7707066069424/p",
+    "fecha_hora_scraping": "2021-06-14 02:21:15",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|ortopedia y movilidad",
+    "titulo": "PANTIMEDIA DAMA NO-VARIX 8-15 MMHG TRANSPARENTE TALLA S",
+    "nombre_imagen": "./web_scraping/data/img/PANTIMEDIA_DAMA_NOVARIX_815_MMHG_TRANSPARENTE_TALLA_S.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $46.900,00"
+    },
+    "descripcion": "pantimedia dama no-varix 8-15 mmhg trans",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BSN MEDICAL LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2019DM-0003826-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

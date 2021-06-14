@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pestanina-loreal-paris-voluminous-lash-paradise-waterproof-black-71249343319/p",
+    "fecha_hora_scraping": "2021-06-14 02:00:22",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|ojos",
+    "titulo": "PESTA\u00d1INA L'OR\u00c9AL PARIS VOLUMINOUS LASH PARADISE WATERPROOF BLACK",
+    "nombre_imagen": "./web_scraping/data/img/PESTA\u00d1INA_LOR\u00c9AL_PARIS_VOLUMINOUS_LASH_PARADISE_WATERPROOF_BLACK.jpg",
+    "presentacion": "UNIDAD X 8.5 ML",
+    "precio": {
+        "bestPrice": "$52.050",
+        "precioPorSku js-PUM": "Mililitro a $6.123,53"
+    },
+    "descripcion": "pesta\u00f1ina l'or\u00e9al paris voluminous lash paradise waterproof black",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 8.5 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC85321-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

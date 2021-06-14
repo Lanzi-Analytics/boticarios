@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tnt-mega-mass-vainilla-7707330818208/p",
+    "fecha_hora_scraping": "2021-06-14 07:20:19",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "tnt mega mass vainilla",
+    "nombre_imagen": "./web_scraping/data/img/tnt_mega_mass_vainilla.jpg",
+    "presentacion": "CAJA X 320 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $521,88"
+    },
+    "descripcion": "tnt mega mass vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 320 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "NEOPHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003082-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

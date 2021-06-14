@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/novatrix-crema-7707206270147/p",
+    "fecha_hora_scraping": "2021-06-14 07:24:08",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "NOVATRIX CREMA",
+    "nombre_imagen": "./web_scraping/data/img/NOVATRIX_CREMA.jpg",
+    "presentacion": "FRASCO X 50 G",
+    "precio": {
+        "bestPrice": "$56.050",
+        "precioPorSku js-PUM": "Gramo a $1.121,00"
+    },
+    "descripcion": "novatrix crema",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC20904-06CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

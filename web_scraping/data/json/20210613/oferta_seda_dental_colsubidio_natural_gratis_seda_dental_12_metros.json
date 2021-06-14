@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-seda-dental-colsubidio-natural-gratis-seda-dental-12-metros-7701009006828/p",
+    "fecha_hora_scraping": "2021-06-14 07:47:24",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|sedas dentales",
+    "titulo": "oferta seda dental colsubidio natural gratis seda dental 12 metros",
+    "nombre_imagen": "./web_scraping/data/img/oferta_seda_dental_colsubidio_natural_gratis_seda_dental_12_metros.jpg",
+    "presentacion": "PAQUETE X 50 MT",
+    "precio": {
+        "bestPrice": "$4.450",
+        "precioPorSku js-PUM": "Metro a $89,00"
+    },
+    "descripcion": "seda dental colsub natural 50 m+12 m",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 50 MT"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PLACECOL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

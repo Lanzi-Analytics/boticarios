@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/biopronnabis-contorno-ojos-dia-7707232090764/p",
+    "fecha_hora_scraping": "2021-06-14 07:26:28",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "BIOPRONNABIS CONTORNO OJOS DIA",
+    "nombre_imagen": "./web_scraping/data/img/BIOPRONNABIS_CONTORNO_OJOS_DIA.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$37.200",
+        "precioPorSku js-PUM": "Gramo a $1.240,00"
+    },
+    "descripcion": "biopronnabis contorno ojos dia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82713-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

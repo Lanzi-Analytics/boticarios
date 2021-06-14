@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gum-cepillo-repuesto-sonic-70942002141/p",
+    "fecha_hora_scraping": "2021-06-13 23:32:09",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "GUM CEPILLO REPUESTO SONIC",
+    "nombre_imagen": "./web_scraping/data/img/GUM_CEPILLO_REPUESTO_SONIC.jpg",
+    "presentacion": "CAJA X 2 UN",
+    "precio": {
+        "bestPrice": "$16.900",
+        "precioPorSku js-PUM": "Unidad a $16.900,00"
+    },
+    "descripcion": "gum cepillo repuesto sonic",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 2 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUNSTAR AMERICAS INC"
+        ],
+        [
+            "Registro Invima",
+            "2017DM-0016985"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

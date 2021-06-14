@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acuanova-face-emulsion-7707206278457/p",
+    "fecha_hora_scraping": "2021-06-13 23:39:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ACUANOVA FACE EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/ACUANOVA_FACE_EMULSION.jpg",
+    "presentacion": "FRASCO X 30 G",
+    "precio": {
+        "bestPrice": "$103.800",
+        "precioPorSku js-PUM": "Gramo a $3.460,00"
+    },
+    "descripcion": "acuanova face emulsion",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS NOVADERMA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC06785-02CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

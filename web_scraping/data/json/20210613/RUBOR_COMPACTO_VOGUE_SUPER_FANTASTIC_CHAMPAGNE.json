@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rubor-compacto-vogue-super-fantastic-champagne-7702433292795/p",
+    "fecha_hora_scraping": "2021-06-14 06:38:35",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "RUBOR COMPACTO VOGUE SUPER FANTASTIC CHAMPAGNE",
+    "nombre_imagen": "./web_scraping/data/img/RUBOR_COMPACTO_VOGUE_SUPER_FANTASTIC_CHAMPAGNE.jpg",
+    "presentacion": "UNIDAD X 4 G",
+    "precio": {
+        "bestPrice": "$5.550",
+        "precioPorSku js-PUM": "Gramo a $1.387,50"
+    },
+    "descripcion": "rubor compacto vogue super fantastic champagne",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 4 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC39451-10CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

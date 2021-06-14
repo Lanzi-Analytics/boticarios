@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/fenilsone-1--crema-vaginal-la-francol-7706569001191/p",
+    "fecha_hora_scraping": "2021-06-14 05:37:23",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FENILSONE 1 % CREMA VAGINAL LA FRANCOL",
+    "nombre_imagen": "./web_scraping/data/img/FENILSONE_1__CREMA_VAGINAL_LA_FRANCOL.jpg",
+    "presentacion": "TUBO X 40 G",
+    "precio": {
+        "bestPrice": "$14.150",
+        "precioPorSku js-PUM": "Gramo a $353,75"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 40 G"
+        ],
+        [
+            "Concentracion",
+            "0.02 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLOTRIMAZOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-002376-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

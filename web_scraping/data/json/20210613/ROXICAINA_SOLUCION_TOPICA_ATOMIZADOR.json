@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/roxicaina-solucion-topica-atomizador-7704588000409/p",
+    "fecha_hora_scraping": "2021-06-14 00:11:14",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ROXICAINA SOLUCION TOPICA ATOMIZADOR",
+    "nombre_imagen": "./web_scraping/data/img/ROXICAINA_SOLUCION_TOPICA_ATOMIZADOR.jpg",
+    "presentacion": "FRASCO X 80 G",
+    "precio": {
+        "bestPrice": "$60.950",
+        "precioPorSku js-PUM": "Gramo a $761,88"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 80 G"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LIDOCAINA"
+        ],
+        [
+            "Laboratorio",
+            "ROPSOHN THERAPEUTICS SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-001801-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

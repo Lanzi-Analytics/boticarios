@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cicatricure-agua-micelar-trifasica-650240051463/p",
+    "fecha_hora_scraping": "2021-06-13 23:41:15",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CICATRICURE AGUA MICELAR TRIF\u00c1SICA 400 ML",
+    "nombre_imagen": "./web_scraping/data/img/CICATRICURE_AGUA_MICELAR_TRIF\u00c1SICA_400_ML.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$39.400",
+        "precioPorSku js-PUM": "Mililitro a $98,50"
+    },
+    "descripcion": "cicatricure agua micelar trif\u00e1sica",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC01189-20CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

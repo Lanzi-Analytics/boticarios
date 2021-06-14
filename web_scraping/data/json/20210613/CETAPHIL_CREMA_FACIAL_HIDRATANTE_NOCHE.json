@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cetaphil-crema-facial-hidratante-noche-3499320007979/p",
+    "fecha_hora_scraping": "2021-06-13 23:39:43",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CETAPHIL CREMA FACIAL HIDRATANTE NOCHE",
+    "nombre_imagen": "./web_scraping/data/img/CETAPHIL_CREMA_FACIAL_HIDRATANTE_NOCHE.jpg",
+    "presentacion": "POTE X 48 G",
+    "precio": {
+        "bestPrice": "$110.150",
+        "precioPorSku js-PUM": "Gramo a $2.294,79"
+    },
+    "descripcion": "cetaphil crema facial hidratante noche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 48 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GALDERMA DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC79781-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cepillo-dental-cars-gum/p",
+    "fecha_hora_scraping": "2021-06-14 01:27:31",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "cepillo dental cars gum ref4060 sut",
+    "nombre_imagen": "./web_scraping/data/img/cepillo_dental_cars_gum_ref4060_sut.jpg",
+    "presentacion": "",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a 13200,00"
+    },
+    "descripcion": "cepillo dental cars gum ref4060 sut",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            ""
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            ""
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

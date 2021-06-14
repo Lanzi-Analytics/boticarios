@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-facial-nivea-cellular-filler-4005801118851/p",
+    "fecha_hora_scraping": "2021-06-14 00:56:25",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "CREMA FACIAL NIVEA CELLULAR FILLER",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_FACIAL_NIVEA_CELLULAR_FILLER.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$66.850",
+        "precioPorSku js-PUM": "Mililitro a $1.337,00"
+    },
+    "descripcion": "nvisage cellular noche",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57053-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

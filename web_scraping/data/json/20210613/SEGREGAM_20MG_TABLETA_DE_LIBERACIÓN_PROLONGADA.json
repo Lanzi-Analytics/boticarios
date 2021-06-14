@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/segregam-20mg-tableta-de-liberacion-prolongada-7707204490820/p",
+    "fecha_hora_scraping": "2021-06-14 10:13:33",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SEGREGAM 20MG TABLETA DE LIBERACI\u00d3N PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/SEGREGAM_20MG_TABLETA_DE_LIBERACI\u00d3N_PROLONGADA.jpg",
+    "presentacion": "CAJA X 14 COM",
+    "precio": {
+        "bestPrice": "$115.350",
+        "precioPorSku js-PUM": "Comprimido a $8.239,29"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 14 COM"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "PANTOPRAZOL SODIO SESQUIHIDR"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0007913"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

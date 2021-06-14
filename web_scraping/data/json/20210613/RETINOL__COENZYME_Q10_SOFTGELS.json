@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/retinol--coenzyme-q10-softgels-665716201808/p",
+    "fecha_hora_scraping": "2021-06-14 03:00:11",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RETINOL & COENZYME Q10 SOFTGELS",
+    "nombre_imagen": "./web_scraping/data/img/RETINOL__COENZYME_Q10_SOFTGELS.jpg",
+    "presentacion": "FRASCO X 60 CAP",
+    "precio": {
+        "bestPrice": "$38.900",
+        "precioPorSku js-PUM": "Capsula a $648,33"
+    },
+    "descripcion": "retinol & coenzyme q10 softgels",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 60 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC61584-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

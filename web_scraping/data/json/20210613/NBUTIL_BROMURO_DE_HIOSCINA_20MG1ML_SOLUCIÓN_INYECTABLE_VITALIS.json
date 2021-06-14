@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/n-butil-bromuro-de-hioscina-20mg1ml-solucion-inyectable-vitalis-7709990045819/p",
+    "fecha_hora_scraping": "2021-06-13 23:34:18",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "N-BUTIL BROMURO DE HIOSCINA 20MG/1ML SOLUCI\u00d3N INYECTABLE VITALIS",
+    "nombre_imagen": "./web_scraping/data/img/NBUTIL_BROMURO_DE_HIOSCINA_20MG1ML_SOLUCI\u00d3N_INYECTABLE_VITALIS.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$4.500",
+        "precioPorSku js-PUM": "Mililitro a $4.500,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "20 MG"
+        ],
+        [
+            "Principio activo",
+            "HIOSCINA N-BUTIL BROMURO"
+        ],
+        [
+            "Laboratorio",
+            "VITALIS S A C I"
+        ],
+        [
+            "Registro Invima",
+            "2009M-011494-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-diarios-nosotras-normal-7702027044502/p",
+    "fecha_hora_scraping": "2021-06-14 05:36:01",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "protectores diarios nosotras normal",
+    "nombre_imagen": "./web_scraping/data/img/protectores_diarios_nosotras_normal.jpg",
+    "presentacion": "PAQUETE X 60 UN",
+    "precio": {
+        "bestPrice": "$10.600",
+        "precioPorSku js-PUM": "Unidad a $176,67"
+    },
+    "descripcion": "protect diario nosotras 60 und emp ind",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 60 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

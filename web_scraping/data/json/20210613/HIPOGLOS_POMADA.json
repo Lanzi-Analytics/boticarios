@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/hipoglos-pomada-77077127/p",
+    "fecha_hora_scraping": "2021-06-14 03:42:31",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "HIPOGLOS POMADA",
+    "nombre_imagen": "./web_scraping/data/img/HIPOGLOS_POMADA.jpg",
+    "presentacion": "POTE X 30 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $425,00"
+    },
+    "descripcion": "hipoglos pomada",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 30 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC34037-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

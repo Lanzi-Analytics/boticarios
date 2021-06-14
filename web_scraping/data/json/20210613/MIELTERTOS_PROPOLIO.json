@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mieltertos-propolio-7707232095615/p",
+    "fecha_hora_scraping": "2021-06-14 07:48:42",
+    "breadcumb": "colsubsidio|medicamentos|medicina alternativa|naturales",
+    "titulo": "MIELTERTOS PROPOLIO",
+    "nombre_imagen": "./web_scraping/data/img/MIELTERTOS_PROPOLIO.jpg",
+    "presentacion": "FRASCO X 350 G",
+    "precio": {
+        "bestPrice": "$19.300",
+        "precioPorSku js-PUM": "Gramo a $55,14"
+    },
+    "descripcion": "mieltertos propolio",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 350 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORAT NATURAL FRESHLY Y INFABO SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD16I75112"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

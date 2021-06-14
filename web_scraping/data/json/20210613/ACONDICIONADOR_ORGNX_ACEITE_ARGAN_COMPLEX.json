@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/acondicionador-orgnx-aceite-argan-complex-67545038899/p",
+    "fecha_hora_scraping": "2021-06-14 06:26:07",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "ACONDICIONADOR ORGNX ACEITE ARGAN COMPLEX",
+    "nombre_imagen": "./web_scraping/data/img/ACONDICIONADOR_ORGNX_ACEITE_ARGAN_COMPLEX.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$43.800",
+        "precioPorSku js-PUM": "Mililitro a $146,00"
+    },
+    "descripcion": "acondicionador orgnx aceite argan comple",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "CONTINENTAL EXPORT CORPORATION COLO"
+        ],
+        [
+            "Registro Invima",
+            "NSOC83404-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

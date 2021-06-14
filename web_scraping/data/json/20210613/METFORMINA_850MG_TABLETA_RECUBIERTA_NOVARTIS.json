@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7702635196983metformina-850mg-tableta-recubierta-novartismedicamentosformuladosnovartis-7702635196983/p",
+    "fecha_hora_scraping": "2021-06-13 23:49:42",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "METFORMINA 850MG TABLETA RECUBIERTA NOVARTIS",
+    "nombre_imagen": "./web_scraping/data/img/METFORMINA_850MG_TABLETA_RECUBIERTA_NOVARTIS.jpg",
+    "presentacion": "CAJA X 30 TAB",
+    "precio": {
+        "bestPrice": "$13.700",
+        "precioPorSku js-PUM": "Tableta a $456,67"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 TAB"
+        ],
+        [
+            "Concentracion",
+            "850 MG"
+        ],
+        [
+            "Principio activo",
+            "METFORMINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "NOVARTIS DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008505"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

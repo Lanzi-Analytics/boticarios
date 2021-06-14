@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-hidratante-powerade-ion-4-frutas-tropicales-7702535009987/p",
+    "fecha_hora_scraping": "2021-06-14 04:38:28",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "bebida hidratante powerade ion 4 frutas tropicales",
+    "nombre_imagen": "./web_scraping/data/img/bebida_hidratante_powerade_ion_4_frutas_tropicales.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "$1.950",
+        "precioPorSku js-PUM": "Mililitro a $3,90"
+    },
+    "descripcion": "bebida hidratante powerade ion 4 frutas tropicales",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "INDUSTRIA NACIONAL DE GASEOSAS SA"
+        ],
+        [
+            "Registro Invima",
+            "RSAD19I23405"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

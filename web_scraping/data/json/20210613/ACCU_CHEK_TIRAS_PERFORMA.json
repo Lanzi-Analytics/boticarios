@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/accu-chek-tiras-performa-4015630981977/p",
+    "fecha_hora_scraping": "2021-06-14 00:17:19",
+    "breadcumb": "colsubsidio|equipos de cuidado en casa|medici\u00f3n y diagn\u00f3stico",
+    "titulo": "ACCU CHEK TIRAS PERFORMA",
+    "nombre_imagen": "./web_scraping/data/img/ACCU_CHEK_TIRAS_PERFORMA.jpg",
+    "presentacion": "CAJA X 50 UN",
+    "precio": {
+        "PrevPrice": "Antes:$127.200",
+        "bestPrice": "$95.400",
+        "precioPorSku js-PUM": "Unidad a $1.908,00"
+    },
+    "descripcion": "accu chek tiras performa",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 50 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "INSUMOS TIRAS DE GLUCOMTERIA"
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS ROCHE SA"
+        ],
+        [
+            "Registro Invima",
+            "2011RD-0001938"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

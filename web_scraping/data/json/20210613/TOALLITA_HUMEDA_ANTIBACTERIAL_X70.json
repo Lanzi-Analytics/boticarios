@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/toallita-humeda-antibacterial-x70-7702026189556/p",
+    "fecha_hora_scraping": "2021-06-14 07:54:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "TOALLITA. HUMEDA. ANTIBACTERIAL X70",
+    "nombre_imagen": "./web_scraping/data/img/TOALLITA_HUMEDA_ANTIBACTERIAL_X70.jpg",
+    "presentacion": "PAQUETE X 70UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $121,43"
+    },
+    "descripcion": "TOALLITA. HUMEDA. ANTIBACTERIAL X70",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 70UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PRODUCTOS FAMILIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68065-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

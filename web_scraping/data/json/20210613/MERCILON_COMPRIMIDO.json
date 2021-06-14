@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mercilon-comprimido-7707213870057/p",
+    "fecha_hora_scraping": "2021-06-14 08:17:35",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "MERCILON COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/MERCILON_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 21 COM",
+    "precio": {
+        "bestPrice": "$8.000",
+        "precioPorSku js-PUM": "Comprimido a $380,95"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 21 COM"
+        ],
+        [
+            "Concentracion",
+            "0,15 MG 0,02 MG"
+        ],
+        [
+            "Principio activo",
+            "DESOGESTREL ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "MERCK SHARP & DOHME COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2016M-000401-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

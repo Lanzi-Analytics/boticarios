@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/mascarilla-arcilla-verde-beautytreats-8429979449528/p",
+    "fecha_hora_scraping": "2021-06-14 05:18:13",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "mascarilla arcilla verde beautytreats",
+    "nombre_imagen": "./web_scraping/data/img/mascarilla_arcilla_verde_beautytreats.jpg",
+    "presentacion": "SOBRE X 1 UN",
+    "precio": {
+        "bestPrice": "$26.650",
+        "precioPorSku js-PUM": "Unidad a $26.650,00"
+    },
+    "descripcion": "mascarilla arcilla verde beautytreats",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "SOBRE X 1 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC94537-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

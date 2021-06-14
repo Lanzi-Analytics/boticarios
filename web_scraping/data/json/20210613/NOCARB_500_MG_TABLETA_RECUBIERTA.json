@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nocarb-500-mg-tableta-recubierta-7702870072073/p",
+    "fecha_hora_scraping": "2021-06-14 10:34:58",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NOCARB 500 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/NOCARB_500_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 60 TAB",
+    "precio": {
+        "bestPrice": "$118.050",
+        "precioPorSku js-PUM": "Tableta a $1.967,50"
+    },
+    "descripcion": "este producto es un suplemento dietario no es un medicamento y no suple una alimentacion equilibrada.  mantengase fuera del alcance de los ni\u00f1os.  no exceder su consumo leer indicaciones y contraindicaciones si los s\u00edntomas persisten consultar a su m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2013-0002093"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

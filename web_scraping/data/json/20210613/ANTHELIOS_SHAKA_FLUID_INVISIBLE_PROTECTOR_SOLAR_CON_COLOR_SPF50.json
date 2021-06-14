@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-anthelios-shaka-fluido-con-color-spf50-30162457/p",
+    "fecha_hora_scraping": "2021-06-14 05:28:45",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "ANTHELIOS SHAKA FLUID INVISIBLE PROTECTOR SOLAR CON COLOR SPF50+",
+    "nombre_imagen": "./web_scraping/data/img/ANTHELIOS_SHAKA_FLUID_INVISIBLE_PROTECTOR_SOLAR_CON_COLOR_SPF50.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$103.400",
+        "precioPorSku js-PUM": "Mililitro a $2.068,00"
+    },
+    "descripcion": "protector solar anthelios shaka fluido c",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC90019-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

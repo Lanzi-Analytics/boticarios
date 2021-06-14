@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alactin-05-mg-tableta-7703153019587/p",
+    "fecha_hora_scraping": "2021-06-14 01:42:22",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALACTIN 0.5 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/ALACTIN_05_MG_TABLETA.jpg",
+    "presentacion": "CAJA X 4 TAB",
+    "precio": {
+        "bestPrice": "$30.150",
+        "precioPorSku js-PUM": "Tableta a $7.537,50"
+    },
+    "descripcion": "ALACTIN 0.5 MG TABLETA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "0,5 MG"
+        ],
+        [
+            "Principio activo",
+            "CABERGOLINA"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0006280-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

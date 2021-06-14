@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bexon-duo-400mg100mg-capsula-blanda-vaginal-7730979098540/p",
+    "fecha_hora_scraping": "2021-06-14 03:41:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "BEXON DUO 400MG/100MG C\u00c1PSULA BLANDA V\u00c1GINAL",
+    "nombre_imagen": "./web_scraping/data/img/BEXON_DUO_400MG100MG_C\u00c1PSULA_BLANDA_V\u00c1GINAL.jpg",
+    "presentacion": "CAJA X 5 CAP",
+    "precio": {
+        "bestPrice": "$79.400",
+        "precioPorSku js-PUM": "Capsula a $15.880,00"
+    },
+    "descripcion": "BEXON DUO 400MG/100MG C\u00c1PSULA BLANDA V\u00c1GINAL",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 CAP"
+        ],
+        [
+            "Concentracion",
+            "400 MG 100 MG"
+        ],
+        [
+            "Principio activo",
+            "KETOCONAZOL CLINDAMICINA FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOFARMA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "2009M-0009140"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

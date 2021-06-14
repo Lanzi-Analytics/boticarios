@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/alerxy-1-mgml-solucion-nasal-7702207700334/p",
+    "fecha_hora_scraping": "2021-06-14 01:38:50",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ALERXY 1 MG/ML SOLUCION NASAL",
+    "nombre_imagen": "./web_scraping/data/img/ALERXY_1_MGML_SOLUCION_NASAL.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$88.550",
+        "precioPorSku js-PUM": "Unidad a $88.550,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "AZELASTINA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0015887-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

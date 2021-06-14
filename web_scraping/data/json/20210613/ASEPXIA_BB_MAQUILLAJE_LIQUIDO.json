@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/650240032516genommarostrobellezaasepxia-bb-maquillaje-liquidoacnepuntos-negro-650240032516/p",
+    "fecha_hora_scraping": "2021-06-14 05:43:16",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "ASEPXIA BB MAQUILLAJE LIQUIDO",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_BB_MAQUILLAJE_LIQUIDO.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$30.750",
+        "precioPorSku js-PUM": "Mililitro a $1.025,00"
+    },
+    "descripcion": "asepxia bb maquillaje liquido",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77824-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

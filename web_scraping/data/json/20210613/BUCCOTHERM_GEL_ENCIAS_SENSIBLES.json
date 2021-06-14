@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/buccotherm-gel-encias-sensibles-7704232001929/p",
+    "fecha_hora_scraping": "2021-06-14 05:18:29",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "BUCCOTHERM GEL ENCIAS SENSIBLES",
+    "nombre_imagen": "./web_scraping/data/img/BUCCOTHERM_GEL_ENCIAS_SENSIBLES.jpg",
+    "presentacion": "FRASCO X 75 ML",
+    "precio": {
+        "bestPrice": "$37.550",
+        "precioPorSku js-PUM": "Mililitro a $500,67"
+    },
+    "descripcion": "buccotherm gel encias sensibles",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 75 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC82916-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

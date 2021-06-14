@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/650240004292genommacuidado-facialmedicamentosasepxia-jabon-forte-barraacnepuntos-negroterbinafina-clorhidrato-650240004292/p",
+    "fecha_hora_scraping": "2021-06-14 04:36:14",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "ASEPXIA JABON FORTE BARRA",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_JABON_FORTE_BARRA.jpg",
+    "presentacion": "BARRA X 100 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $7.800,00"
+    },
+    "descripcion": "asepxia jabon forte barra",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 100 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75160-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

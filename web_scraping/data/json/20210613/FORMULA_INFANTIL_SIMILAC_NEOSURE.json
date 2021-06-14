@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-similac-neosure-8427030003658/p",
+    "fecha_hora_scraping": "2021-06-14 02:40:56",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL SIMILAC NEOSURE",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_SIMILAC_NEOSURE.jpg",
+    "presentacion": "LATA X 370 G",
+    "precio": {
+        "bestPrice": "$45.450",
+        "precioPorSku js-PUM": "Gramo a $122,84"
+    },
+    "descripcion": "formula infantil similac neosure",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 370 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSIA03I8510"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

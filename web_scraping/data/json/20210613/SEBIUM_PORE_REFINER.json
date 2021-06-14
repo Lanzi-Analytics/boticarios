@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sebium-pore-refiner-3401361353625/p",
+    "fecha_hora_scraping": "2021-06-14 03:56:22",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SEBIUM PORE REFINER",
+    "nombre_imagen": "./web_scraping/data/img/SEBIUM_PORE_REFINER.jpg",
+    "presentacion": "TUBO X 30 ML",
+    "precio": {
+        "bestPrice": "$105.950",
+        "precioPorSku js-PUM": "Mililitro a $3.531,67"
+    },
+    "descripcion": "sebium pore refiner",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC36416-10C"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

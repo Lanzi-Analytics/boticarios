@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/desodorante-en-crema-rexona-clinical-women-79400052926/p",
+    "fecha_hora_scraping": "2021-06-14 02:40:00",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|desodorantes",
+    "titulo": "desodorante en crema rexona clinical women",
+    "nombre_imagen": "./web_scraping/data/img/desodorante_en_crema_rexona_clinical_women.jpg",
+    "presentacion": "UN X 48 G",
+    "precio": {
+        "bestPrice": "$19.750",
+        "precioPorSku js-PUM": "Gramo a $411,46"
+    },
+    "descripcion": "rexona fw deo soft solid classic12x48g",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UN X 48 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-NSC2008CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

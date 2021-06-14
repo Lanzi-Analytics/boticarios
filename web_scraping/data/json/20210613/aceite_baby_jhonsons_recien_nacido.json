@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/aceite-baby-jhonsons-recien-nacido-7891010581800/p",
+    "fecha_hora_scraping": "2021-06-14 07:06:34",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "aceite baby jhonson's recien nacido",
+    "nombre_imagen": "./web_scraping/data/img/aceite_baby_jhonsons_recien_nacido.jpg",
+    "presentacion": "BOTELLA X 100 ML",
+    "precio": {
+        "bestPrice": "$9.900",
+        "precioPorSku js-PUM": "Mililitro a $99,00"
+    },
+    "descripcion": "jbaby aceite\u00a0recien nacidox100ml bil",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 100 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

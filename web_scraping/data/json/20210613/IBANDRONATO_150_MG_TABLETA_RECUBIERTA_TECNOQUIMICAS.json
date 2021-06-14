@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/ibandronato-150-mg-tableta-recubierta-tecnoquimicas-7702057062200/p",
+    "fecha_hora_scraping": "2021-06-13 23:17:31",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "IBANDRONATO 150 MG TABLETA RECUBIERTA TECNOQUIMICAS",
+    "nombre_imagen": "./web_scraping/data/img/IBANDRONATO_150_MG_TABLETA_RECUBIERTA_TECNOQUIMICAS.jpg",
+    "presentacion": "CAJA X 1 TAB",
+    "precio": {
+        "bestPrice": "$64.650",
+        "precioPorSku js-PUM": "Tableta a $64.650,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1 TAB"
+        ],
+        [
+            "Concentracion",
+            "150 MG"
+        ],
+        [
+            "Principio activo",
+            "IBANDRONICO ACIDO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0014078-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

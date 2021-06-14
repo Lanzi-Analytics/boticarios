@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/goicoechea-arnic-manzana-crema-650240032356/p",
+    "fecha_hora_scraping": "2021-06-14 09:50:08",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado corporal/repelentes e insecticidas",
+    "titulo": "GOICOECHEA ARNICA MANZANILLA 400 ML",
+    "nombre_imagen": "./web_scraping/data/img/GOICOECHEA_ARNICA_MANZANILLA_400_ML.jpg",
+    "presentacion": "FRASCO X 400 ML",
+    "precio": {
+        "bestPrice": "$24.450",
+        "precioPorSku js-PUM": "Mililitro a $61,13"
+    },
+    "descripcion": "da sensaci\u00f3n de descanso incluso en zonas con moretones. adem\u00e1s proporciona una sensaci\u00f3n frescura y relajaci\u00f3n al instante.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 400 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC77183-17CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/sol-or-polvo-corrector-tono-medio-spf41-7704190000279/p",
+    "fecha_hora_scraping": "2021-06-14 10:13:17",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "SOLOR POLVO CORRECTOR TONO MEDIO SPF41+",
+    "nombre_imagen": "./web_scraping/data/img/SOLOR_POLVO_CORRECTOR_TONO_MEDIO_SPF41.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "PrevPrice": "Antes:$71.750",
+        "bestPrice": "$35.875",
+        "precioPorSku js-PUM": "Gramo a $35.875"
+    },
+    "descripcion": "sol-or polvo corrector tono medio spf41",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "QUIFARMA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC73454-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

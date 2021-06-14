@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-prevencion-estrias-mustela-3504105027179/p",
+    "fecha_hora_scraping": "2021-06-14 05:23:20",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "CREMA PREVENCION ESTRIAS MUSTELA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_PREVENCION_ESTRIAS_MUSTELA.jpg",
+    "presentacion": "TUBO X 150 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $594,33"
+    },
+    "descripcion": "crema prevencion estrias mustela",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 150 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BIOMANA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC68307-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

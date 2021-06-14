@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/zerodol-cr-200mg-tableta-de-liberacion-controlada-8901079006578/p",
+    "fecha_hora_scraping": "2021-06-14 08:59:46",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "ZERODOL-CR 200MG TABLETA DE LIBERACI\u00d3N CONTROLADA",
+    "nombre_imagen": "./web_scraping/data/img/ZERODOLCR_200MG_TABLETA_DE_LIBERACI\u00d3N_CONTROLADA.jpg",
+    "presentacion": "CAJA X 10 TAB",
+    "precio": {
+        "bestPrice": "$59.200",
+        "precioPorSku js-PUM": "Tableta a $5.920,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 10 TAB"
+        ],
+        [
+            "Concentracion",
+            "200 MG"
+        ],
+        [
+            "Principio activo",
+            "ACECLOFENACO"
+        ],
+        [
+            "Laboratorio",
+            "IPCA LABORATORIES LIMITATED SUCURSA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0015054"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

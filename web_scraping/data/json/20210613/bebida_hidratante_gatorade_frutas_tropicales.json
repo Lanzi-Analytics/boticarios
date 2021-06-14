@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bebida-hidratante-gatorade-frutas-tropicales-7702192422051/p",
+    "fecha_hora_scraping": "2021-06-14 01:21:07",
+    "breadcumb": "colsubsidio|alimentos y bebidas|bebidas",
+    "titulo": "bebida hidratante gatorade frutas tropicales",
+    "nombre_imagen": "./web_scraping/data/img/bebida_hidratante_gatorade_frutas_tropicales.jpg",
+    "presentacion": "BOTELLA X 500 ML",
+    "precio": {
+        "bestPrice": "$3.000",
+        "precioPorSku js-PUM": "Mililitro a $6,00"
+    },
+    "descripcion": "bebida hidratante gatorade frutas tropicales",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 500 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GASEOSAS LUX SAS"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

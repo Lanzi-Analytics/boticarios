@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/jabon-dove-blanco-original-7898422746759/p",
+    "fecha_hora_scraping": "2021-06-14 06:55:42",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|jabones y gel antibacterial",
+    "titulo": "JAB\u00d3N DOVE BLANCO ORIGINAL",
+    "nombre_imagen": "./web_scraping/data/img/JAB\u00d3N_DOVE_BLANCO_ORIGINAL.jpg",
+    "presentacion": "BOTELLA X 90 G",
+    "precio": {
+        "bestPrice": "$3.250",
+        "precioPorSku js-PUM": "Gramo a $36,11"
+    },
+    "descripcion": "jabon dove blanco",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "UNILEVER ANDINA COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA NSC2007CO22324"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

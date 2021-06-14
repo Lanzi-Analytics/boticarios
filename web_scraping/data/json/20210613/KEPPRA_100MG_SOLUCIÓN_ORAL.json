@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/keppra-100mg-solucion-oral-7707172689394/p",
+    "fecha_hora_scraping": "2021-06-14 00:12:24",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "KEPPRA 100MG SOLUCI\u00d3N ORAL",
+    "nombre_imagen": "./web_scraping/data/img/KEPPRA_100MG_SOLUCI\u00d3N_ORAL.jpg",
+    "presentacion": "FRASCO X 300 ML",
+    "precio": {
+        "bestPrice": "$103.000",
+        "precioPorSku js-PUM": "Mililitro a $343,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 300 ML"
+        ],
+        [
+            "Concentracion",
+            "100 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "LEVETIRACETAM"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0006885-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

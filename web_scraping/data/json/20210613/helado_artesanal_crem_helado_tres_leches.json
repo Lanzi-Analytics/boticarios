@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/helado-artesanal-crem-helado-tres-leches-7702402052412/p",
+    "fecha_hora_scraping": "2021-06-13 23:07:40",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "helado artesanal crem helado tres leches",
+    "nombre_imagen": "./web_scraping/data/img/helado_artesanal_crem_helado_tres_leches.jpg",
+    "presentacion": "UNIDAD X 70 G",
+    "precio": {
+        "bestPrice": "$1.750",
+        "precioPorSku js-PUM": "Gramo a $25,00"
+    },
+    "descripcion": "helado artesanal crem helado tres leches",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 70 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEALS DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD02140705"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

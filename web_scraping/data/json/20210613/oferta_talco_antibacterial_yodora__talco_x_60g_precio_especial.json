@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-talco-antibacterial-yodora--talco-x-60g-precio-especial-7702057081553/p",
+    "fecha_hora_scraping": "2021-06-13 23:45:47",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|aseo personal|cuidado para pies",
+    "titulo": "oferta talco antibacterial yodora + talco x 60g precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_talco_antibacterial_yodora__talco_x_60g_precio_especial.jpg",
+    "presentacion": "TARRO X 180 G",
+    "precio": {
+        "bestPrice": "$13.200",
+        "precioPorSku js-PUM": "Gramo a $73,33"
+    },
+    "descripcion": "oferta talco antibacterial yodora + talco x 60g precio especial",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TARRO X 180 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

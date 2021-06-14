@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/chapstick-labial-medicado-36600833311/p",
+    "fecha_hora_scraping": "2021-06-14 02:15:22",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CHAPSTICK LABIAL MEDICADO",
+    "nombre_imagen": "./web_scraping/data/img/CHAPSTICK_LABIAL_MEDICADO.jpg",
+    "presentacion": "BARRA X 4 G",
+    "precio": {
+        "bestPrice": "$13.300",
+        "precioPorSku js-PUM": "Gramo a $3.325,00"
+    },
+    "descripcion": "chapstick labial medicado",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BARRA X 4 G"
+        ],
+        [
+            "Concentracion",
+            "41.3 % (P/P) 1 % (P/P) 0.6 % (P/P)"
+        ],
+        [
+            "Principio activo",
+            "PETROLATO ALCANFOR FENOL MENTOL"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2008M-007458-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

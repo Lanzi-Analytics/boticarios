@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/similac-total-comfort-hmo-etapa--1-7703186032867/p",
+    "fecha_hora_scraping": "2021-06-14 01:15:43",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "SIMILAC TOTAL COMFORT HMO ETAPA  1",
+    "nombre_imagen": "./web_scraping/data/img/SIMILAC_TOTAL_COMFORT_HMO_ETAPA__1.jpg",
+    "presentacion": "CAJA X 1750 G",
+    "precio": {
+        "bestPrice": "$184.000",
+        "precioPorSku js-PUM": "Gramo a $105,14"
+    },
+    "descripcion": "similac total comfort hmo etapa  1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 1750 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003443-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

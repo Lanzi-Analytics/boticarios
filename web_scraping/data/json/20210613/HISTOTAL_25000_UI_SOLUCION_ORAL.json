@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/histotal-25000-ui-solucion-oral-7704232001899/p",
+    "fecha_hora_scraping": "2021-06-14 05:39:11",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "HISTOTAL 25.000 UI SOLUCION ORAL",
+    "nombre_imagen": "./web_scraping/data/img/HISTOTAL_25000_UI_SOLUCION_ORAL.jpg",
+    "presentacion": "CAJA X 4UN",
+    "precio": {
+        "bestPrice": "$55.650",
+        "precioPorSku js-PUM": "Mililitro a $13.912,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 4UN"
+        ],
+        [
+            "Concentracion",
+            "25000 UI"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "EUROETIKA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "2017M-0017880"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

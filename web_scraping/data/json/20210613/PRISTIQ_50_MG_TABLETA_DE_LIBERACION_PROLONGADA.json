@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pristiq-50-mg-tableta-de-liberacion-prolongada-7702338367406/p",
+    "fecha_hora_scraping": "2021-06-14 01:06:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PRISTIQ 50 MG TABLETA DE LIBERACION PROLONGADA",
+    "nombre_imagen": "./web_scraping/data/img/PRISTIQ_50_MG_TABLETA_DE_LIBERACION_PROLONGADA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$38.400",
+        "precioPorSku js-PUM": "Tableta a $1.371,43"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "50 MG"
+        ],
+        [
+            "Principio activo",
+            "DESVENLAFAXINA SUCCINATO"
+        ],
+        [
+            "Laboratorio",
+            "PFIZER SAS"
+        ],
+        [
+            "Registro Invima",
+            "2019M-0009528-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

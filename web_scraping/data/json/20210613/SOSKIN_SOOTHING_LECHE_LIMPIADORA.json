@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/soskin-soothing-leche-limpiadora-3760019120553/p",
+    "fecha_hora_scraping": "2021-06-14 06:15:22",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "SOSKIN SOOTHING LECHE LIMPIADORA",
+    "nombre_imagen": "./web_scraping/data/img/SOSKIN_SOOTHING_LECHE_LIMPIADORA.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$65.500",
+        "precioPorSku js-PUM": "Mililitro a $262,00"
+    },
+    "descripcion": "soskin soothing leche limpiadora",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC69192-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

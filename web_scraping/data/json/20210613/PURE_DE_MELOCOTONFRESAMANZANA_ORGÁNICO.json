@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pure-de-melocotonfresamanzana-organico-854688003644/p",
+    "fecha_hora_scraping": "2021-06-14 10:17:15",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|compotas y cerales",
+    "titulo": "PURE DE MELOCOTON+FRESA+MANZANA ORG\u00c1NICO",
+    "nombre_imagen": "./web_scraping/data/img/PURE_DE_MELOCOTONFRESAMANZANA_ORG\u00c1NICO.jpg",
+    "presentacion": "POTE X 90 G",
+    "precio": {
+        "bestPrice": "$3.800",
+        "precioPorSku js-PUM": "Gramo a $42,22"
+    },
+    "descripcion": "pure de melocoton+fresa+manzana org\u00e1nico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 90 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MAH! COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PSA-000447-2016"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

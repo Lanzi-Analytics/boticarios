@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protector-solar-umbrella-intelligent-emulsion-spf100-7703281001881/p",
+    "fecha_hora_scraping": "2021-06-14 10:26:32",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|protecci\u00f3n solar",
+    "titulo": "PROTECTOR SOLAR UMBRELLA INTELLIGENT EMULSION SPF100",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTOR_SOLAR_UMBRELLA_INTELLIGENT_EMULSION_SPF100.jpg",
+    "presentacion": "TUBO X 50 G",
+    "precio": {
+        "bestPrice": "$104.050",
+        "precioPorSku js-PUM": "Gramo a $2.081,00"
+    },
+    "descripcion": "protector solar umbrella intelligent emu",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "MEGALABS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC72089-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

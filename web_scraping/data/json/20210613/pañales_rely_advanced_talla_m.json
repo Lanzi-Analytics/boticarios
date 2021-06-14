@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/panales-rely-advanced-talla-m-7709400441309/p",
+    "fecha_hora_scraping": "2021-06-14 00:31:34",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|incontinencia",
+    "titulo": "pa\u00f1ales rely advanced talla m",
+    "nombre_imagen": "./web_scraping/data/img/pa\u00f1ales_rely_advanced_talla_m.jpg",
+    "presentacion": "PAQUETE X 20 UN",
+    "precio": {
+        "bestPrice": "$45.500",
+        "precioPorSku js-PUM": "Unidad a $2.275,00"
+    },
+    "descripcion": "panal rely advanced m 20x4",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 20 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PAPELES NACIONALES SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA04110-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

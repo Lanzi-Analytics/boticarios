@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bloqueador-solar-sundown-spf50-7702031312277/p",
+    "fecha_hora_scraping": "2021-06-14 01:24:10",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|protecci\u00f3n solar",
+    "titulo": "bloqueador solar sundown spf50+",
+    "nombre_imagen": "./web_scraping/data/img/bloqueador_solar_sundown_spf50.jpg",
+    "presentacion": "ENVASE X 120 ML",
+    "precio": {
+        "PrevPrice": "Antes:$39.000",
+        "bestPrice": "$31.200",
+        "precioPorSku js-PUM": "Mililitro a $260,00"
+    },
+    "descripcion": "bloqueador sundown 120 ml fps-50",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "ENVASE X 120 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "JOHNSON Y JOHNSON DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

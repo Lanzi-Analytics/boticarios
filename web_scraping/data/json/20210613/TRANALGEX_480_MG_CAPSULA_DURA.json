@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/tranalgex-480-mg-capsula-dura-7709990695052/p",
+    "fecha_hora_scraping": "2021-06-14 03:53:01",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "TRANALGEX 480 MG CAPSULA DURA",
+    "nombre_imagen": "./web_scraping/data/img/TRANALGEX_480_MG_CAPSULA_DURA.jpg",
+    "presentacion": "FRASCO X 30 CAP",
+    "precio": {
+        "bestPrice": "$94.450",
+        "precioPorSku js-PUM": "Capsula a $3.148,33"
+    },
+    "descripcion": "es un producto fitoterap\u00e9utico. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ADEXA PHARMA SAS"
+        ],
+        [
+            "Registro Invima",
+            "PFM2013-0002112"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

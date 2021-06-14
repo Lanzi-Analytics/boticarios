@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/complejo-b-capsula-4022679137548/p",
+    "fecha_hora_scraping": "2021-06-14 01:02:31",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "COMPLEJO-B CAPSULA",
+    "nombre_imagen": "./web_scraping/data/img/COMPLEJOB_CAPSULA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "PrevPrice": "Antes:$21.500",
+        "bestPrice": "$18.275",
+        "precioPorSku js-PUM": "Capsula a $609,17"
+    },
+    "descripcion": "complejo-b capsula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PHARMARIS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "SD2019-0004337"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

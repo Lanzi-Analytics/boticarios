@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallitas-humedas-onedone-lleve-240-precio-especial-7702425804548/p",
+    "fecha_hora_scraping": "2021-06-14 03:15:01",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "oferta toallitas h\u00famedas one&done lleve: 240 precio especial",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallitas_h\u00famedas_onedone_lleve_240_precio_especial.jpg",
+    "presentacion": "PAQUETE X 240 UN",
+    "precio": {
+        "bestPrice": "$23.200",
+        "precioPorSku js-PUM": "Unidad a $96,67"
+    },
+    "descripcion": "f-of toa hum one&done x240",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 240 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/caltrate-600--d-tableta-7702132010201/p",
+    "fecha_hora_scraping": "2021-06-14 08:22:25",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|vitaminas",
+    "titulo": "CALTRATE 600 + D TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/CALTRATE_600__D_TABLETA.jpg",
+    "presentacion": "CAJA X 60 TAB",
+    "precio": {
+        "bestPrice": "$51.900",
+        "precioPorSku js-PUM": "Tableta a $865,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 60 TAB"
+        ],
+        [
+            "Concentracion",
+            "600 MG 400 UI"
+        ],
+        [
+            "Principio activo",
+            "CALCIO CARBONATO VITAMINA D3"
+        ],
+        [
+            "Laboratorio",
+            "GLAXOSMITHKLINE CONSU HEALTHCARE CO"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0013771"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

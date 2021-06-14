@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/arawak-crema-antiedad--filtro-7707016400864/p",
+    "fecha_hora_scraping": "2021-06-14 07:17:26",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ARAWAK CREMA ANTIEDAD + FILTRO",
+    "nombre_imagen": "./web_scraping/data/img/ARAWAK_CREMA_ANTIEDAD__FILTRO.jpg",
+    "presentacion": "POTE X 50 G",
+    "precio": {
+        "bestPrice": "$32.300",
+        "precioPorSku js-PUM": "Gramo a $646,00"
+    },
+    "descripcion": "arawak crema antiedad + filtro",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 50 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO PRONABELL SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC16998-05CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

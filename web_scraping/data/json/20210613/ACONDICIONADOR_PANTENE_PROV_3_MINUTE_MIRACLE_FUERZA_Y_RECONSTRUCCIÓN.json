@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/7500435116718acondicionador-pantene-pro-v-3-minute-miracle-fuerza-y-reconstruccionhigiene-y-cuidado-personalcuidado-del-cabelloprocter--gamble-7500435116718/p",
+    "fecha_hora_scraping": "2021-06-14 05:06:41",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado del cabello",
+    "titulo": "ACONDICIONADOR PANTENE PRO-V 3 MINUTE MIRACLE FUERZA Y RECONSTRUCCI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/ACONDICIONADOR_PANTENE_PROV_3_MINUTE_MIRACLE_FUERZA_Y_RECONSTRUCCI\u00d3N.jpg",
+    "presentacion": "BOTELLA X 170 ML",
+    "precio": {
+        "PrevPrice": "Antes:$20.700",
+        "bestPrice": "$15.525",
+        "precioPorSku js-PUM": "Mililitro a $91,32"
+    },
+    "descripcion": "acondicionador pantene pro-v 3 minute miracle fuerza y reconstrucci\u00f3n",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BOTELLA X 170 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PROCTER & GAMBLE COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

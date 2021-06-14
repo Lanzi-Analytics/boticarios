@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-exfoliante-soskin-r--gentle-peeling-3760019120423/p",
+    "fecha_hora_scraping": "2021-06-13 23:27:41",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CREMA EXFOLIANTE SOSKIN R + GENTLE PEELING",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_EXFOLIANTE_SOSKIN_R__GENTLE_PEELING.jpg",
+    "presentacion": "TUBO X 60 ML",
+    "precio": {
+        "bestPrice": "$89.500",
+        "precioPorSku js-PUM": "Mililitro a $1.491,67"
+    },
+    "descripcion": "crema exfoliante soskin r + gentle peeli",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 60 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ZAFARCO COMERCIAL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC75958-16CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

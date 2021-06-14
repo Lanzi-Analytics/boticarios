@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/galvus-met-50mg850mg-comprimido-recubierto-con-pelicula-7612797174784/p",
+    "fecha_hora_scraping": "2021-06-14 08:53:16",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GALVUS MET 50MG/850MG COMPRIMIDO RECUBIERTO CON PEL\u00cdCULA",
+    "nombre_imagen": "./web_scraping/data/img/GALVUS_MET_50MG850MG_COMPRIMIDO_RECUBIERTO_CON_PEL\u00cdCULA.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$49.600",
+        "precioPorSku js-PUM": "Tableta a $1.771,43"
+    },
+    "descripcion": "GALVUS MET 50MG/850MG COMPRIMIDO RECUBIERTO CON PEL\u00cdCULA",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "850 MG 50 MG"
+        ],
+        [
+            "Principio activo",
+            "METFORMINA CLORHIDRATO VILDAGLIPTINA"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008822"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

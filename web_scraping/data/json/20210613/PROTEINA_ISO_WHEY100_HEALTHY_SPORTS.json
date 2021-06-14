@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/proteina-iso-whey100-healthy-sports-19962799464/p",
+    "fecha_hora_scraping": "2021-06-14 10:02:13",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|nutrici\u00f3n deportiva",
+    "titulo": "PROTEINA ISO WHEY100% HEALTHY SPORTS",
+    "nombre_imagen": "./web_scraping/data/img/PROTEINA_ISO_WHEY100_HEALTHY_SPORTS.jpg",
+    "presentacion": "FRASCO X 510 G",
+    "precio": {
+        "bestPrice": "$98.700",
+        "precioPorSku js-PUM": "Gramo a $193,53"
+    },
+    "descripcion": "proteina iso whey100% healthy sports",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 510 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "HEALTY AMERICA COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-000445-2015"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

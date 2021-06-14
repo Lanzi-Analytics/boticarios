@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/asepxia-toallas-limpiadoras-carbon-detox-7798140259428/p",
+    "fecha_hora_scraping": "2021-06-14 03:19:46",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "ASEPXIA TOALLITAS LIMPIADORAS CARB\u00d3N 25 UNID",
+    "nombre_imagen": "./web_scraping/data/img/ASEPXIA_TOALLITAS_LIMPIADORAS_CARB\u00d3N_25_UNID.jpg",
+    "presentacion": "PAQUETE X 25 UN",
+    "precio": {
+        "bestPrice": "$15.850",
+        "precioPorSku js-PUM": "Unidad a $634,00"
+    },
+    "descripcion": "ASEPXIA TOALLAS LIMPIADORAS CARB\u00d3N DETOX",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 25 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "GENOMMA LAB COLOMBIA LTDA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC93940-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/rv-ultra-hd-mousse-hyper-mattedegrees-1-309970060060/p",
+    "fecha_hora_scraping": "2021-06-14 08:42:31",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|labios",
+    "titulo": "RV ULTRA HD MOUSSE Hyper matte\u00a0Degrees 1",
+    "nombre_imagen": "./web_scraping/data/img/RV_ULTRA_HD_MOUSSE_Hyper_matteDegrees_1.jpg",
+    "presentacion": "TUBO X 6 ML",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a $7.050,85"
+    },
+    "descripcion": "rv ultra hd mousse hyper matte\u00a0degrees 1",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 6 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "PERCOS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC91360-19CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prowhey-polvo-renal-cronico-7709916592168/p",
+    "fecha_hora_scraping": "2021-06-14 08:21:45",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "prowhey polvo renal cronico",
+    "nombre_imagen": "./web_scraping/data/img/prowhey_polvo_renal_cronico.jpg",
+    "presentacion": "LATA X 900 G",
+    "precio": {
+        "bestPrice": "$198.000",
+        "precioPorSku js-PUM": "Gramo a $220,00"
+    },
+    "descripcion": "prowhey polvo renal cronico",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 900 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD03I3615"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

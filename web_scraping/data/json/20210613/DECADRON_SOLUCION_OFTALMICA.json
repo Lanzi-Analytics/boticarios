@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/decadron-solucion-oftalmica-7702057019921/p",
+    "fecha_hora_scraping": "2021-06-14 06:18:17",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "DECADRON SOLUCION OFTALMICA",
+    "nombre_imagen": "./web_scraping/data/img/DECADRON_SOLUCION_OFTALMICA.jpg",
+    "presentacion": "FRASCO X 5 ML",
+    "precio": {
+        "bestPrice": "$25.650",
+        "precioPorSku js-PUM": "Mililitro a $5.130,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 5 ML"
+        ],
+        [
+            "Concentracion",
+            "3.5 MG/ML 1 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "SULFATO NEOMICINA DEXAMETASONA SODIO FOSFATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2010M-14182R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

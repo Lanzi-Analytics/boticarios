@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/polvo-compacto-vogue-resist-natural-7509552827941/p",
+    "fecha_hora_scraping": "2021-06-14 09:07:29",
+    "breadcumb": "colsubsidio|belleza|cosm\u00e9ticos|rostro",
+    "titulo": "POLVO COMPACTO VOGUE RESIST NATURAL",
+    "nombre_imagen": "./web_scraping/data/img/POLVO_COMPACTO_VOGUE_RESIST_NATURAL.jpg",
+    "presentacion": "UNIDAD X 14 G",
+    "precio": {
+        "bestPrice": "$12.950",
+        "precioPorSku js-PUM": "Gramo a $925,00"
+    },
+    "descripcion": "polvo compacto vogue resist natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 14 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LOREAL COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC84699-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

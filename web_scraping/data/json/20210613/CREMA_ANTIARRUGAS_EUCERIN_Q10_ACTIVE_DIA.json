@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-antiarrugas-eucerin-q10-active-dia-4005808551460/p",
+    "fecha_hora_scraping": "2021-06-14 01:01:20",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "CREMA ANTIARRUGAS EUCERIN Q10 ACTIVE DIA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_ANTIARRUGAS_EUCERIN_Q10_ACTIVE_DIA.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$89.050",
+        "precioPorSku js-PUM": "Mililitro a $1.781,00"
+    },
+    "descripcion": "crema antiarrugas eucerin q10 active dia",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC43687-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

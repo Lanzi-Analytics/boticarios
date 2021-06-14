@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/spiriva-respimat-25mchg5mcg-solucion-para-inhalacion-4048846010711/p",
+    "fecha_hora_scraping": "2021-06-14 09:02:38",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "SPIRIVA RESPIMAT 2.5MCHG/5MCG SOLUCI\u00d3N PARA INHALACI\u00d3N",
+    "nombre_imagen": "./web_scraping/data/img/SPIRIVA_RESPIMAT_25MCHG5MCG_SOLUCI\u00d3N_PARA_INHALACI\u00d3N.jpg",
+    "presentacion": "UNIDAD",
+    "precio": {
+        "bestPrice": "$119.171",
+        "precioPorSku js-PUM": "Unidad a $119.171,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD"
+        ],
+        [
+            "Concentracion",
+            "5 \u00b5G/D"
+        ],
+        [
+            "Principio activo",
+            "TIOTROPIO BROMURO HIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "BOEHRINGER INGELHEIM SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0008294-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

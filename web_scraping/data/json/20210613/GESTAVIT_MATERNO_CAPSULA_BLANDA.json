@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gestavit-materno-capsula-blanda-7703153010645/p",
+    "fecha_hora_scraping": "2021-06-14 04:00:52",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado de la mam\u00e1",
+    "titulo": "GESTAVIT MATERNO CAPSULA BLANDA",
+    "nombre_imagen": "./web_scraping/data/img/GESTAVIT_MATERNO_CAPSULA_BLANDA.jpg",
+    "presentacion": "CAJA X 30 CAP",
+    "precio": {
+        "bestPrice": "$70.950",
+        "precioPorSku js-PUM": "Capsula a $2.365,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 30 CAP"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "PROCAPS SA"
+        ],
+        [
+            "Registro Invima",
+            "2014M-0002402-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

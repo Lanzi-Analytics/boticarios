@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clarax-enjuague-bucal-7703234100166/p",
+    "fecha_hora_scraping": "2021-06-14 02:18:34",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "CLARAX ENJUAGUE BUCAL",
+    "nombre_imagen": "./web_scraping/data/img/CLARAX_ENJUAGUE_BUCAL.jpg",
+    "presentacion": "FRASCO X 180 ML",
+    "precio": {
+        "bestPrice": "$27.050",
+        "precioPorSku js-PUM": "Mililitro a $150,28"
+    },
+    "descripcion": "clarax enjuague bucal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 180 ML"
+        ],
+        [
+            "Concentracion",
+            "2 MG/ML"
+        ],
+        [
+            "Principio activo",
+            "CLORHEXIDINA DIACETATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2009M-13561-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

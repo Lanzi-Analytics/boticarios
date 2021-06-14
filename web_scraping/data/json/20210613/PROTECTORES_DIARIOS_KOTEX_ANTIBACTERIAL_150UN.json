@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/protectores-diarios-kotex-antibacterial-150un-7702425807563/p",
+    "fecha_hora_scraping": "2021-06-14 03:53:40",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|protecci\u00f3n femenina|protectores",
+    "titulo": "PROTECTORES DIARIOS KOTEX ANTIBACTERIAL 150UN",
+    "nombre_imagen": "./web_scraping/data/img/PROTECTORES_DIARIOS_KOTEX_ANTIBACTERIAL_150UN.jpg",
+    "presentacion": "PAQUETE X 150 UN",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Unidad a $112,67"
+    },
+    "descripcion": "PROTECTORES DIARIOS KOTEX ANTIBACTERIAL 150UN",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 150 UN"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBIANA KIMBERLY COLPAPEL SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOA06583-18CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

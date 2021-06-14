@@ -1,0 +1,40 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-hipoglos-calendula-7707355051031/p",
+    "fecha_hora_scraping": "2021-06-14 08:57:44",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "CREMA HIPOGLOS CALENDULA",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_HIPOGLOS_CALENDULA.jpg",
+    "presentacion": "POTE X 60 G",
+    "precio": {
+        "PrevPrice": "Antes:$16.350",
+        "bestPrice": "$13.080",
+        "precioPorSku js-PUM": "Gramo a $218,00"
+    },
+    "descripcion": "crema hipoglos calendula",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 60 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIOS SIEGFRIED SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC34106-09CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

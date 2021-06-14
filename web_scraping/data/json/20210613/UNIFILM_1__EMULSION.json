@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/unifilm-1--emulsion-7707222420250/p",
+    "fecha_hora_scraping": "2021-06-14 00:59:09",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "UNIFILM 1 % EMULSION",
+    "nombre_imagen": "./web_scraping/data/img/UNIFILM_1__EMULSION.jpg",
+    "presentacion": "FRASCO X 120 ML",
+    "precio": {
+        "bestPrice": "$50.150",
+        "precioPorSku js-PUM": "Mililitro a $417,92"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 120 ML"
+        ],
+        [
+            "Concentracion",
+            "1 %"
+        ],
+        [
+            "Principio activo",
+            "HIDROCORTISONA"
+        ],
+        [
+            "Laboratorio",
+            "PHARMADERM SA"
+        ],
+        [
+            "Registro Invima",
+            "2015M-0016152"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

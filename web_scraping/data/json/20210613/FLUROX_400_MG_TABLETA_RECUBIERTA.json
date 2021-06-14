@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/flurox-400-mg-tableta-recubierta-7702057012380/p",
+    "fecha_hora_scraping": "2021-06-14 09:44:57",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "FLUROX 400 MG TABLETA RECUBIERTA",
+    "nombre_imagen": "./web_scraping/data/img/FLUROX_400_MG_TABLETA_RECUBIERTA.jpg",
+    "presentacion": "CAJA X 5 TAB",
+    "precio": {
+        "bestPrice": "$120.700",
+        "precioPorSku js-PUM": "Tableta a $24.140,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 5 TAB"
+        ],
+        [
+            "Concentracion",
+            "400 MG"
+        ],
+        [
+            "Principio activo",
+            "MOXIFLOXACINO CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2020M-0014849-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

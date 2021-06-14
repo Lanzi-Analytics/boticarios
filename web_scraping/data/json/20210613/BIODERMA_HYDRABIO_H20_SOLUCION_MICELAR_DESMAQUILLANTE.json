@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/bioderma-hydrabio-h20-solucion-micelar-desmaquillante-3401399694127/p",
+    "fecha_hora_scraping": "2021-06-14 03:37:20",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "BIODERMA HYDRABIO H20 SOLUCION MICELAR DESMAQUILLANTE",
+    "nombre_imagen": "./web_scraping/data/img/BIODERMA_HYDRABIO_H20_SOLUCION_MICELAR_DESMAQUILLANTE.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$78.850",
+        "precioPorSku js-PUM": "Mililitro a $315,40"
+    },
+    "descripcion": "bioderma hydrabio h20 solucion micelar d",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NAOS COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63961-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

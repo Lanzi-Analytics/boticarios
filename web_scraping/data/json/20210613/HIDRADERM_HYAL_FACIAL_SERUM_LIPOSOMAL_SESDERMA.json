@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/8429979417244hidraderm-hyal-facial-serum-liposomal-sesdermabellezadermocosmetica-8429979417244/p",
+    "fecha_hora_scraping": "2021-06-14 01:45:47",
+    "breadcumb": "colsubsidio|belleza|dermocosm\u00e9tica",
+    "titulo": "HIDRADERM HYAL FACIAL SERUM LIPOSOMAL SESDERMA",
+    "nombre_imagen": "./web_scraping/data/img/HIDRADERM_HYAL_FACIAL_SERUM_LIPOSOMAL_SESDERMA.jpg",
+    "presentacion": "FRASCO X 30 ML",
+    "precio": {
+        "bestPrice": "$159.400",
+        "precioPorSku js-PUM": "Mililitro a $5.313,33"
+    },
+    "descripcion": "",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 30 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SESDERMA COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC65571-15CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

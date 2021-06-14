@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/prowhey-plus-natural-7709729471766/p",
+    "fecha_hora_scraping": "2021-06-14 09:00:08",
+    "breadcumb": "colsubsidio|nutricion y vida saludable|suplementos",
+    "titulo": "prowhey plus natural",
+    "nombre_imagen": "./web_scraping/data/img/prowhey_plus_natural.jpg",
+    "presentacion": "LATA X 275 G",
+    "precio": {
+        "bestPrice": "$108.000",
+        "precioPorSku js-PUM": "Gramo a $392,73"
+    },
+    "descripcion": "prowhey plus natural",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 275 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            "MULTICOMPONENTES"
+        ],
+        [
+            "Laboratorio",
+            "BOYDORR SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSAD19I41212"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

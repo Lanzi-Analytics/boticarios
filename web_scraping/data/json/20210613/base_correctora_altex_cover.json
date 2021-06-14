@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/base-correctora-altex-cover-7702057100100/p",
+    "fecha_hora_scraping": "2021-06-14 00:48:18",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "base correctora altex cover",
+    "nombre_imagen": "./web_scraping/data/img/base_correctora_altex_cover.jpg",
+    "presentacion": "TUBO X 15 G",
+    "precio": {
+        "bestPrice": "$24.000",
+        "precioPorSku js-PUM": "Gramo a $1.600,00"
+    },
+    "descripcion": "altex cover tubo x 15 gr",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 15 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "NSC2005CO15714"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

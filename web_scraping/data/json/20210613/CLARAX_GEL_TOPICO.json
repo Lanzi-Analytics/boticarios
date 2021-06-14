@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/clarax-gel-topico-7703234102771/p",
+    "fecha_hora_scraping": "2021-06-14 00:05:28",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|especializados",
+    "titulo": "CLARAX GEL TOPICO",
+    "nombre_imagen": "./web_scraping/data/img/CLARAX_GEL_TOPICO.jpg",
+    "presentacion": "TUBO X 30 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $623,33"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los sintomas persisten, consultar al m\u00e9dico.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "TUBO X 30 G"
+        ],
+        [
+            "Concentracion",
+            "2 MG/G"
+        ],
+        [
+            "Principio activo",
+            "CLORHEXIDINA GLUCONATO"
+        ],
+        [
+            "Laboratorio",
+            "BIOCHEM FARMACEUTICA DE COL. S.A"
+        ],
+        [
+            "Registro Invima",
+            "2008M-0008832"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

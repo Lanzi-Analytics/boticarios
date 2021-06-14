@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-collagen-elastin-665716220076/p",
+    "fecha_hora_scraping": "2021-06-13 23:14:53",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "CREMA COLLAGEN ELASTIN",
+    "nombre_imagen": "./web_scraping/data/img/CREMA_COLLAGEN_ELASTIN.jpg",
+    "presentacion": "POTE X 224 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $178,13"
+    },
+    "descripcion": "crema collagen elastin",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "POTE X 224 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "NO-SWEAT DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC63144-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

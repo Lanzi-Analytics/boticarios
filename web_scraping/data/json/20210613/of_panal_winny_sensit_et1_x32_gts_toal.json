@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/of-panal-winny-sensit-et1-x32-gts-toal-7701021143280/p",
+    "fecha_hora_scraping": "2021-06-14 04:07:53",
+    "breadcumb": "colsubsidio|mamas y bebes|cuidado del bebe",
+    "titulo": "of panal winny sensit et1 x32 gts toal",
+    "nombre_imagen": "./web_scraping/data/img/of_panal_winny_sensit_et1_x32_gts_toal.jpg",
+    "presentacion": "PAQUETE X 32 UN",
+    "precio": {
+        "bestPrice": "$20.050",
+        "precioPorSku js-PUM": "Unidad a $626,56"
+    },
+    "descripcion": "of panal winny sensit et1 x32 gts toal",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 32 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "INVIMA-2006V-001730R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

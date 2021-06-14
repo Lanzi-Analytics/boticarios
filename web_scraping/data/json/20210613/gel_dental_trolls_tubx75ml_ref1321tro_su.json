@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gel-dental-trolls-/p",
+    "fecha_hora_scraping": "2021-06-14 01:02:26",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado oral|cepillos dentales",
+    "titulo": "gel dental trolls tubx75ml ref1321tro su",
+    "nombre_imagen": "./web_scraping/data/img/gel_dental_trolls_tubx75ml_ref1321tro_su.jpg",
+    "presentacion": "",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Mililitro a 98,67"
+    },
+    "descripcion": "gel dental trolls tubx75ml ref1321tro su",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            ""
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            ""
+        ],
+        [
+            "Registro Invima",
+            ""
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

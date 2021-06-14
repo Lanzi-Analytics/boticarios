@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/oferta-toallitas-faciales-colsubsidio-pague-30und-lleve-40und-7701009131148/p",
+    "fecha_hora_scraping": "2021-06-14 08:25:17",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "oferta toallitas faciales colsubsidio pague: 30und lleve: 40und",
+    "nombre_imagen": "./web_scraping/data/img/oferta_toallitas_faciales_colsubsidio_pague_30und_lleve_40und.jpg",
+    "presentacion": "PAQUETE X 40 UN",
+    "precio": {
+        "bestPrice": "$6.400",
+        "precioPorSku js-PUM": "Unidad a $213,33"
+    },
+    "descripcion": "toallita facial ccolsub pague 30 llev",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "PAQUETE X 40 UN"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "TROPICAL DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC41301-11CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

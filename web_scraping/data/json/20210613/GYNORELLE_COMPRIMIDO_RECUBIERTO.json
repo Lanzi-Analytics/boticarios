@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/gynorelle-comprimido-recubierto-7702207312520/p",
+    "fecha_hora_scraping": "2021-06-14 07:17:43",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "GYNORELLE COMPRIMIDO RECUBIERTO",
+    "nombre_imagen": "./web_scraping/data/img/GYNORELLE_COMPRIMIDO_RECUBIERTO.jpg",
+    "presentacion": "CAJA X 28 COM",
+    "precio": {
+        "bestPrice": "$23.300",
+        "precioPorSku js-PUM": "Comprimido a $832,14"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 COM"
+        ],
+        [
+            "Concentracion",
+            "2 MG 0.02 MG"
+        ],
+        [
+            "Principio activo",
+            "CLORMADINONA ACETATO ETINILESTRADIOL"
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0012710-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

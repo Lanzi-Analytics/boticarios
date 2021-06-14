@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/renacell-premium-piel-madura-7702870100639/p",
+    "fecha_hora_scraping": "2021-06-14 08:19:23",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado facial",
+    "titulo": "RENACELL PREMIUM PIEL MADURA",
+    "nombre_imagen": "./web_scraping/data/img/RENACELL_PREMIUM_PIEL_MADURA.jpg",
+    "presentacion": "FRASCO X 45 G",
+    "precio": {
+        "bestPrice": "$44.950",
+        "precioPorSku js-PUM": "Gramo a $998,89"
+    },
+    "descripcion": "renacell premium piel madura",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 45 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "LABORATORIO FRANCO COLOMBIANO SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC54954-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

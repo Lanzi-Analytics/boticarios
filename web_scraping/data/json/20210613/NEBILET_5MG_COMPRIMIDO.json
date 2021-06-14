@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/nebilet-5mg-comprimido-7708548830129/p",
+    "fecha_hora_scraping": "2021-06-14 03:53:07",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "NEBILET 5MG COMPRIMIDO",
+    "nombre_imagen": "./web_scraping/data/img/NEBILET_5MG_COMPRIMIDO.jpg",
+    "presentacion": "CAJA X 28 TAB",
+    "precio": {
+        "bestPrice": "$49.700",
+        "precioPorSku js-PUM": "Tableta a $1.775,00"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "CAJA X 28 TAB"
+        ],
+        [
+            "Concentracion",
+            "5 MG"
+        ],
+        [
+            "Principio activo",
+            "NEBIVOLOL CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "A MENARINI LATIN AMERICA S L U SUCU"
+        ],
+        [
+            "Registro Invima",
+            "2012M-0001124-R1"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

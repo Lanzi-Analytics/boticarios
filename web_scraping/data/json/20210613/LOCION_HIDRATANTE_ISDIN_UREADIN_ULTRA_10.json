@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/locion-hidratante-isdin-ureadin-ultra-10-8429420123342/p",
+    "fecha_hora_scraping": "2021-06-14 02:35:50",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado corporal",
+    "titulo": "LOCION HIDRATANTE ISDIN UREADIN ULTRA 10",
+    "nombre_imagen": "./web_scraping/data/img/LOCION_HIDRATANTE_ISDIN_UREADIN_ULTRA_10.jpg",
+    "presentacion": "FRASCO X 200 ML",
+    "precio": {
+        "bestPrice": "$92.850",
+        "precioPorSku js-PUM": "Mililitro a $464,25"
+    },
+    "descripcion": "locion hidratante isdin ureadin ultra 10",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 200 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ISDIN COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "NSOC52528-13CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

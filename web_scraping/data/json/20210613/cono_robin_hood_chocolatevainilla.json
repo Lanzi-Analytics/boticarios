@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/cono-robin-hood-chocolate-vainilla-7702011091796/p",
+    "fecha_hora_scraping": "2021-06-14 04:26:04",
+    "breadcumb": "colsubsidio|alimentos y bebidas|l\u00e1cteos",
+    "titulo": "cono robin hood chocolate-vainilla",
+    "nombre_imagen": "./web_scraping/data/img/cono_robin_hood_chocolatevainilla.jpg",
+    "presentacion": "UNIDAD X 90 G",
+    "precio": {
+        "bestPrice": "$2.000",
+        "precioPorSku js-PUM": "Gramo a $22,22"
+    },
+    "descripcion": "cono robin hood chocolate-vainilla",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "UNIDAD X 90 G"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "COLOMBINA SA"
+        ],
+        [
+            "Registro Invima",
+            "RSIAD02M27193"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/formula-infantil-similac-total-comfort-etapa-2-8427030006321/p",
+    "fecha_hora_scraping": "2021-06-14 02:49:36",
+    "breadcumb": "colsubsidio|mamas y bebes|alimentaci\u00f3n|formulas infantiles",
+    "titulo": "FORMULA INFANTIL SIMILAC TOTAL COMFORT ETAPA 2",
+    "nombre_imagen": "./web_scraping/data/img/FORMULA_INFANTIL_SIMILAC_TOTAL_COMFORT_ETAPA_2.jpg",
+    "presentacion": "LATA X 360 G",
+    "precio": {
+        "bestPrice": "",
+        "precioPorSku js-PUM": "Gramo a $127,92"
+    },
+    "descripcion": "formula infantil similac total comfort e",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "LATA X 360 G"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "ABBOTT LABORATORIES DE COLOMBIA SAS"
+        ],
+        [
+            "Registro Invima",
+            "RSA-003554-2017"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

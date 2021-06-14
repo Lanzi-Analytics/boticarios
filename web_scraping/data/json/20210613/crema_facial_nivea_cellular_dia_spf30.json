@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/crema-facial-nivea-cellular-dia-spf30-4005801118844/p",
+    "fecha_hora_scraping": "2021-06-14 01:51:53",
+    "breadcumb": "colsubsidio|higiene y cuidado personal|cuidado de la piel|cuidado facial",
+    "titulo": "crema facial nivea cellular dia spf30+",
+    "nombre_imagen": "./web_scraping/data/img/crema_facial_nivea_cellular_dia_spf30.jpg",
+    "presentacion": "FRASCO X 50 ML",
+    "precio": {
+        "bestPrice": "$62.000",
+        "precioPorSku js-PUM": "Mililitro a $1.240,00"
+    },
+    "descripcion": "nvisage cellular dia fps30",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 50 ML"
+        ],
+        [
+            "Concentracion",
+            ""
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "BEIERSDORF SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC57548-14CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

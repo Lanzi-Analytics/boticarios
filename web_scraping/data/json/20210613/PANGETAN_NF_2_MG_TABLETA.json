@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/pangetan-nf-2-mg-tableta-7702057017361/p",
+    "fecha_hora_scraping": "2021-06-14 07:11:06",
+    "breadcumb": "colsubsidio|medicamentos|formulados",
+    "titulo": "PANGETAN NF 2 MG TABLETA",
+    "nombre_imagen": "./web_scraping/data/img/PANGETAN_NF_2_MG_TABLETA.jpg",
+    "presentacion": "BLISTER X 4 TAB",
+    "precio": {
+        "bestPrice": "$6.170",
+        "precioPorSku js-PUM": "Tableta a $1.542,50"
+    },
+    "descripcion": "este producto es un medicamento. no exceder su consumo. leer indicaciones y contraindicaciones. si los s\u00edntomas persisten, consultar al m\u00e9dico. venta bajo f\u00f3rmula m\u00e9dica.",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "BLISTER X 4 TAB"
+        ],
+        [
+            "Concentracion",
+            "2 MG"
+        ],
+        [
+            "Principio activo",
+            "LOPERAMIDA CLORHIDRATO"
+        ],
+        [
+            "Laboratorio",
+            "TECNOQUIMICAS SA"
+        ],
+        [
+            "Registro Invima",
+            "2018M-0000660-R2"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}

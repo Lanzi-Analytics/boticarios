@@ -1,0 +1,39 @@
+{
+    "url_producto": "https://www.drogueriascolsubsidio.com/deltacrin-shampoo-8030082000072/p",
+    "fecha_hora_scraping": "2021-06-14 04:59:22",
+    "breadcumb": "colsubsidio|medicamentos|dermatol\u00f3gicos|cuidado capilar",
+    "titulo": "DELTACRIN SHAMPOO",
+    "nombre_imagen": "./web_scraping/data/img/DELTACRIN_SHAMPOO.jpg",
+    "presentacion": "FRASCO X 250 ML",
+    "precio": {
+        "bestPrice": "$69.200",
+        "precioPorSku js-PUM": "Mililitro a $276,80"
+    },
+    "descripcion": "deltacrin shampoo",
+    "atributos": [
+        [
+            "Presentaci\u00f3n",
+            "FRASCO X 250 ML"
+        ],
+        [
+            "Concentracion",
+            "N/A N/A"
+        ],
+        [
+            "Principio activo",
+            ""
+        ],
+        [
+            "Laboratorio",
+            "SUIPHAR DE COLOMBIA SA"
+        ],
+        [
+            "Registro Invima",
+            "NSOC25558-07CO"
+        ],
+        [
+            "Color",
+            ""
+        ]
+    ]
+}
